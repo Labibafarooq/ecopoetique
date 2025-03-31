@@ -1,93 +1,45 @@
-# ecopoetique
+# Écopoétique
+
+
+## Corpus
+
+Le répertoire **CORPUS_TOTAL** contient l'ensemble du corpus au format txt. Ces fichiers sont issus de la conversion de fichiers epub ou pdf ou de la numérisation à partir d'une version papier du livre. La plupart des fichiers ont été post-traités pour faire figurer une phrase par ligne. Les éléments annexes au texte (sommaire, 4ème de couverture, etc) ont dans la mesure du possible été supprimés. Quelques rares textes contiennent de nombreux problèmes d'OCR (mauvaise accentuation, bout de phrases mélangés).
+
+Le répertoire **TOKENS** contient l'analyse des tokens du chaque texte par Spacy. Ces fichiers sont constitués de trois colonnes indiquant le token, sa catégorie grammaticale et son lemme.
+
+Le fichier **corpus_DigEco.csv** contient les métadonnées du corpus. Les décomptes de tokens, formes fléchies et lemmes sont basées sur les analyses Spacy. Note : le séparateur de colonne est la tabulation.
+
+
+## Lexiques
+
+3 type de lexiques ont permis l'extraction des entités liées à la biodiversité dans le corpus :
+- un lexique constitué à partir d'un dump de **[Wikispecies](https://species.wikimedia.org/wiki/Accueil)** pour les êtres vivants
+- le référentiel **[TaxRef](https://inpn.mnhn.fr/programme/documentation/referentiels-especes-taxref)**, qui liste l'intégralité des espèces vivantes présentes sur le territoire français (métropole et Outre-Mer)
+- le thésaurus **[Loterre](https://loterre.istex.fr/fr/)**, qui contient une liste de termes liés au changement climatique et à l'anthropocène
+
+Le lexique Wikispecies et les noms vernaculaires issus de Taxref ont été fusionnés pour créer des listes le plus exhaustives possibles pour les règnes du vivant Animalia (animaux), Fungi (champignons) et Plantae (plantes).
+
+
+## Scripts
+
+Les extractions des entités du corpus à partir des listes sont faites avec la commande bash `grep`, de façon à extraire également le contexte phrastique de chaque occurrence.
+
+Deux pipelines ont été mises en place pour effectuer l'ensemble des opérations d'extraction, de filtrage et de traitement des données en une seule commande : `pipeline_animaux.sh` et `pipeline_plantes.sh`.
+
+Ces scripts font appel aux scripts Python suivants :
+- `grep_contexte.py` permet d'extraire le contexte phrastique des occurrences identifiées dans chaque fichier et de les écrire dans un fichier CSV avec l'entité correspondante.
+- `remove_duplicates.py` supprime les doublons qui se crée lorsqu'une entité apparaît seule ou avec un qualificatif dans le lexique (exemple : "dorade" et dorade rose")
+- `truncate_sentence.py` contient une fonction utilitaire pour réduire le contexte phrastique autour de l'occurrence de l'entité à un nombre de mots passé en paramètre
+- `filter_*.py` contient des règles manuellement définies pour supprimer des occurrences non pertinentes (par exemple *if* en anglais alors qu'on cherche la plante « if »)
+- `assign_category.py` permet d'assigner leur catégorie (mammifère, oiseau, etc.) aux entités animales
+- `lemmatize.py` permet de retrouver le lemme des entités extraites. Ce script fait appel au lemmatiseur du français [LEFFF](https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer) à installer avant utilisation de la pipeline
 
 
 
-## Getting started
+## Résultat des extractions
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Le répertoire resultats contient l'état actuel de l'extraction/filtrage des différentes entités. Les fichiers `hapax_*.csv` correspondent à des entités très ambiguës que nous avons extraites manuellement avant de les éliminer des listes taxref/wiki. Elles ont été rajoutées manuellement à l'état courant des résultats.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
-## Add your files
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/rumiwarmi/ecopoetique.git
-git branch -M main
-git push -uf origin main
-```
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://gitlab.com/rumiwarmi/ecopoetique/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
