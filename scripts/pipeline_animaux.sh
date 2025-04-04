@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PATH_LEXICON="../lexiques/ANIMAUX.txt"
-OUTPUT_DIR="../results/$(date +%F)_animaux"
+OUTPUT_DIR="../resultats/$(date +%F)_animaux"
 
 #ls "../CORPUS_TOTAL/" > "../liste_fichiers.txt"
 
@@ -25,6 +25,9 @@ cat "$OUTPUT_DIR/occurrences.txt" | sort | uniq -ci | sort -rn > "$OUTPUT_DIR/nb
 echo "Décompte des occurrences..."
 
 while read -r filename; do echo "$filename" >> "$OUTPUT_DIR/nb_uniq_par_texte.txt"; grep -c "$filename" "$OUTPUT_DIR/nb_occurrences_par_texte.txt" >> "$OUTPUT_DIR/nb_uniq_par_texte.txt"; done < ../liste_fichiers.txt
+
+echo "Construction de la table de résultats..."
+python build_table.py $OUTPUT_DIR
 
 echo "Extraction du contexte des occurrences..."
 python grep_contexte.py "$OUTPUT_DIR/corpus_analyse_$(date +%F).csv" "$OUTPUT_DIR/contexte.csv"
