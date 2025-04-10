@@ -616,7 +616,6 @@ causes humaines
 CCNUCC
 ceinture verte
 centre d'endémisme
-cerrado
 cétacés victimes de collision
 chaîne alimentaire
 chaîne trophique
@@ -1009,7 +1008,6 @@ désextinction
 désoxygénation de l'océan
 désoxygénation des océans
 désoxygénation océanique
-des sols
 destruction de la biodiversité
 destruction des habitats
 destruction des milieux naturels
@@ -1782,9 +1780,7 @@ flore microbienne
 flore planctonique
 flore sauvage
 fluctuations des populations
-fluvial
-fluviale
-fluviaux
+côte fluviale
 flux biogéochimique
 flux de carbone
 flux de gènes
@@ -2286,8 +2282,16 @@ lande mésophile
 lande sèche
 lande xérophile
 larmes de sirène
-latitude
+latitude nord
+latitude sud
+latitude est
+latitude ouest
+latitude 0
 latitude boréale
+longitude nord
+longitude sud
+longitude ouest
+longitude est
 laurisylve
 législation de l'environnement
 législation environnementale
@@ -2730,7 +2734,6 @@ oligotrophie
 oligotrophique
 oligotrophisation
 oligotrophisme
-ombrage
 ombrière
 omnivores
 omnivorie
@@ -3251,7 +3254,6 @@ problèmes environnementaux
 procaryote
 processus écologique
 processus écosystémique
-processus naturel
 proche banlieue
 producteur agricole
 producteur primaire
@@ -3296,7 +3298,9 @@ produits de protection des plantes
 produits de transformation
 produits phytopharmaceutiques de biocontrôle
 produits phytos
-profondeur
+profondeurs marines
+profondeurs océaniques
+profondeurs terrestres
 programme agri-environnemental
 programme agrienvironnemental
 programme LIFE
@@ -3424,7 +3428,7 @@ réensauvagement
 reforestation
 refroidissement climatique
 refroidissement du climat
-refuge
+refuge de montagne
 refuge biologique
 régénération forestière naturelle
 régénération naturelle forêt
@@ -4052,8 +4056,6 @@ technologie verte
 technosphère
 télédétection
 télétoxie
-température
-température corporelle
 Terra Forma
 terraformation
 terre boisée
@@ -4088,7 +4090,6 @@ trachéophytes
 trait bioécologique
 trait comportemental
 trait de côte
-trait de vie
 trait d'histoire de vie
 traité international sur l'environnement
 traitement phytosanitaire
@@ -4107,14 +4108,8 @@ trame bleue et verte
 trame bruit
 trame écologique
 trame nocturne
-trame noire
-Trame noire
-trames noires
-trame sombre
-trame sonore
 trame verte
 trame verte et bleue
-Trame verte et bleue
 transfert à des fins de conservation
 transfert aux fins de la sauvegarde
 transfert de gène
