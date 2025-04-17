@@ -27,7 +27,9 @@ filtre_1 = df[
 	((df['token_lexique'] == 'bœuf') & (df['contexte'].str.contains("œil-de-bœuf"))) |
 	((df['token_lexique'] == 'élan') & (df['contexte'].str.contains("dans son élan"))) |
 	((df['token_lexique'] == 'élan') & (df['contexte'].str.contains("dans un élan"))) |
-	((df['token_lexique'] == 'élan') & (df['contexte'].str.contains("prendre de l’élan")))
+	((df['token_lexique'] == 'élan') & (df['contexte'].str.contains("prendre de l’élan"))) |
+	((df['token_lexique'] == 'pies') & (df['contexte'].str.contains("queue-de-pies"))) |
+	((df['token_lexique'] == 'carpe') & (df['contexte'].str.contains("carpe diem")))
 ]
 
 
@@ -37,7 +39,8 @@ filtre_2 = df[
 	((df['fichier'] == 'Kaddour-Hedi_Waltenberg.txt') & (df['token_lexique'] == 'taupe')) |
 	((df['fichier'] == 'Donner-Christophe_Un-roi-sans-lendemain.txt') & (df['token_lexique'] == 'dauphin')) |
 	((df['fichier'] == 'Lobe-Max_Confidences.txt') & (df['token_lexique'] == 'barbue')) |
-	((df['fichier'] == 'April-Jean-Philippe_Les-ensauvagés.txt') & (df['token_lexique'] == 'capucin'))
+	((df['fichier'] == 'April-Jean-Philippe_Les-ensauvagés.txt') & (df['token_lexique'] == 'capucin')) |
+	((df['fichier'] == 'Apperry-Yann_Farrago.txt') & (df['token_lexique'] == 'pie'))
 ]
 
 filtre = pd.concat([filtre_1, filtre_2])
