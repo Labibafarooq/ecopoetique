@@ -5,9 +5,12 @@ Ce script effectue les décomptes d'entités à partir du fichier général et c
 
 """
 
-
+# Fichiers des entités
 input_csv = 'PLANTES_ANIMAUX_LOTERRE.csv'
 data = pd.read_csv(input_csv, sep='\t')
+
+# Fichier des métadonnées
+metadata = pd.read_csv("../corpus_DigEco.csv", sep='\t')
 
 # Initialiser un dictionnaire pour stocker les résultats
 results = {}
@@ -69,10 +72,10 @@ for file in data['fichier'].unique():
 # Convertir le dictionnaire de résultats en DataFrame
 results_df = pd.DataFrame.from_dict(results, orient='index')
 
-metadata = pd.read_csv("../corpus_DigEco.csv", sep='\t')
+# Fusionner les résultats avec les métadonnées
 metadata = metadata.merge(results_df, on=["File"])
 
-
+# Calcul des proportions (données en pour mille)
 metadata['pourcentage_animal'] = ( metadata['lemmes_animal'] / metadata['nb_tokens'] ) * 1000
 metadata['pourcentage_plante'] = ( metadata['lemmes_plante'] / metadata['nb_tokens'] ) * 1000
 metadata['pourcentage_champignon'] = ( metadata['lemmes_champignon'] / metadata['nb_tokens'] ) * 1000
