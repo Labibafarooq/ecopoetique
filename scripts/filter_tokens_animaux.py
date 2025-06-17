@@ -29,7 +29,9 @@ filtre_1 = df[
 	((df['token_lexique'] == 'élan') & (df['contexte'].str.contains("dans un élan"))) |
 	((df['token_lexique'] == 'élan') & (df['contexte'].str.contains("prendre de l’élan"))) |
 	((df['token_lexique'] == 'pies') & (df['contexte'].str.contains("queue-de-pies"))) |
-	((df['token_lexique'] == 'carpe') & (df['contexte'].str.contains("carpe diem")))
+	((df['token_lexique'] == 'carpe') & (df['contexte'].str.contains("carpe diem"))) |
+	((df['token_lexique'] == 'bouc') & (df['contexte'].str.contains("bouc émissaire"))) |
+	((df['token_lexique'] == 'bouc') & (df['contexte'].str.contains("dos-d'âne")))
 ]
 
 
