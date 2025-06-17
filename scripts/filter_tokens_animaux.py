@@ -41,7 +41,7 @@ filtre_2 = df[
 	((df['fichier'] == 'Lobe-Max_Confidences.txt') & (df['token_lexique'] == 'barbue')) |
 	((df['fichier'] == 'April-Jean-Philippe_Les-ensauvagés.txt') & (df['token_lexique'] == 'capucin')) |
 	((df['fichier'] == 'Apperry-Yann_Farrago.txt') & (df['token_lexique'] == 'pie')) |
-	((df['fichier'] == 'Alaoui-Meryem_La-verite-sort-de-la-bouche-du-cheval.txt') & (df['token_lexique'] == 'cheval') & (df['contexte'].str.contains("Bouche de cheval"))
+	((df['fichier'] == 'Alaoui-Meryem_La-verite-sort-de-la-bouche-du-cheval.txt') & (df['token_lexique'] == 'cheval') & (df['contexte'].str.contains("Bouche de cheval")))
 ]
 
 filtre = pd.concat([filtre_1, filtre_2])

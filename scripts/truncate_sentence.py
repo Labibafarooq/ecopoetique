@@ -13,8 +13,8 @@ def truncate_sentence(row, max_length=50):
         # Trouver l'index du premier mot du token dans la phrase
         for i in range(len(words)):
             if words[i:i+len(token_words)] == token_words:
-                start_idx = max(0, i - max_words // 2)
-                end_idx = min(len(words), i + len(token_words) + max_words // 2)
+                start_idx = max(0, i - max_length // 2)
+                end_idx = min(len(words), i + len(token_words) + max_length // 2)
                 return " ".join(words[start_idx:end_idx])
     return contexte
 
