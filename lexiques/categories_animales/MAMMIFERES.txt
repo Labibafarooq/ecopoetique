@@ -282,12 +282,14 @@ chevrotain porte-musc
 chevrotains aquatiques
 chevrotains porte-musc
 chien
+chien-loup
 chien bois
 chien crabier
 chien de prairie
 chien des bois
 chien des buissons
 chiens
+chiens-loups
 chiens de prairie
 chien viverrin
 chimpanzé
