@@ -1,34 +1,3 @@
-Thomas B. Reverdy
-Climax
-Flammarion
-© Flammarion, 2021.
-ISBN Epub : 9782080250438
-ISBN PDF Web : 9782080250452
-Le livre a été imprimé sous les références :
-ISBN : 9782080250421
-Ouvrage composé par IGS-CP et converti par Pixellence (59100 Roubaix)
-Présentation de l’éditeur
-C’est une sorte de village de pêcheurs aux maisons d’un étage, niché au creux d’un bras de mer qui s’enfonce comme une langue, à l’extrême nord de la Norvège.
-C’est là que tout a commencé : l’accident sur la plateforme pétrolière, de l’autre côté du chenal, la fissure qui menace dangereusement le glacier et ces poissons qu’on a retrouvés morts.
-Et si tout était lié ?
-C’est en tant qu’ingénieur géologue que Noah, enfant du pays, va revenir en mission et retrouver Anå, son amour de jeunesse, ainsi que les anciens amis qu’il avait initiés aux jeux de rôle.
-Il était alors Sigurd, du nom justement de cette maudite plateforme.
-Avec Climax, Thomas B. Reverdy réveille le roman d’aventures en lui offrant une dimension crépusculaire et contemporaine puisque désormais les glaciers fondent, les ours meurent et l’homme a irrémédiablement tout abîmé.
-Au moins, il reste la fiction pour raconter cette dernière aventure, celle de la fin d’un monde.
-Thomas B Reverdy est né en 1974.
-Il est l’auteur de sept romans parmi lesquels La Montée des eaux (Seuil, 2003) et, aux éditions Flammarion, Les Évaporés (prix Joseph Kessel 2014), Il était une ville (prix des Libraires 2016) et L’Hiver du mécontentement (prix Interallié 2018).
-Du même auteur
-La Montée des eaux, Seuil, 2003.
-Le Ciel pour mémoire, Seuil, 2005.
-Les Derniers Feux, Seuil, 2008.
-Le Lycée de nos rêves (avec Cyril Delhay), Hachette Littératures, 2008.
-Collection irraisonnée de préfaces à des livres fétiches (collectif, direction avec Martin Page), Intervalles, 2009.
-L’Envers du monde, Seuil, 2008.
-Les Évaporés, Flammarion, 2013 (Grand Prix Thyde Monnier de la SGDL et prix Joseph Kessel) ; J’ai lu, 2015.
-Il était une ville, Flammarion, 2015 (prix des Libraires) ; J’ai lu, 2016.
-Jardin des colonies (avec Sylvain Venayre), Flammarion, 2016 ; J’ai lu, 2018.
-L’Hiver du mécontentement, Flammarion, 2018 (prix Interallié) ; J’ai lu, 2019.
-Climax
 Pour Marine, Camille et Louis
 « Vous êtes la peur
 Vous êtes l’épouvante
@@ -40,22 +9,13 @@ Tout est entre vos mains
 La moindre petite bête vivante
 Comme le vert végétal
 Vous appartient pour vous nourrir
-Je vous donne tout.
-»
+Je vous donne tout. »
 Genèse 9, 2-3
-I
-« Our time is a time deprived of silence and secrets ; in their absence no legends can grow.
-»
-WALTER LJUNGQUIST, Källan, 1961,
-
-cité en anglais par Anna von Hausswolff
-
-en marge de son album, The Miraculous.
+I « Our time is a time deprived of silence and secrets ; in their absence no legends can grow. »
+WALTER LJUNGQUIST, Källan, 1961, cité en anglais par Anna von Hausswolff en marge de son album, The Miraculous.
 « Notre temps est privé de silence et de secret ;
-En leur absence, aucune légende ne peut émerger.
-»
-1
-9 septembre
+En leur absence, aucune légende ne peut émerger. »
+19 septembre
 Ce n’est pas vraiment une ville, plutôt une sorte de village de pêcheurs aux maisons d’un étage, en bois peint de couleurs vives, nichées au creux d’un bras de mer qui s’enfonce comme une langue, comme si c’était l’embouchure d’un fleuve, mais il n’y a pas de fleuve, juste des montagnes encerclant cette langue de rivière salée qui plonge dans les terres en se ramifiant selon des méandres complexes, juste les montagnes et le glacier, au fond de la vallée, qui tombe dans ce faux estuaire.
 Un de ces fjords qui se remplissent de brume en hiver, au nord de Tromsø et du cercle polaire, où la nuit dure presque trois mois.
 C’est une sorte de village portuaire qui a fini par s’étendre ces dernières années parce que son chenal avait du fond et qu’on a construit sur l’autre rive tout un port de commerce moderne, avec des immeubles et des docks, des digues d’appontement et d’immenses réservoirs de béton, un des premiers ports de l’arcoil, le pétrole de l’Arctique, après ceux des Russes en Sibérie, suivant l’exemple de Myrkenes à la frontière, depuis que le passage du Nord-Est promet de s’ouvrir durablement l’été avec la fonte de la glace de mer.

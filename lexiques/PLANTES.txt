@@ -887,7 +887,6 @@ alliaire
 alliaire officinale
 alliaire pétiolée
 alliaires officinales
-alliées
 allioïdées
 allocasuarina
 allocasuarina verticillé
@@ -1200,7 +1199,6 @@ ammochloa piquant
 ammophile
 ammophile des sables
 ammophile roseau
-amorphe
 amorphe arbustive
 amorphe buissonnante
 amorphées
@@ -6261,7 +6259,6 @@ chicorée scabre
 chicorée scarole
 chicorées endives
 chicorées sauvages
-chicot
 chicot du Canada
 chicots du Canada
 chiendent
@@ -6315,7 +6312,6 @@ chimonanthe odorant
 chimonanthe précoce
 chimonobambou
 chimonobambou quadrangulaire
-chine
 chionodoxa de Forbes
 chionodoxa de Lucile
 chionodoxa de Sardes
@@ -6323,7 +6319,6 @@ chionodoxa de Sardis
 chionodoxa géant
 chiranthodendrées
 chloranthales
-chlore
 chlore acuminée
 chlore intermédiaire
 chlore non perfoliée
@@ -7046,7 +7041,6 @@ conopode des Pyrénées
 conopode élevé
 conringie
 conringie d’Orient
-console
 console falquée
 consoude
 consoude à bulbe
@@ -7389,7 +7383,6 @@ cotonéaster tomenteux
 cotonéaster vulgaire
 cotonéster à fleurs nombreuses
 cotonnier
-cotonnière
 cotonnière à feuilles spatulées
 cotonnière américaine
 cotonnière arrondie
@@ -18014,7 +18007,6 @@ mouron intermédiaire
 mouron jaune
 mouron pâle
 mouron rouge
-mourons
 mourons rouges
 mousse fleurie
 moussigot
@@ -22282,7 +22274,6 @@ plaine rouge
 plaines blanches
 plaines rouges
 plalatanthère des montagnes
-plane
 plantaginacées
 plantaginées
 plantago
@@ -28830,8 +28821,6 @@ véroniques sans feuilles
 véroniques voyageuses
 véronique trifoliée
 véronique voyageuse
-versant mon sang
-vert-de-gris
 verveine
 verveine à bractées
 verveine à fleurs nodales
