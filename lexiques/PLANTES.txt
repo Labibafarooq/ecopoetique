@@ -4002,7 +4002,6 @@ bouton-d’or bulbeux
 bouton-d’or de Canut
 bouton-d’or rampant
 bouton-noir
-bouvier
 bowlésie
 bowlésie blanche
 bowlésie blanchie
@@ -4013,6 +4012,7 @@ brachiaire en forme de chenille
 brachychiton
 brachychiton à feuilles de peuplier
 brachypode
+brachypodes
 brachypode à deux épillets
 brachypode à deux épis
 brachypode de Diaz
