@@ -37,11 +37,9 @@ Del-Amo-Jean-Baptiste_Le-fils-de-lhomme.txt	Aglais io	Le mystère de leurs noms 
 Desjardins-Martine_Maleficium.txt	Crocus sativus	J’en ai d’Espagne, j’en ai du Cachemire, j’en ai d’Iran — les trois seuls endroits où pousse le Crocus sativus, cette fleur violette qui donne l’aromate le plus cher du monde.
 Desjardins-Martine_Maleficium.txt	Crocus sativus	Si une autre plante possédait les mêmes principes aromatiques que le Crocus sativus, n’était-il pas dans mon intérêt de m’en assurer ?
 Deville-Patrick_La-Tentation-des-armes-a-feu.txt	Homo sapiens	Et comme souvent, lorsque l’Homo sapiens, confronté à une nouvelle énigme, se gratte la tempe d’un index dubitatif, on en fit une religion et le problème parut réglé.
-Deville-Patrick_La-Tentation-des-armes-a-feu.txt	Aquila clanga	"Aquila naevia ?
-Aquila clanga ?
-).
-"
-Deville-Patrick_La-Tentation-des-armes-a-feu.txt	Aquila chrysaetos	Tout près les roseaux cuivre et gris cendré que surveille un aigle en à-pic, dont l’ornithologue amateur aimerait connaître le nom (Aquila chrysaetos ?
+Deville-Patrick_La-Tentation-des-armes-a-feu.txt	Aquila clanga	Tout près les roseaux cuivre et gris cendré que surveille un aigle en à-pic, dont l’ornithologue amateur aimerait connaître le nom (Aquila chrysaetos ? Aquila naevia ? Aquila clanga ?).
+Deville-Patrick_La-Tentation-des-armes-a-feu.txt	Aquila chrysaetos	Tout près les roseaux cuivre et gris cendré que surveille un aigle en à-pic, dont l’ornithologue amateur aimerait connaître le nom (Aquila chrysaetos ? Aquila naevia ? Aquila clanga ?).
+Deville-Patrick_La-Tentation-des-armes-a-feu.txt	Aquila naevia	Tout près les roseaux cuivre et gris cendré que surveille un aigle en à-pic, dont l’ornithologue amateur aimerait connaître le nom (Aquila chrysaetos ? Aquila naevia ? Aquila clanga ?).
 Deville-Patrick_Peste_choléra.txt	Yersinia pestis	"Depuis quarante-six ans déjà, en ce dernier jour de mai quarante où pour la dernière fois il survole la France dans son ciel orageux.
 Yersinia pestis.
 des insectes
@@ -271,93 +269,22 @@ Pourchet-Maria_Feu.txt	Escherichia coli	Vingt-quatre heures plus tard, beaucoup 
 Pradeau-Christophe_La-grande-sauvagerie.txt	Ephemera danica	Que les espèces réunies dans l’ordre des éphéméroptères – Cloeon dipterum, Ephemera danica… – fissent partie des plus anciennes connues, précédant l’apparition de l’homme de plusieurs centaines de millions d’années, me troublait ; bien pis encore, je savais non seulement qu’elles nous avaient précédés mais aussi qu’elles nous survivraient : disons que l’hypothèse me semblait à tout le moins élégante que la longévité d’une espèce fût en rapport inverse de celle des individus qui la composent, non certes en vertu de je ne sais quelle improbable loi des compensations, mais compte tenu des foudroyants renversements de perspective dans lesquels j’avais appris de bonne heure à reconnaître la signature même du réel : parabole des vignerons de la onzième heure ou apologue de Pougatchov… Personne jamais ne fut plus vivant en moi que ne le fut, dans ces années-là, l’énigmatique Pougatchov de La Fille du capitaine, dont je fis la connaissance – j’avais douze ans – dans un vieux livre gonflé de pluie, trouvaille fabuleuse débusquée une après-dîner d’hiver, dans le grenier embrumé de froid des grands-parents de Clémence (la plus chère, la seule, l’unique amie, qui me fut enlevée à quinze ans pour des raisons que je ne dirais pas ici car, décidément, ceci est une autre histoire).
 Pradeau-Christophe_La-grande-sauvagerie.txt	Cloeon dipterum	Que les espèces réunies dans l’ordre des éphéméroptères – Cloeon dipterum, Ephemera danica… – fissent partie des plus anciennes connues, précédant l’apparition de l’homme de plusieurs centaines de millions d’années, me troublait ; bien pis encore, je savais non seulement qu’elles nous avaient précédés mais aussi qu’elles nous survivraient : disons que l’hypothèse me semblait à tout le moins élégante que la longévité d’une espèce fût en rapport inverse de celle des individus qui la composent, non certes en vertu de je ne sais quelle improbable loi des compensations, mais compte tenu des foudroyants renversements de perspective dans lesquels j’avais appris de bonne heure à reconnaître la signature même du réel : parabole des vignerons de la onzième heure ou apologue de Pougatchov… Personne jamais ne fut plus vivant en moi que ne le fut, dans ces années-là, l’énigmatique Pougatchov de La Fille du capitaine, dont je fis la connaissance – j’avais douze ans – dans un vieux livre gonflé de pluie, trouvaille fabuleuse débusquée une après-dîner d’hiver, dans le grenier embrumé de froid des grands-parents de Clémence (la plus chère, la seule, l’unique amie, qui me fut enlevée à quinze ans pour des raisons que je ne dirais pas ici car, décidément, ceci est une autre histoire).
 Razon-Boris_Palladium.txt	Chlamydia trachomatis	Sérologie des infections à Chlamydia trachomatis :
-Razon-Boris_Palladium.txt	Chlamydia trachomatis	"Sérologie des infections à Chlamydia trachomatis :
-– Chlamydia trachomatis : 1/64 (négatif).
-
---
-Sérologie des infections à Chlamydia trachomatis :
-– Chlamydia trachomatis : 1/64 (négatif).
-Un employé en salopette bleue a apporté l’escabeau.
-"
+Razon-Boris_Palladium.txt	Chlamydia trachomatis	– Chlamydia trachomatis : 1/64 (négatif).
 Razon-Boris_Palladium.txt	Chlamydia trachomatis	Sérologie des infections à Chlamydia trachomatis :
-Razon-Boris_Palladium.txt	Chlamydia trachomatis	"Sérologie des infections à Chlamydia trachomatis :
-– Chlamydia trachomatis : 1/64 (négatif).
-
---
-Sérologie des infections à Chlamydia trachomatis :
-– Chlamydia trachomatis : 1/64 (négatif).
-Un employé en salopette bleue a apporté l’escabeau.
-"
+Razon-Boris_Palladium.txt	Chlamydia trachomatis	– Chlamydia trachomatis : 1/64 (négatif).
 Razon-Boris_Palladium.txt	Mycoplasma pneumoniae	"Sérologie des infections respiratoires bactériennes :
 – Mycoplasma pneumoniae < 10 u (négatif).
-Chlamydia pneumoniae 1/128.
---
-Sérologie des infections respiratoires bactériennes :
-– Mycoplasma pneumoniae < 10 u (négatif).
-Chlamydia pneumoniae 1/128.
-"
+Chlamydia pneumoniae 1/128."
 Razon-Boris_Palladium.txt	Mycoplasma pneumoniae	"Sérologie des infections respiratoires bactériennes :
 – Mycoplasma pneumoniae < 10 u (négatif).
-Chlamydia pneumoniae 1/128.
---
-Sérologie des infections respiratoires bactériennes :
-– Mycoplasma pneumoniae < 10 u (négatif).
-Chlamydia pneumoniae 1/128.
-"
+Chlamydia pneumoniae 1/128."
 Razon-Boris_Palladium.txt	Chlamydia pneumoniae	"– Mycoplasma pneumoniae < 10 u (négatif).
-Chlamydia pneumoniae 1/128.
-Fièvre Q < 1/10 (négatif).
---
-– Mycoplasma pneumoniae < 10 u (négatif).
 Chlamydia pneumoniae 1/128.
 Fièvre Q < 1/10 (négatif).
 "
 Razon-Boris_Palladium.txt	Chlamydia pneumoniae	"– Mycoplasma pneumoniae < 10 u (négatif).
 Chlamydia pneumoniae 1/128.
 Fièvre Q < 1/10 (négatif).
---
-– Mycoplasma pneumoniae < 10 u (négatif).
-Chlamydia pneumoniae 1/128.
-Fièvre Q < 1/10 (négatif).
-"
-Reverdy-ThomasB_Climax.txt	Calanus hyperboreus	"31
-Calanus hyperboreus
-Quand on arrivait aux chapitres des organismes microscopiques, il faut bien avouer qu’Anders, comme n’importe quel écrivain, eut besoin de se documenter pour continuer à comprendre de quoi il parlait et jusqu’où l’avait entraîné son désir de témoignage à propos de l’Arctique en train de disparaître et de tout ce qu’on aurait pu regrouper, à ce moment-là, sous la rubrique « Fin du monde ».
---
-Chaque voie d’eau libérée sous la surface était une vallée vert et bleu qui foisonnait en quelques jours sous le soleil retrouvé de l’été polaire.
-Calanus hyperboreus apparaissait au même moment, exactement.
-Toute petite petite crevette épuisée par un très long voyage.
---
-Pas de photosynthèse, pas d’algues-plancton, pas de prairies bleues.
-Calanus hyperboreus descendait dans les profondeurs où elle allait hiberner, quoi faire d’autre, et puis pondre et donner à ses œufs les provisions pour le voyage.
-Elle descendait vers la fin juin.
---
-Les deux systèmes, les deux cycles se déphasaient peu à peu.
-Calanus hyperboreus atteignait la surface trop tard.
-Les compétiteurs, les concurrents, les autres krills bouffeurs d’algues avaient déjà tout raflé.
-Les glaces reculaient, et les prairies de diatomées bleues et vertes s’asséchaient comme une terre brûlée.
-Moins engraissée, Calanus hyperboreus redescendait vers les sombres fonds de l’océan Arctique avec moins d’énergie, moins de réserves à transmettre à ses œufs lorsqu’elle les renverrait vers la surface à la fin de l’hiver prochain.
-D’un été à l’autre, la population s’étiolait.
---
-La prédation des espèces, d’un niveau à l’autre, s’étendait en gros d’avril à juillet et concernait très peu de populations différentes.
-La mise en difficulté de Calanus hyperboreus, à sa base, à cause d’un problème de timing, mettait toute la chaîne alimentaire en péril.
-Et d’ailleurs, les floraisons précoces dans les prairies de diatomées n’étaient pas le seul problème de cette petite crevette.
---
-Pour le système arctique, pourtant, le transfert d’énergie, d’un niveau à l’autre de la chaîne alimentaire, perdait en efficacité.
-Certaines espèces étaient si petites qu’elles étaient inutilisables par les prédateurs habituels de Calanus hyperboreus.
-On allait jusqu’à des pseudocalanus, 30 fois moins énergétiques.
---
-Construites à coups de nageoires depuis des millions d’années, et auxquelles ils n’accédaient que par un trou sous la glace, elles devaient les protéger des ours, le temps d’élever leurs bébés à la fourrure blonde.
-Calanus hyperboreus, tel un Gulliver chez les Lilliputiens, émergeait en été dans une soupe de bactéries et de minus en train de lui bouffer l’herbe sous le nez.
-Les floraisons des prairies de diatomées bleues, qui sont comme les aurores boréales de la mer, diminuaient et s’appauvrissaient au fil des saisons.
---
-Ce n’était qu’une toute petite petite crevette.
-Calanus hyperboreus.
-À peine deux centimètres de long.
---
-30 - Fáfnir, le roi sous la montagne
-31 - Calanus hyperboreus
-32 - 31 octobre
 "
 Reverdy-ThomasB_Climax.txt	Calanus hyperboreus	Calanus hyperboreus apparaissait au même moment, exactement.
 Reverdy-ThomasB_Climax.txt	Calanus hyperboreus	Calanus hyperboreus descendait dans les profondeurs où elle allait hiberner, quoi faire d’autre, et puis pondre et donner à ses œufs les provisions pour le voyage.
@@ -366,34 +293,14 @@ Reverdy-ThomasB_Climax.txt	Calanus hyperboreus	Moins engraissée, Calanus hyperb
 Reverdy-ThomasB_Climax.txt	Calanus hyperboreus	La mise en difficulté de Calanus hyperboreus, à sa base, à cause d’un problème de timing, mettait toute la chaîne alimentaire en péril.
 Reverdy-ThomasB_Climax.txt	Calanus hyperboreus	Certaines espèces étaient si petites qu’elles étaient inutilisables par les prédateurs habituels de Calanus hyperboreus.
 Reverdy-ThomasB_Climax.txt	Calanus hyperboreus	Calanus hyperboreus, tel un Gulliver chez les Lilliputiens, émergeait en été dans une soupe de bactéries et de minus en train de lui bouffer l’herbe sous le nez.
-Reverdy-ThomasB_Climax.txt	Calanus hyperboreus	"Pour le système arctique, pourtant, le transfert d’énergie, d’un niveau à l’autre de la chaîne alimentaire, perdait en efficacité.
-Certaines espèces étaient si petites qu’elles étaient inutilisables par les prédateurs habituels de Calanus hyperboreus.
-On allait jusqu’à des pseudocalanus, 30 fois moins énergétiques.
---
-Ce n’était qu’une toute petite petite crevette.
+Reverdy-ThomasB_Climax.txt	Calanus hyperboreus	"Ce n’était qu’une toute petite petite crevette.
 Calanus hyperboreus.
 À peine deux centimètres de long.
-"
-Reverdy-ThomasB_Climax.txt	Calanus hyperboreus	"30 - Fáfnir, le roi sous la montagne
-31 - Calanus hyperboreus
-32 - 31 octobre
-"
-Reverdy-ThomasB_Climax.txt	Canis lupus	"10
-Canis lupus arctos
-Anders avait écrit sur le loup, dans ses carnets, quelque chose d’un peu différent des autres textes qu’il collectait sur les animaux de l’Arctique, peut-être parce qu’il se sentait avec eux une certaine proximité.
---
-9 - Knut
-10 - Canis lupus arctos
-11 - 7 septembre
 "
 Reverdy-ThomasB_Climax.txt	Canis lupus	C’est de lui qu’on a peu à peu tiré notre chien, Canis lupus familiaris, il y a environ 30 000 ans.
 Reverdy-ThomasB_Climax.txt	Canis lupus	"C’est fou le nombre d’expressions qui témoignent de la place qu’il tient parmi nous, autour de nous et dans nos têtes.
 Canis lupus.
 Notre premier ami, dont nous avons fait un chien, et notre plus grand rival.
-"
-Reverdy-ThomasB_Climax.txt	Canis lupus	"9 - Knut
-10 - Canis lupus arctos
-11 - 7 septembre
 "
 Reverdy-ThomasB_Climax.txt	Calanus finmarchicus	Calanus finmarchicus mesurait 800 microns, à peine un millimètre.
 Reverdy-ThomasB_Climax.txt	Calanus finmarchicus	Les baleines franches en faisaient déjà les frais, qui s’aventuraient au nord, dans les eaux froides, et se nourrissaient exclusivement de Calanus finmarchicus, celui qui remplaçait peu à peu le hyperboreus en Arctique.
@@ -427,6 +334,22 @@ Royer-Corinne_Pleine-terre.txt	Homo sapiens	La strate géologique les désignera
 Salvayre-Lydie_Pas-Pleurer.txt	Cicer arietinum	, qu’il savait le nom d’une dizaine de planètes et le mot latin désignant les pois chiches, Cicer arietinum pour les ignares).
 Senges-Pierre_Ruines-de-Rome.txt	Datura stramonium	Jouer avec quelques fleurs (ou mieux : avec le monde végétal en son entier – toute la Botanique, tout l’Herbier de Linné) me procure des joies d’enfant, parfois converties en pensées indécises : je m’émerveille, avant de m’inquiéter, des noms multiples donnés à une seule plante, ce doublet latin et vulgaire qui amuse et déconcerte : savoir que Datura stramonium et Herbe à taupe désignent la même herbe me procure un plaisir mitigé dont je n’ai pas réussi encore à définir la nature exacte.
 Senges-Pierre_Ruines-de-Rome.txt	Acer campestre	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Carpinus betulus	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Cornus sanguina	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Corylus avellana	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Crataegus monogyna	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Euonymus europaeus	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Fagus sylvatica	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Frangula alnus	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Ilex aquifolium	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Ligustrum vulgare	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Malus sylvestris	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Prunus spinosa	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Quercus petraeca	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Quercus robur	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Rhamnus cathartica	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Sorbus terminalis	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
+Senges-Pierre_Ruines-de-Rome.txt	Viburnum opulus	Acer campestre, carpinus betulus, cornus sanguina, corylus avellana, craetegus monogyna, evonymus europaeus, fagus sylvatica, frangula alnus, ilex aquifolium, ligustrum vulgare, malus sylvestris, prunus spinosa, quercus petraeca, quercus robur, rhamnus cathartica, sorbus terminalis, viburnum opulus.
 Tavernier-Tiffany_L-ami.txt	Musca domestica	Sur la table, une Musca domestica se frotte les pattes, facile à reconnaître avec ses deux gros yeux rouges et son thorax gris.
 Vasset-Philippe_La-conjuration.txt	Psilocybe semilanceata	Il était allé, vêtu d’un veston de velours et d’une casquette pied-de-poule, cueillir des Psilocybe semilanceata dans les clairières de Sologne, disputant les célèbres végétaux à mamelons aux adolescents en goguette (« Je les faisais détaler en jouant les propriétaires furieux », sourit-il).
 Villeminot-Vincent_Nous-sommes-letincelle.txt	Daucus carota	Aujourd’hui, ils ont ramassé des champignons en route, cueilli des baies ; ils ont su déterrer les tubercules maigres, blancs, coriaces Daucus carota, comestibles avant la floraison ; ils ont arraché des touffes de riz sauvage le long de la rivière ; ils viennent de glaner une variété de chicorée pour la soupe, et des glands de l’hiver précédent, déjà noirs, qu’ils cuisinent avec le porc sauvage.
