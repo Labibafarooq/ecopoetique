@@ -32,7 +32,8 @@ filtre_1 = df[
 	((df['token_lexique'] == 'carpe') & (df['contexte'].str.contains("carpe diem"))) |
 	((df['token_lexique'] == 'bouc') & (df['contexte'].str.contains("bouc émissaire"))) |
 	((df['token_lexique'] == 'bouc') & (df['contexte'].str.contains("dos-d'âne"))) |
-	((df['token_lexique'] == 'poule') & (df['contexte'].str.contains("nids-de-poule|chair de poule|cul-de-poule|nid-de-poule")))
+	((df['token_lexique'] == 'poule') & (df['contexte'].str.contains("nids-de-poule|chair de poule|cul-de-poule|nid-de-poule"))) |
+	((df['token_lexique'] == 'vairons') & (df['contexte'].str.contains("yeux vairons")))
 ]
 
 

@@ -49,7 +49,8 @@ filtre = df[
     ((df['token_lexique'] == 'garou') & (df['contexte'].str.contains('loup-garou'))) |
     ((df['token_lexique'] == 'moutarde') & 
      (df['contexte'].str.contains('gaz moutarde') | df['contexte'].str.contains('verre à moutarde'))) |
-    ((df['token_lexique'] == 'tabacs') & (df['contexte'].str.contains('bars-tabacs')))
+    ((df['token_lexique'] == 'tabacs') & (df['contexte'].str.contains('bars-tabacs'))) |
+    ((df['token_lexique'] == 'tabac') & (df['contexte'].str.contains('bar-tabac')))
 ]
 
 
