@@ -6,11 +6,12 @@ Ce script fusionne les résultats pour toutes les entités et génère un unique
 """
 
 # Charger les fichiers CSV
-df1 = pd.read_csv('contexte_plantes.csv', usecols=['fichier', 'token_lexique', 'contexte', 'lemme'], sep='\t')
-df2 = pd.read_csv('contexte_animaux.csv', usecols=['fichier', 'token_lexique', 'truncated_sentence', 'lemme'], sep='\t')
-df3 = pd.read_csv('contexte_champignons.csv', usecols=['fichier', 'token_lexique', 'contexte', 'lemme'], sep='\t')
-df4 = pd.read_csv('contexte_loterre.csv', usecols=['fichier', 'token_lexique', 'contexte', 'lemme'], sep='\t')
+df1 = pd.read_csv('NEW_contexte_plantes.csv', usecols=['fichier', 'token_lexique', 'truncated_sentence', 'lemme'], sep='\t')
+df2 = pd.read_csv('NEW_contexte_animaux.csv', usecols=['fichier', 'token_lexique', 'truncated_sentence', 'lemme'], sep='\t')
+df3 = pd.read_csv('NEW_contexte_champignons.csv', usecols=['fichier', 'token_lexique', 'contexte', 'lemme'], sep='\t')
+df4 = pd.read_csv('NEW_contexte_loterre.csv', usecols=['fichier', 'token_lexique', 'contexte', 'lemme'], sep='\t')
 
+df1 = df1.rename(columns={'truncated_sentence': 'contexte'})
 df2 = df2.rename(columns={'truncated_sentence': 'contexte'})
 
 # Ajouter une colonne pour indiquer la provenance des données
