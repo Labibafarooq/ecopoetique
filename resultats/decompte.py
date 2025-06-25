@@ -52,7 +52,7 @@ merged = metadata.join(results_df, on='File', how='inner')
 # Calcul des proportions (données en pour mille) pour chaque catégorie
 for cat in categories:
     merged = merged.with_columns(
-        ((pl.col(f'lemmes_{cat}') / pl.col('nb_lemmes')) * 1000).alias(f'proportion_{cat}_‰')
+        ((pl.col(f'lemmes_{cat}') / pl.col('nb_tokens')) * 1000).alias(f'proportion_{cat}_‰')
     )
 
 # Sauvegarder le résultat final
