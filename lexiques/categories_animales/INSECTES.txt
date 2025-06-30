@@ -2100,7 +2100,6 @@ ecaille roscide
 ecaille rose
 ecaille saumon
 ecaille striée
- Écaille tachetée
 ecaille tesselée
 ecaille tigrée
 ecaille tiretée

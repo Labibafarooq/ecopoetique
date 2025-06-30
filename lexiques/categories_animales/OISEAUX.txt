@@ -2191,6 +2191,7 @@ oiseau-lunettes de Bourbon
 oiseau lunettes gris
 oiseau lunettes vert
 oiseau-moqueur
+oiseau-mouche
 oiseau-palmiste
 oiseau siffleur
 oiseau vert
