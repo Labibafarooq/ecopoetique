@@ -10,7 +10,7 @@ else:
 
 now = datetime.date.today()
 
-INPUT_CSV = "../corpus_DigEco_recent_2022-2025.csv"
+INPUT_CSV = "../corpus_DigEco.csv" # _recent_2022-2025
 OUTPUT_CSV = os.path.join(dir_pipeline, "corpus_analyse_" + str(now) + '.csv')
 
 # Fichier contenant le nombre de tokens trouvés appartenant au thésaurus par fichier
