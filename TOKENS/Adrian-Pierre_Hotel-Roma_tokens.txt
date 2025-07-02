@@ -7,7 +7,6 @@ Mathilde	PROPN	Mathilde
 Turin	PROPN	Turin	
 ,	PUNCT	,	
 27	NUM	27	
- 	SPACE	 	
 août	NOUN	août	
 1950	NUM	1950	
 Quand	SCONJ	quand	
@@ -588,10 +587,10 @@ Il	PRON	il
 y	PRON	y	
 était	AUX	être	
 écrit	VERB	écrire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 pardonne	VERB	pardonner	
 à	ADP	à	
@@ -608,7 +607,7 @@ pardon	NOUN	pardon
 	
 Ça	PRON	cela	
 va	VERB	aller	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -806,10 +805,10 @@ fuite	NOUN	fuite
 	SPACE	
 	
 Les	DET	le	
- 	SPACE	 	
+	SPACE		
 mers	NOUN	mer	
 du	ADP	de	
- 	SPACE	 	
+	SPACE		
 Sud	NOUN	sud	
 Dieppe	PROPN	Dieppe	
 ,	PUNCT	,	
@@ -1260,7 +1259,7 @@ tempête	NOUN	tempête
 dans	ADP	dans	
 nos	DET	notre	
 têtes	NOUN	tête	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 depuis	ADP	depuis	
 nos	DET	notre	
@@ -1457,9 +1456,9 @@ et	CCONJ	et
 rejoignais	VERB	rejoindre	
 les	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 barrières	NOUN	barrière	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 désertées	VERB	déserter	
 par	ADP	par	
@@ -1770,9 +1769,9 @@ de	ADP	de
 la	DET	le	
 collection	NOUN	collection	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Quarto	PROPN	Quarto	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -1804,12 +1803,12 @@ avais	AUX	avoir
 même	ADV	même	
 appris	VERB	apprendre	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Les	DET	le	
 mers	NOUN	mer	
 du	ADP	de	
 Sud	NOUN	sud	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 premier	ADJ	premier	
@@ -1859,7 +1858,7 @@ me	PRON	me
 semblait	VERB	sembler	
 une	DET	un	
 torture	NOUN	torture	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 apprendre	VERB	apprendre	
 par	ADP	par	
@@ -1885,13 +1884,13 @@ cœur	NOUN	cœur
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Toi	PRON	toi	
 qui	PRON	qui	
 habites	VERB	habiter	
 à	ADP	à	
 Turin	PROPN	Turin	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 Inlassablement	ADV	inlassablement	
 ,	PUNCT	,	
@@ -1904,11 +1903,11 @@ du	ADP	de
 cousin	NOUN	cousin	
 des	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 mers	NOUN	mer	
 du	ADP	de	
 Sud	NOUN	sud	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 qui	PRON	qui	
 a	AUX	avoir	
@@ -1927,10 +1926,10 @@ avoir	AUX	avoir
 parcouru	VERB	parcourir	
 le	DET	le	
 monde	NOUN	monde	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Toi	PRON	toi	
 qui	PRON	qui	
 habites	VERB	habiter	
@@ -1953,7 +1952,7 @@ loin	ADV	loin
 de	ADP	de	
 chez	ADP	chez	
 soi	PRON	soi	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 profiter	VERB	profiter	
 ,	PUNCT	,	
@@ -2295,10 +2294,10 @@ mieux	ADV	mieux
 Dans	ADP	dans	
 son	DET	son	
 journal	NOUN	journal	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Tu	PRON	tu	
 n’	ADV	n’	
 as	AUX	avoir	
@@ -2323,7 +2322,7 @@ Pavese	PROPN	Pavese
 était	AUX	être	
 un	DET	un	
 désengagé	NOUN	désengagé	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 son	DET	son	
 indifférence	NOUN	indifférence	
@@ -2506,7 +2505,7 @@ chaussure	NOUN	chaussure
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 C’	PRON	c’	
 est	AUX	être	
 ça	PRON	cela	
@@ -2526,7 +2525,7 @@ laissent	VERB	laisser
 vivre	VERB	vivre	
 les	DET	le	
 autres	PRON	autre	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 écrivait	VERB	écrire	
@@ -2545,12 +2544,12 @@ journal	NOUN	journal
 ,	PUNCT	,	
 un	DET	un	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 mars	NOUN	mars	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 passe	VERB	passer	
 la	DET	le	
@@ -2569,7 +2568,7 @@ rotule	NOUN	rotule
 de	ADP	de	
 son	DET	son	
 genou	NOUN	genou	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 toute	ADJ	tout	
 la	DET	le	
@@ -2597,7 +2596,7 @@ joyeuses	ADJ	joyeux
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Il	PRON	il	
 faisait	VERB	faire	
 penser	VERB	penser	
@@ -2791,7 +2790,7 @@ qui	PRON	qui
 l’	PRON	l’	
 avait	AUX	avoir	
 quitté	VERB	quitter	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 l’	DET	l’	
 insouciance	NOUN	insouciance	
@@ -2981,10 +2980,10 @@ autorité	NOUN	autorité
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Chiamatemi	PROPN	Chiamatemi	
 Ismaele	PROPN	Ismaele	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 J’	PRON	j’	
 écoutais	VERB	écouter	
@@ -2992,10 +2991,10 @@ en	ADP	en
 boucle	NOUN	boucle	
 le	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Moby	PROPN	Moby	
 Dick	PROPN	Dick	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 de	ADP	de	
 Banco	PROPN	Banco	
@@ -3066,17 +3065,17 @@ fixe	ADJ	fixe
 ,	PUNCT	,	
 ce	DET	ce	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 vice	NOUN	vice	
 absurde	ADJ	absurde	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 s’	PRON	s’	
 emportaient	VERB	emporter	
 en	ADP	en	
 disant	VERB	dire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 puisqu’	SCONJ	puisqu’	
 il	PRON	il	
@@ -3153,10 +3152,10 @@ de	ADP	de
 son	DET	son	
 jeune	ADJ	jeune	
 ami	NOUN	ami	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Tu	PRON	tu	
 m’	PRON	m’	
 as	AUX	avoir	
@@ -3241,7 +3240,7 @@ l’	DET	l’
 intervenait	VERB	intervenir	
 le	DET	le	
 18	NUM	18	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 1950	NUM	1950	
 .	PUNCT	.	
@@ -3258,7 +3257,7 @@ du	ADP	de
 Métier	NOUN	métier	
 de	ADP	de	
 vivre	VERB	vivre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Tout	ADJ	tout	
 cela	PRON	celer	
@@ -3300,7 +3299,7 @@ deux	NUM	deux
 jours	NOUN	jour	
 plus	ADV	plus	
 tôt	ADV	tôt	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Un	DET	un	
 clou	NOUN	clou	
@@ -3466,7 +3465,7 @@ dans	ADP	dans
 l’	DET	l’	
 été	NOUN	été	
 turinois	ADJ	turinois	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -3609,7 +3608,7 @@ Du	ADP	de
 18	NUM	18	
 au	ADP	au	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 ,	PUNCT	,	
 il	PRON	il	
@@ -3685,12 +3684,12 @@ patience	NOUN	patience
 	
 Dans	ADP	dans	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Portrait	NOUN	portrait	
 d’	ADP	d’	
 un	DET	un	
 ami	NOUN	ami	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 Natalia	PROPN	Natalia	
@@ -3705,7 +3704,7 @@ aux	ADP	à
 Einaudi	PROPN	Einaudi	
 ,	PUNCT	,	
 écrit	VERB	écrire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Il	PRON	il	
 est	AUX	être	
@@ -3780,7 +3779,7 @@ près	ADV	près
 de	ADP	de	
 la	DET	le	
 gare	NOUN	gare	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 il	PRON	il	
 a	AUX	avoir	
@@ -3928,7 +3927,7 @@ du	ADP	de
 retour	NOUN	retour	
 ,	PUNCT	,	
 La	DET	le	
- 	SPACE	 	
+	SPACE		
 Lune	PROPN	Lune	
 et	CCONJ	et	
 les	DET	le	
@@ -4272,10 +4271,10 @@ train	NOUN	train
 	
 Il	PRON	il	
 coupa	VERB	couper	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Non	ADV	non	
  	SPACE	 	
 Et	CCONJ	et	
@@ -4290,7 +4289,7 @@ nous	PRON	nous
 ,	PUNCT	,	
 à	ADP	à	
 Turin	PROPN	Turin	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -4299,7 +4298,7 @@ Mais	CCONJ	mais
 c’	PRON	c’	
 est	AUX	être	
 merveilleux	ADJ	merveilleux	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 
 	SPACE	
@@ -4515,9 +4514,9 @@ beau	ADJ	beau
 ,	PUNCT	,	
 un	DET	un	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Imaginaire	NOUN	imaginaire	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 à	ADP	à	
 la	DET	le	
@@ -4568,10 +4567,10 @@ Turin	PROPN	Turin
 voudrait	VERB	vouloir	
 dire	VERB	dire	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 l’	DET	l’	
 autre	PRON	autre	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 et	CCONJ	et	
 mieux	ADV	mieux	
@@ -5020,9 +5019,9 @@ dans	ADP	dans
 un	DET	un	
 croissant	NOUN	croissant	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 simple	ADJ	simple	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 seulement	ADV	seulement	
 poudré	VERB	poudrer	
@@ -5162,10 +5161,10 @@ lequel	PRON	lequel
 il	PRON	il	
 se	PRON	se	
 tuerait	VERB	tuer	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Vers	ADP	vers	
 le	DET	le	
 soir	NOUN	soir	
@@ -5209,7 +5208,7 @@ vieillissent	VERB	vieillir
 Qu’	PRON	qu’	
 attendent	VERB	attendre	
 -ils	PRON	il	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -5614,16 +5613,16 @@ poche	NOUN	poche
 	
 Le	DET	le	
 5	NUM	5	
- 	SPACE	 	
+	SPACE		
 avril	NOUN	avril	
 1945	NUM	1945	
 dans	ADP	dans	
 le	DET	le	
 journal	NOUN	journal	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Vivre	VERB	vivre	
 quelque	DET	quelque	
 part	NOUN	part	
@@ -5927,10 +5926,10 @@ Feux	NOUN	feu
 ,	PUNCT	,	
 il	PRON	il	
 écrit	VERB	écrire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Ce	PRON	ce	
 fut	AUX	être	
 Nuto	PROPN	Nuto	
@@ -5985,7 +5984,7 @@ de	ADP	de
 gens	NOUN	gens	
 qui	PRON	qui	
 voyagent	VERB	voyager	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 Le	DET	le	
 narrateur	NOUN	narrateur	
@@ -6369,7 +6368,7 @@ fin	NOUN	fin
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 ne	ADV	ne	
 cherchais	VERB	chercher	
@@ -6534,9 +6533,9 @@ Elle	PRON	lui
 m’	PRON	m’	
 appelait	VERB	appeler	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 maréchal	NOUN	maréchal	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 en	ADP	en	
 riant	VERB	rire	
@@ -6636,15 +6635,15 @@ trains	NOUN	train
 ,	PUNCT	,	
 un	DET	un	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
 	
 La	DET	le	
- 	SPACE	 	
+	SPACE		
 dernière	ADJ	dernier	
 plage	NOUN	plage	
 Turin	PROPN	Turin	
@@ -6670,7 +6669,7 @@ usine	NOUN	usine
 à	ADP	à	
 ciel	NOUN	ciel	
 ouvert	ADJ	ouvert	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 un	DET	un	
 poumon	NOUN	poumon	
@@ -6763,7 +6762,7 @@ noircir	VERB	noircir
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Mais	CCONJ	mais	
 de	ADP	de	
 tous	ADJ	tout	
@@ -6775,7 +6774,7 @@ est	AUX	être
 le	DET	le	
 plus	ADV	plus	
 beau	ADJ	beau	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 écrivait	VERB	écrire	
@@ -6882,7 +6881,7 @@ pied	NOUN	pied
 d’	ADP	d’	
 une	DET	un	
 colline	NOUN	colline	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 d’	ADP	d’	
 un	DET	un	
@@ -6980,7 +6979,7 @@ cramoisie	ADJ	cramoisi
 dans	ADP	dans	
 le	DET	le	
 Pô	PROPN	Pô	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 un	DET	un	
 sang	NOUN	sang	
@@ -7130,7 +7129,7 @@ Spiaggia	PROPN	Spiaggia
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Si	SCONJ	si	
 mangia	PROPN	mangia	
 male	X	male	
@@ -7138,7 +7137,7 @@ male	X	male
 si	SCONJ	si	
 paga	PROPN	paga	
 tanto	PROPN	tanto	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 promettait	VERB	promettre	
@@ -7221,10 +7220,10 @@ carboniques	ADJ	carbonique
 Un	DET	un	
 panonceau	NOUN	panonceau	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 À	ADP	à	
 vendre	VERB	vendre	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 était	AUX	être	
 posé	VERB	poser	
@@ -7366,7 +7365,7 @@ fréquenté	VERB	fréquenter
 par	ADP	par	
 trois	NUM	trois	
 sommités	NOUN	sommité	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Gobetti	PROPN	Gobetti	
 ,	PUNCT	,	
@@ -7407,7 +7406,7 @@ de	ADP	de
 tourner	VERB	tourner	
 la	DET	le	
 poignée	NOUN	poignée	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 la	DET	le	
 porte	NOUN	porte	
@@ -7573,10 +7572,10 @@ Primi	PROPN	Primi
 piatti	PROPN	piatti	
 ,	PUNCT	,	
 tortellini	PROPN	tortellini	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 4	NUM	4	
- 	SPACE	 	
+	SPACE		
 euros	NOUN	euro	
 .	PUNCT	.	
 
@@ -7585,10 +7584,10 @@ euros	NOUN	euro
 Secondi	PROPN	Secondi	
 ,	PUNCT	,	
 grigliata	PROPN	grigliata	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 6	NUM	6	
- 	SPACE	 	
+	SPACE		
 euros	NOUN	euro	
 .	PUNCT	.	
 
@@ -7596,7 +7595,7 @@ euros	NOUN	euro
 	
 À	ADP	à	
 4	NUM	4	
- 	SPACE	 	
+	SPACE		
 euros	NOUN	euro	
 le	DET	le	
 plat	NOUN	plat	
@@ -7827,13 +7826,13 @@ le	DET	le
 sens	NOUN	sens	
 de	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 la	DET	le	
 dernière	ADJ	dernier	
 plage	NOUN	plage	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 l’	DET	l’	
 ultime	ADJ	ultime	
@@ -7881,7 +7880,7 @@ la	DET	le
 fin	NOUN	fin	
 des	ADP	de	
 années	NOUN	année	
- 	SPACE	 	
+	SPACE		
 70	NUM	70	
 .	PUNCT	.	
 
@@ -8080,10 +8079,10 @@ tous	ADJ	tout
 la	DET	le	
 même	ADJ	même	
 chose	NOUN	chose	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Heureusement	ADV	heureusement	
 que	SCONJ	que	
 tu	PRON	tu	
@@ -8100,7 +8099,7 @@ es	AUX	être
 notre	DET	notre	
 dernière	ADJ	dernier	
 chance	NOUN	chance	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 Il	PRON	il	
 eut	VERB	avoir	
@@ -8652,7 +8651,7 @@ féminin	ADJ	féminin
 une	DET	un	
 poitrine	NOUN	poitrine	
 consolante	ADJ	consolant	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 le	DET	le	
 retour	NOUN	retour	
@@ -8978,10 +8977,10 @@ l’	DET	l’
 d’	ADP	d’	
 un	DET	un	
 mythe	NOUN	mythe	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Autrefois	ADV	autrefois	
 on	PRON	on	
 disait	VERB	dire	
@@ -9424,10 +9423,10 @@ attention	NOUN	attention
 Elle	PRON	lui	
 était	AUX	être	
 datée	VERB	dater	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 septembre	NOUN	septembre	
- 	SPACE	 	
+	SPACE		
 1949	NUM	1949	
 ,	PUNCT	,	
 soit	ADV	soit	
@@ -9435,10 +9434,10 @@ un	DET	un
 an	NOUN	an	
 avant	ADP	avant	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 le	DET	le	
 geste	NOUN	geste	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -9529,7 +9528,7 @@ qui	PRON	qui
 sourit	VERB	sourire	
 aux	ADP	à	
 anges	NOUN	ange	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 il	PRON	il	
 pose	VERB	pose	
@@ -9724,7 +9723,7 @@ vieux	ADJ	vieux
 souvenirs	NOUN	souvenir	
 de	ADP	de	
 vacances	NOUN	vacance	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 lui	PRON	luire	
 ,	PUNCT	,	
@@ -9766,7 +9765,7 @@ il	PRON	il
 nota	VERB	noter	
 en	ADP	en	
 septembre	NOUN	septembre	
- 	SPACE	 	
+	SPACE		
 1949	NUM	1949	
 quand	SCONJ	quand	
 la	DET	le	
@@ -9786,15 +9785,15 @@ note	NOUN	note
 date	VERB	date	
 du	ADP	de	
 30	NUM	30	
- 	SPACE	 	
+	SPACE		
 septembre	NOUN	septembre	
 ,	PUNCT	,	
 il	PRON	il	
 écrit	VERB	écrire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Tu	PRON	tu	
 n’	ADV	n’	
 as	VERB	avoir	
@@ -9885,9 +9884,9 @@ tes	DET	ton
 18	NUM	18	
 -	NUM	-	
 30	NUM	30	
- 	SPACE	 	
+	SPACE		
 ans	NOUN	an	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -9906,7 +9905,7 @@ alors	ADV	alors
 	
 Et	CCONJ	et	
 ensuite	ADV	ensuite	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -9915,7 +9914,7 @@ Que	PRON	que
 fera	VERB	faire	
 -t	PRON	-t	
 -on	PRON	on	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -10472,10 +10471,10 @@ midi	NOUN	midi
 	SPACE	
 	
 Les	DET	le	
- 	SPACE	 	
+	SPACE		
 avions	NOUN	avion	
 de	ADP	de	
- 	SPACE	 	
+	SPACE		
 seize	NUM	seize	
 heures	NOUN	heure	
 Au	ADP	au	
@@ -10971,7 +10970,7 @@ un	DET	un
 air	NOUN	air	
 de	ADP	de	
 dire	VERB	dire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 faites	VERB	faire	
 ce	PRON	ce	
@@ -11207,17 +11206,17 @@ la	DET	le
 note	NOUN	note	
 du	ADP	de	
 7	NUM	7	
- 	SPACE	 	
+	SPACE		
 décembre	NOUN	décembre	
 1947	NUM	1947	
 du	ADP	de	
 Métier	NOUN	métier	
 de	ADP	de	
 vivre	VERB	vivre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 On	PRON	on	
 a	AUX	avoir	
 tant	ADV	tant	
@@ -11549,7 +11548,7 @@ nés	VERB	naître
 dans	ADP	dans	
 les	DET	le	
 années	NOUN	année	
- 	SPACE	 	
+	SPACE		
 20	NUM	20	
 ou	CCONJ	ou	
 si	ADV	si	
@@ -11906,19 +11905,19 @@ y	PRON	y
 déchiffrer	VERB	déchiffrer	
 un	DET	un	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Maria	PROPN	Maria	
 ti	PROPN	ti	
 amo	PROPN	amo	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ou	CCONJ	ou	
 un	DET	un	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Juve	PROPN	Juve	
 merda	PROPN	merder	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -12099,10 +12098,10 @@ de	ADP	de
 lumière	NOUN	lumière	
 griffait	VERB	griffer	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 sa	DET	son	
 place	NOUN	place	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 enclavée	VERB	enclaver	
 dans	ADP	dans	
@@ -12136,7 +12135,7 @@ des	DET	un
 années	NOUN	année	
 de	ADP	de	
 cela	PRON	celer	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 les	DET	le	
 anciens	ADJ	ancien	
@@ -12318,11 +12317,11 @@ livres	NOUN	livre
 en	ADP	en	
 murmurant	VERB	murmurer	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Pavese	PROPN	Pavese	
 ,	PUNCT	,	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -12536,11 +12535,11 @@ via	NOUN	via
 Pô	PROPN	Pô	
 était	AUX	être	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 un	DET	un	
 endroit	NOUN	endroit	
 impossible	ADJ	impossible	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -12574,7 +12573,7 @@ grand-chose	NOUN	grand-chose
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Les	DET	le	
 gens	NOUN	gens	
 ne	ADV	ne	
@@ -12689,14 +12688,14 @@ après-repas	NOUN	après-repa
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 On	PRON	on	
 n’	ADV	n’	
 aime	VERB	aimer	
 pas	ADV	pas	
 l’	DET	l’	
 après-midi	NOUN	après-midi	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 déclara	VERB	déclarer	
@@ -12745,10 +12744,10 @@ ciel	NOUN	ciel
 ,	PUNCT	,	
 elle	PRON	lui	
 dit	VERB	dire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Tiens	INTJ	Tiens	
 ,	PUNCT	,	
 un	DET	un	
@@ -12828,13 +12827,13 @@ s’	PRON	s’
 on	PRON	on	
 entendait	VERB	entendre	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 l’	DET	l’	
 avion	NOUN	avion	
 de	ADP	de	
 seize	NUM	seize	
 heures	NOUN	heure	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 sans	ADP	sans	
 le	PRON	le	
@@ -13305,7 +13304,7 @@ poète	NOUN	poète
 que	PRON	que	
 nous	PRON	nous	
 aimions	VERB	aimer	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 La	DET	le	
 vie	NOUN	vie	
@@ -13324,7 +13323,7 @@ train	NOUN	train
 à	ADP	à	
 l’	DET	l’	
 aube	PROPN	aube	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 avoir	AUX	avoir	
 vu	VERB	voir	
@@ -13334,7 +13333,7 @@ dehors	ADV	dehors
 la	DET	le	
 lumière	NOUN	lumière	
 incertaine	ADJ	incertain	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 avoir	AUX	avoir	
 ressenti	VERB	ressentir	
@@ -13366,10 +13365,10 @@ derniers	ADJ	dernier
 mots	NOUN	mot	
 furent	AUX	être	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 J’	PRON	j’	
 espère	VERB	espérer	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -13397,7 +13396,7 @@ précédait	VERB	précéder
 Qu’	PRON	qu’	
 espérait	VERB	espérer	
 -elle	PRON	lui	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -13448,7 +13447,7 @@ espère	VERB	espérer
 	SPACE	
 	
 Un	DET	un	
- 	SPACE	 	
+	SPACE		
 beau	ADJ	beau	
 couple	NOUN	couple	
 discordant	ADJ	discordant	
@@ -13641,7 +13640,7 @@ turinois	ADJ	turinois
 étaient	AUX	être	
 son	DET	son	
 domaine	NOUN	domaine	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 en	ADP	en	
 plus	ADV	plus	
@@ -13724,9 +13723,9 @@ piémontais	ADJ	piémontais
 prononçant	VERB	prononcer	
 certains	DET	certain	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 r	NOUN	r	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 à	ADP	à	
 la	DET	le	
@@ -13743,7 +13742,7 @@ oreille	NOUN	oreille
 pour	ADP	pour	
 l’	PRON	l’	
 entendre	VERB	entendre	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 les	DET	le	
 bruits	NOUN	bruit	
@@ -14052,10 +14051,10 @@ feu	NOUN	feu
 était	AUX	être	
 un	DET	un	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 roman	NOUN	roman	
 bisexuel	ADJ	bisexuel	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 selon	ADP	selon	
@@ -14170,7 +14169,7 @@ au	ADP	au
 début	NOUN	début	
 des	ADP	de	
 années	NOUN	année	
- 	SPACE	 	
+	SPACE		
 70	NUM	70	
 et	CCONJ	et	
 ajouté	VERB	ajouter	
@@ -14674,7 +14673,7 @@ Turin	PROPN	Turin
 ,	PUNCT	,	
 le	DET	le	
 25	NUM	25	
- 	SPACE	 	
+	SPACE		
 novembre	NOUN	novembre	
 1945	NUM	1945	
 ,	PUNCT	,	
@@ -14690,7 +14689,7 @@ l’	PRON	l’
 ,	PUNCT	,	
 il	PRON	il	
 écrit	VERB	écrire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Je	PRON	je	
 vais	VERB	aller	
@@ -14702,7 +14701,7 @@ motifs	NOUN	motif
 supplémentaires	ADJ	supplémentaire	
 de	ADP	de	
 honte	NOUN	honte	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Je	PRON	je	
 fais	VERB	faire	
@@ -14808,13 +14807,13 @@ femmes	NOUN	femme
 	
 Le	DET	le	
 9	NUM	9	
- 	SPACE	 	
+	SPACE		
 septembre	NOUN	septembre	
 1946	NUM	1946	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Pense	NOUN	pense	
 du	DET	de	
 mal	NOUN	mal	
@@ -14867,14 +14866,14 @@ vivre	VERB	vivre
 	
 Depuis	ADP	depuis	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 la	DET	le	
 femme	NOUN	femme	
 à	ADP	à	
 la	DET	le	
 voix	NOUN	voix	
 rauque	ADJ	rauque	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 Tina	PROPN	Tina	
@@ -14933,10 +14932,10 @@ vie	NOUN	vie
 et	CCONJ	et	
 le	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 vice	NOUN	vice	
 absurde	ADJ	absurde	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 s’	PRON	s’	
 en	PRON	en	
@@ -14960,10 +14959,10 @@ solitude	NOUN	solitude
 ,	PUNCT	,	
 appelant	VERB	appeler	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 mon	DET	mon	
 amour	NOUN	amour	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 la	DET	le	
 première	ADJ	premier	
@@ -15105,7 +15104,7 @@ témoignent	VERB	témoigner
 	
 Le	DET	le	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 novembre	NOUN	novembre	
 1945	NUM	1945	
 ,	PUNCT	,	
@@ -15114,10 +15113,10 @@ Le	DET	le
 Métier	NOUN	métier	
 de	ADP	de	
 vivre	VERB	vivre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 C’	PRON	c’	
 est	AUX	être	
 l’	DET	l’	
@@ -15288,10 +15287,10 @@ mêmes	PRON	même
 	SPACE	
 	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 t’	PRON	t’	
 envoie	VERB	envoyer	
@@ -15305,7 +15304,7 @@ dialogue	NOUN	dialogue
 et	CCONJ	et	
 le	DET	le	
 chapitre	NOUN	chapitre	
- 	SPACE	 	
+	SPACE		
 VI	NUM	VI	
 .	PUNCT	.	
 
@@ -15362,10 +15361,10 @@ douceur	NOUN	douceur
 	
 »	PUNCT	»	
 Bianca	PROPN	Bianca	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Aujourd’hui	ADV	aujourd’hui	
 j’	PRON	j’	
 ai	AUX	avoir	
@@ -15373,7 +15372,7 @@ déjà	ADV	déjà
 fini	VERB	finir	
 le	DET	le	
 chapitre	NOUN	chapitre	
- 	SPACE	 	
+	SPACE		
 VII	ADJ	vii	
 du	ADP	de	
 roman	NOUN	roman	
@@ -15463,7 +15462,7 @@ est	AUX	être
 tout	ADJ	tout	
 le	DET	le	
 contraire	NOUN	contraire	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 
 	SPACE	
@@ -15516,7 +15515,7 @@ malade	ADJ	malade
 	
 En	ADP	en	
 février	NOUN	février	
- 	SPACE	 	
+	SPACE		
 1946	NUM	1946	
 ,	PUNCT	,	
 elle	PRON	lui	
@@ -15701,10 +15700,10 @@ Le	DET	le
 Métier	NOUN	métier	
 de	ADP	de	
 vivre	VERB	vivre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Tu	PRON	tu	
 es	AUX	être	
 seul	ADJ	seul	
@@ -15745,7 +15744,7 @@ as	VERB	avoir
 tu	PRON	tu	
 pas	ADV	pas	
 cela	PRON	celer	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -15782,10 +15781,10 @@ comme	ADP	comme
 de	ADP	de	
 son	DET	son	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 âme	NOUN	âme	
 sœur	NOUN	sœur	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 dans	ADP	dans	
 son	DET	son	
@@ -15794,7 +15793,7 @@ en	ADP	en
 confiant	VERB	confier	
 que	SCONJ	que	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 nous	PRON	nous	
 en	PRON	en	
 avons	AUX	avoir	
@@ -15822,7 +15821,7 @@ de	ADP	de
 l’	DET	l’	
 amour	NOUN	amour	
 sexuel	ADJ	sexuel	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -15914,11 +15913,11 @@ Ils	PRON	il
 devinrent	VERB	devenir	
 ce	DET	ce	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 beau	ADJ	beau	
 couple	NOUN	couple	
 discordant	ADJ	discordant	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 évoqué	VERB	évoquer	
 par	ADP	par	
@@ -15929,7 +15928,7 @@ son	DET	son
 courrier	NOUN	courrier	
 du	ADP	de	
 17	NUM	17	
- 	SPACE	 	
+	SPACE		
 avril	NOUN	avril	
 1946	NUM	1946	
 .	PUNCT	.	
@@ -16091,12 +16090,12 @@ parler	VERB	parler
 d’	ADP	d’	
 une	DET	un	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 sœur	NOUN	sœur	
 italienne	ADJ	italien	
 de	ADP	de	
 Lolita	PROPN	Lolita	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -16355,7 +16354,7 @@ exotiques	ADJ	exotique
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Elle	PRON	lui	
 était	AUX	être	
 assise	VERB	asseoir	
@@ -16444,7 +16443,7 @@ ce	PRON	ce
 qui	PRON	qui	
 en	PRON	en	
 ressurgirait	VERB	ressurgir	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 Mariarosa	PROPN	Mariarosa	
 se	PRON	se	
@@ -16500,7 +16499,7 @@ hôtel	NOUN	hôtel
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 J’	PRON	j’	
 ai	AUX	avoir	
 passé	VERB	passer	
@@ -16759,10 +16758,10 @@ année	NOUN	année
 ,	PUNCT	,	
 elle	PRON	lui	
 note	VERB	note	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Ai	AUX	avoir	
 -je	PRON	je	
 écrit	VERB	écrire	
@@ -16774,7 +16773,7 @@ Pavese	PROPN	Pavese
 s’	PRON	s’	
 était	AUX	être	
 suicidé	VERB	suicider	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -16783,7 +16782,7 @@ Oui	ADV	oui
 ,	PUNCT	,	
 le	DET	le	
 28	NUM	28	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 (	PUNCT	(	
 sic	NOUN	sic	
@@ -16804,7 +16803,7 @@ pas	ADV	pas
 te	PRON	te	
 faire	AUX	faire	
 aider	VERB	aider	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -16827,12 +16826,12 @@ aider	VERB	aider
 	SPACE	
 	
 La	DET	le	
- 	SPACE	 	
+	SPACE		
 route	NOUN	route	
 de	ADP	de	
- 	SPACE	 	
+	SPACE		
 la	DET	le	
- 	SPACE	 	
+	SPACE		
 mer	NOUN	mer	
 Un	DET	un	
 jour	NOUN	jour	
@@ -16868,7 +16867,7 @@ mots	NOUN	mot
 ,	PUNCT	,	
 répondit	VERB	répondre	
 simplement	ADV	simplement	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 pour	ADP	pour	
 abréger	VERB	abréger	
@@ -16911,7 +16910,7 @@ de	ADP	de
 fuir	VERB	fuir	
 la	DET	le	
 douleur	NOUN	douleur	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -16923,7 +16922,7 @@ livres	NOUN	livre
 en	ADP	en	
 quelques	DET	quelque	
 semaines	NOUN	semaine	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 La	DET	le	
 Prison	NOUN	prison	
@@ -16935,9 +16934,9 @@ au	ADP	au
 mois	NOUN	mois	
 d’	ADP	d’	
 avril	NOUN	avril	
- 	SPACE	 	
+	SPACE		
 1939	NUM	1939	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 Le	DET	le	
 Bel	ADJ	bel	
@@ -16949,7 +16948,7 @@ mai	NOUN	mai
 ,	PUNCT	,	
 en	ADP	en	
 1940	NUM	1940	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 Le	DET	le	
 Camarade	PROPN	Camarade	
@@ -17047,7 +17046,7 @@ ardeur	NOUN	ardeur
 s’	PRON	s’	
 essouffle	VERB	essouffler	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 c’	PRON	c’	
 est	AUX	être	
 l’	DET	l’	
@@ -17064,7 +17063,7 @@ anarchique	ADJ	anarchique
 harassé	ADJ	harassé	
 et	CCONJ	et	
 velléitaire	ADJ	velléitaire	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 il	PRON	il	
@@ -17083,12 +17082,12 @@ complètent	VERB	compléter
 	
 Le	DET	le	
 19	NUM	19	
- 	SPACE	 	
+	SPACE		
 juin	NOUN	juin	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Moi	PRON	moi	
 ,	PUNCT	,	
 je	PRON	je	
@@ -17126,27 +17125,27 @@ choses	NOUN	chose
 Et	PUNCT	et	
 le	PUNCT	le	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 juin	PUNCT	juin	
 ,	PUNCT	,	
 sous	PUNCT	sou	
 le	PUNCT	le	
 titre	NOUN	titre	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Tentation	NOUN	tentation	
 de	PUNCT	de	
 l’	DET	l’	
 écrivain	NOUN	écrivain	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 il	PUNCT	il	
 note	PUNCT	note	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Avoir	PUNCT	avoir	
 écrit	VERB	écrire	
 quelque	PUNCT	quelque	
@@ -17245,7 +17244,7 @@ vie	NOUN	vie
 sur	ADP	sur	
 ce	DET	ce	
 point	NOUN	point	
- 	SPACE	 	
+	SPACE		
 -s’	PRON	-s’	
 apercevoir	VERB	apercevoir	
 que	SCONJ	que	
@@ -17535,7 +17534,7 @@ qui	PRON	qui
 souffrent	VERB	souffrir	
 finissent	VERB	finir	
 seuls	ADJ	seul	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 la	DET	le	
 souffrance	NOUN	souffrance	
@@ -17606,18 +17605,18 @@ dire	VERB	dire
 avec	ADP	avec	
 gaieté	NOUN	gaieté	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 c’	PRON	c’	
 est	AUX	être	
 du	ADP	de	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 ou	CCONJ	ou	
 bien	ADV	bien	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 c’	PRON	c’	
 est	AUX	être	
 comme	ADP	comme	
@@ -17626,7 +17625,7 @@ un	DET	un
 livre	NOUN	livre	
 de	ADP	de	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -17800,7 +17799,7 @@ Lune	PROPN	Lune
 et	CCONJ	et	
 les	DET	le	
 Feux	NOUN	feu	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 une	DET	un	
 promenade	NOUN	promenade	
@@ -17849,7 +17848,7 @@ ne	ADV	ne
 plus	ADV	plus	
 dormir	VERB	dormir	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 car	CCONJ	car	
 c’	PRON	c’	
 était	AUX	être	
@@ -17859,7 +17858,7 @@ volé	VERB	voler
 à	ADP	à	
 la	DET	le	
 rigolade	NOUN	rigolade	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -17936,9 +17935,9 @@ l’	DET	l’
 image	NOUN	image	
 des	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Ancêtres	NOUN	ancêtre	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 titre	NOUN	titre	
@@ -17948,10 +17947,10 @@ poème	NOUN	poème
 de	ADP	de	
 Travailler	VERB	travailler	
 fatigue	NOUN	fatigue	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 J’	PRON	j’	
 ai	AUX	avoir	
 trouvé	VERB	trouver	
@@ -17996,7 +17995,7 @@ moi	PRON	moi
 ni	CCONJ	ni	
 aux	ADP	à	
 miens	NOUN	mien	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 nous	PRON	nous	
 savons	VERB	savoir	
@@ -18080,13 +18079,13 @@ pour	ADP	pour
 l’	DET	l’	
 écriture	NOUN	écriture	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 transparente	ADJ	transparent	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 de	ADP	de	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 une	DET	un	
 écriture	NOUN	écriture	
@@ -18101,7 +18100,7 @@ jugement	NOUN	jugement
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Lire	VERB	lire	
 Pavese	PROPN	Pavese	
 ,	PUNCT	,	
@@ -18336,12 +18335,12 @@ maillot	NOUN	maillot
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 suis	AUX	être	
 un	DET	un	
 poisson	NOUN	poisson	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 aimait	VERB	aimer	
@@ -18436,7 +18435,7 @@ prête	ADJ	prêt
 faire	VERB	faire	
 ce	DET	ce	
 sacrifice	NOUN	sacrifice	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 se	PRON	se	
 revoir	VERB	revoir	
@@ -18540,7 +18539,7 @@ jour	NOUN	jour
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 De	ADP	de	
 l’	DET	l’	
 autre	ADJ	autre	
@@ -18818,10 +18817,10 @@ il	PRON	il
 seulement	ADV	seulement	
 écrit	VERB	écrire	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 La	DET	le	
 mer	NOUN	mer	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -19240,13 +19239,13 @@ Pavese	PROPN	Pavese
 ,	PUNCT	,	
 le	DET	le	
 24	NUM	24	
- 	SPACE	 	
+	SPACE		
 novembre	NOUN	novembre	
 1938	NUM	1938	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 On	PRON	on	
 dit	VERB	dire	
 que	SCONJ	que	
@@ -19309,7 +19308,7 @@ soi	PRON	soi
 et	CCONJ	et	
 les	DET	le	
 autres	PRON	autre	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 c’	PRON	c’	
 est	ADV	est	
@@ -19697,7 +19696,7 @@ un	DET	un
 réconfort	NOUN	réconfort	
 plus	ADV	plus	
 certain	ADJ	certain	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 la	DET	le	
 mer	NOUN	mer	
@@ -20385,10 +20384,10 @@ vue	VERB	voir
 	
 Il	PRON	il	
 disait	VERB	dire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 La	DET	le	
 mer	NOUN	mer	
 ,	PUNCT	,	
@@ -20646,7 +20645,7 @@ panneau	NOUN	panneau
 bleu	ADJ	bleu	
 indiquait	VERB	indiquer	
 Turin	PROPN	Turin	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 un	DET	un	
 autre	ADJ	autre	
@@ -21034,7 +21033,7 @@ hors	ADP	hors
 de	ADP	de	
 l’	DET	l’	
 époque	NOUN	époque	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 il	PRON	il	
 se	PRON	se	
@@ -21069,10 +21068,10 @@ mythe	NOUN	mythe
 Dans	ADP	dans	
 La	DET	le	
 Vigne	PROPN	Vigne	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 On	PRON	on	
 confère	VERB	conférer	
 une	DET	un	
@@ -21116,7 +21115,7 @@ lieux	NOUN	lieu
 de	ADP	de	
 son	DET	son	
 enfance	NOUN	enfance	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 en	ADP	en	
 ces	DET	ce	
@@ -21245,7 +21244,7 @@ prêtre	NOUN	prêtre
 	
 Le	DET	le	
 29	NUM	29	
- 	SPACE	 	
+	SPACE		
 janvier	NOUN	janvier	
 1944	NUM	1944	
 ,	PUNCT	,	
@@ -21254,10 +21253,10 @@ confie	VERB	confier
 dans	ADP	dans	
 son	DET	son	
 journal	NOUN	journal	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 On	PRON	on	
 s’	PRON	s’	
 humilie	VERB	humilier	
@@ -21288,7 +21287,7 @@ que	PRON	que
 l’	PRON	l’	
 on	PRON	on	
 demandait	VERB	demander	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 on	PRON	on	
 voudrait	VERB	vouloir	
@@ -21358,7 +21357,7 @@ tout	PRON	tout
 est	AUX	être	
 -il	PRON	il	
 là	ADV	là	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 dans	ADP	dans	
 ce	DET	ce	
@@ -21369,7 +21368,7 @@ si	SCONJ	si
 c’	PRON	c’	
 était	AUX	être	
 vrai	ADJ	vrai	
- 	SPACE	 	
+	SPACE		
 !	PUNCT	!	
 
 	SPACE	
@@ -21384,7 +21383,7 @@ vraiment	ADV	vraiment
 c’	PRON	c’	
 était	AUX	être	
 vrai	ADJ	vrai	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 
 	SPACE	
@@ -21437,7 +21436,7 @@ le	DET	le
 bien	NOUN	bien	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 l’	DET	l’	
 activité	NOUN	activité	
 ,	PUNCT	,	
@@ -21447,14 +21446,14 @@ le	DET	le
 royaume	NOUN	royaume	
 du	ADP	de	
 présent	NOUN	présent	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 du	ADP	de	
 mal	NOUN	mal	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 qui	PRON	qui	
 est	AUX	être	
 toujours	ADV	toujours	
@@ -21462,11 +21461,11 @@ le	DET	le
 passé	NOUN	passé	
 -	NOUN	-	
 remords	NOUN	remords	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 (	PUNCT	(	
 26	NUM	26	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 1944	NUM	1944	
 )	PUNCT	)	
@@ -21480,12 +21479,12 @@ il	PRON	il
 rejoignait	VERB	rejoindre	
 le	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 rien	PRON	rien	
 que	ADV	que	
 pour	ADP	pour	
 aujourd’hui	ADV	aujourd’hui	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 de	ADP	de	
 Thérèse	PROPN	Thérèse	
@@ -21497,7 +21496,7 @@ Lisieux	PROPN	Lisieux
 	
 Le	DET	le	
 9	NUM	9	
- 	SPACE	 	
+	SPACE		
 janvier	NOUN	janvier	
 1945	NUM	1945	
 ,	PUNCT	,	
@@ -21510,10 +21509,10 @@ de	ADP	de
 l’	DET	l’	
 année	NOUN	année	
 passée	VERB	passer	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Année	NOUN	année	
 étrange	ADJ	étrange	
 ,	PUNCT	,	
@@ -21618,10 +21617,10 @@ passions	NOUN	passion
 et	CCONJ	et	
 ses	DET	son	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 terreurs	NOUN	terreur	
 infinies	ADJ	infini	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 Pavese	PROPN	Pavese	
@@ -21677,12 +21676,12 @@ reconnaît	VERB	reconnaître
 pourtant	ADV	pourtant	
 le	DET	le	
 3	NUM	3	
- 	SPACE	 	
+	SPACE		
 février	NOUN	février	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Le	DET	le	
 lieu	NOUN	lieu	
 de	ADP	de	
@@ -21874,10 +21873,10 @@ bois	NOUN	bois
 avec	ADP	avec	
 son	DET	son	
 chien	NOUN	chien	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Qu’	PRON	qu’	
 importe	VERB	importer	
 la	DET	le	
@@ -21901,7 +21900,7 @@ au	ADP	au
 milieu	NOUN	milieu	
 des	ADP	de	
 arbres	NOUN	arbre	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -21957,10 +21956,10 @@ battre	VERB	battre
 ,	PUNCT	,	
 il	PRON	il	
 répond	VERB	répondre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 On	PRON	on	
 dirait	VERB	dire	
 que	SCONJ	que	
@@ -22021,7 +22020,7 @@ autres	PRON	autre
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Il	PRON	il	
 suffirait	VERB	suffire	
 d’	ADP	d’	
@@ -22029,7 +22028,7 @@ un	DET	un
 peu	ADV	peu	
 d’	ADP	d’	
 affection	NOUN	affection	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 murmure	VERB	murmure	
@@ -22138,7 +22137,7 @@ en	ADP	en
 fumant	VERB	fumer	
 la	DET	le	
 pipe	NOUN	pipe	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 il	PRON	il	
 avait	AUX	avoir	
@@ -22198,7 +22197,7 @@ roman	NOUN	roman
 sur	ADP	sur	
 la	DET	le	
 guerre	NOUN	guerre	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 roman	NOUN	roman	
 de	ADP	de	
@@ -22485,10 +22484,10 @@ civiles	ADJ	civil
 	
 Pavese	PROPN	Pavese	
 écrit	VERB	écrire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 m’	PRON	m’	
 aperçois	VERB	apercevoir	
@@ -22566,7 +22565,7 @@ cours	NOUN	cours
 d’	ADP	d’	
 un	DET	un	
 cache-cache	NOUN	cache-cache	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -22633,10 +22632,10 @@ Corrado	PROPN	Corrado
 	
 L’	DET	l’	
 évidence	NOUN	évidence	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Cette	DET	ce	
 guerre	NOUN	guerre	
 brûle	VERB	brûler	
@@ -22955,7 +22954,7 @@ journal	NOUN	journal
 ,	PUNCT	,	
 le	DET	le	
 3	NUM	3	
- 	SPACE	 	
+	SPACE		
 mars	NOUN	mars	
 1944	NUM	1944	
 ,	PUNCT	,	
@@ -22971,17 +22970,17 @@ nouvelle	NOUN	nouvelle
 de	ADP	de	
 sa	DET	son	
 disparition	NOUN	disparition	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Les	DET	le	
 autres	PRON	autre	
 existent	VERB	exister	
 -ils	PRON	il	
 pour	ADP	pour	
 nous	PRON	nous	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -23238,13 +23237,13 @@ contrition	NOUN	contrition
 celle	PRON	celui	
 du	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 je	PRON	je	
 n’	ADV	n’	
 y	PRON	y	
 étais	VERB	être	
 pas	ADV	pas	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -23276,7 +23275,7 @@ lâcheté	NOUN	lâcheté
 puis	CCONJ	pouvoir	
 un	DET	un	
 reniement	NOUN	reniement	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -23371,7 +23370,7 @@ sous	ADP	sou
 un	DET	un	
 titre	NOUN	titre	
 unique	ADJ	unique	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Avant	ADP	avant	
 que	SCONJ	que	
@@ -23745,9 +23744,9 @@ divers	ADJ	divers
 ,	PUNCT	,	
 rebaptisée	VERB	rebaptiser	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Cosangeles	NOUN	cosangele	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 par	ADP	par	
 le	DET	le	
@@ -23849,7 +23848,7 @@ en	ADP	en
 hommage	NOUN	hommage	
 à	ADP	à	
 Fellini	PROPN	Fellini	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 via	ADP	via	
 Voce	PROPN	Voce	
@@ -24101,7 +24100,7 @@ Rino	PROPN	Rino
 Gaetano	PROPN	Gaetano	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Ad	X	Ad	
 esempio	X	esempio	
 a	X	avoir	
@@ -24109,7 +24108,7 @@ me	X	me
 piace	X	piace	
 il	PRON	il	
 sud	NOUN	sud	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
  	SPACE	 	
 C’	PRON	c’	
@@ -24241,9 +24240,9 @@ attention	NOUN	attention
 de	ADP	de	
 sa	DET	son	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 promise	NOUN	promis	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 Tina	PROPN	Tina	
@@ -24259,7 +24258,7 @@ Au	ADP	au
 mois	NOUN	mois	
 de	ADP	de	
 mai	NOUN	mai	
- 	SPACE	 	
+	SPACE		
 1935	NUM	1935	
 ,	PUNCT	,	
 la	DET	le	
@@ -24519,11 +24518,11 @@ amour	NOUN	amour
 ,	PUNCT	,	
 un	DET	un	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 je	PRON	je	
 t’	PRON	t’	
 attends	VERB	attendre	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ou	CCONJ	ou	
 simplement	ADV	simplement	
@@ -24541,13 +24540,13 @@ extérieur	NOUN	extérieur
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Aaaaooo	PRON	aaaaooo	
 ,	PUNCT	,	
 tu	PRON	tu	
 m’	PRON	m’	
 entends	VERB	entendre	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -24561,7 +24560,7 @@ son	DET	son
 devoir	NOUN	devoir	
 de	ADP	de	
 maths	NOUN	maths	
- 	SPACE	 	
+	SPACE		
 !	PUNCT	!	
 
 	SPACE	
@@ -24586,12 +24585,12 @@ sa	DET	son
 sœur	NOUN	sœur	
 le	DET	le	
 2	NUM	2	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 J’	PRON	j’	
 ai	VERB	avoir	
 de	ADP	de	
@@ -24671,7 +24670,7 @@ voyageurs	NOUN	voyageur
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Le	DET	le	
 voyage	NOUN	voyage	
 de	ADP	de	
@@ -24870,7 +24869,7 @@ repartir	VERB	repartir
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 À	ADP	à	
 Salerne	PROPN	Salerne	
 ,	PUNCT	,	
@@ -25341,7 +25340,7 @@ destination	NOUN	destination
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Chère	NOUN	chère	
 Maria	PROPN	Maria	
 ,	PUNCT	,	
@@ -25352,7 +25351,7 @@ arrivé	VERB	arriver
 Brancaleone	PROPN	Brancaleone	
 le	DET	le	
 dimanche	NOUN	dimanche	
- 	SPACE	 	
+	SPACE		
 4	NUM	4	
 dans	ADP	dans	
 l’	DET	l’	
@@ -25489,9 +25488,9 @@ confiné	VERB	confiner
 Dans	ADP	dans	
 son	DET	son	
 4	NUM	4	
- 	SPACE	 	
+	SPACE		
 ×	NOUN	×	
- 	SPACE	 	
+	SPACE		
 4	NUM	4	
 aux	ADP	à	
 odeurs	NOUN	odeur	
@@ -25711,10 +25710,10 @@ jean	NOUN	jean
 ,	PUNCT	,	
 me	PRON	me	
 dit	VERB	dire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 crois	VERB	croire	
 que	SCONJ	que	
@@ -25746,7 +25745,7 @@ qu’	PRON	qu’
 il	PRON	il	
 a	AUX	avoir	
 foulé	VERB	fouler	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 
 	SPACE	
@@ -25905,7 +25904,7 @@ l’	DET	l’
 austérité	NOUN	austérité	
 du	ADP	de	
 mobilier	NOUN	mobilier	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 un	DET	un	
 lit	NOUN	lit	
@@ -26001,10 +26000,10 @@ son	DET	son
 ami	NOUN	ami	
 Mario	PROPN	Mario	
 Sturani	PROPN	Sturani	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Ma	DET	mon	
 chambre	NOUN	chambre	
 donne	VERB	donne	
@@ -26548,10 +26547,10 @@ d’	ADP	d’
 une	DET	un	
 fille	NOUN	fille	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 presque	ADV	presque	
 belle	ADJ	bel	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -26684,7 +26683,7 @@ pays	NOUN	pays
 qu’	PRON	qu’	
 ils	PRON	il	
 gouvernaient	VERB	gouverner	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -26711,10 +26710,10 @@ pour	ADP	pour
 écrire	VERB	écrire	
 La	DET	le	
 Prison	NOUN	prison	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Stefano	PROPN	Stefano	
 se	PRON	se	
 demanda	VERB	demander	
@@ -26798,7 +26797,7 @@ vie	NOUN	vie
 	
 Le	DET	le	
 6	NUM	6	
- 	SPACE	 	
+	SPACE		
 octobre	NOUN	octobre	
 1935	NUM	1935	
 ,	PUNCT	,	
@@ -26821,7 +26820,7 @@ Le	DET	le
 Métier	NOUN	métier	
 de	ADP	de	
 vivre	VERB	vivre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Que	SCONJ	que	
 quelques-uns	PRON	quelques-uns	
@@ -27183,33 +27182,33 @@ les	DET	le
 coulisses	NOUN	coulisse	
 des	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Mers	PROPN	Mers	
 du	ADP	de	
 Sud	PROPN	Sud	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Une	DET	un	
 génération	NOUN	génération	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Le	DET	le	
 dieu	NOUN	dieu	
 -	NOUN	-	
 bouc	NOUN	bouc	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Maternité	NOUN	maternité	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -27263,13 +27262,13 @@ Feux	NOUN	feu
 	
 Le	DET	le	
 10	NUM	10	
- 	SPACE	 	
+	SPACE		
 novembre	NOUN	novembre	
 1935	NUM	1935	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 S’	SCONJ	s’	
 il	PRON	il	
 y	PRON	y	
@@ -27378,7 +27377,7 @@ chaque	DET	chaque
 matin	NOUN	matin	
 à	ADP	à	
 recommencer	VERB	recommencer	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 ’	PUNCT	’	
 Les	DET	le	
@@ -27419,7 +27418,7 @@ médical	ADJ	médical
 datant	VERB	dater	
 du	ADP	de	
 20	NUM	20	
- 	SPACE	 	
+	SPACE		
 février	NOUN	février	
 1936	NUM	1936	
 ,	PUNCT	,	
@@ -28067,9 +28066,9 @@ remonta	VERB	remonter
 dans	ADP	dans	
 son	DET	son	
 4	NUM	4	
- 	SPACE	 	
+	SPACE		
 ×	ADP	×	
- 	SPACE	 	
+	SPACE		
 4	NUM	4	
 .	PUNCT	.	
 
@@ -28191,10 +28190,10 @@ collection	NOUN	collection
 disparue	VERB	disparaître	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Leurs	DET	leur	
 Figures	NOUN	figure	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 son	DET	son	
@@ -28219,10 +28218,10 @@ Nuova	PROPN	Nuova
 la	DET	le	
 question	NOUN	question	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Et	CCONJ	et	
 elle	PRON	lui	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -28232,10 +28231,10 @@ elle	PRON	lui
 Sturani	PROPN	Sturani	
 lui	PRON	luire	
 répondit	VERB	répondre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 N’	ADV	n’	
 y	PRON	y	
 pense	VERB	penser	
@@ -28328,7 +28327,7 @@ abîmé	VERB	abîmer
 	
 Le	DET	le	
 25	NUM	25	
- 	SPACE	 	
+	SPACE		
 avril	NOUN	avril	
 1936	NUM	1936	
 ,	PUNCT	,	
@@ -28351,7 +28350,7 @@ n’	ADV	n’
 importe	VERB	importer	
 quelle	DET	quel	
 démonstration	NOUN	démonstration	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Aujourd’hui	ADV	aujourd’hui	
 ,	PUNCT	,	
@@ -28363,7 +28362,7 @@ rien	PRON	rien
 Comme	ADP	comme	
 dans	ADP	dans	
 un	DET	un	
- 	SPACE	 	
+	SPACE		
 film	NOUN	film	
 d’	ADP	d’	
 Antonioni	PROPN	Antonioni	
@@ -29139,7 +29138,7 @@ quoi	PRON	quoi
 ,	PUNCT	,	
 de	ADP	de	
 qui	PRON	qui	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -29363,7 +29362,7 @@ personnages	NOUN	personnage
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Tel	ADJ	tel	
 est	AUX	être	
 ce	PRON	ce	
@@ -29374,13 +29373,13 @@ perdu	VERB	perdre
 avec	ADP	avec	
 l’	DET	l’	
 âge	NOUN	âge	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 le	DET	le	
 courage	NOUN	courage	
 des	ADP	de	
 sentiments	NOUN	sentiment	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 écrit	VERB	écrire	
@@ -29394,10 +29393,10 @@ bien	ADV	bien
 ceci	PRON	ceci	
 ,	PUNCT	,	
 encore	ADV	encore	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 J’	PRON	j’	
 ai	VERB	avoir	
 souvent	ADV	souvent	
@@ -29515,11 +29514,11 @@ Italo	PROPN	Italo
 Calvino	PROPN	Calvino	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Fidélité	NOUN	fidélité	
 à	ADP	à	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 dans	ADP	dans	
@@ -29628,10 +29627,10 @@ aussi	ADV	aussi
 de	ADP	de	
 la	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 pudeur	NOUN	pudeur	
 figurative	ADJ	figuratif	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 de	ADP	de	
 Rosetta	PROPN	Rosetta	
@@ -29661,10 +29660,10 @@ magnifiques	ADJ	magnifique
 Enfin	ADV	enfin	
 il	PRON	il	
 expliquait	VERB	expliquer	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Le	DET	le	
 mobile	NOUN	mobile	
 amoureux	ADJ	amoureux	
@@ -29858,7 +29857,7 @@ invitation	NOUN	invitation
 sortir	VERB	sortir	
 au	ADP	au	
 cinéma	NOUN	cinéma	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -29998,7 +29997,7 @@ jeune	ADJ	jeune
 Rosetta	PROPN	Rosetta	
 se	PRON	se	
 lamentait	VERB	lamenter	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Ils	PRON	il	
 salissent	VERB	salir	
@@ -30023,7 +30022,7 @@ Comment	ADV	comment
 ça	PRON	cela	
 ils	PRON	il	
 salissent	VERB	salir	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -30199,7 +30198,7 @@ Pivano	PROPN	Pivano
 écrite	VERB	écrire	
 le	DET	le	
 25	NUM	25	
- 	SPACE	 	
+	SPACE		
 octobre	NOUN	octobre	
 1940	NUM	1940	
 .	PUNCT	.	
@@ -30375,7 +30374,7 @@ poète	NOUN	poète
 	SPACE	
 	
 P.	NOUN	p.	
- 	SPACE	 	
+	SPACE		
 appelle	VERB	appeler	
 même	ADV	même	
 tout	ADJ	tout	
@@ -30389,7 +30388,7 @@ communication	NOUN	communication
 ,	PUNCT	,	
 de	ADP	de	
 communion	NOUN	communion	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 sa	DET	son	
 privation	NOUN	privation	
@@ -30420,7 +30419,7 @@ homme	NOUN	homme
 devant	ADP	devant	
 l’	DET	l’	
 amour	NOUN	amour	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -30460,7 +30459,7 @@ fut	AUX	être
 Femmes	NOUN	femme	
 entre	ADP	entrer	
 elles	PRON	lui	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 Pavese	PROPN	Pavese	
 s’	PRON	s’	
@@ -30616,7 +30615,7 @@ bien	ADV	bien
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Pour	ADP	pour	
 moi	PRON	moi	
 ,	PUNCT	,	
@@ -30661,7 +30660,7 @@ extraite	VERB	extraire
 de	ADP	de	
 son	DET	son	
 contexte	NOUN	contexte	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Il	PRON	il	
 faut	VERB	falloir	
@@ -30677,7 +30676,7 @@ semblait	VERB	sembler
 dire	VERB	dire	
 aux	ADP	à	
 hommes	NOUN	homme	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 si	SCONJ	si	
 vous	PRON	vous	
@@ -30826,10 +30825,10 @@ voiture	NOUN	voiture
 	
 Clelia	PROPN	Clelia	
 disait	VERB	dire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 n’	ADV	n’	
 avais	AUX	avoir	
@@ -31091,7 +31090,7 @@ Au	ADP	au
 cours	NOUN	cours	
 des	ADP	de	
 années	NOUN	année	
- 	SPACE	 	
+	SPACE		
 30	NUM	30	
 ,	PUNCT	,	
 ils	PRON	il	
@@ -31413,7 +31412,7 @@ restée	VERB	rester
 dans	ADP	dans	
 les	DET	le	
 années	NOUN	année	
- 	SPACE	 	
+	SPACE		
 30	NUM	30	
 ,	PUNCT	,	
 restaurée	VERB	restaurer	
@@ -31545,7 +31544,7 @@ un	DET	un
 supplément	NOUN	supplément	
 d’	ADP	d’	
 âme	NOUN	âme	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 elle	PRON	lui	
 n’	ADV	n’	
@@ -31806,7 +31805,7 @@ italien	ADJ	italien
 	
 Le	DET	le	
 4	NUM	4	
- 	SPACE	 	
+	SPACE		
 mai	NOUN	mai	
 1949	NUM	1949	
 ,	PUNCT	,	
@@ -32067,10 +32066,10 @@ une	NOUN	une
 d’	ADP	d’	
 un	DET	un	
 journal	NOUN	journal	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Nous	PRON	nous	
 ne	ADV	ne	
 savions	VERB	savoir	
@@ -32134,7 +32133,7 @@ ressenti	VERB	ressentir
 la	DET	le	
 même	ADJ	même	
 tristesse	NOUN	tristesse	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -32155,7 +32154,7 @@ réponse	NOUN	réponse
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Non	ADV	non	
 ,	PUNCT	,	
 que	SCONJ	que	
@@ -32218,7 +32217,7 @@ et	CCONJ	et
 de	ADP	de	
 vie	NOUN	vie	
 nouvelle	ADJ	nouveau	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 À	ADP	à	
 cette	DET	ce	
@@ -32344,7 +32343,7 @@ année	NOUN	année
 ,	PUNCT	,	
 le	DET	le	
 4	NUM	4	
- 	SPACE	 	
+	SPACE		
 mai	NOUN	mai	
 ,	PUNCT	,	
 le	DET	le	
@@ -32404,15 +32403,15 @@ un	DET	un
 silence	NOUN	silence	
 de	ADP	de	
 mort	NOUN	mort	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Les	DET	le	
 champions	NOUN	champion	
 d’	ADP	d’	
 Italie	PROPN	Italie	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Bacigalupo	PROPN	Bacigalupo	
 ,	PUNCT	,	
@@ -32425,7 +32424,7 @@ Dino	PROPN	Dino
 Bongiorni	PROPN	Bongiorni	
 ,	PUNCT	,	
 Castigliano	PROPN	Castigliano	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 Il	PRON	il	
 les	PRON	le	
@@ -32467,7 +32466,7 @@ mauve	ADJ	mauve
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Maroso	PROPN	Maroso	
 ,	PUNCT	,	
 Martelli	PROPN	Martelli	
@@ -32482,7 +32481,7 @@ Menti	PROPN	Menti
 Operto	PROPN	Operto	
 ,	PUNCT	,	
 Ossola	PROPN	Ossola	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 Parce	SCONJ	parce	
 que	SCONJ	que	
@@ -32533,9 +32532,9 @@ FC	PROPN	FC
 ,	PUNCT	,	
 le	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Toro	PROPN	Toro	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 splendide	ADJ	splendide	
@@ -32758,7 +32757,7 @@ femmes	NOUN	femme
 dans	ADP	dans	
 la	DET	le	
 plaine	NOUN	plaine	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -32849,9 +32848,9 @@ pas	ADV	pas
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Nous	PRON	nous	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 c’	PRON	c’	
@@ -33109,18 +33108,18 @@ livre	NOUN	livre
 de	ADP	de	
 sa	DET	son	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 modeste	ADJ	modeste	
 Divine	ADJ	divin	
 Comédie	NOUN	comédie	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 du	ADP	de	
 tout	ADV	tout	
 est	AUX	être	
 dit	VERB	dire	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 pays	NOUN	pays	
 absolu	ADJ	absolu	
@@ -33176,15 +33175,15 @@ le	DET	le
 cousin	NOUN	cousin	
 des	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Mers	NOUN	mer	
 du	ADP	de	
 Sud	NOUN	sud	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 en	ADP	en	
 1935	NUM	1935	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 On	PRON	on	
 parcourt	VERB	parcourir	
@@ -33243,7 +33242,7 @@ le	PRON	le
 vend	VERB	vendre	
 à	ADP	à	
 Canelli	PROPN	Canelli	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 on	PRON	on	
 récolte	VERB	récolte	
@@ -33293,7 +33292,7 @@ que	PRON	que
 cela	PRON	celer	
 veut	VERB	vouloir	
 dire	VERB	dire	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -33407,7 +33406,7 @@ lentement	ADV	lentement
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Est-il	PRON	est-il	
 possible	ADJ	possible	
 qu’	SCONJ	qu’	
@@ -33435,7 +33434,7 @@ qu’	PRON	qu’
 est	AUX	être	
 mon	DET	mon	
 pays	NOUN	pays	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -33455,7 +33454,7 @@ moi	PRON	moi
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Où	ADV	où	
 avez	VERB	avoir	
 -vous	PRON	vous	
@@ -33463,7 +33462,7 @@ vos	DET	votre
 morts	NOUN	mort	
 ,	PUNCT	,	
 vous	PRON	vous	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -33529,7 +33528,7 @@ n’	ADV	n’
 ont	AUX	avoir	
 jamais	ADV	jamais	
 bougé	VERB	bouger	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -33538,14 +33537,14 @@ bougé	VERB	bouger
 -ce	PRON	-ce	
 l’	DET	l’	
 immaturité	NOUN	immaturité	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
 	
 L’	DET	l’	
 aveuglement	NOUN	aveuglement	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -33669,7 +33668,7 @@ qui	PRON	qui
 guidait	VERB	guider	
 chaque	DET	chaque	
 voyageur	NOUN	voyageur	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 il	PRON	il	
 y	PRON	y	
@@ -34085,7 +34084,7 @@ l’	DET	l’
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 C’	PRON	c’	
 est	AUX	être	
 une	DET	un	
@@ -34097,7 +34096,7 @@ qui	PRON	qui
 est	AUX	être	
 sans	ADP	sans	
 paroles	NOUN	parole	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 écrira	VERB	écrire	
@@ -34340,7 +34339,7 @@ ils	PRON	il
 dans	ADP	dans	
 un	DET	un	
 livre	NOUN	livre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Le	DET	le	
 Salto	PROPN	Salto	
@@ -34515,7 +34514,7 @@ déception	NOUN	déception
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 me	PRON	me	
 rappelai	VERB	rappeler	
@@ -34589,7 +34588,7 @@ un	DET	un
 bout	NOUN	bout	
 de	ADP	de	
 vigne	NOUN	vigne	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -34632,11 +34631,11 @@ mains	NOUN	main
 calleuses	ADJ	calleux	
 de	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Fumeurs	NOUN	fumeur	
 de	ADP	de	
 papier	NOUN	papier	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 poème	NOUN	poème	
@@ -34648,7 +34647,7 @@ fatigue	NOUN	fatigue
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Il	PRON	il	
 était	AUX	être	
 de	ADP	de	
@@ -34779,11 +34778,11 @@ la	DET	le
 colline	NOUN	colline	
 des	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Mers	NOUN	mer	
 du	ADP	de	
 Sud	NOUN	sud	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -34970,7 +34969,7 @@ et	CCONJ	et
 la	DET	le	
 vigne	NOUN	vigne	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 comme	ADP	comme	
 un	DET	un	
 corps	NOUN	corps	
@@ -34981,7 +34980,7 @@ respiration	NOUN	respiration
 et	CCONJ	et	
 sa	DET	son	
 sueur	NOUN	sueur	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -34997,11 +34996,11 @@ au	ADP	au
 cousin	NOUN	cousin	
 des	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Mers	PROPN	Mers	
 du	ADP	de	
 Sud	PROPN	Sud	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 qu’	PRON	qu’	
 on	PRON	on	
@@ -35021,10 +35020,10 @@ du	ADP	de
 monde	NOUN	monde	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 l’	DET	l’	
 Américain	NOUN	américain	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 rentrait	VERB	rentraire	
 au	ADP	au	
@@ -35085,7 +35084,7 @@ ailleurs	ADV	ailleurs
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Il	PRON	il	
 ne	ADV	ne	
 faudrait	VERB	falloir	
@@ -35095,7 +35094,7 @@ ni	CCONJ	ni
 connaître	VERB	connaître	
 le	DET	le	
 monde	NOUN	monde	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 écrit	VERB	écrire	
@@ -35124,7 +35123,7 @@ comment	ADV	comment
 continuer	VERB	continuer	
 à	ADP	à	
 vivre	VERB	vivre	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -35145,35 +35144,35 @@ Feux	NOUN	feu
 était	AUX	être	
 sa	DET	son	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 grande	ADJ	grand	
 intuition	NOUN	intuition	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 sa	DET	son	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 vision	NOUN	vision	
 merveilleuse	ADJ	merveilleux	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 sa	DET	son	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 pensée	NOUN	pensée	
 de	ADP	de	
 tous	ADJ	tout	
 les	DET	le	
 jours	NOUN	jour	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 (	PUNCT	(	
 lettre	NOUN	lettre	
 du	ADP	de	
 17	NUM	17	
- 	SPACE	 	
+	SPACE		
 juillet	NOUN	juillet	
 1949	NUM	1949	
 )	PUNCT	)	
@@ -35256,7 +35255,7 @@ Leopardi	PROPN	Leopardi
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Que	PRON	que	
 fais	VERB	faire	
 -	PRON	-	
@@ -35267,14 +35266,14 @@ lune	NOUN	lune
 dans	ADP	dans	
 le	DET	le	
 ciel	NOUN	ciel	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
 	
 Dis	VERB	dire	
 -moi	PRON	moi	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 que	PRON	que	
 fais	VERB	faire	
@@ -35283,7 +35282,7 @@ tu	PRON	tu
 ,	PUNCT	,	
 silencieuse	ADJ	silencieux	
 lune	NOUN	lune	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -35480,7 +35479,7 @@ Gazzettino	PROPN	Gazzettino
 écrite	VERB	écrire	
 le	DET	le	
 30	NUM	30	
- 	SPACE	 	
+	SPACE		
 mai	NOUN	mai	
 1950	NUM	1950	
 ,	PUNCT	,	
@@ -35493,7 +35492,7 @@ son	DET	son
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Effectivement	ADV	effectivement	
 ,	PUNCT	,	
 La	DET	le	
@@ -36077,10 +36076,10 @@ se	PRON	se
 donner	VERB	donner	
 la	DET	le	
 mort	NOUN	mort	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 pardonne	VERB	pardonner	
 à	ADP	à	
@@ -36097,7 +36096,7 @@ pardon	NOUN	pardon
 	
 Ça	PRON	cela	
 va	VERB	aller	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -36293,7 +36292,7 @@ fer	NOUN	fer
 écrit	VERB	écrire	
 son	DET	son	
 nom	NOUN	nom	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Cesare	PROPN	Cesare	
 Pavese	PROPN	Pavese	
@@ -36313,10 +36312,10 @@ dernières	ADJ	dernier
 phrases	NOUN	phrase	
 du	ADP	de	
 journal	NOUN	journal	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 J’	PRON	j’	
 ai	AUX	avoir	
 donné	VERB	donner	
@@ -36347,12 +36346,12 @@ la	DET	le
 citation	NOUN	citation	
 du	ADP	de	
 16	NUM	16	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 1950	NUM	1950	
 était	AUX	être	
 complète	ADJ	complet	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Ma	DET	mon	
 part	NOUN	part	
@@ -36416,7 +36415,7 @@ qui	PRON	qui
 l’	PRON	l’	
 avaient	AUX	avoir	
 élevée	VERB	élever	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 les	DET	le	
 gens	NOUN	gens	
@@ -36452,7 +36451,7 @@ mort	NOUN	mort
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Nuit	NOUN	nuit	
 limpide	ADJ	limpide	
 ,	PUNCT	,	
@@ -36541,7 +36540,7 @@ advenu	VERB	advenir
 du	ADP	de	
 cataclysme	NOUN	cataclysme	
 imminent	ADJ	imminent	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -36565,7 +36564,7 @@ plus	ADV	plus
 ou	CCONJ	ou	
 moins	ADV	moins	
 atteinte	VERB	atteindre	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -36630,7 +36629,7 @@ plus	ADV	plus
 	
 Le	DET	le	
 8	NUM	8	
- 	SPACE	 	
+	SPACE		
 février	NOUN	février	
 1949	NUM	1949	
 ,	PUNCT	,	
@@ -36639,12 +36638,12 @@ soin	NOUN	soin
 de	ADP	de	
 préciser	VERB	préciser	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 à	ADP	à	
 Santo	PROPN	Santo	
 Stefano	PROPN	Stefano	
 Belbo	PROPN	Belbo	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 il	PRON	il	
@@ -36652,7 +36651,7 @@ il	PRON	il
 cette	DET	ce	
 douloureuse	ADJ	douloureux	
 observation	NOUN	observation	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Pour	ADP	pour	
 que	SCONJ	que	
@@ -36803,12 +36802,12 @@ plus	ADV	plus
 	
 Du	ADP	de	
 samedi	NOUN	samedi	
- 	SPACE	 	
+	SPACE		
 8	NUM	8	
 au	ADP	au	
 lundi	NOUN	lundi	
 10	NUM	10	
- 	SPACE	 	
+	SPACE		
 juillet	NOUN	juillet	
 1950	NUM	1950	
 ,	PUNCT	,	
@@ -36911,7 +36910,7 @@ jours	NOUN	jour
 	
 Only	X	Only	
 a	X	avoir	
- 	SPACE	 	
+	SPACE		
 flirt	NOUN	flirt	
 Nos	DET	notre	
 escapades	NOUN	escapade	
@@ -36966,7 +36965,7 @@ amoureux	ADJ	amoureux
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Turin	PROPN	Turin	
 ,	PUNCT	,	
 c’	PRON	c’	
@@ -36975,7 +36974,7 @@ nous	PRON	nous
 et	CCONJ	et	
 le	DET	le	
 soleil	NOUN	soleil	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 dit	VERB	dire	
@@ -36998,7 +36997,7 @@ parisien	ADJ	parisien
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 C’	PRON	c’	
 est	AUX	être	
 incroyable	ADJ	incroyable	
@@ -37073,7 +37072,7 @@ voyage	NOUN	voyage
 cela	PRON	celer	
 voulait	VERB	vouloir	
 dire	VERB	dire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 vous	PRON	vous	
 aussi	ADV	aussi	
@@ -37304,7 +37303,7 @@ parlait	VERB	parler
 un	DET	un	
 anglais	NOUN	anglais	
 parfait	ADJ	parfait	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 sa	DET	son	
 compagnie	NOUN	compagnie	
@@ -37334,9 +37333,9 @@ interprète	NOUN	interprète
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Connie	PROPN	Connie	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 avait	VERB	avoir	
 le	DET	le	
@@ -37515,7 +37514,7 @@ habituée	NOUN	habitué
 du	ADP	de	
 beau	ADJ	beau	
 monde	NOUN	monde	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -37583,10 +37582,10 @@ bianca	NOUN	bianca
 ,	PUNCT	,	
 la	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 semaine	NOUN	semaine	
 blanche	ADJ	blanc	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 désignation	NOUN	désignation	
@@ -37628,7 +37627,7 @@ journal	NOUN	journal
 Pavese	PROPN	Pavese	
 se	PRON	se	
 lamentait	VERB	lamenter	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Et	CCONJ	et	
 la	DET	le	
@@ -37640,7 +37639,7 @@ amours	NOUN	amour
 où	ADV	où	
 sont	VERB	être	
 -ils	PRON	il	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -37650,7 +37649,7 @@ conserve	VERB	conserve
 un	DET	un	
 certain	ADJ	certain	
 optimisme	NOUN	optimisme	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 je	PRON	je	
 n’	ADV	n’	
@@ -37687,9 +37686,9 @@ tard	ADV	tard
 ,	PUNCT	,	
 le	DET	le	
 15	NUM	15	
- 	SPACE	 	
+	SPACE		
 février	NOUN	février	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Ils	PRON	il	
 parlent	VERB	parler	
@@ -37852,14 +37851,14 @@ toujours	ADV	toujours
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Est	AUX	être	
 -ce	PRON	-ce	
 possible	ADJ	possible	
 à	ADP	à	
 mon	DET	mon	
 âge	NOUN	âge	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -37870,7 +37869,7 @@ s’	PRON	s’
 -il	PRON	il	
 le	DET	le	
 9	NUM	9	
- 	SPACE	 	
+	SPACE		
 mars	NOUN	mars	
 .	PUNCT	.	
 
@@ -38024,12 +38023,12 @@ direction	NOUN	direction
 	
 Le	DET	le	
 16	NUM	16	
- 	SPACE	 	
+	SPACE		
 mars	NOUN	mars	
 dans	ADP	dans	
 le	DET	le	
 journal	NOUN	journal	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Le	DET	le	
 pas	NOUN	pas	
@@ -38113,7 +38112,7 @@ Du	ADP	de
 fond	NOUN	fond	
 du	ADP	de	
 cœur	NOUN	cœur	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 je	PRON	je	
 ne	ADV	ne	
@@ -38249,11 +38248,11 @@ Marshall	PROPN	Marshall
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Les	DET	le	
 Deux	NUM	Deux	
 Sœurs	NOUN	sœur	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 titre	NOUN	titre	
@@ -38282,7 +38281,7 @@ d’	ADP	d’
 amour	NOUN	amour	
 à	ADP	à	
 Connie	PROPN	Connie	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Penser	VERB	penser	
 à	ADP	à	
@@ -38374,11 +38373,11 @@ moment	NOUN	moment
 ,	PUNCT	,	
 du	ADP	de	
 11	NUM	11	
- 	SPACE	 	
+	SPACE		
 mars	NOUN	mars	
 au	ADP	au	
 11	NUM	11	
- 	SPACE	 	
+	SPACE		
 avril	NOUN	avril	
 ,	PUNCT	,	
 Pavese	PROPN	Pavese	
@@ -38410,13 +38409,13 @@ d’	ADP	d’
 poétique	ADJ	poétique	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 To	X	To	
 C.	X	C.	
- 	SPACE	 	
+	SPACE		
 from	X	from	
 C.	NOUN	c.	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 to	X	to	
@@ -38680,9 +38679,9 @@ une	DET	un
 ,	PUNCT	,	
 ce	DET	ce	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 flirt	NOUN	flirt	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 symbolisa	VERB	symboliser	
@@ -38693,12 +38692,12 @@ Dominique	PROPN	Dominique
 Fernandez	PROPN	Fernandez	
 nomma	VERB	nommer	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 l’	DET	l’	
 échec	NOUN	échec	
 de	ADP	de	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -38730,10 +38729,10 @@ doute	NOUN	doute
 lié	VERB	lier	
 au	ADP	au	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 vice	NOUN	vice	
 absurde	ADJ	absurde	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 comme	ADP	comme	
@@ -38763,7 +38762,7 @@ la	DET	le
 date	NOUN	date	
 du	ADP	de	
 7	NUM	7	
- 	SPACE	 	
+	SPACE		
 décembre	NOUN	décembre	
 1945	NUM	1945	
 ,	PUNCT	,	
@@ -38783,9 +38782,9 @@ obstacle	NOUN	obstacle
 fondamental	ADJ	fondamental	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 cela	PRON	celer	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 et	CCONJ	et	
@@ -38798,7 +38797,7 @@ de	ADP	de
 ses	DET	son	
 dernières	ADJ	dernier	
 liaisons	NOUN	liaison	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Cela	PRON	celer	
 fait	VERB	faire	
@@ -38859,7 +38858,7 @@ rémission	NOUN	rémission
 Tu	PRON	tu	
 avais	VERB	avoir	
 37	NUM	37	
- 	SPACE	 	
+	SPACE		
 ans	NOUN	an	
 et	CCONJ	et	
 toutes	ADJ	tout	
@@ -38881,7 +38880,7 @@ l’	DET	l’
 Et	CCONJ	et	
 plus	ADV	plus	
 loin	ADV	loin	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Tu	PRON	tu	
 le	PRON	le	
@@ -38890,7 +38889,7 @@ que	SCONJ	que
 tu	PRON	tu	
 es	AUX	être	
 seul	ADJ	seul	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -38903,7 +38902,7 @@ tu	PRON	tu
 n’	ADV	n’	
 es	VERB	être	
 rien	PRON	rien	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -38919,7 +38918,7 @@ plaque	VERB	plaque
 cause	NOUN	cause	
 de	ADP	de	
 cela	PRON	celer	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -38930,7 +38929,7 @@ sert	VERB	servir
 à	ADP	à	
 quelque	DET	quelque	
 chose	NOUN	chose	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -38943,7 +38942,7 @@ chose	NOUN	chose
 de	ADP	de	
 le	PRON	le	
 dire	VERB	dire	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -38971,7 +38970,7 @@ intéresse	VERB	intéresser
 à	ADP	à	
 un	DET	un	
 phtisique	NOUN	phtisique	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -39050,7 +39049,7 @@ plus	ADV	plus
 y	PRON	y	
 croire	VERB	croire	
 vraiment	ADV	vraiment	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 de	ADP	de	
 toute	DET	tout	
@@ -39064,7 +39063,7 @@ mal	ADV	mal
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Last	X	Last	
 blues	X	blues	
 ,	PUNCT	,	
@@ -39073,7 +39072,7 @@ be	X	be
 read	X	read	
 some	X	some	
 day	X	day	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 dernier	ADJ	dernier	
@@ -39186,7 +39185,7 @@ pas	ADV	pas
 	
 Le	DET	le	
 11	NUM	11	
- 	SPACE	 	
+	SPACE		
 avril	NOUN	avril	
 1950	NUM	1950	
 ,	PUNCT	,	
@@ -39231,7 +39230,7 @@ Feux	NOUN	feu
 sortit	VERB	sortir	
 le	DET	le	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 avril	NOUN	avril	
 ,	PUNCT	,	
 on	PRON	on	
@@ -39243,18 +39242,18 @@ page	NOUN	page
 cette	DET	ce	
 nouvelle	ADJ	nouveau	
 dédicace	NOUN	dédicace	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 For	X	For	
 C.	X	C.	
- 	SPACE	 	
+	SPACE		
 /	X	/	
 Ripeness	X	Ripeness	
 is	X	is	
 all	X	all	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -39289,7 +39288,7 @@ dernière	ADJ	dernier
 lettre	NOUN	lettre	
 le	DET	le	
 19	NUM	19	
- 	SPACE	 	
+	SPACE		
 mai	NOUN	mai	
 1950	NUM	1950	
 ,	PUNCT	,	
@@ -39307,10 +39306,10 @@ ces	DET	ce
 premiers	ADJ	premier	
 mots	NOUN	mot	
 bilieux	ADJ	bilieux	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Chère	ADJ	cher	
 Connie	PROPN	Connie	
 ,	PUNCT	,	
@@ -39364,10 +39363,10 @@ journaux	NOUN	journal
 Connie	PROPN	Connie	
 aurait	AUX	avoir	
 dit	VERB	dire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 ne	ADV	ne	
 savais	VERB	savoir	
@@ -39481,7 +39480,7 @@ Connie	PROPN	Connie
 	
 Le	DET	le	
 28	NUM	28	
- 	SPACE	 	
+	SPACE		
 octobre	NOUN	octobre	
 1969	NUM	1969	
 ,	PUNCT	,	
@@ -39506,16 +39505,16 @@ somnifères	NOUN	somnifère
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Bel	ADJ	bel	
 été	NOUN	été	
- 	SPACE	 	
+	SPACE		
 pour	ADP	pour	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Demain	ADV	demain	
 matin	NOUN	matin	
 ,	PUNCT	,	
@@ -39534,7 +39533,7 @@ dirai	VERB	dire
 -je	PRON	je	
 encore	ADV	encore	
 cela	PRON	celer	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -39542,7 +39541,7 @@ cela	PRON	celer
 »	PUNCT	»	
 Le	DET	le	
 23	NUM	23	
- 	SPACE	 	
+	SPACE		
 juin	NOUN	juin	
 1950	NUM	1950	
 ,	PUNCT	,	
@@ -39715,7 +39714,7 @@ le	DET	le
 suicide	NOUN	suicide	
 du	ADP	de	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 .	PUNCT	.	
 
@@ -39765,7 +39764,7 @@ davantage	ADV	davantage
 Le	DET	le	
 samedi	NOUN	samedi	
 24	NUM	24	
- 	SPACE	 	
+	SPACE		
 juin	NOUN	juin	
 ,	PUNCT	,	
 on	PRON	on	
@@ -39988,12 +39987,12 @@ microcosme	NOUN	microcosme
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Pavese	PROPN	Pavese	
 et	CCONJ	et	
 la	DET	le	
 mondanité	NOUN	mondanité	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 titrait	VERB	titrer	
@@ -40028,17 +40027,17 @@ lors	ADV	lors
 de	ADP	de	
 la	DET	le	
 réception	NOUN	réception	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 La	DET	le	
 vie	NOUN	vie	
 commence	VERB	commencer	
 à	ADP	à	
 quarante	NUM	quarante	
 ans	NOUN	an	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 Pavese	PROPN	Pavese	
 profita	VERB	profiter	
@@ -40061,10 +40060,10 @@ milieu	NOUN	milieu
 de	ADP	de	
 cette	DET	ce	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 joie	NOUN	joie	
 indubitable	ADJ	indubitable	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -40111,7 +40110,7 @@ hôtel	NOUN	hôtel
 	
 Le	DET	le	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 juin	NOUN	juin	
 ,	PUNCT	,	
 il	PRON	il	
@@ -40176,7 +40175,7 @@ plus	ADV	plus
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Mon	DET	mon	
 lot	NOUN	lot	
 à	ADP	à	
@@ -40188,7 +40187,7 @@ d’	ADP	d’
 étreindre	VERB	étreindre	
 des	DET	un	
 ombres	NOUN	ombre	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 écrit	VERB	écrire	
@@ -40197,7 +40196,7 @@ ombres	NOUN	ombre
 Doris	PROPN	Doris	
 le	DET	le	
 6	NUM	6	
- 	SPACE	 	
+	SPACE		
 juillet	NOUN	juillet	
 en	ADP	en	
 même	ADJ	même	
@@ -40262,7 +40261,7 @@ week	NOUN	week
 end	NOUN	end	
 du	ADP	de	
 8	NUM	8	
- 	SPACE	 	
+	SPACE		
 juillet	NOUN	juillet	
 .	PUNCT	.	
 
@@ -40279,10 +40278,10 @@ le	DET	le
 ,	PUNCT	,	
 à	ADP	à	
 Turin	PROPN	Turin	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Rentré	VERB	rentrer	
 de	ADP	de	
 Rome	PROPN	Rome	
@@ -40305,7 +40304,7 @@ apothéose	NOUN	apothéose
 	
 Et	CCONJ	et	
 alors	ADV	alors	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -40348,7 +40347,7 @@ année	NOUN	année
 finirait	VERB	finir	
 un	DET	un	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 ,	PUNCT	,	
 un	DET	un	
@@ -40364,15 +40363,15 @@ de	ADP	de
 la	DET	le	
 Ville	NOUN	ville	
 titra	VERB	titrer	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Bel	ADJ	bel	
 été	NOUN	été	
 pour	ADP	pour	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -40430,7 +40429,7 @@ son	DET	son
 journal	NOUN	journal	
 le	DET	le	
 8	NUM	8	
- 	SPACE	 	
+	SPACE		
 janvier	NOUN	janvier	
 1938	NUM	1938	
 .	PUNCT	.	
@@ -40486,7 +40485,7 @@ Il	PRON	il
 avait	AUX	avoir	
 donc	ADV	donc	
 écrit	VERB	écrire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
    	SPACE	   	
@@ -40649,7 +40648,7 @@ mort	NOUN	mort
 ,	PUNCT	,	
 le	DET	le	
 1^er^	ADJ	1^er^	
- 	SPACE	 	
+	SPACE		
 avril	NOUN	avril	
 1950	NUM	1950	
 ,	PUNCT	,	
@@ -40675,7 +40674,7 @@ professeur	NOUN	professeur
 Harvard	PROPN	Harvard	
 ,	PUNCT	,	
 F.	PROPN	F.	
- 	SPACE	 	
+	SPACE		
 O.	PROPN	O.	
 Matthiessen	PROPN	Matthiessen	
 se	PRON	se	
@@ -40718,10 +40717,10 @@ on	PRON	on
 retrouva	VERB	retrouver	
 ce	DET	ce	
 billet	NOUN	billet	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 I	X	I	
 am	X	am	
 depressed	X	depressed	
@@ -40792,7 +40791,7 @@ précipiter	VERB	précipiter
 celui	PRON	celui	
 de	ADP	de	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -40852,9 +40851,9 @@ en	PRON	en
 inquiétait	VERB	inquiéter	
 le	DET	le	
 14	NUM	14	
- 	SPACE	 	
+	SPACE		
 juillet	NOUN	juillet	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Le	DET	le	
 stoïcisme	NOUN	stoïcisme	
@@ -40903,7 +40902,7 @@ pensera	VERB	penser
 de	ADP	de	
 ces	DET	ce	
 choses	NOUN	chose	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -40947,10 +40946,10 @@ leur	DET	son
 œuvre	NOUN	œuvre	
 le	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 vice	NOUN	vice	
 absurde	ADJ	absurde	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 le	DET	le	
@@ -41162,7 +41161,7 @@ mal	ADV	mal
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Mais	CCONJ	mais	
 la	DET	le	
 dépression	NOUN	dépression	
@@ -41328,7 +41327,7 @@ de	ADP	de
 ces	DET	ce	
 géants	NOUN	géant	
 fragiles	ADJ	fragile	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 ils	PRON	il	
 avaient	AUX	avoir	
@@ -41355,7 +41354,7 @@ consolations	NOUN	consolation
 simples	ADJ	simple	
 et	CCONJ	et	
 merveilleuses	ADJ	merveilleux	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
    	SPACE	   	
@@ -41521,10 +41520,10 @@ cousin	NOUN	cousin
 nous	PRON	nous	
 en	PRON	en	
 plaisantions	VERB	plaisanter	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Bon	ADJ	bon	
 ,	PUNCT	,	
 il	PRON	il	
@@ -41532,7 +41531,7 @@ y	PRON	y
 va	VERB	aller	
 ou	CCONJ	ou	
 pas	ADV	pas	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -41540,7 +41539,7 @@ pas	ADV	pas
 Il	PRON	il	
 se	PRON	se	
 décide	VERB	décider	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -41575,17 +41574,17 @@ mains	NOUN	main
 dans	ADP	dans	
 les	DET	le	
 poches	NOUN	poche	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Tiens	PRON	tien	
 ,	PUNCT	,	
 il	PRON	il	
 est	VERB	être	
 toujours	ADV	toujours	
 là	ADV	là	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -41874,10 +41873,10 @@ de	ADP	de
 sa	DET	son	
 dernière	ADJ	dernier	
 année	NOUN	année	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Nous	PRON	nous	
 sommes	VERB	être	
 au	ADP	au	
@@ -42022,7 +42021,7 @@ profonds	ADJ	profond
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Ceeee	SYM	Ceeee	
 -	PROPN	-	
 sareeee	PROPN	sareeee	
@@ -42044,7 +42043,7 @@ para	PROPN	parer
 ssimooo	PROPN	ssimooo	
 a	ADP	à	
 vivere	VERB	vivere	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 disait	VERB	dire	
@@ -42128,10 +42127,10 @@ passage	NOUN	passage
 de	ADP	de	
 la	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 dernière	ADJ	dernier	
 lettre	NOUN	lettre	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 de	ADP	de	
 Pavese	PROPN	Pavese	
@@ -42140,7 +42139,7 @@ Pavese	PROPN	Pavese
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Puis	VERB	pouvoir	
 -je	PRON	je	
 te	PRON	te	
@@ -42193,19 +42192,19 @@ adresse	VERB	adresse
 à	ADP	à	
 un	DET	un	
 homme	NOUN	homme	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
 	
 »	PUNCT	»	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Les	DET	le	
 femmes	NOUN	femme	
 sont	AUX	être	
 vaches	NOUN	vache	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 grogne	VERB	grogne	
@@ -42223,10 +42222,10 @@ Marlène	PROPN	Marlène
 Jobert	PROPN	Jobert	
 lui	PRON	luire	
 répond	VERB	répondre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Tu	PRON	tu	
 ne	ADV	ne	
 peux	VERB	pouvoir	
@@ -42252,7 +42251,7 @@ tu	PRON	tu
 as	AUX	avoir	
 été	AUX	être	
 aimé	VERB	aimer	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 Cette	DET	ce	
 lettre	NOUN	lettre	
@@ -42323,10 +42322,10 @@ fut	AUX	être
 pas	ADV	pas	
 la	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 dernière	ADJ	dernier	
 lettre	NOUN	lettre	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 de	ADP	de	
 Pavese	PROPN	Pavese	
@@ -42539,7 +42538,7 @@ le	DET	le
 texte	NOUN	texte	
 était	AUX	être	
 controversé	ADJ	controversé	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 on	PRON	on	
 soupçonnait	VERB	soupçonner	
@@ -42602,7 +42601,7 @@ D’	ADP	d’
 où	PRON	où	
 écrivait	VERB	écrire	
 -il	PRON	il	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -42610,7 +42609,7 @@ où	PRON	où
 Quel	DET	quel	
 jour	NOUN	jour	
 précisément	ADV	précisément	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -42678,10 +42677,10 @@ qu’	PRON	qu’
 il	PRON	il	
 appela	VERB	appeler	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 mon	DET	mon	
 amour	NOUN	amour	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 presque	ADV	presque	
 par	ADP	par	
@@ -42704,7 +42703,7 @@ au	ADP	au
 début	NOUN	début	
 des	ADP	de	
 années	NOUN	année	
- 	SPACE	 	
+	SPACE		
 90	NUM	90	
 lorsqu’	SCONJ	lorsqu’	
 une	DET	un	
@@ -42850,10 +42849,10 @@ présentaient	VERB	présenter
 comme	ADP	comme	
 la	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 dernière	ADJ	dernier	
 muse	NOUN	muse	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 de	ADP	de	
 Pavese	PROPN	Pavese	
@@ -42944,12 +42943,12 @@ fois	NOUN	fois
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 J’	PRON	j’	
 irai	VERB	aller	
 à	ADP	à	
 Bocca	PROPN	Bocca	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 écrit	VERB	écrire	
@@ -43106,7 +43105,7 @@ Tarquinia	PROPN	Tarquinia
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 C’	PRON	c’	
 était	AUX	être	
 un	DET	un	
@@ -43426,10 +43425,10 @@ aurait	AUX	avoir
 laissé	VERB	laisser	
 un	DET	un	
 commentaire	NOUN	commentaire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Belle	ADJ	bel	
 maison	NOUN	maison	
 pour	ADP	pour	
@@ -43613,11 +43612,11 @@ avait	AUX	avoir
 jamais	ADV	jamais	
 dit	VERB	dire	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 je	PRON	je	
 t’	PRON	t’	
 aime	VERB	aimer	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -43683,7 +43682,7 @@ confidences	NOUN	confidence
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Pierina	PROPN	Pierina	
 ,	PUNCT	,	
 s’	SCONJ	s’	
@@ -43780,10 +43779,10 @@ il	PRON	il
 lui	PRON	luire	
 disait	VERB	dire	
 seulement	ADV	seulement	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Chère	NOUN	chère	
 Pierina	PROPN	Pierina	
 ,	PUNCT	,	
@@ -43813,7 +43812,7 @@ peu	ADV	peu
 	SPACE	
 	
 P.	NOUN	p.	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 À	ADP	à	
 Bocca	PROPN	Bocca	
@@ -43891,7 +43890,7 @@ jamais	ADV	jamais
 	
 Le	DET	le	
 17	NUM	17	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 ,	PUNCT	,	
 à	ADP	à	
@@ -43925,10 +43924,10 @@ bord	NOUN	bord
 de	ADP	de	
 la	DET	le	
 mer	NOUN	mer	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Pierina	PROPN	Pierina	
 si	SCONJ	si	
 tu	PRON	tu	
@@ -44030,7 +44029,7 @@ mort	NOUN	mort
 ,	PUNCT	,	
 le	DET	le	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 ,	PUNCT	,	
 on	PRON	on	
@@ -44080,7 +44079,7 @@ adressé	VERB	adresser
 	
 Turin	PROPN	Turin	
 au	ADP	au	
- 	SPACE	 	
+	SPACE		
 mois	NOUN	mois	
 d’	ADP	d’	
 août	NOUN	août	
@@ -44129,7 +44128,7 @@ Magra	PROPN	Magra
 après	ADP	après	
 le	DET	le	
 15	NUM	15	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 .	PUNCT	.	
 
@@ -44163,7 +44162,7 @@ année	NOUN	année
 	
 Le	DET	le	
 15	NUM	15	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 a	VERB	avoir	
 ses	DET	son	
@@ -44204,7 +44203,7 @@ amis	NOUN	ami
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 me	PRON	me	
 sauve	VERB	sauver	
@@ -44405,7 +44404,7 @@ Nuova	PROPN	Nuova
 	
 Un	DET	un	
 17	NUM	17	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 ,	PUNCT	,	
 dans	ADP	dans	
@@ -44646,7 +44645,7 @@ comprendre	VERB	comprendre
 le	DET	le	
 vice	NOUN	vice	
 absurde	ADJ	absurde	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -44686,7 +44685,7 @@ mort	VERB	mourir
 ,	PUNCT	,	
 et	CCONJ	et	
 ensuite	ADV	ensuite	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -44831,10 +44830,10 @@ lui	PRON	luire
 témoignait	VERB	témoigner	
 son	DET	son	
 admiration	NOUN	admiration	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Tu	PRON	tu	
 as	AUX	avoir	
 reçu	VERB	recevoir	
@@ -44948,7 +44947,7 @@ la	DET	le
 cousine	NOUN	cousin	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 dis	VERB	dire	
 -	PRON	-	
 lui	PRON	luire	
@@ -44991,7 +44990,7 @@ fait	AUX	faire
 tomber	VERB	tomber	
 tout	ADV	tout	
 petits	ADJ	petit	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -45014,7 +45013,7 @@ du	ADP	de
 village	NOUN	village	
 ,	PUNCT	,	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 comme	ADP	comme	
 ça	PRON	cela	
 il	PRON	il	
@@ -45032,7 +45031,7 @@ moins	ADV	moins
 il	PRON	il	
 y	PRON	y	
 croit	VERB	croire	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -45047,10 +45046,10 @@ et	CCONJ	et
 concluait	VERB	conclure	
 sa	DET	son	
 lettre	NOUN	lettre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Moi	PRON	moi	
 ,	PUNCT	,	
 je	PRON	je	
@@ -45106,17 +45105,17 @@ observation	NOUN	observation
 lumineuse	ADJ	lumineux	
 du	ADP	de	
 29	NUM	29	
- 	SPACE	 	
+	SPACE		
 novembre	NOUN	novembre	
 1937	NUM	1937	
 s’	PRON	s’	
 était	AUX	être	
 définitivement	ADV	définitivement	
 évanouie	VERB	évanouir	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Est	AUX	être	
 -ce	PRON	-ce	
 qu’	SCONJ	qu’	
@@ -45154,7 +45153,7 @@ don	NOUN	don
 un	DET	un	
 grand	ADJ	grand	
 don	NOUN	don	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -45263,7 +45262,7 @@ correspondances	NOUN	correspondance
 	SPACE	
 	
 Cet	DET	ce	
- 	SPACE	 	
+	SPACE		
 assistanat	NOUN	assistanat	
 le	PRON	le	
 maintenait	VERB	maintenir	
@@ -45293,7 +45292,7 @@ dépendance	NOUN	dépendance
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 N’	ADV	n’	
 est	AUX	être	
 -il	PRON	il	
@@ -45338,7 +45337,7 @@ qui	PRON	qui
 ne	ADV	ne	
 sait	VERB	savoir	
 pas	ADV	pas	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -45346,7 +45345,7 @@ pas	ADV	pas
 »	PUNCT	»	
 (	PUNCT	(	
 16	NUM	16	
- 	SPACE	 	
+	SPACE		
 novembre	NOUN	novembre	
 
 	SPACE	
@@ -45583,7 +45582,7 @@ qui	PRON	qui
 durerait	VERB	durer	
 huit	NUM	huit	
 mois	NOUN	mois	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 
 	SPACE	
@@ -45668,7 +45667,7 @@ Qu’	PRON	qu’
 ai	AUX	avoir	
 -je	PRON	je	
 assemblé	VERB	assembler	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -45714,7 +45713,7 @@ stoïque	ADJ	stoïque
 de	ADP	de	
 l’	DET	l’	
 héroïsme	NOUN	héroïsme	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -45740,11 +45739,11 @@ premier	ADJ	premier
 assaut	NOUN	assaut	
 de	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 l’	DET	l’	
 inquiète	NOUN	inquiète	
 angoissante	ADJ	angoissant	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 je	PRON	je	
@@ -45801,7 +45800,7 @@ ceux	PRON	celui
 ,	PUNCT	,	
 d’	DET	d’	
 autres	ADJ	autre	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -45930,7 +45929,7 @@ peine	NOUN	peine
 leur	DET	son	
 cancer	NOUN	cancer	
 secret	ADJ	secret	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -46071,7 +46070,7 @@ elles	PRON	lui
 tombées	VERB	tomber	
 sur	ADP	sur	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 le	DET	le	
 bilan	NOUN	bilan	
 de	ADP	de	
@@ -46085,7 +46084,7 @@ je	PRON	je
 ne	ADV	ne	
 terminerai	VERB	terminer	
 pas	ADV	pas	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 elles	PRON	lui	
@@ -46348,7 +46347,7 @@ blanc	NOUN	blanc
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Vittorini	PROPN	Vittorini	
 était	AUX	être	
 en	ADP	en	
@@ -46499,9 +46498,9 @@ en	ADP	en
 leur	PRON	son	
 disant	VERB	dire	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 bonjour	NOUN	bonjour	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -46531,9 +46530,9 @@ Avec	ADP	avec
 un	DET	un	
 simple	ADJ	simple	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 bonjour	NOUN	bonjour	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 il	PRON	il	
@@ -46577,11 +46576,11 @@ lui	PRON	luire
 pour	ADP	pour	
 un	DET	un	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 ciao	NOUN	ciao	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -46593,7 +46592,7 @@ tenté	VERB	tenter
 de	ADP	de	
 le	PRON	le	
 sauver	VERB	sauver	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -46655,7 +46654,7 @@ faisons	VERB	faire
 -nous	PRON	nous	
 des	ADP	de	
 malheureux	NOUN	malheureux	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -46695,7 +46694,7 @@ passera	VERB	passer
 	
 Le	DET	le	
 18	NUM	18	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 ,	PUNCT	,	
 un	DET	un	
@@ -46931,7 +46930,7 @@ une	DET	un
 lamentation	NOUN	lamentation	
 devenue	VERB	devenir	
 célèbre	ADJ	célèbre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 La	DET	le	
 chose	NOUN	chose	
@@ -46947,7 +46946,7 @@ toujours	ADV	toujours
 	
 J’	PRON	j’	
 écris	VERB	écrire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 ô	INTJ	ô	
 Toi	PRON	toi	
@@ -46960,7 +46959,7 @@ pitié	NOUN	pitié
 	
 Et	CCONJ	et	
 puis	CCONJ	pouvoir	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -47169,10 +47168,10 @@ cœur	NOUN	cœur
 Il	PRON	il	
 était	AUX	être	
 écrit	VERB	écrire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Au	ADP	au	
 pays	NOUN	pays	
 des	ADP	de	
@@ -47180,7 +47179,7 @@ lumières	NOUN	lumière
 ,	PUNCT	,	
 amnésie	NOUN	amnésie	
 suicidaire	ADJ	suicidaire	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -47214,10 +47213,10 @@ maison	NOUN	maison
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Amnésie	NOUN	amnésie	
 suicidaire	ADJ	suicidaire	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 Je	PRON	je	
 demandai	VERB	demander	
@@ -47667,7 +47666,7 @@ la	DET	le
 fin	NOUN	fin	
 des	ADP	de	
 années	NOUN	année	
- 	SPACE	 	
+	SPACE		
 70	NUM	70	
 pour	ADP	pour	
 l’	PRON	l’	
@@ -47767,7 +47766,7 @@ un	DET	un
 soir	NOUN	soir	
 de	ADP	de	
 septembre	NOUN	septembre	
- 	SPACE	 	
+	SPACE		
 1978	NUM	1978	
 .	PUNCT	.	
 
@@ -47855,7 +47854,7 @@ façon	NOUN	façon
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 J’	PRON	j’	
 ai	AUX	avoir	
 inventé	VERB	inventer	
@@ -47864,7 +47863,7 @@ Pavese	PROPN	Pavese
 que	PRON	que	
 j’	PRON	j’	
 aimais	VERB	aimer	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 avait	AUX	avoir	
@@ -48021,7 +48020,7 @@ C’	PRON	c’
 était	AUX	être	
 le	DET	le	
 30	NUM	30	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 1978	NUM	1978	
 .	PUNCT	.	
@@ -48175,7 +48174,7 @@ chaleur	NOUN	chaleur
 	
 Le	DET	le	
 8	NUM	8	
- 	SPACE	 	
+	SPACE		
 septembre	NOUN	septembre	
 ,	PUNCT	,	
 son	DET	son	
@@ -48254,13 +48253,13 @@ Pavese	PROPN	Pavese
 envoya	VERB	envoyer	
 le	DET	le	
 25	NUM	25	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 1950	NUM	1950	
 à	ADP	à	
 Davide	PROPN	Davide	
 Lajolo	PROPN	Lajolo	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Vu	VERB	voir	
 qu’	SCONJ	qu’	
@@ -48348,7 +48347,7 @@ je	PRON	je
 n’	ADV	n’	
 écrirai	VERB	écrire	
 plus	ADV	plus	
- 	SPACE	 	
+	SPACE		
 !	PUNCT	!	
 
 	SPACE	
@@ -48388,11 +48387,11 @@ maintenant	ADV	maintenant
 ,	PUNCT	,	
 relis	VERB	relire	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 La	DET	le	
 Bête	NOUN	bête	
 sauvage	ADJ	sauvage	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 dans	ADP	dans	
 Les	DET	le	
@@ -48428,9 +48427,9 @@ affaire	NOUN	affaire
 avec	ADP	avec	
 des	DET	un	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 gens	NOUN	gens	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 et	CCONJ	et	
 plus	ADV	plus	
@@ -48447,7 +48446,7 @@ Mais	CCONJ	mais
 pourrai	VERB	pouvoir	
 -je	PRON	je	
 encore	ADV	encore	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -48480,7 +48479,7 @@ laissions	VERB	laisser
 vraiment	ADV	vraiment	
 derrière	ADP	derrière	
 nous	PRON	nous	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -48489,7 +48488,7 @@ Quel	ADJ	quel
 était	AUX	être	
 notre	DET	notre	
 héritage	NOUN	héritage	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -48506,7 +48505,7 @@ donc	ADV	donc
 pas	ADV	pas	
 que	SCONJ	que	
 lui-même	PRON	lui-même	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -48533,7 +48532,7 @@ comédien	NOUN	comédien
 son	DET	son	
 propre	ADJ	propre	
 fils	NOUN	fils	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -48575,7 +48574,7 @@ du	ADP	de
 mois	NOUN	mois	
 de	ADP	de	
 juin	NOUN	juin	
- 	SPACE	 	
+	SPACE		
 1979	NUM	1979	
 .	PUNCT	.	
 
@@ -48699,12 +48698,12 @@ Vannucchi	PROPN	Vannucchi
 ,	PUNCT	,	
 que	SCONJ	que	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 l’	DET	l’	
 héritage	NOUN	héritage	
 de	ADP	de	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 avait	AUX	avoir	
 tué	VERB	tuer	
@@ -48801,7 +48800,7 @@ appris	VERB	apprendre
 vivre	VERB	vivre	
 avec	ADP	avec	
 lui	PRON	luire	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -48830,11 +48829,11 @@ aller	VERB	aller
 	SPACE	
 	
 La	DET	le	
- 	SPACE	 	
+	SPACE		
 bête	NOUN	bête	
 sauvage	ADJ	sauvage	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Si	SCONJ	si	
 tu	PRON	tu	
 veux	VERB	vouloir	
@@ -48850,7 +48849,7 @@ La	DET	le
 Bête	NOUN	bête	
 sauvage	ADJ	sauvage	
 ’	PUNCT	’	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 Je	PRON	je	
 pris	VERB	prendre	
@@ -48899,7 +48898,7 @@ entre	ADP	entrer
 les	DET	le	
 divinités	NOUN	divinité	
 helléniques	ADJ	hellénique	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Méléagre	PROPN	Méléagre	
 et	CCONJ	et	
@@ -48987,10 +48986,10 @@ mots	NOUN	mot
 	
 Dans	ADP	dans	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 La	DET	le	
 Bête	NOUN	bête	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 le	DET	le	
@@ -49074,13 +49073,13 @@ regarde	VERB	regarder
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 La	DET	le	
 dame	NOUN	dame	
 aux	ADP	à	
 mille	NUM	mille	
 noms	NOUN	nom	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 le	PRON	le	
 fait	VERB	faire	
@@ -49095,10 +49094,10 @@ dialogue	NOUN	dialogue
 se	PRON	se	
 clôt	VERB	clore	
 ainsi	ADV	ainsi	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 ÉTRANGER	VERB	étranger	
 :	PUNCT	:	
 Chacun	PRON	chacun	
@@ -49325,14 +49324,14 @@ Dialogues	NOUN	dialogue
 comme	ADP	comme	
 sa	DET	son	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 carte	NOUN	carte	
 de	ADP	de	
 visite	NOUN	visite	
 pour	ADP	pour	
 la	DET	le	
 postérité	NOUN	postérité	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -49397,7 +49396,7 @@ son	DET	son
 en	ADP	en	
 quelque	DET	quelque	
 sorte	NOUN	sorte	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 pardon	NOUN	pardon	
 ,	PUNCT	,	
@@ -49440,17 +49439,17 @@ personne	PRON	personne
 de	ADP	de	
 sa	DET	son	
 mort	NOUN	mort	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 le	DET	le	
 défunt	NOUN	défunt	
 a	VERB	avoir	
 horreur	NOUN	horreur	
 des	ADP	de	
 cancans	NOUN	cancan	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -49469,10 +49468,10 @@ humour	NOUN	humour
 	
 Le	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 va	VERB	aller	
 bene	NOUN	bene	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -49513,7 +49512,7 @@ abois	NOUN	aboi
 Le	DET	le	
 lundi	NOUN	lundi	
 21	NUM	21	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 ,	PUNCT	,	
 Pavese	PROPN	Pavese	
@@ -49548,10 +49547,10 @@ il	PRON	il
 écrivait	VERB	écrire	
 au	ADP	au	
 contraire	NOUN	contraire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Mes	DET	mon	
 cheveux	NOUN	cheveu	
 sont	AUX	être	
@@ -49574,7 +49573,7 @@ Je	PRON	je
 suis	VERB	suivre	
 comme	ADP	comme	
 Laocoon	PROPN	Laocoon	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 je	PRON	je	
 m’	PRON	m’	
@@ -49689,7 +49688,7 @@ prochaine	ADJ	prochain
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Je	PRON	je	
 suis	AUX	être	
 brisé	VERB	briser	
@@ -49743,7 +49742,7 @@ avait	VERB	avoir
 bien	ADV	bien	
 une	DET	un	
 certitude	NOUN	certitude	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 contrairement	ADV	contrairement	
 à	ADP	à	
@@ -50023,9 +50022,9 @@ finissait	VERB	finir
 par	ADP	par	
 un	DET	un	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 ciao	NOUN	ciao	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -50036,7 +50035,7 @@ Nous	PRON	nous
 le	DET	le	
 samedi	NOUN	samedi	
 26	NUM	26	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 .	PUNCT	.	
 
@@ -50294,10 +50293,10 @@ dernières	ADJ	dernier
 notes	NOUN	note	
 de	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Verde	PROPN	Verde	
 luna	PROPN	luna	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 de	ADP	de	
 Mammola	PROPN	Mammola	
@@ -50455,7 +50454,7 @@ fois	NOUN	fois
 le	DET	le	
 samedi	NOUN	samedi	
 26	NUM	26	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 .	PUNCT	.	
 
@@ -50471,7 +50470,7 @@ dans	ADP	dans
 un	DET	un	
 périmètre	NOUN	périmètre	
 resserré	VERB	resserrer	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 
 	SPACE	
@@ -50570,7 +50569,7 @@ un	DET	un
 dernier	ADJ	dernier	
 élan	NOUN	élan	
 vital	ADJ	vital	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 Pavese	PROPN	Pavese	
 était	AUX	être	
@@ -50660,14 +50659,14 @@ là	ADV	là
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Non	ADV	non	
 ,	PUNCT	,	
 il	PRON	il	
 est	AUX	être	
 en	ADP	en	
 vacances	NOUN	vacance	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 se	PRON	se	
@@ -50680,7 +50679,7 @@ répondre	VERB	répondre
 	
 Et	CCONJ	et	
 Bollati	PROPN	Bollati	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -50691,13 +50690,13 @@ Bollati	PROPN	Bollati
 encore	ADV	encore	
 au	ADP	au	
 bureau	NOUN	bureau	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Non	ADV	non	
 ,	PUNCT	,	
 il	PRON	il	
@@ -50740,7 +50739,7 @@ une	DET	un
 craie	NOUN	craie	
 et	CCONJ	et	
 écrivit	VERB	écrire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 MERDA	PROPN	MERDA	
 .	PUNCT	.	
@@ -50989,12 +50988,12 @@ de	ADP	de
 s’	PRON	s’	
 en	PRON	en	
 aller	VERB	aller	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 MERDA	PROPN	MERDA	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -51108,7 +51107,7 @@ caddie	NOUN	caddie
 Le	DET	le	
 samedi	NOUN	samedi	
 26	NUM	26	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 ,	PUNCT	,	
 le	DET	le	
@@ -51302,10 +51301,10 @@ la	DET	le
 une	NOUN	une	
 et	CCONJ	et	
 dit	VERB	dire	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Voilà	VERB	voilà	
 un	DET	un	
 journal	NOUN	journal	
@@ -51340,7 +51339,7 @@ Garibaldi	PROPN	Garibaldi
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Cette	DET	ce	
 nuit	NOUN	nuit	
 -là	NOUN	-là	
@@ -51351,7 +51350,7 @@ voulait	VERB	vouloir
 plus	ADV	plus	
 s’	PRON	s’	
 arrêter	VERB	arrêter	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 écrivit	VERB	écrire	
@@ -51488,7 +51487,7 @@ réconfort	NOUN	réconfort
 cette	DET	ce	
 nuit	NOUN	nuit	
 -là	NOUN	-là	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 il	PRON	il	
 était	AUX	être	
@@ -51648,10 +51647,10 @@ elle	PRON	lui
 consacra	VERB	consacrer	
 à	ADP	à	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 l’	DET	l’	
 ami	NOUN	ami	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 Alterocca	PROPN	Alterocca	
@@ -51980,7 +51979,7 @@ restés	VERB	rester
 identiques	ADJ	identique	
 au	ADP	au	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 1950	NUM	1950	
 .	PUNCT	.	
@@ -52048,12 +52047,12 @@ possible	ADJ	possible
 de	ADP	de	
 voir	VERB	voir	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 la	DET	le	
 chambre	NOUN	chambre	
 de	ADP	de	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -52180,17 +52179,17 @@ ne	ADV	ne
 parlèrent	VERB	parler	
 du	ADP	de	
 numéro	NOUN	numéro	
- 	SPACE	 	
+	SPACE		
 346	NUM	346	
 mais	CCONJ	mais	
 de	ADP	de	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 la	DET	le	
 chambre	NOUN	chambre	
 de	ADP	de	
 Pavese	PROPN	Pavese	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 comme	ADP	comme	
@@ -52424,7 +52423,7 @@ du	ADP	de
 26	NUM	26	
 au	ADP	au	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 1950	NUM	1950	
 .	PUNCT	.	
@@ -52772,10 +52771,10 @@ ce	DET	ce
 passage	NOUN	passage	
 très	ADV	très	
 beau	ADJ	beau	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 On	PRON	on	
 se	PRON	se	
 demandait	VERB	demander	
@@ -52866,7 +52865,7 @@ reporté	VERB	reporter
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Quand	SCONJ	quand	
 j’	PRON	j’	
 y	PRON	y	
@@ -52888,7 +52887,7 @@ femmes	NOUN	femme
 l’	PRON	l’	
 ont	AUX	avoir	
 fait	VERB	faire	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 avait	AUX	avoir	
@@ -52979,7 +52978,7 @@ vivre	VERB	vivre
 	SPACE	
 	
 Le	DET	le	
- 	SPACE	 	
+	SPACE		
 compagnon	NOUN	compagnon	
 Rome	PROPN	Rome	
 ,	PUNCT	,	
@@ -53319,7 +53318,7 @@ course	NOUN	course
 contre	ADP	contre	
 le	DET	le	
 temps	NOUN	temps	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 la	DET	le	
 paresse	NOUN	paresse	
@@ -54079,10 +54078,10 @@ ami	NOUN	ami
 était	AUX	être	
 la	DET	le	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 colonne	NOUN	colonne	
 vertébrale	ADJ	vertébral	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 ,	PUNCT	,	
 Ferrarotti	PROPN	Ferrarotti	
@@ -54219,7 +54218,7 @@ lui	PRON	luire
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Il	PRON	il	
 m’	PRON	m’	
 a	AUX	avoir	
@@ -54391,14 +54390,14 @@ livre	NOUN	livre
 	SPACE	
 	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Roberta	PROPN	Roberta	
 ,	PUNCT	,	
 j’	PRON	j’	
 ai	VERB	avoir	
 un	DET	un	
 doute	NOUN	doute	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 La	DET	le	
 femme	NOUN	femme	
@@ -54493,7 +54492,7 @@ se	PRON	se
 souvenait	VERB	souvenir	
 du	ADP	de	
 27	NUM	27	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 .	PUNCT	.	
 
@@ -54548,7 +54547,7 @@ et	CCONJ	et
 de	ADP	de	
 lieux	NOUN	lieu	
 déterminés	VERB	déterminer	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 c’	PRON	c’	
 était	AUX	être	
@@ -54575,9 +54574,9 @@ faisait	VERB	faire
 une	DET	un	
 chaleur	NOUN	chaleur	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 bestiale	ADJ	bestial	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 cet	DET	ce	
 été	NOUN	été	
@@ -54913,7 +54912,7 @@ Umberto	PROPN	Umberto
 le	DET	le	
 mardi	NOUN	mardi	
 29	NUM	29	
- 	SPACE	 	
+	SPACE		
 août	NOUN	août	
 1950	NUM	1950	
 autour	ADV	autour	
@@ -55028,10 +55027,10 @@ d’	ADP	d’
 Entre	ADP	entrer	
 femmes	NOUN	femme	
 seules	ADJ	seul	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Pour	ADP	pour	
 me	PRON	me	
 tuer	VERB	tuer	
@@ -55213,7 +55212,7 @@ laissé	VERB	laisser
 leur	DET	son	
 ami	NOUN	ami	
 seul	ADJ	seul	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -55224,7 +55223,7 @@ cherché	VERB	chercher
 à	ADP	à	
 l’	PRON	l’	
 aider	VERB	aider	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -55288,7 +55287,7 @@ lui	PRON	luire
 	
 Le	DET	le	
 3	NUM	3	
- 	SPACE	 	
+	SPACE		
 septembre	NOUN	septembre	
 
 	SPACE	
@@ -55300,7 +55299,7 @@ Calvino	PROPN	Calvino
 à	ADP	à	
 Isa	PROPN	Isa	
 Bezzera	PROPN	Bezzera	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Je	PRON	je	
 ne	ADV	ne	
@@ -55350,7 +55349,7 @@ moi	PRON	moi
 Pavese	PROPN	Pavese	
 signifiait	VERB	signifier	
 beaucoup	ADV	beaucoup	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 il	PRON	il	
 était	AUX	être	
@@ -55495,7 +55494,7 @@ empreints	VERB	empreindre
 de	ADP	de	
 sa	DET	son	
 présence	NOUN	présence	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 j’	PRON	j’	
 essaie	VERB	essayer	
@@ -55524,17 +55523,17 @@ comme	ADP	comme
 tout	ADJ	tout	
 le	DET	le	
 monde	NOUN	monde	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 Mais	CCONJ	mais	
 pourquoi	ADV	pourquoi	
 s’	PRON	s’	
 est	AUX	être	
 -il	PRON	il	
 tué	VERB	tuer	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -55554,7 +55553,7 @@ nouvelle	NOUN	nouvelle
 mais	CCONJ	mais	
 pas	ADV	pas	
 surpris	VERB	surprendre	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 Pavese	PROPN	Pavese	
 était	AUX	être	
@@ -55620,7 +55619,7 @@ coriace	ADJ	coriace
 ,	PUNCT	,	
 une	DET	un	
 tranchée	NOUN	tranchée	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 le	DET	le	
 genre	NOUN	genre	
@@ -55642,7 +55641,7 @@ se	PRON	se
 donner	VERB	donner	
 du	DET	de	
 courage	NOUN	courage	
- 	SPACE	 	
+	SPACE		
 :	PUNCT	:	
 pourtant	ADV	pourtant	
 Pavese	PROPN	Pavese	
@@ -55705,7 +55704,7 @@ le	DET	le
 coup	NOUN	coup	
 malgré	ADP	malgré	
 tout	PRON	tout	
- 	SPACE	 	
+	SPACE		
 ;	PUNCT	;	
 cette	DET	ce	
 personne	NOUN	personne	
@@ -56093,7 +56092,7 @@ yeux	NOUN	oeil
 	
 Épilogue	NOUN	épilogue	
 Novembre	NOUN	novembre	
- 	SPACE	 	
+	SPACE		
 2023	NUM	2023	
 Notre	DET	notre	
 route	NOUN	route	
@@ -56117,7 +56116,7 @@ Toussaint	NOUN	toussaint
 nous	PRON	nous	
 retrouvâmes	VERB	retrouver	
 «	PUNCT	«	
- 	SPACE	 	
+	SPACE		
 la	DET	le	
 terre	NOUN	terre	
 qui	PRON	qui	
@@ -56127,7 +56126,7 @@ qui	PRON	qui
 est	AUX	être	
 sans	ADP	sans	
 paroles	NOUN	parole	
- 	SPACE	 	
+	SPACE		
 »	PUNCT	»	
 .	PUNCT	.	
 
@@ -56896,7 +56895,7 @@ grand	ADJ	grand
 des	DET	un	
 génies	NOUN	génie	
 créateurs	ADJ	créateur	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -56904,7 +56903,7 @@ créateurs	ADJ	créateur
 Pour	ADP	pour	
 la	DET	le	
 postérité	NOUN	postérité	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	
@@ -56925,7 +56924,7 @@ et	CCONJ	et
 montré	VERB	montrer	
 du	ADP	de	
 doigt	NOUN	doigt	
- 	SPACE	 	
+	SPACE		
 ?	PUNCT	?	
 
 	SPACE	

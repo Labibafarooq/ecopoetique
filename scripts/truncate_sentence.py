@@ -6,7 +6,7 @@ def truncate_sentence(row, max_length=50):
     word = row['token_lexique']
     contexte = row['contexte']
     
-    words = re.findall(r"\w+|[.,!?;’]", contexte)  # Séparer ponctuation
+    words = re.findall(r"\w+|[.,!?;’)(:–]", contexte)  # Séparer ponctuation
     token_words = word.split()
     
     if len(words) > max_length:
@@ -16,7 +16,11 @@ def truncate_sentence(row, max_length=50):
                 start_idx = max(0, i - max_length // 2)
                 end_idx = min(len(words), i + len(token_words) + max_length // 2)
                 sentence = " ".join(words[start_idx:end_idx])
-                sentence = sentence.replace(' ,', ',').replace(' .', '.').replace(' ’ ', '’')
+                sentence = sentence.replace(' ,', ',')
+                sentence = sentence.replace(' .', '.')
+                sentence = sentence.replace(' ’ ', '’')
+                sentence = sentence.replace(' )', ')')
+                sentence = sentence.replace('( ', '(')
                 return sentence
     return contexte
 
