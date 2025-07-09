@@ -1622,8 +1622,6 @@ bambusicole
 bambusicoles
 banane de mer
 banane fil
-bande noire
-bande rouge
 bandicoot
 bandicoots
 banteng
@@ -4478,9 +4476,7 @@ colious
 collemboles
 colle-roche
 collète du lierre
-collier blanc
 collier-de-corail
-collier rouge
 collier roux
 collier soufré
 colobe
@@ -7175,7 +7171,6 @@ fierasfer atlantique
 fierasfer denté
 figue de mer
 filaire de Médine
-filaires
 filistate perfide
 fissurelle
 fissurelles
@@ -14446,7 +14441,6 @@ plongeon catmarin
 plongeon imbrin
 ploue
 plumatelle fongoïde
-plumet
 plumet provençal
 plusie à C d’or
 plusie à lunettes
@@ -14472,7 +14466,7 @@ plusie d’Hochenwarth
 plusie du Mélèze
 plusie du Pissenlit
 plusie effilée
- Plusie émule
+plusie émule
 plusie illustre
 plusie modeste
 plusie monnoie
