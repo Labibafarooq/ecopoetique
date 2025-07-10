@@ -15,7 +15,10 @@ print("Nombre initial d'occurrences : {}".format(len(df)))
 
 # Filtre par token
 filtre = df[
-	((df['token_lexique'] == 'plage') & (df['contexte'].str.contains('plage arrière')))
+	((df['token_lexique'] == 'plage') & (df['contexte'].str.contains('plage arrière'))) |
+	((df['token_lexique'] == 'plage') & (df['contexte'].str.contains('plage horaire'))) |
+	((df['token_lexique'] == 'pêche') & (df['contexte'].str.contains('teint de pêche'))) |
+	((df['token_lexique'] == 'baie') & (df['contexte'].str.contains('baie vitrée')))
 ]
 
 

@@ -43,6 +43,7 @@ filtre_1 = df[
 	#((df['token_lexique'] == 'biche') & (df['contexte'].str.contains("ventre-de-biche"))) |
 	((df['token_lexique'] == 'papillon') & (df['contexte'].str.contains("nœud papillon"))) |
 	((df['token_lexique'] == 'papillons') & (df['contexte'].str.contains("nœuds papillons"))) |
+	((df['token_lexique'] == 'poule') & (df['contexte'].str.contains("poule mouillée"))) |
 	((df['token_lexique'] == 'souris') & (df['contexte'].str.contains("clic de souris"))) |
 	((df['token_lexique'] == 'fourmis') & (df['contexte'].str.contains("fourmis dans les jambes"))) |
 	((df['token_lexique'] == 'rats') & (df['contexte'].str.contains("mort-aux-rats"))) |
