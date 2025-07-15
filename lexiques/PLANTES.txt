@@ -1968,6 +1968,7 @@ arbre qui pue
 arbres à beurre
 arbres à caoutchouc
 arbres à gutta-percha
+arbre pagode
 arbre sain
 arbres à pain
 arbres à suif
@@ -2009,7 +2010,6 @@ arganiers
 argémone
 argémone du Mexique
 argémones
-argentine
 argentine ansérine
 argousier
 argousier des fleuves
@@ -4755,6 +4755,7 @@ camérisier des haies
 camérisier des Pyrénées
 camérisier noir
 camomille
+camomille allemande
 camomille brunâtre
 camomille de Crète
 camomille des champs
@@ -4763,6 +4764,7 @@ camomille des teinturiers
 camomille de Trionfetti
 camomille fétide
 camomille maritime
+camomille matricaire
 camomille mixte
 camomille noble
 camomille puante
@@ -12818,7 +12820,6 @@ gourde
 gourde du mineur
 gourdes
 goutte de lait
-goutte de sang
 goutte-de-sang
 goutte de sang rouge
 gouyave marron
@@ -13751,7 +13752,7 @@ herbe zinde
 herbe z’Inde
 hérisson blanc
 hérisson rouge
-héritière
+héritière littorale
 herminie des Alpes
 herminium
 herminium à un seul tubercule
@@ -20223,7 +20224,6 @@ pæderia
 pædérie
 pædérie fétide
 paéoniacées
-pagode
 pahong
 paillatère
 paille de diss
@@ -26397,6 +26397,8 @@ sérapirhiza
 sérapirhize
 sérente
 serichaude
+seringa
+seringas
 seringat
 seringat à petites feuilles
 seringat commun
