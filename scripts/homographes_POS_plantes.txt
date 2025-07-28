@@ -3,10 +3,12 @@ absinthe
 amarante
 anis
 aubergine
+asperge
 berce
 berces
 blette
 blettes
+douce-amère
 fuchsia
 fuchsias
 gagée
@@ -48,3 +50,4 @@ lunaire
 digitale
 digitales
 orne
+filaire

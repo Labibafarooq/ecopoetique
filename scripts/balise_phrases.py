@@ -10,14 +10,15 @@ else:
     INPUT_FILE = sys.argv[1]
 
 def baliser_phrase(row):
-    phrase = row["truncated_sentence"]
+    phrase = row["contexte"]
     animal = row["token_lexique"]
+    id_ = row['id']
     
     if animal:
         # Baliser l'animal dans la phrase
-        phrase_balisee = phrase.replace(animal, f"<animal>{animal}</animal>")
+        phrase_balisee = phrase.replace(animal, f"<comparant>{animal}</comparant>")
 
-        phrase_balisee = f"<phrase>{phrase_balisee}</phrase>"
+        phrase_balisee = f"<phrase id='{id_}'>{phrase_balisee}</phrase>"
 
         return phrase_balisee
     else:
