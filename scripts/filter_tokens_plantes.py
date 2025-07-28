@@ -9,6 +9,7 @@ infile = sys.argv[1]
 outfile = sys.argv[2]
 	
 df = pd.read_csv(infile, sep='\t', dtype = {'fichier': str, 'token_lexique': str, 'contexte': str})
+df = df.rename(columns={'truncated_sentence':'contexte'})
 
 print("Nombre initial d'occurrences : {}".format(len(df)))
 
@@ -50,8 +51,15 @@ filtre = df[
     ((df['token_lexique'] == 'moutarde') & 
      (df['contexte'].str.contains('gaz moutarde') | df['contexte'].str.contains('verre à moutarde'))) |
     ((df['token_lexique'] == 'tabacs') & (df['contexte'].str.contains('bars-tabacs'))) |
-    ((df['token_lexique'] == 'tabac') & (df['contexte'].str.contains('bar-tabac')))
-    ((df['token_lexique'] == 'bouvier') & (df['contexte'].str.contains('bouvier bernois')))
+    ((df['token_lexique'] == 'tabac') & (df['contexte'].str.contains('bar-tabac|faire un tabac|passer à tabac'))) |
+    ((df['token_lexique'] == 'bouvier') & (df['contexte'].str.contains('bouvier bernois'))) |
+    ((df['token_lexique'] == 'pomme') & (df['contexte'].str.contains('pomme d’Adam|pomme de douche'))) |
+    ((df['token_lexique'] == 'radis') & (df['contexte'].str.contains('pas un radis'))) |
+    ((df['token_lexique'] == 'coucou') & (df['contexte'].str.contains('faire coucou|fait coucou|coucou de la main|pendule à coucou'))) |
+    (df['token_lexique'] == 'joli cœur') | (df['token_lexique'] == 'jaune d’œuf') | (df['token_lexique'] == 'phénix') | (df['token_lexique'] == 'goutte de lait') |
+    ((df['token_lexique'] == 'douce-amère') & (df['contexte'].str.contains('expression douce-amère'))) |
+    ((df['token_lexique'] == 'carotte') & (df['contexte'].str.contains('poil de carotte'))) |
+    ((df['token_lexique'] == 'asperge') & (df['contexte'].str.contains('asperge le visage|asperge d’eau|asperge d’essence|s’asperge|m’asperge')))
 ]
 
 

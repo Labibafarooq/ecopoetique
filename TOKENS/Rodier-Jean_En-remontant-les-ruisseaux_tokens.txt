@@ -3899,7 +3899,7 @@ le	DET	le
 Chapeauroux	PROPN	Chapeauroux	
 emporte	VERB	emporter	
 -	PRON	-	
-r	PRON	r	
+t	PRON	r	
 -il	PRON	il	
 avec	ADP	avec	
 lui	PRON	luire	
@@ -5602,7 +5602,7 @@ les	DET	le
 fleurs	NOUN	fleur	
 ,	PUNCT	,	
 me	PRON	me	
-sernble	VERB	sernble	
+semble	VERB	semble	
 -t	PRON	-t	
 -il	PRON	il	
 ,	PUNCT	,	
@@ -26601,7 +26601,7 @@ carte	NOUN	carte
 	SPACE	
 	
 (	PUNCT	(	
-I’	PRON	i’	
+J’	PRON	j’	
 aime	VERB	aimer	
 ces	DET	ce	
 cartes	NOUN	carte	
