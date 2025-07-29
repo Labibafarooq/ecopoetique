@@ -7,6 +7,7 @@ Year	Author	Title	File	Distinction	nb_tokens	nb_lemmes
 2013	Ormesson, Jean d'	Un jour je m'en irai sans en avoir tout dit	d-Ormesson-Jean_Un-jour-je-men-irai.txt	False	46741	5184
 2023	Sapin-Defour, Cédric	Son odeur après la pluie	Defour-Cedric-Sapin_Son-Odeur-Apres-la-pluie.txt	False	64636	6756
 2012	Delacourt, Grégoire	La liste de mes envies	Delacourt-Gregoire_La-Liste-de-Mes-Envies.txt	False	29298	3634
+2001	Delerm, Philippe	La sieste assassinée	Delerm-Philippe_Sieste-assassinee.txt	False	13285	2839
 2018	Dicker, Joël	La disparition de Stephanie Mailer	Dicker-Joel_La-Disparition-de-Stephanie-Mailer.txt	False	195725	7200
 2022	Dicker, Joël	L’affaire Alaska Sanders	Dicker-Joel_LAffaire-Alaska-Sanders.txt	False	170591	6794
 2020	Dicker, Joël	L’énigme de la chambre 622	Dicker-Joel_LEnigme-de-la-Chambre-622.txt	False	177723	6908
@@ -14,10 +15,12 @@ Year	Author	Title	File	Distinction	nb_tokens	nb_lemmes
 2002	Duperey, Anny	Allons voir plus loin, veux-tu?	Duperey-Anny_Allons-voir-plus-loin-veux-tu.txt	False	140054	7482
 2004	Gavalda, Anna	Ensemble, c'est tout	Gavalda-Anna_Ensemble-cest-tout.txt	False	135692	8505
 2002	Gavalda, Anna	Je l'aimais	Gavalda-Anna_Je-laimais.txt	False	22269	2505
+2008	Gavalda, Anna	La consolante	Gavalda-Anna_La-consolante.txt	False	148405	10443
 2009	Gavalda, Anna	L'échappée belle	Gavalda-Anna_Lechappee-belle.txt	False	23664	3706
 2016	Giordano, Raphaëlle	Ta deuxième vie commence quand tu comprends que tu n'en as qu'une	Giordano-Raphaelle_Ta-deuxième-vie-commence-quand-tu-comprends-que-tu-nen-as-quune.txt	False	53199	5502
 2004	Grangé, Jean-Christophe	La ligne noire	Grange-Jean-Christophe_La-Ligne-noire.txt	False	76953	7343
 2003	Grangé, Jean-Christophe	L’empire des loups	Grange-Jean-Christophe_Lempire-des-loups.txt	False	120413	9287
+2022	Grimaldi, Virginie	Il nous restera ça	Grimaldi-Virginie_Il-nous-restera-ça.txt	False	67306	5316
 2006	Groult, Benoîte	La touche étoile	Groult-Benoite_La-touche-etoile.txt	False	56814	6779
 2001	Houellebecq, Michel	Plateforme	Houellebecq-Michel_Plateforme.txt	False	98346	7859
 2019	Houellebecq, Michel	Sérotonine	Houellebecq-Michel_Serotonine.txt	False	83974	7478
@@ -55,6 +58,7 @@ Year	Author	Title	File	Distinction	nb_tokens	nb_lemmes
 2009	Musso, Guillaume	Que serais-je sans toi ?	Musso-Guillaume_Que-serais-je-sans-toi.txt	False	80591	7660
 2024	Musso, Guillaume	Quelqu'un d'autre	Musso-Guillaume_Quelquun-dautre.txt	False	65015	6955
 2012	Musso, Guillaume	Sept ans après	Musso-Guillaume_Sept-ans-apres.txt	False	82835	7948
+2006	Musso, Guillaume	Seras-tu là ?	Musso-Guillaume_Seras-tu-là.txt	False	77113	6610
 2017	Musso, Guillaume	Un appartement à Paris	Musso-Guillaume_Un-appartement-a-Paris.txt	False	95627	8697
 2005	Nothomb, Amélie	Acide sulfurique	Nothomb-Amelie_Acide-sulfurique.txt	False	27622	3024
 2003	Nothomb, Amélie	Antéchrista	Nothomb-Amelie_Antechrista.txt	False	26614	3567
@@ -65,6 +69,7 @@ Year	Author	Title	File	Distinction	nb_tokens	nb_lemmes
 2007	Pennac, Daniel	Chagrin d'école	Pennac-Daniel_Chagrin-decole.txt	False	59414	5885
 2021	Perrin, Valérie	Trois	Perrin-Valerie_Trois.txt	False	178965	8561
 2013	Puértolas, Romain	L'extraordinaire voyage du fakir qui était resté coincé dans une armoire Ikea	Puertolas-Romain_Lextraordinaire-voyage-du-fakir.txt	False	56396	5204
+2024	Schlesser, Thomas	Les yeux de Mona	Schlesser-Thomas_Les-yeux-de-Mona.txt	False	148275	9757
 2002	Schmitt, Éric-Emmanuel	Oscar et la dame rose	Schmitt-Eric-Emmanuel_Oscar-et-la-dame-rose.txt	False	14523	1674
 2020	Slimani, Leïla	Le pays des autres	Slimani-Leila_Le-pays-des-autres.txt	False	93313	6160
 2019	Tesson, Sylvain	La panthère des neiges	Tesson-Sylvain_La-panthere-des-neiges.txt	False	31634	4861
@@ -78,6 +83,7 @@ Year	Author	Title	File	Distinction	nb_tokens	nb_lemmes
 2008	Vargas, Fred	Un lieu incertain	Vargas-Fred_Un-lieu-incertain.txt	False	103166	6903
 2021	Vigan, Delphine de	Les enfants sont rois	Vigan-Delphine-de_Les-enfants-sont-rois.txt	False	79990	6121
 2002	Werber, Bernard	L'arbre des possibles: et autres histoires	Werber-Bernard_Larbre-Des-Possibles.txt	False	55054	6498
+2009	Werber, Bernard	Le miroir de Cassandre	Werber-Bernard_Le-Miroir-de-Cassandre.txt	False	196131	10083
 2007	Werber, Bernard	Le mystère des dieux	Werber-Bernard_Le-Mystere-des-Dieux.txt	False	145499	8774
 2001	Werber, Bernard	L'ultime secret	Werber-Bernard_LUltime-secret.txt	False	112505	8078
 2004	Werber, Bernard	Nous, les dieux	Werber-Bernard_Nous-les-dieux.txt	False	121939	8760
@@ -117,9 +123,3 @@ Year	Author	Title	File	Distinction	nb_tokens	nb_lemmes
 2017	Vuillard, Éric	L'ordre du jour	Vuillard-Eric_Lordre-du-jour.txt	True	25554	4222
 2005	Weyergans, François	Trois jours chez ma mère	Weyergans,-François_Trois-jours-chez-ma-mere.txt	True	53785	5914
 2017	Zeniter, Alice	L'art de perdre	Zeniter-Alice_Lart-de-perdre.txt	True	158700	9060
-	Delerm, Philippe	La sieste assassinée				
-	Gavalda, Anna	La consolante				
-	Grimaldi, Virginie	Il nous restera ça				
-	Musso, Guillaume	Seras-tu là ?				
-	Schlesser, Thomas	Les yeux de Mona				
-	Werber, Bernard	Le miroir de Cassandre				
