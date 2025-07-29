@@ -1,67 +1,42 @@
-Year	Author	Title	File	Distinction	nb_tokens	nb_lemme
-2022	Andrea, Jean-Baptiste	Veiller sur elle	Andrea-Jean-Baptiste_Veiller-sur-elle.txt	True	126058	8259
+Year	Author	Title	File	Distinction	nb_tokens	nb_lemmes
 2006	Barbery, Muriel	L’élégance du hérisson	Barbery-Muriel_Lelegance-du-herisson.txt	False	83455	7373
 2016	Bourdeaut, Olivier	En attendant Bojangles	Bourdeaut-Olivier_En-attendant-Bojangles.txt	False	37021	3754
 2005	Carolis, Patrick de	Les demoiselles de Provence	Carolis-Patrick-de_Les-demoiselles-de-provence.txt	False	176582	9075
 2014	Carrère, Emmanuel	Le royaume	Carrere-Emmanuel_Le_royaume.txt	False	168957	9396
-2011	Carrère, Emmanuel	Limonov	Carrere-Emmanuel_Limonov.txt	True	129822	9813
-2003	Claudel, Philippe	Les âmes grises	Claudel-Philippe_Les-ames-grises.txt	True	98318	5937
 2017	Colombani, Laetitia	La tresse	Colombani-Laetitia_La-tresse.txt	False	46551	4663
 2013	Ormesson, Jean d'	Un jour je m'en irai sans en avoir tout dit	d-Ormesson-Jean_Un-jour-je-men-irai.txt	False	46741	5184
-2021	Da Empoli, Giuliano	Le mage du Kremlin	Da-Empoli-Giuliano_Le-mage-du-Kremlin.txt	True	74415	6326
-2022	Daoud, Kamel	Houris	Daoud-Kamel_Houris.txt	True	41955	3791
 2023	Sapin-Defour, Cédric	Son odeur après la pluie	Defour-Cedric-Sapin_Son-Odeur-Apres-la-pluie.txt	False	64636	6756
 2012	Delacourt, Grégoire	La liste de mes envies	Delacourt-Gregoire_La-Liste-de-Mes-Envies.txt	False	29298	3634
-2021	Despentes, Virginie	Cher connard	Despentes-Virginie_Cher-connard.txt	True	105751	7016
 2018	Dicker, Joël	La disparition de Stephanie Mailer	Dicker-Joel_La-Disparition-de-Stephanie-Mailer.txt	False	195725	7200
-2012	Dicker, Joël	La vérité sur l'affaire Harry Quebert	Dicker-Joël_La-verite-sur-l'affaire-Harry-Quebert.txt	True	221468	7484
 2022	Dicker, Joël	L’affaire Alaska Sanders	Dicker-Joel_LAffaire-Alaska-Sanders.txt	False	170591	6794
-2020	Dicker, Joël	L'énigme de la chambre 622	Dicker-Joel_LEnigme-de-la-Chambre-622.txt	False	177723	6908
+2020	Dicker, Joël	L’énigme de la chambre 622	Dicker-Joel_LEnigme-de-la-Chambre-622.txt	False	177723	6908
 2024	Dicker, Joël	Un animal sauvage	Dicker-Joel_Un-Animal-Sauvage.txt	False	95490	5495
-2019	Dubois, Jean-Paul	Tous les hommes n'habitent pas le monde de la même façon	Dubois-Jean_Tous-les-hommes-n-habitent-pas-le-monde-de-la-meme-facon.txt	True	70573	7546
 2002	Duperey, Anny	Allons voir plus loin, veux-tu?	Duperey-Anny_Allons-voir-plus-loin-veux-tu.txt	False	140054	7482
-2021	Faye, Gaël	Jacaranda	Faye-Gael_Jacaranda.txt	True	66518	5867
-2016	Faye, Gaël	Petit pays	Faye-Gaël_Petit-pays.txt	True	66518	5867
-2012	Ferrari, Jérôme	Le sermon sur la chute de Rome	Ferrari-Jerome_Le-Sermon-sur-la-Chute-de-Rome.txt	True	53337	5352
-2014	Foenkinos, David	Charlotte	Foenkinos-David_Charlotte.txt	True	39106	3854
-2009	Foenkinos, David	La délicatesse	Foenkinos-David_La-delicatesse.txt	True	39106	3854
-2004	Gaudé, Laurent	Le soleil des Scorta	Gaude-Laurent_Le-Soleil-des-Scorta.txt	True	61913	3904
 2004	Gavalda, Anna	Ensemble, c'est tout	Gavalda-Anna_Ensemble-cest-tout.txt	False	135692	8505
 2002	Gavalda, Anna	Je l'aimais	Gavalda-Anna_Je-laimais.txt	False	22269	2505
 2009	Gavalda, Anna	L'échappée belle	Gavalda-Anna_Lechappee-belle.txt	False	23664	3706
-2011	Legardinier, Gilles	Demain, j’arrête !	Gilles-Legardinier_Demain-jarrete.txt	False	98695	6317
 2016	Giordano, Raphaëlle	Ta deuxième vie commence quand tu comprends que tu n'en as qu'une	Giordano-Raphaelle_Ta-deuxième-vie-commence-quand-tu-comprends-que-tu-nen-as-quune.txt	False	53199	5502
 2004	Grangé, Jean-Christophe	La ligne noire	Grange-Jean-Christophe_La-Ligne-noire.txt	False	76953	7343
 2003	Grangé, Jean-Christophe	L’empire des loups	Grange-Jean-Christophe_Lempire-des-loups.txt	False	120413	9287
 2006	Groult, Benoîte	La touche étoile	Groult-Benoite_La-touche-etoile.txt	False	56814	6779
-2017	Guez, Olivier	La disparition de Josef Mengele	Guez-Olivier_La-disparition-de-Josef-Mengele.txt	True	56229	7992
-2010	Houellebecq, Michel	La carte et le territoire	Houellebecq-Michel_La-carte-et-le-territoire.txt	True	97668	8372
 2001	Houellebecq, Michel	Plateforme	Houellebecq-Michel_Plateforme.txt	False	98346	7859
-2005	Houellebecq, Michel	La possibilité d'une île	Houellebecq-Michel_Possibilite-dune-ile.txt	True	97668	8372
 2019	Houellebecq, Michel	Sérotonine	Houellebecq-Michel_Serotonine.txt	False	83974	7478
 2015	Houellebecq, Michel	Soumission	Houellebecq-Michel_Soumission.txt	False	69250	6726
-2011	Jenni, Alexis	L'art français de la guerre	Jenni-Alexis_Lart-français-de-la-guerre.txt	True	235849	9602
-2018	Lançon, Philippe	Le lambeau	Lançon-Philippe_Le-lambeau.txt	True	170007	8686
-2013	Lemaitre, Pierre	Au revoir là-haut	Lemaitre-Pierre_Au-revoir-la-haut.txt	True	153420	8407
 2018	Lemaitre, Pierre	Couleurs de l'incendie	Lemaitre-Pierre_Couleurs-de-lincendie.txt	False	133098	8531
 2022	Lemaitre, Pierre	Le grand monde	Lemaitre-Pierre_Le-grand-monde.txt	False	166001	8535
 2023	Lemaitre, Pierre	Le silence et la colère	Lemaitre-Pierre_Le-Silence-et-la-Colere.txt	False	146810	7879
 2020	Lemaître, Pierre	Miroir de nos peines	Lemaitre-Pierre_Miroir-de-nos-peines.txt	False	130754	7910
-2020	Le Tellier, Hervé	L'anomalie	LeTellier-Herve_Lanomalie.txt	True	88209	8444
-2015	Lévy, Marc	Elle et lui	Levy-Marc_Elle-Et-Lui.txt	False	74652	4891
+2015	Levy, Marc	Elle et lui	Levy-Marc_Elle-Et-Lui.txt	False	74652	4891
 2004	Levy, Marc	La prochaine fois	Levy-Marc_La-prochaine-fois.txt	False	66585	5136
-2009	Lévy, Marc	Le premier jour	Levy-Marc_Le-Premier-jour.txt	False	124389	7152
-2010	Lévy, Marc	Le voleur d'ombres	Levy-Marc_Le-voleur-dombres.txt	False	63224	3997
+2009	Levy, Marc	Le premier jour	Levy-Marc_Le-Premier-jour.txt	False	124389	7152
+2010	Levy, Marc	Le voleur d'ombres	Levy-Marc_Le-voleur-dombres.txt	False	63224	3997
 2007	Levy, Marc	Les enfants de la liberté	Levy-Marc_Les-enfants-de-la-liberte.txt	False	88928	5608
 2006	Levy, Marc	Mes amis, mes amours	Levy-Marc_Mes-amis-mes-amours.txt	False	79227	5129
 2003	Levy, Marc	Sept jours pour une éternité	Levy-Marc_Sept-jours-pour-une-eternite.txt	False	64586	5514
-2012	Lévy, Marc	Si c'était à refaire	Levy-Marc_Si-cetait-a-refaire.txt	False	89286	5784
-2008	Lévy, Marc	Toutes ces choses qu'on ne s'est pas dites	Levy-Marc_Toutes-Ces-Choses-Quon-Ne-Sest-Pas-Dites.txt	False	89650	5802
-2013	Lévy, Marc	Un sentiment plus fort que la peur	Levy-Marc_Un-sentiment-plus-fort-que-la-peur.txt	False	87593	6067
+2012	Levy, Marc	Si c'était à refaire	Levy-Marc_Si-cetait-a-refaire.txt	False	89286	5784
+2008	Levy, Marc	Toutes ces choses qu'on ne s'est pas dites	Levy-Marc_Toutes-Ces-Choses-Quon-Ne-Sest-Pas-Dites.txt	False	89650	5802
+2013	Levy, Marc	Un sentiment plus fort que la peur	Levy-Marc_Un-sentiment-plus-fort-que-la-peur.txt	False	87593	6067
 2005	Levy, Marc	Vous revoir	Levy-Marc_Vous-revoir.txt	False	73851	5167
-2006	Littell, Jonathan	Les Bienveillantes	Littell-Jonathan_Les-Bienveillantes.txt	True	447523	15426
-2018	Mathieu, Nicolas	Leurs enfants après eux	Mathieu-Nicolas_Leurs-enfants-apres-eux.txt	True	142873	10267
-2021	Sarr, Mohamed Mbougar	La plus secrète mémoire des hommes	Mbougar_La-plus-secrete-memoire-des-hommes.txt	True	132472	7473
 2001	Millet, Catherine	La vie sexuelle de Catherine M.	Millet-Catherine_La-vie-sexuelle-de-Catherine-M.txt	False	73084	6539
 2014	Modiano, Patrick	Pour que tu ne te perdes pas dans le quartier roman	Modiano-Patrick_Pour-que-tu-ne-perdes-pas-dans-le-quartier.txt	False	34675	2759
 2022	Musso, Guillaume	Angélique	Musso-Guillaume_Angelique.txt	False	57242	6505
@@ -77,28 +52,20 @@ Year	Author	Title	File	Distinction	nb_tokens	nb_lemme
 2021	Musso, Guillaume	L'inconnue de la Seine	Musso-Guillaume_LInconnue-de-la-Seine.txt	False	73196	7646
 2015	Musso, Guillaume	L'instant présent	Musso-Guillaume_Linstant-present.txt	False	73742	7085
 2007	Musso, Guillaume	Parce que je t'aime	Musso-Guillaume_Parce-que-je-taime.txt	False	67560	6384
-2009	Musso, Guillaume	Que serais-je sans toi ? roman	Musso-Guillaume_Que-serais-je-sans-toi.txt	False	80591	7660
+2009	Musso, Guillaume	Que serais-je sans toi ?	Musso-Guillaume_Que-serais-je-sans-toi.txt	False	80591	7660
 2024	Musso, Guillaume	Quelqu'un d'autre	Musso-Guillaume_Quelquun-dautre.txt	False	65015	6955
 2012	Musso, Guillaume	Sept ans après	Musso-Guillaume_Sept-ans-apres.txt	False	82835	7948
 2017	Musso, Guillaume	Un appartement à Paris	Musso-Guillaume_Un-appartement-a-Paris.txt	False	95627	8697
-2009	Ndiaye, Marie	Trois femmes puissantes	NDiaye-Marie_Trois-femmes-puissantes.txt	True	84642	6680
 2005	Nothomb, Amélie	Acide sulfurique	Nothomb-Amelie_Acide-sulfurique.txt	False	27622	3024
 2003	Nothomb, Amélie	Antéchrista	Nothomb-Amelie_Antechrista.txt	False	26614	3567
-2007	Nothomb, Amélie	Ni d'Ève ni d'Adam	Nothomb-Amelie_Ni-dEve-ni-dAdam.txt	True	35570	4567
-2021	Nothomb, Amélie	Premier sang	Nothomb-Amelie_Premier-sang.txt	True	35570	4567
 2002	Nothomb, Amélie	Robert des noms propres	Nothomb-Amelie_Robert-des-noms-propres.txt	False	27521	3391
-2019	Nothomb, Amélie	Soif	Nothomb-Amelie_Soif.txt	True	35570	4567
 2008	Pancol, Katherine	La valse lente des tortues	Pancol-Katherine_La-valse-lente-des-tortues.txt	False	231891	10618
 2010	Pancol, Katherine	Les écureuils de Central Park sont tristes le lundi	Pancol-Katherine_Les-ecureuils-de-Central-Park-sont-tristes-le-lundi.txt	False	286113	11864
 2014	Pancol, Katherine	Muchachas	Pancol-Katherine_Muchachas3.txt	False	146414	7758
 2007	Pennac, Daniel	Chagrin d'école	Pennac-Daniel_Chagrin-decole.txt	False	59414	5885
-2018	Perrin, Valérie	Changer l’eau des fleurs	Perrin-Valerie_Changer-leau-des-fleurs.txt	False	146287	7151
 2021	Perrin, Valérie	Trois	Perrin-Valerie_Trois.txt	False	178965	8561
 2013	Puértolas, Romain	L'extraordinaire voyage du fakir qui était resté coincé dans une armoire Ikea	Puertolas-Romain_Lextraordinaire-voyage-du-fakir.txt	False	56396	5204
-2002	Rufin, Jean-Christophe	Rouge Brésil	Rufin-Jean-Christophe_Rouge-Bresil.txt	True	158452	8307
 2002	Schmitt, Éric-Emmanuel	Oscar et la dame rose	Schmitt-Eric-Emmanuel_Oscar-et-la-dame-rose.txt	False	14523	1674
-2024	Sinno, Neige	Triste tigre	Sinno-Neige_Triste-tigre.txt	True	65657	5121
-2016	Slimani, Leïla	Chanson douce	Slimani-Leila_Chanson-douce.txt	True	54203	4632
 2020	Slimani, Leïla	Le pays des autres	Slimani-Leila_Le-pays-des-autres.txt	False	93313	6160
 2019	Tesson, Sylvain	La panthère des neiges	Tesson-Sylvain_La-panthere-des-neiges.txt	False	31634	4861
 2006	Vargas, Fred	Dans les bois éternels	Vargas-Fred_Dans-les-bois-eternels.txt	False	108087	6803
@@ -110,13 +77,44 @@ Year	Author	Title	File	Distinction	nb_tokens	nb_lemme
 2015	Vargas, Fred	Temps glaciaires	Vargas-Fred_Temps-glaciaires.txt	False	119597	7118
 2008	Vargas, Fred	Un lieu incertain	Vargas-Fred_Un-lieu-incertain.txt	False	103166	6903
 2021	Vigan, Delphine de	Les enfants sont rois	Vigan-Delphine-de_Les-enfants-sont-rois.txt	False	79990	6121
-2015	Vigan, Delphine de	D'après une histoire vraie	Vigan-Delphinede_Dapres-une-histoire-vraie.txt	True	95744	5857
-2011	Vigan, Delphine de	Rien ne s'oppose à la nuit	Vigan-Delphinede_Rien-ne-soppose-a-la-nuit.txt	True	95744	5857
-2017	Vuillard, Éric	L'ordre du jour	Vuillard-Eric_Lordre-du-jour.txt	True	25554	4222
 2002	Werber, Bernard	L'arbre des possibles: et autres histoires	Werber-Bernard_Larbre-Des-Possibles.txt	False	55054	6498
 2007	Werber, Bernard	Le mystère des dieux	Werber-Bernard_Le-Mystere-des-Dieux.txt	False	145499	8774
 2001	Werber, Bernard	L'ultime secret	Werber-Bernard_LUltime-secret.txt	False	112505	8078
 2004	Werber, Bernard	Nous, les dieux	Werber-Bernard_Nous-les-dieux.txt	False	121939	8760
+2022	Andrea, Jean-Baptiste	Veiller sur elle	Andrea-Jean-Baptiste_Veiller-sur-elle.txt	True	126058	8259
+2011	Carrère, Emmanuel	Limonov	Carrere-Emmanuel_Limonov.txt	True	129822	9813
+2003	Claudel, Philippe	Les âmes grises	Claudel-Philippe_Les-ames-grises.txt	True	98318	5937
+2021	Da Empoli, Giuliano	Le mage du Kremlin	Da-Empoli-Giuliano_Le-mage-du-Kremlin.txt	True	74415	6326
+2022	Daoud, Kamel	Houris	Daoud-Kamel_Houris.txt	True	41955	3791
+2021	Despentes, Virginie	Cher connard	Despentes-Virginie_Cher-connard.txt	True	105751	7016
+2012	Dicker, Joël	La vérité sur l’affaire Harry Quebert	Dicker-Joël_La-verite-sur-l'affaire-Harry-Quebert.txt	True	221468	7484
+2019	Dubois, Jean-Paul	Tous les hommes n'habitent pas le monde de la même façon	Dubois-Jean_Tous-les-hommes-n-habitent-pas-le-monde-de-la-meme-facon.txt	True	70573	7546
+2021	Faye, Gaël	Jacaranda	Faye-Gael_Jacaranda.txt	True	66518	5867
+2016	Faye, Gaël	Petit pays	Faye-Gaël_Petit-pays.txt	True	66518	5867
+2012	Ferrari, Jérôme	Le sermon sur la chute de Rome	Ferrari-Jerome_Le-Sermon-sur-la-Chute-de-Rome.txt	True	53337	5352
+2014	Foenkinos, David	Charlotte	Foenkinos-David_Charlotte.txt	True	39106	3854
+2009	Foenkinos, David	La délicatesse	Foenkinos-David_La-delicatesse.txt	True	39106	3854
+2004	Gaudé, Laurent	Le soleil des Scorta	Gaude-Laurent_Le-Soleil-des-Scorta.txt	True	61913	3904
+2017	Guez, Olivier	La disparition de Josef Mengele	Guez-Olivier_La-disparition-de-Josef-Mengele.txt	True	56229	7992
+2010	Houellebecq, Michel	La carte et le territoire	Houellebecq-Michel_La-carte-et-le-territoire.txt	True	97668	8372
+2005	Houellebecq, Michel	La possibilité d'une île	Houellebecq-Michel_Possibilite-dune-ile.txt	True	97668	8372
+2011	Jenni, Alexis	L'art français de la guerre	Jenni-Alexis_Lart-français-de-la-guerre.txt	True	235849	9602
+2018	Lançon, Philippe	Le lambeau	Lançon-Philippe_Le-lambeau.txt	True	170007	8686
+2013	Lemaitre, Pierre	Au revoir là-haut	Lemaitre-Pierre_Au-revoir-la-haut.txt	True	153420	8407
+2020	Le Tellier, Hervé	L'anomalie	LeTellier-Herve_Lanomalie.txt	True	88209	8444
+2006	Littell, Jonathan	Les Bienveillantes	Littell-Jonathan_Les-Bienveillantes.txt	True	447523	15426
+2018	Mathieu, Nicolas	Leurs enfants après eux	Mathieu-Nicolas_Leurs-enfants-apres-eux.txt	True	142873	10267
+2021	Sarr, Mohamed Mbougar	La plus secrète mémoire des hommes	Mbougar_La-plus-secrete-memoire-des-hommes.txt	True	132472	7473
+2009	Ndiaye, Marie	Trois femmes puissantes	NDiaye-Marie_Trois-femmes-puissantes.txt	True	84642	6680
+2007	Nothomb, Amélie	Ni d'Ève ni d'Adam	Nothomb-Amelie_Ni-dEve-ni-dAdam.txt	True	35570	4567
+2021	Nothomb, Amélie	Premier sang	Nothomb-Amelie_Premier-sang.txt	True	35570	4567
+2019	Nothomb, Amélie	Soif	Nothomb-Amelie_Soif.txt	True	35570	4567
+2002	Rufin, Jean-Christophe	Rouge Brésil	Rufin-Jean-Christophe_Rouge-Bresil.txt	True	158452	8307
+2024	Sinno, Neige	Triste tigre	Sinno-Neige_Triste-tigre.txt	True	65657	5121
+2016	Slimani, Leïla	Chanson douce	Slimani-Leila_Chanson-douce.txt	True	54203	4632
+2015	Vigan, Delphine de	D'après une histoire vraie	Vigan-Delphinede_Dapres-une-histoire-vraie.txt	True	95744	5857
+2011	Vigan, Delphine de	Rien ne s'oppose à la nuit	Vigan-Delphinede_Rien-ne-soppose-a-la-nuit.txt	True	95744	5857
+2017	Vuillard, Éric	L'ordre du jour	Vuillard-Eric_Lordre-du-jour.txt	True	25554	4222
 2005	Weyergans, François	Trois jours chez ma mère	Weyergans,-François_Trois-jours-chez-ma-mere.txt	True	53785	5914
 2017	Zeniter, Alice	L'art de perdre	Zeniter-Alice_Lart-de-perdre.txt	True	158700	9060
 	Delerm, Philippe	La sieste assassinée				
