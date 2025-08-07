@@ -13222,7 +13222,6 @@ perce-chaussée
 perce-oreille
 perce-oreille des plages
 perce-oreilles
-perceur
 perceur d’huître
 perche
 perche à gros yeux

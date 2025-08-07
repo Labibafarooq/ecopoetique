@@ -19,15 +19,14 @@ filtre_1 = df[
 	((df['token_lexique'] == 'lama') & (df['contexte'].str.contains('dalaï-lama'))) |
 	((df['token_lexique'] == 'cheval') & (df['contexte'].str.contains('queue-de-cheval|queue de cheval|cheval d’arçon|à cheval sur'))) |
 	((df['token_lexique'] == 'kangourou') & (df['contexte'].str.contains('slip kangourou'))) |
+	((df['token_lexique'] == 'bar') & (df['contexte'].str.contains('bar-tabac|bar à tapas'))) |
 	((df['token_lexique'] == 'colin') & (df['contexte'].str.contains('colin-maillard'))) |
 	((df['token_lexique'] == 'lapin') & (df['contexte'].str.contains('coup du lapin'))) |
 	((df['token_lexique'] == 'cerfs') & (df['contexte'].str.contains('cerfs-volants'))) |
 	((df['token_lexique'] == 'cerf') & (df['contexte'].str.contains('cerf-volants'))) |
 	((df['token_lexique'] == 'oie') & (df['contexte'].str.contains("pattes-d’oie|jeu de l’oie"))) |
 	((df['token_lexique'] == 'bœuf') & (df['contexte'].str.contains("œil-de-bœuf"))) |
-	((df['token_lexique'] == 'élan') & (df['contexte'].str.contains("dans son élan"))) |
-	((df['token_lexique'] == 'élan') & (df['contexte'].str.contains("dans un élan"))) |
-	((df['token_lexique'] == 'élan') & (df['contexte'].str.contains("prendre de l’élan"))) |
+	((df['token_lexique'] == 'élan') & (df['contexte'].str.contains("dans son élan|dans un élan|prendre de l’élan|prit son élan"))) |
 	((df['token_lexique'] == 'pie') & (df['contexte'].str.contains("apple-pie"))) |
 	((df['token_lexique'] == 'pies') & (df['contexte'].str.contains("queue-de-pies|apple-pies"))) |
 	((df['token_lexique'] == 'carpe') & (df['contexte'].str.contains("carpe diem"))) |
@@ -50,6 +49,7 @@ filtre_1 = df[
 	((df['token_lexique'] == 'coq')  & (df['contexte'].str.contains("coq-à-l’âne"))) |
 	((df['token_lexique'] == 'âne')  & (df['contexte'].str.contains("coq-à-l’âne"))) |
 	((df['token_lexique'] == 'biche') & (df['contexte'].str.contains("pied-de-biche|pieds-de-biche"))) |
+	((df['token_lexique'] == 'mouche') & (df['contexte'].str.contains("bateau-mouche"))) |
 	(df['token_lexique'] == 'serpette') | (df['token_lexique'] == 'savate') |
 	(df['token_lexique'] == 'castillane') |
 	(df['token_lexique'] == 'cordon blanc')
