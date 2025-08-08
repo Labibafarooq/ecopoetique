@@ -14,12 +14,20 @@ else:
 df = pl.read_csv(INPUT_FILE, separator='\t')
 
 
+# Pour écarter les romans écologiques
 """
-# Pour filter les romans écologiques
 corpus_eco = pl.read_csv("../corpus_PRIX_ECOLOGIE.csv", separator='\t')
 
 # FILTRAGE DES ROMANS ECO
 df = df.filter(~df['fichier'].is_in(corpus_eco['File']))
+"""
+
+
+# Pour ne garder que les romans les plus biodivers
+"""
+top_biodivers = ["Rodier-Jean_En-remontant-les-ruisseaux.txt", "Senges-Pierre_Ruines-de-Rome.txt", "Brunel-Camille_La-guerrilla-des-animaux.txt", "Wilhelmy-Audrée_Le-corps-des-bêtes.txt", "Akouche-Karim_La-musique-dereglee-du-monde.txt", "Sorman-Joy_La-peau-de-lours.txt","Minard-Celine_Le-dernier-monde.txt", "Chevillard-Eric_Oreille-rouge.txt", "Ferrier-Michael_Scrabble.txt", "Rolin-Jean_La-Traversee-de-Bondoufle.txt", "Sorman-Joy_Comme-une-bete.txt", "Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-mere.txt", "Niel-Colin_Entre-fauves.txt", "Rolin-Jean_Le-Traquet-kurde.txt", "Fottorino-Eric_Mohican.txt", "Simonnot-Maud_LEnfant-celeste.txt", "Grimbert-Sibylle_Le-dernier-des-siens.txt","Loup-Douna_Les-printemps-sauvages.txt","Desir-Marie-Jeanne_L-amourette.txt", "Bonnefoy-Miguel_Sucre-noir.txt"]
+
+df = df.filter(df['fichier'].is_in(top_biodivers))
 """
 
 # Agentivité : nsubj, ROOT, obl:agent
