@@ -41,21 +41,22 @@ filtre = df[
     ])) & (df['token_lexique'] == 'if')) |
     ((df['token_lexique'] == 'foin') & df['contexte'].str.contains('tout un foin')) |
     (df['token_lexique'] == 'papier à musique') |
-    ((df['token_lexique'] == 'sanguine') & (df['contexte'].str.contains('pression sanguine'))) |
-    ((df['token_lexique'] == 'sanguine') & (df['contexte'].str.contains('transfusion sanguine'))) |
-    ((df['token_lexique'] == 'sanguine') & (df['contexte'].str.contains('circulation sanguine'))) |
+    ((df['token_lexique'] == 'sanguine') & (df['contexte'].str.contains('pression sanguine|transfusion sanguine|circulation sanguine'))) |
     ((df['token_lexique'] == 'lotus') & (df['contexte'].str.contains('en lotus'))) |
     ((df['token_lexique'] == 'lotus') & (df['contexte'].str.contains('posture du lotus'))) |
     ((df['token_lexique'] == 'lotus') & (df['contexte'].str.contains('position du lotus'))) |
     ((df['token_lexique'] == 'garou') & (df['contexte'].str.contains('loup-garou'))) |
+    ((df['token_lexique'] == 'mouron') & (df['contexte'].str.contains('se faire du mouron'))) |
     ((df['token_lexique'] == 'moutarde') & 
      (df['contexte'].str.contains('gaz moutarde') | df['contexte'].str.contains('verre à moutarde'))) |
     ((df['token_lexique'] == 'tabacs') & (df['contexte'].str.contains('bars-tabacs'))) |
     ((df['token_lexique'] == 'tabac') & (df['contexte'].str.contains('bar-tabac|faire un tabac|passer à tabac'))) |
+    ((df['token_lexique'] == 'poivre') & (df['contexte'].str.contains('poivre et sel'))) |
     ((df['token_lexique'] == 'bouvier') & (df['contexte'].str.contains('bouvier bernois'))) |
     ((df['token_lexique'] == 'pomme') & (df['contexte'].str.contains('pomme d’Adam|pomme de douche'))) |
     ((df['token_lexique'] == 'radis') & (df['contexte'].str.contains('pas un radis'))) |
     ((df['token_lexique'] == 'coucou') & (df['contexte'].str.contains('faire coucou|fait coucou|coucou de la main|pendule à coucou'))) |
+    ((df['token_lexique'] == 'pin') & (df['contexte'].str.contains('pin-up'))) |
     (df['token_lexique'] == 'joli cœur') | (df['token_lexique'] == 'jaune d’œuf') | (df['token_lexique'] == 'phénix') | (df['token_lexique'] == 'goutte de lait') |
     ((df['token_lexique'] == 'douce-amère') & (df['contexte'].str.contains('expression douce-amère'))) |
     ((df['token_lexique'] == 'carotte') & (df['contexte'].str.contains('poil de carotte'))) |

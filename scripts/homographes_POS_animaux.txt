@@ -21,3 +21,5 @@ roussâtre
 marmotte
 méduse
 tapir
+pipa
+grillons
