@@ -1,31 +1,38 @@
-File	Year	Author	Title	Distinction	Prize_year
-Desjardins-Antoine_Indice-des-feux.txt	2021	Desjardins, Antoine	Indice des feux	Prix du roman d'écologie	2022
-Fottorino-Eric_Mohican.txt	2021	Fottorino, Éric	Mohican	Prix du roman d'écologie	2022
-Loup-Douna_Les-printemps-sauvages.txt	2021	Loup, Douna	Les printemps sauvages	Prix du roman d'écologie	2022
-Lulu-Annie_Peine-des-faunes.txt	2022	Lulu, Annie	Peine des Faunes	Prix du roman d'écologie	2022
-Manga-Samy_Chocolate-le-gout-amer-de-la-culture-du-cacao.txt	2022	Manga, Samy	Chocolaté: le goût amer de la culture du cacao	Prix du roman d'écologie	2022
-Royer-Corinne_Pleine-terre.txt	2021	Royer, Corinne	Pleine terre	Prix du roman d'écologie	2022
-Bienne-Gisele_La-malchimie.txt	2019	Bienne, Gisèle	La malchimie: récit	Prix du roman d'écologie	2020
-Giraud-Thomas_Le-bruit-des-tuiles.txt	2019	Giraud, Thomas	Le bruit des tuiles	Prix du roman d'écologie	2020
-Pireyre-Emmanuelle_Chimere.txt	2019	Pireyre, Emmanuelle	Chimère	Prix du roman d'écologie	2020
-Villeminot-Vincent_Nous-sommes-letincelle.txt	2019	Villeminot, Vincent	Nous sommes l'étincelle	Prix du roman d'écologie	2020
-Baque-Joel_La-fonte-des-glaces.txt	2017	Baqué, Joël	La fonte des glaces	Prix du roman d'écologie	2018
-Doude-van-Troostwijk-Emma_Ceux-qui-appartiennent-au-jour.txt	2021	Doude van Troostwijk, Emma	Ceux qui appartiennent au jour	Prix du roman d'écologie	2022
-Dusapin-Elisa-Shua_Le-vieil-incendie.txt	2021	Dusapin, Elisa Shua	Le vieil incendie	Prix du roman d'écologie	2022
-Faye-Gael_Jacaranda.txt	2021	Faye, Gaël	Jacaranda	Prix du roman d'écologie	2022
-Fofana-Balla_La-prophetie-de-Dali-roman.txt	2021	Fofana, Balla	La prophétie de Dali	Prix du roman d'écologie	2022
-Freche-Emilie_Les-amants-du-Lutetia.txt	2021	Frèche, Émilie	Les amants du Lutetia	Prix du roman d'écologie	2022
-Rico-Lucie_Le-chant-du-poulet-sous-vide.txt	2020	Rico, Lucie	Le chant du poulet sous vide	Prix du roman d'écologie	2021
-Zalapi-Gabriella_Ilaria-ou-la-conquete-de-la-desobeissance.txt	2023	Zalapì, Gabriella	Ilaria ou La conquête de la désobéissance	Prix du roman d'écologie	2023
-Bronner-Luc_Chaudun.txt	2020	Bronner, Luc	Chaudun, la montagne blessée: récit	Prix du roman d'écologie	2021
-Gagne-Mireille_Le-lievre-dAmerique.txt	2020	Gagné, Mireille	Le lièvre d'Amérique	Prix du roman d'écologie	2021
-Niel-Colin_Entre-fauves.txt	2020	Niel, Colin	Entre fauves	Prix du roman d'écologie	2021
-Brunel-Camille_La-guerrilla-des-animaux.txt	2018	Brunel, Camille	La guérilla des animaux	Prix du roman d'écologie	2019
-Plamondon-Eric_Taqawan.txt	2018	Plamondon, Éric	Taqawan	Prix du roman d'écologie	2019
-Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-mere.txt	2018	Sautière, Jane	Mort d'un cheval dans les bras de sa mère	Prix du roman d'écologie	2019
-Wilhelmy-Audrée_Le-corps-des-bêtes.txt	2018	Wilhelmy, Audrée	Le corps des bêtes	Prix du roman d'écologie	2019
-Ducrozet-Pierre_Linvention-des-corps.txt	2017	Ducrozet, Pierre	L'invention des corps	Prix du roman d'écologie	2018
-Flahaut-Thomas_Ostwald.txt	2017	Flahaut, Thomas	Ostwald	Prix du roman d'écologie	2018
-Henrot-Errol_Les-liens-du-sang.txt	2017	Henrot, Errol	Les liens du sang	Prix du roman d'écologie	2018
-Pagano-Emmanuelle_Saufs-riverains.txt	2017	Pagano, Emmanuelle	Saufs riverains	Prix du roman d'écologie	2018
-Servant-Stephane_Sirius.txt	2017	Servant, Stéphane	Sirius	Prix du roman d'écologie	2018
+Key	File	Year	Author	Sexe auteur	Année naissance	Nationalité	Title	Publisher	Distinction	nb_tokens	nb_formes	nb_lemmes	guiraud_index	herdan_index	dugast_index	Shannon_rarefied
+2G4KB4NP	Doude-van-Troostwijk-Emma_Ceux-qui-appartiennent-au-jour.txt	2024	Doude van Troostwijk, Emma	F	1999	Néerlandaise, Française	Ceux qui appartiennent au jour	Flammarion	Prix du roman d'écologie ; 2022	19360.0	4289.0	2879.0	20.691357690056282	0.8069321293691678	51.12691370437796	3.2492525960021177
+T3UR5MSP	Dusapin-Elisa-Shua_Le-vieil-incendie.txt	2023	Dusapin, Elisa Shua	F	1992	Française, Suisse	Le vieil incendie	Edition La peuplade	Prix du roman d'écologie ; 2022	27840.0	5828.0	3757.0	22.516795296007352	0.8042985899107121	52.29512199109365	3.4360342282298606
+ZJQF4JJ9	Faye-Gael_Jacaranda.txt	2024	Faye, Gaël	H	1982	Française, Rwandaise	Jacaranda	Gallimard	Prix du roman d'écologie ; 2022	65421.0	9849.0	5866.0	22.93419334615098	0.7825090052272428	50.984173383392914	3.4588736752183866
+Y8NL26M9	Fofana-Balla_La-prophetie-de-Dali-roman.txt	2023	Fofana, Balla	H	1987	française, malienne	La prophétie de Dali	Rivages	Prix du roman d'écologie ; 2022	43071.0	8479.0	5499.0	26.496666658532224	0.8071071301467561	55.3188161071696	3.6224446465131015
+R4VUQ84T	Freche-Emilie_Les-amants-du-Lutetia.txt	2023	Frèche, Émilie	F	1976	Française	Les amants du Lutetia	Zoé	Prix du roman d'écologie ; 2022	70980.0	10355.0	6120.0	22.971186332480855	0.7805906546506797	50.91010780974964	3.4880312552711508
+2EEXD6UA	Manga-Samy_Chocolate-le-gout-amer-de-la-culture-du-cacao.txt	2023	Manga, Samy	H	1980	Camerounaise	Chocolaté: le goût amer de la culture du cacao	POL	Prix du roman d'écologie; 2022	21398.0	5902.0	4157.0	28.417994961133193	0.8356739411189018	60.67846333437186	2.9146945266208486
+E6B2PWIQ	Lyamlahy-Khalid_Evocation-d-un-memorial.txt	2023	Lyamlahy, Khalid	H	1986	Marocaine, Française	Évocation d'un mémorial à Venise	Éditions Verdier	Prix du roman d'écologie							
+Y6MGR2BR	Baque-Joel_La-fonte-des-glaces.txt	2017	Baqué, Joël	H	1963	Française	La fonte des glaces	POL	Prix du roman d'écologie; 2018	58025.0	11533.0	7128.0	29.591032329285103	0.8088326975226277	57.3771198787562	3.4683914341713535
+6QWFRZTS	Bienne-Gisele_La-malchimie.txt	2019	Bienne, Gisèle	F	1946	Française	La malchimie: récit	Actes Sud	Prix du roman d'écologie; 2020	44147.0	8489.0	5232.0	24.901019996842308	0.8005913533955431	53.634987427443214	3.606687162774381
+3P6SNMR4	Bronner-Luc_Chaudun.txt	2020	Bronner, Luc	H	1974	Française	Chaudun, la montagne blessée: récit	Éditions Du Seuil	2021; Prix du roman d'écologie	37831.0	7625.0	4886.0	25.12057361057845	0.8058270188606678	54.286049941010866	3.158404023143442
+H68LRNSL	Brunel-Camille_La-guerrilla-des-animaux.txt	2018	Brunel, Camille	F	1986	Française	La guérilla des animaux	Alma, éditeur	2019; Prix du roman d'écologie	50410.0	10072.0	6108.0	27.2044957018429	0.8050793377186466	55.550523584038245	3.3392518952640726
+X46VE79D	Desjardins-Antoine_Indice-des-feux.txt	2021	Desjardins, Antoine	H	1989	Canadienne 	Indice des feux	Edition La peuplade	Prix du roman d'écologie; 2022	78096.0	13370.0	8055.0	28.82379428678089	0.7983572251566204	55.86956501108082	3.488465946684005
+KVEKHF5V	Ducrozet-Pierre_Linvention-des-corps.txt	2017	Ducrozet, Pierre	H	1982	Française	L'invention des corps	Actes Sud	2018; Prix du roman d'écologie	76437.0	11293.0	7133.0	25.80004166167632	0.7890707834687571	53.30803544444369	3.406180882564503
+YKT82BPZ	Flahaut-Thomas_Ostwald.txt	2017	Flahaut, Thomas	H	1991	Française	Ostwald	Editions de l'Olivier	2018; Prix du roman d'écologie	25420.0	5346.0	3443.0	21.59480315284376	0.802904898021889	51.463945288046475	3.286487574883228
+IU5EU2TK	Fottorino-Eric_Mohican.txt	2021	Fottorino, Éric	H	1960	Française	Mohican	Gallimard	Prix du roman d'écologie; 2022	65028.0	11176.0	6775.0	26.56801458574033	0.7959338022299465	54.308716222773036	3.63740477145381
+6B2UCRIF	Gagne-Mireille_Le-lievre-dAmerique.txt	2020	Gagné, Mireille	F	1982	Canadienne 	Le lièvre d'Amérique	la Peuplade	2021; Prix du roman d'écologie	21576.0	4823.0	3136.0	21.34964152339811	0.8067373103569305	51.63612740384641	2.807679049473032
+RJVDJKT3	Giraud-Thomas_Le-bruit-des-tuiles.txt	2019	Giraud, Thomas	H	1976	Française	Le bruit des tuiles	la Contre-allée	Prix du roman d'écologie; 2020	56527.0	8133.0	4786.0	20.130044070042597	0.7743633219476619	48.49598821232476	3.22188838625154
+IVA8BK8I	Henrot-Errol_Les-liens-du-sang.txt	2017	Henrot, Errol	H	1982	Française	Les liens du sang	le Dilettante	2018; Prix du roman d'écologie	38093.0	6958.0	3982.0	20.402278300753373	0.7859032813413771	49.2664524859871	2.104566056879546
+P26GGFIC	Loup-Douna_Les-printemps-sauvages.txt	2021	Loup, Douna	F	1982	Française, Suisse	Les printemps sauvages		Prix du roman d'écologie; 2022	33688.0	5842.0	3440.0	18.742211237491883	0.7811325880653811	47.63110632914111	3.5599123293640416
+EY4JDX3U	Lulu-Annie_Peine-des-faunes.txt	2022	Lulu, Annie	F	1987	Roumaine, Congolaise (RC)	Peine des Faunes	Rivages	Prix du roman d'écologie; 2022	75112.0	10718.0	6255.0	22.822995835032927	0.778600006720189	50.70793113236344	3.260490946654619
+EDCMBR7U	Niel-Colin_Entre-fauves.txt	2020	Niel, Colin	H	1976	Française	Entre fauves	À vue d'oeil	2021; Prix du roman d'écologie	97165.0	11637.0	6358.0	20.396967132482498	0.7625690242518461	48.368439741747125	3.18026806061668
+UPU9CZA6	Pagano-Emmanuelle_Saufs-riverains.txt	2017	Pagano, Emmanuelle	F	1969	Française	Saufs riverains	POL	2018; Prix du roman d'écologie	80917.0	13759.0	8182.0	28.763358132126864	0.7972346713149222	55.735264456842714	3.237293619031457
+JAP4RG2K	Pireyre-Emmanuelle_Chimere.txt	2019	Pireyre, Emmanuelle	F	1969	Française	Chimère	Éditions de l'Olivier	Prix du roman d'écologie; 2020	55745.0	11378.0	6916.0	29.292202291353675	0.8090367441889607	57.22851211761707	3.3634577975472735
+TY998YTX	Plamondon-Eric_Taqawan.txt	2018	Plamondon, Éric	H	1969	Canadienne 	Taqawan	Quidam éditeur	2019; Prix du roman d'écologie	43115.0	7423.0	4712.0	22.692956809605302	0.7925565918852391	51.44355436680212	2.9965139865507453
+KSRCGVYQ	Rico-Lucie_Le-chant-du-poulet-sous-vide.txt	2020	Rico, Lucie	F	1988	Française	Le chant du poulet sous vide	POL	Prix du roman d'écologie ; 2021	48344.0	7776.0	4693.0	21.344169622306584	0.7837707192714126	49.8826863859395	1.2850123409881529
+8LXQJGNE	Royer-Corinne_Pleine-terre.txt	2021	Royer, Corinne	F	1967	Française	Pleine terre	Actes Sud	Prix du roman d'écologie; 2022	69010.0	10376.0	6187.0	23.551799871903675	0.7835397904624657	51.47369451604738	3.2831874958833187
+YEWP3PAU	Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-mere.txt	2018	Sautière, Jane	F	1952	Française	Mort d'un cheval dans les bras de sa mère	Verticales	2019; Prix du roman d'écologie	30414.0	6433.0	4304.0	24.67945085030002	0.8105760989492267	54.495014886920266	2.8275245421600648
+FUWWXP9P	Servant-Stephane_Sirius.txt	2017	Servant, Stéphane	H	1975	Française	Sirius	Rouergue	2018; Prix du roman d'écologie	106563.0	9534.0	4787.0	14.664261895360074	0.7319712615857527	43.19123280220504	2.5733779591089045
+Y8KFB7LX	Villeminot-Vincent_Nous-sommes-letincelle.txt	2019	Villeminot, Vincent	H	1972	Française	Nous sommes l'étincelle	Pocket jeunesse-PKJ	Prix du roman d'écologie; 2020	88259.0	13196.0	7252.0	24.41059100182975	0.7805592212450465	51.895691480913506	3.1345441688457925
+EF5E6IK3	Wilhelmy-Audrée_Le-corps-des-bêtes.txt	2018	Wilhelmy, Audrée	F	1985	Canadienne 	Le corps des bêtes	B. Grasset	2019; Prix du roman d'écologie	34544.0	5724.0	3514.0	18.906687441587838	0.781293659677618	47.78091543825789	3.32712785753174
+7B98RFYY	Zalapi-Gabriella_Ilaria-ou-la-conquete-de-la-desobeissance.txt	2024	Zalapì, Gabriella	F	1972	Italienne, Suisse, Anglaise	Ilaria ou La conquête de la désobéissance	Editions les Avrils, Delcourt	2023; Prix du roman d'écologie	26057.0	5078.0	3239.0	20.065442496408068	0.7949436221550424	49.58656654309921	3.2809059123580235
+WE34HWL2	Zimmer-Helene_Dans-la-reserve.txt	2023	Zimmer, Hélène	F	1989	Française	Dans la réserve	P.O.L	Prix du roman d'écologie	59361.0	8584.0	5247.0	21.535772757507473	0.7792835702191516	49.79870658008566	3.5126411461278675
+MG5PCPQW	Filhol-Elisabeth_Sister-ship.txt	2024	Filhol, Élisabeth	F	1965	Française	Sister-ship		Prix du roman d'écologie							
+IWTDYPC5	Martinez-Carole_Dors-ton-sommeil-de-brute.txt	2024	Martinez, Carole	F	1966	Française	Dors ton sommeil de brute		Prix du roman d'écologie							
+NXJA63NT	Quentin-Abel_Cabane.txt	2024	Quentin, Abel	H	1985	Française	Cabane		Prix du roman d'écologie							
+3ZZXJYF9	Royer-Corinne_Ceux-du-lac.txt	2024	Royer, Corinne	F	1967	Française	Ceux du lac		Prix du roman d'écologie							
+PA6RDRMQ	Ruben-Emmanuel_Malville.txt	2024	Ruben, Emmanuel	H	1980	Française	Malville		Prix du roman d'écologie							

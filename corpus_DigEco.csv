@@ -79,13 +79,13 @@ Z6W6KILM	Serre-Anne_Notre-si-chere-vieille-dame.txt	2022	Serre, Anne	F	1960	Fran
 M77UGMI3	Sinno-Neige_Triste-tigre.txt	2023	Sinno, Neige	F	1977	Française	Triste tigre	Les Éditions de Minuit	Prix du Livre Inter; 2024	65214.0	8584.0	5120.0	20.04931510139953	0.7704626832445229	48.29467210597569	3.1585889464676744
 X4ETW7ZJ	Umubyeyi-Mairesse-Beata_Le-convoi.txt	2024	Umubyeyi Mairesse, Beata	F	1979	Française, Rwandaise	Le convoi	Les éditions de Minuit	2023; Prix du Livre Inter	65584.0	8796.0	5134.0	20.047347285943353	0.7703158697163418	48.28843433391201	
 KE6WRB5A	Viti-Felicia_La-fille-verticale.txt	2024	Viti, Félicia	F	1989	Française	La fille verticale	Actes Sud	2023; Prix du Livre Inter	20204.0	3776.0	2412.0	16.969092753866626	0.7856059723497093	46.24026141137939	2.855567582057287
-KD4V3PBV		2024	Barillé, Élisabeth	F	1960	Française	Les soeurs et autres espèces du vivant	Éditions Anne Carrière	2022; Fémina; Renaudot; Prix du roman d'écologie							
+KD4V3PBV	Barille-Elisabeth_Les-soeurs-et-autres-especes.txt	2024	Barillé, Élisabeth	F	1960	Française	Les soeurs et autres espèces du vivant	Éditions Anne Carrière	2022; Fémina; Renaudot; Prix du roman d'écologie							
 3PTHC54Z		2021	Belaskri, Yahia	H	1952	Algérienne 	Le silence des dieux	Bernard Grasset	2022; Renaudot							
 PK6TLPRQ		2022	Jaydane, Driss C.	H	1967	Marocaine	Moïse de Casa	Bernard Grasset	Fémina; 2023							
 YVYJGN59		2022	Jeancourt-Galignani, Oriane	F	1981	Française, Allemande	Quand l'arbre tombe	Flammarion	Fémina; 2023							
 S9RRMAFS		2022	Lanne, Jean-Baptiste	H	1989	Française	Rives d'où je vous veille	Éditions Joëlle Losfeld	2023; Médicis							
 VPNG3TZ3	Laurain-Hélène_Partout-le-feu.txt	2022	Laurain, Hélène	F	1988	Française	Partout le feu	les Éditions de Minuit	2023; Prix du Livre Inter							
-E6B2PWIQ		2023	Lyamlahy, Khalid	H	1986	Marocaine, Française	Évocation d'un mémorial à Venise	Éditions Verdier	Prix du roman d'écologie							
+E6B2PWIQ	Lyamlahy-Khalid_Evocation-d-un-memorial.txt	2023	Lyamlahy, Khalid	H	1986	Marocaine, Française	Évocation d'un mémorial à Venise	Éditions Verdier	Prix du roman d'écologie							
 5E2CBF3T		2023	Narine, Vidya	F	?	Française	Orchidéiste	Éditions Payot & Rivages	Fémina; Médicis; 2024							
 SP3KBJRD		2024	Wajsbrot, Cécile	F	1954	Française	Plein ciel	Bernard Grasset	2023; Prix du Livre Inter							
 MULPYX9F	Achache-Carole_La-Plage-De-Trouville.txt	2008	Achache, Carole	F	1952	Française	La plage de Trouville	Stock	Médicis; 2008	86997.0	12264.0	7584.0	25.712611382008824	0.7854833414439399	53.019793385003084	3.4894062095332767
@@ -811,7 +811,7 @@ SS5E75UJ	Segur-Philippe_Poetique-de-l-egorgeur.txt	2004	Ségur, Philippe	H	1964	
 R3LEFN6P	Senges-Pierre_Ruines-de-Rome.txt	2002	Senges, Pierre	H	1968	Française	Ruines-de-Rome	Verticales	Prix du Livre Inter	68247.0	13596.0	8785.0	33.62791826151411	0.8158199403166226	60.434820008051844	3.800537961059367
 NF6JVUMI	Serrano-Jean-Louis_La-beauté-du-poulpe.txt	2008	Serrano, Jean-Louis	H	1946	Française	La beauté du poulpe	Feuille bleue	Cinq Continents	41289.0	7960.0	4788.0	23.56334594771484	0.7972890383506511	52.431063979818965	3.5914750384258385
 ETVPCKJ9	Serre-Anne_Petite-Table-Sois-Mise.txt	2012	Serre, Anne	F	1960	Française	Petite table, sois mise !	Verdier	Fémina; 2012	12179.0	2953.0	1900.0	17.21661570908345	0.802512303543234	47.635719109957776	
-A3CK7YT7	Serre-Anne_Un-chapeau-leopard.txt	2008	Serre, Anne	F	1960	Française	Un chapeau léopard	Mercure de France		29705.0	5452.0	3258.0	18.903242321738475	0.7853979310927119	47.991478895011134	3.002121426433195
+A3CK7YT7	Serre-Anne_Un-chapeau-leopard.txt	2008	Serre, Anne	F	1960	Française	Un chapeau léopard	Mercure de France	Fémina	29705.0	5452.0	3258.0	18.903242321738475	0.7853979310927119	47.991478895011134	3.002121426433195
 FUWWXP9P	Servant-Stephane_Sirius.txt	2017	Servant, Stéphane	H	1975	Française	Sirius	Rouergue	2018; Prix du roman d'écologie	106563.0	9534.0	4787.0	14.664261895360074	0.7319712615857527	43.19123280220504	2.5733779591089045
 YG5J6LSV	Sewtohul-Amal_Histoire-dAshok.txt	2001	Sewtohul, Amal	F	1971	Mauricienne	Histoire d'Ashok et d'autres personnages de moindre importance	Gallimard	Cinq Continents	67048.0	11799.0	7362.0	28.431704668037575	0.8012197845764767	55.906791508908036	3.4577315379400577
 FCEEUCJF	Sewtohul-Amal_Made-in-Mauritius.txt	2012	Sewtohul, Amal	F	1971	Mauricienne	Made in Mauritius	Gallimard	Cinq Continents	26730.0	5154.0	3290.0	20.123171040365147	0.7944876271075271	49.600623386633636	3.229043035468447
@@ -872,7 +872,7 @@ E9ECCGT3	Victor-Marvin_Corps-meles.txt	2011	Victor, Marvin	H	1981	Haïtienne 	Co
 4HYHK7T2	Viel-Tanguy_Brest.txt	2008	Viel, Tanguy	H	1973	Française	Paris-Brest	les Éd. de Minuit	Prix du Livre Inter; 2009	35718.0	4580.0	2819.0	14.915970281492868	0.7577818151725654	43.28085461399285	2.6771317235807945
 VF72I35R	Viel-Tanguy_Insoupconnable.txt	2006	Viel, Tanguy	H	1973	Française	Insoupçonnable	Minuit	Prix du Livre Inter	26999.0	4225.0	2667.0	16.23114570029182	0.7731334266589424	44.97601809290842	2.415459306389982
 XNZN5BLD	Viel-Tanguy_La-Disparition-de-Jim-Sullivan.txt	2013	Viel, Tanguy	H	1973	Française	La disparition de Jim Sullivan	les Éd. de Minuit	Prix du Livre Inter; 2013	30076.0	5002.0	3297.0	19.011172788214537	0.7856065328001738	48.09606806203225	3.3801562013084814
-BMI8J4YG	Viel-Tanguy_La-Fille-qu-on-appelle.txt	2021	Viel, Tanguy	H	1973	Française	La fille qu'on appelle	Les Éditions de Minuit		41908.0	5981.0	3679.0	17.971375567605424	0.7714194561252121	46.56228320247158	2.796485062782279
+BMI8J4YG	Viel-Tanguy_La-Fille-qu-on-appelle.txt	2021	Viel, Tanguy	H	1973	Française	La fille qu'on appelle	Les Éditions de Minuit	Goncourt	41908.0	5981.0	3679.0	17.971375567605424	0.7714194561252121	46.56228320247158	2.796485062782279
 Z3XMQSBQ	Viel-Tanguy_Labsolue-perfection-du-crime.txt	2001	Viel, Tanguy	H	1973	Française	L'absolue perfection du crime	Minuit	Prix du Livre Inter	34292.0	5130.0	3146.0	16.988784630438097	0.771248072777934	45.65062028815694	2.35372685725101
 IACQBQAL	Vigan-Delphinede_Dapres-une-histoire-vraie.txt	2015	Vigan, Delphine de	F	1966	Française	D'après une histoire vraie	JC Lattès	Goncourt des lycéens; Médicis; Renaudot; 2015	94470.0	10351.0	5856.0	19.052593885262663	0.7572620094707699	47.19507472969571	3.4460042352507467
 DL4TZL38	Vigan-Delphinede_Les-heures-souterraines.txt	2009	Vigan, Delphine de	F	1966	Française	Les heures souterraines	Lattès	Goncourt des lycéens; Goncourt; 2009	51561.0	7798.0	4672.0	20.575110119187006	0.778703864999198	49.03167808016834	3.348782828792399
@@ -890,7 +890,7 @@ P43CB2M8	Vuillard-Eric_Lordre-du-jour.txt	2017	Vuillard, Éric	H	1968	Française
 UBJ3D3RL	Vuillard-Eric_Tristesse-de-la-terre-Une-histoire-de-Buffalo-Bill-Cody.txt	2014	Vuillard, Éric	H	1968	Française	Tristesse de la terre: une histoire de Buffalo Bill Cody récit	Actes Sud	Fémina; Prix du Livre Inter; 2015; 2014	23285.0	5406.0	3739.0	24.502891898757383	0.8181115389224644	55.28423626130949	2.8913066062109767
 I2AXMW83	Waberi-Abdourahman_Pourquoi-tu-danses-quand-tu-marches.txt	2019	Waberi, Abdourahman A.	H	1965	Djiboutien	Pourquoi tu danses quand tu marches? roman	JC Lattès	Renaudot	40160.0	7547.0	4801.0	23.957133551574323	0.7996300317846837	52.90526743495933	3.4351258436655434
 HI4B5GKQ	Wauters_Antoine_Nos_mères.txt	2014	Wauters, Antoine	H	1981	Belge 	Nos mères	Verdier	Cinq Continents	30970.0	5777.0	3657.0	20.780421755049314	0.7934027183629024	50.052808977087786	3.509747270406734
-Y64QB7S9	Wauters-Antoine_Mahmoud-ou-la-montee-des-eaux.txt	2021	Wauters, Antoine	H	1981	Belge 	Mahmoud ou La montée des eaux			26730.0	5044.0	3057.0	18.698034611062692	0.7872817389830705	47.920388970844854	3.3602869596671963
+Y64QB7S9	Wauters-Antoine_Mahmoud-ou-la-montee-des-eaux.txt	2021	Wauters, Antoine	H	1981	Belge 	Mahmoud ou La montée des eaux		Prix du Livre Inter	26730.0	5044.0	3057.0	18.698034611062692	0.7872817389830705	47.920388970844854	3.3602869596671963
 JKHSJJBD	Werewere-Liking_La-memoire-amputee.txt	2004	Werewere Liking	F	1950	Camerounaise	La mémoire amputée: mères Naja et tantes Roz: chant-roman	Nouvelles Éditions ivoiriennes	Cinq Continents	142101.0	15887.0	8367.0	22.195820394088212	0.7612801208477956	49.69964543168022	3.5129703109843455
 MYYVPSWC	Weyergans,-François_Trois-jours-chez-ma-mere.txt	2005	Weyergans, François	H	1941	Belge, Française	Trois jours chez ma mère	B. Grasset	Goncourt des lycéens; Goncourt; Fémina; 2005	52228.0	9480.0	5913.0	25.873559578102757	0.7994669587012002	54.172489272434674	3.6660222379194782
 R5MGW5KJ	Wiazemsky-Anne_Jeune-fille.txt	2006	Wiazemsky, Anne	F	1947	Française	Jeune fille	Gallimard	Prix du Livre Inter; 2007	43029.0	6787.0	3773.0	18.188889251616793	0.7718755045441924	46.771082450587826	2.8835582002115436
@@ -907,22 +907,22 @@ F7U2WW4Q	Zein-Ramy_Ruines_du_ciel.txt	2008	Zein, Ramy	H	1965	Libanaise	Les ruine
 US4WW225	Zenatti-Valerie_Jacob-Jacob.txt	2014	Zenatti, Valérie	F	1970	Française	Jacob, Jacob	Éd. de l'Olivier	Médicis; Prix du Livre Inter; 2015; 2014	40648.0	7201.0	4310.0	21.37753761188527	0.7885542141693647	50.191139405228775	3.5681555370683347
 XPCMCR7L	Zeniter-Alice_Lart-de-perdre.txt	2017	Zeniter, Alice	F	1986	Française	L'art de perdre	Flammarion	Goncourt des lycéens; Goncourt; Fémina; 2017	155052.0	16282.0	9059.0	23.006024258467686	0.7623730874158848	50.29529565292661	3.404313154058518
 TCQRS6WK	Zeniter-Alice_Sombre-dimanche.txt	2012	Zeniter, Alice	F	1986	Française	Sombre dimanche	A. Michel	Prix du Livre Inter; 2013; Cinq Continents	62922.0	9156.0	5428.0	21.63906940144532	0.7782441191687629	49.827996000122226	3.3505425160996167
-WE34HWL2	Zimmer-Helene_Dans-la-reserve.txt	2023	Zimmer, Hélène	F	1989	Française	Dans la réserve	P.O.L		59361.0	8584.0	5247.0	21.535772757507473	0.7792835702191516	49.79870658008566	3.5126411461278675
+WE34HWL2	Zimmer-Helene_Dans-la-reserve.txt	2023	Zimmer, Hélène	F	1989	Française	Dans la réserve	P.O.L	Prix du roman d'écologie	59361.0	8584.0	5247.0	21.535772757507473	0.7792835702191516	49.79870658008566	3.5126411461278675
 GK3IWH7D	Zouari-Fawzia_La-retournee.txt	2002	Zouari, Fawzia	F	1955	Tunisienne, Française	La retournée	Ramsay	2003; Cinq Continents	93570.0	13370.0	7318.0	23.923465478304152	0.777365961385234	51.41381421048695	3.497196836919876
 C8XZV9Y7	Zouari-Fawzia_Le-corps-de-ma-mere.txt	2016	Zouari, Fawzia; Sansal, Boualem	F	1955	Tunisienne, Française	Le corps de ma mère	Éditions Joelle Losfeld	Cinq Continents	74792.0	11551.0	6214.0	22.721849322276515	0.7783102153601728	50.622387606194664	3.5709281257905743
 ULZJMF8B	Zukerman-David_San-Perdido.txt	2019	Zukerman, David	H	1960	Française	San Perdido	Calmann Lévy	Cinq Continents	127751.0	13953.0	7884.0	22.05791513149374	0.7631156690541308	49.63535700683706	3.4418410854243207
 LQ6FITZ6		2011	Ilf-Eddine	H	1976	Française	La dernière ronde	Ed. Elyzad	Cinq Continents							
 BLATMMTE		2023	Vandeveugle, Sophie	F	1998	Belge 	Feu le vieux monde	Stock	2023; Prix du Livre Inter							
 C9KA9V52	Boum-Hemley_Le-reve-du-pecheur.txt	2024	Boum, Hemley	F	1973	Camerounaise 	Le rêve du pêcheur		2025; Cinq Continents							
-MG5PCPQW	Filhol-Elisabeth_Sister-ship.txt	2024	Filhol, Élisabeth	F	1965	Française	Sister-ship									
-RKX2ZI5I	Gisele-Pineau_La-vie-privee-doubli.txt	2024	Pineau, Gisèle	F	1956	Française	La vie privée d'oubli									
-H69R2RSS	Guerra-Eve_Rapatriement.txt	2024	Guerra, Eve	F	1989	Française, Congolaise, Italienne	Rapatriement									
-DKMX3P8N	Lotoko-Benedicte_Ca-brille-encore.txt	2024	Lotoko, Bénédicte	F	?	Belge	Ça brille encore									
-IWTDYPC5	Martinez-Carole_Dors-ton-sommeil-de-brute.txt	2024	Martinez, Carole	F	1966	Française	Dors ton sommeil de brute									
-NXJA63NT	Quentin-Abel_Cabane.txt	2024	Quentin, Abel	H	1985	Française	Cabane									
-QX5ZNFAI	Red-Raphaelle_Adikou.txt	2024	Red, Raphaëlle	F	1997	Française	Adikou									
-3ZZXJYF9	Royer-Corinne_Ceux-du-lac.txt	2024	Royer, Corinne	F	1967	Française	Ceux du lac									
-PA6RDRMQ	Ruben-Emmanuel_Malville.txt	2024	Ruben, Emmanuel	H	1980	Française	Malville									
-RVN7E6TE	Sylvain-Prudhomme_Coyote.txt	2024	Prudhomme, Sylvain	H	1979	Française	Coyote									
-92UX6X3S	Taia-Abdellah_Le-bastion-des-larmes.txt	2024	Taïa, Abdellah	H	1973	Marocaine	Le bastion des larmes									
-EWS4SRTJ	Wilhelmy-Audree_Peau-de-Sang.txt	2024	Wilhelmy, Audrée	F	1985	Canadienne	Peau-de-sang									
+MG5PCPQW	Filhol-Elisabeth_Sister-ship.txt	2024	Filhol, Élisabeth	F	1965	Française	Sister-ship		Prix du roman d'écologie							
+RKX2ZI5I	Gisele-Pineau_La-vie-privee-doubli.txt	2024	Pineau, Gisèle	F	1956	Française	La vie privée d'oubli		Cinq Continents							
+H69R2RSS	Guerra-Eve_Rapatriement.txt	2024	Guerra, Eve	F	1989	Française, Congolaise, Italienne	Rapatriement		Cinq Continents							
+DKMX3P8N	Lotoko-Benedicte_Ca-brille-encore.txt	2024	Lotoko, Bénédicte	F	?	Belge	Ça brille encore		Cinq Continents							
+IWTDYPC5	Martinez-Carole_Dors-ton-sommeil-de-brute.txt	2024	Martinez, Carole	F	1966	Française	Dors ton sommeil de brute		Prix du roman d'écologie							
+NXJA63NT	Quentin-Abel_Cabane.txt	2024	Quentin, Abel	H	1985	Française	Cabane		Prix du roman d'écologie							
+QX5ZNFAI	Red-Raphaelle_Adikou.txt	2024	Red, Raphaëlle	F	1997	Française	Adikou		Cinq Continents							
+3ZZXJYF9	Royer-Corinne_Ceux-du-lac.txt	2024	Royer, Corinne	F	1967	Française	Ceux du lac		Prix du roman d'écologie							
+PA6RDRMQ	Ruben-Emmanuel_Malville.txt	2024	Ruben, Emmanuel	H	1980	Française	Malville		Prix du roman d'écologie							
+RVN7E6TE	Sylvain-Prudhomme_Coyote.txt	2024	Prudhomme, Sylvain	H	1979	Française	Coyote		Prix du Livre Inter							
+92UX6X3S	Taia-Abdellah_Le-bastion-des-larmes.txt	2024	Taïa, Abdellah	H	1973	Marocaine	Le bastion des larmes		Goncourt des lycéens; Médicis; 2024							
+EWS4SRTJ	Wilhelmy-Audree_Peau-de-Sang.txt	2024	Wilhelmy, Audrée	F	1985	Canadienne	Peau-de-sang		Cinq Continents							
