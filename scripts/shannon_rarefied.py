@@ -3,7 +3,8 @@ import polars as pl
 from collections import Counter
 from scipy.stats import entropy
 
-df = pl.read_csv("../resultats/PLANTES_ANIMAUX_LOTERRE.csv", separator='\t')
+
+df = pl.read_csv("../resultats/corpus_principal/ENTITES_TOTAL.csv", separator='\t')
 
 def shannon_rarefied(population, size=50, trials=30):
     if len(population) < size:
