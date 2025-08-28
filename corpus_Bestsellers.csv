@@ -1,92 +1,92 @@
 Year	Author	Title	File	Distinction	nb_tokens	nb_lemmes	Shannon_rarefied	biodiv_index
-2006	Barbery, Muriel	L’élégance du hérisson	Barbery-Muriel_Lelegance-du-herisson.txt	false	83455	7373		
-2016	Bourdeaut, Olivier	En attendant Bojangles	Bourdeaut-Olivier_En-attendant-Bojangles.txt	false	37021	3754		
-2005	Carolis, Patrick de	Les demoiselles de Provence	Carolis-Patrick-de_Les-demoiselles-de-provence.txt	false	176582	9075		
-2014	Carrère, Emmanuel	Le royaume	Carrere-Emmanuel_Le_royaume.txt	false	168957	9396		
-2017	Colombani, Laetitia	La tresse	Colombani-Laetitia_La-tresse.txt	false	46551	4663		
-2013	Ormesson, Jean d'	Un jour je m'en irai sans en avoir tout dit	d-Ormesson-Jean_Un-jour-je-men-irai.txt	false	46741	5184		
-2023	Sapin-Defour, Cédric	Son odeur après la pluie	Defour-Cedric-Sapin_Son-Odeur-Apres-la-pluie.txt	false	64636	6756		
-2012	Delacourt, Grégoire	La liste de mes envies	Delacourt-Gregoire_La-Liste-de-Mes-Envies.txt	false	29298	3634		
-2001	Delerm, Philippe	La sieste assassinée	Delerm-Philippe_Sieste-assassinee.txt	false	13285	2839		
-2018	Dicker, Joël	La disparition de Stephanie Mailer	Dicker-Joel_La-Disparition-de-Stephanie-Mailer.txt	false	195725	7200		
-2022	Dicker, Joël	L’affaire Alaska Sanders	Dicker-Joel_LAffaire-Alaska-Sanders.txt	false	170591	6794		
-2020	Dicker, Joël	L’énigme de la chambre 622	Dicker-Joel_LEnigme-de-la-Chambre-622.txt	false	177723	6908		
-2024	Dicker, Joël	Un animal sauvage	Dicker-Joel_Un-Animal-Sauvage.txt	false	95490	5495		
-2002	Duperey, Anny	Allons voir plus loin, veux-tu?	Duperey-Anny_Allons-voir-plus-loin-veux-tu.txt	false	140054	7482		
-2004	Gavalda, Anna	Ensemble, c'est tout	Gavalda-Anna_Ensemble-cest-tout.txt	false	135692	8505		
+2006	Barbery, Muriel	L’élégance du hérisson	Barbery-Muriel_Lelegance-du-herisson.txt	false	83455	7373	3.0910744571528808	0.015037759626194592
+2016	Bourdeaut, Olivier	En attendant Bojangles	Bourdeaut-Olivier_En-attendant-Bojangles.txt	false	37021	3754	3.2691765052746664	0.014305572346897596
+2005	Carolis, Patrick de	Les demoiselles de Provence	Carolis-Patrick-de_Les-demoiselles-de-provence.txt	false	176582	9075	3.386495951915431	0.011986272496331135
+2014	Carrère, Emmanuel	Le royaume	Carrere-Emmanuel_Le_royaume.txt	false	168957	9396	3.415823879765346	0.006813169312197313
+2017	Colombani, Laetitia	La tresse	Colombani-Laetitia_La-tresse.txt	false	46551	4663	3.1725248743953025	0.009677526415418207
+2013	Ormesson, Jean d'	Un jour je m'en irai sans en avoir tout dit	d-Ormesson-Jean_Un-jour-je-men-irai.txt	false	46741	5184	3.5537798510644345	0.019311954861264552
+2023	Sapin-Defour, Cédric	Son odeur après la pluie	Defour-Cedric-Sapin_Son-Odeur-Apres-la-pluie.txt	false	64636	6756	2.448341958461459	0.02049249643430363
+2012	Delacourt, Grégoire	La liste de mes envies	Delacourt-Gregoire_La-Liste-de-Mes-Envies.txt	false	29298	3634	3.3001111361045825	0.010475470532381943
+2001	Delerm, Philippe	La sieste assassinée	Delerm-Philippe_Sieste-assassinee.txt	false	13285	2839	3.595123750589593	0.023272912499112158
+2018	Dicker, Joël	La disparition de Stephanie Mailer	Dicker-Joel_La-Disparition-de-Stephanie-Mailer.txt	false	195725	7200	3.075052115189277	0.005750257116665093
+2022	Dicker, Joël	L’affaire Alaska Sanders	Dicker-Joel_LAffaire-Alaska-Sanders.txt	false	170591	6794	3.043267889998265	0.006350882337517116
+2020	Dicker, Joël	L’énigme de la chambre 622	Dicker-Joel_LEnigme-de-la-Chambre-622.txt	false	177723	6908	3.1608848776523115	0.00441079348006602
+2024	Dicker, Joël	Un animal sauvage	Dicker-Joel_Un-Animal-Sauvage.txt	false	95490	5495	2.603992245362219	0.007553731824958997
+2002	Duperey, Anny	Allons voir plus loin, veux-tu?	Duperey-Anny_Allons-voir-plus-loin-veux-tu.txt	false	140054	7482	3.5418811374323553	0.009761707049058857
+2004	Gavalda, Anna	Ensemble, c'est tout	Gavalda-Anna_Ensemble-cest-tout.txt	false	135692	8505	3.573414504169174	0.012140318415396555
 2002	Gavalda, Anna	Je l'aimais	Gavalda-Anna_Je-laimais.txt	false	22269	2505		
-2008	Gavalda, Anna	La consolante	Gavalda-Anna_La-consolante.txt	false	148405	10443		
-2009	Gavalda, Anna	L'échappée belle	Gavalda-Anna_Lechappee-belle.txt	false	23664	3706		
-2016	Giordano, Raphaëlle	Ta deuxième vie commence quand tu comprends que tu n'en as qu'une	Giordano-Raphaelle_Ta-deuxième-vie-commence-quand-tu-comprends-que-tu-nen-as-quune.txt	false	53199	5502		
-2004	Grangé, Jean-Christophe	La ligne noire	Grange-Jean-Christophe_La-Ligne-noire.txt	false	76953	7343		
-2003	Grangé, Jean-Christophe	L’empire des loups	Grange-Jean-Christophe_Lempire-des-loups.txt	false	120413	9287		
-2022	Grimaldi, Virginie	Il nous restera ça	Grimaldi-Virginie_Il-nous-restera-ça.txt	false	67306	5316		
-2006	Groult, Benoîte	La touche étoile	Groult-Benoite_La-touche-etoile.txt	false	56814	6779		
-2001	Houellebecq, Michel	Plateforme	Houellebecq-Michel_Plateforme.txt	false	98346	7859		
-2019	Houellebecq, Michel	Sérotonine	Houellebecq-Michel_Serotonine.txt	false	83974	7478		
-2015	Houellebecq, Michel	Soumission	Houellebecq-Michel_Soumission.txt	false	69250	6726		
-2018	Lemaitre, Pierre	Couleurs de l'incendie	Lemaitre-Pierre_Couleurs-de-lincendie.txt	false	133098	8531		
-2022	Lemaitre, Pierre	Le grand monde	Lemaitre-Pierre_Le-grand-monde.txt	false	166001	8535		
-2023	Lemaitre, Pierre	Le silence et la colère	Lemaitre-Pierre_Le-Silence-et-la-Colere.txt	false	146810	7879		
-2020	Lemaître, Pierre	Miroir de nos peines	Lemaitre-Pierre_Miroir-de-nos-peines.txt	false	130754	7910		
-2015	Levy, Marc	Elle et lui	Levy-Marc_Elle-Et-Lui.txt	false	74652	4891		
-2004	Levy, Marc	La prochaine fois	Levy-Marc_La-prochaine-fois.txt	false	66585	5136		
-2009	Levy, Marc	Le premier jour	Levy-Marc_Le-Premier-jour.txt	false	124389	7152		
-2010	Levy, Marc	Le voleur d'ombres	Levy-Marc_Le-voleur-dombres.txt	false	63224	3997		
-2007	Levy, Marc	Les enfants de la liberté	Levy-Marc_Les-enfants-de-la-liberte.txt	false	88928	5608		
-2006	Levy, Marc	Mes amis, mes amours	Levy-Marc_Mes-amis-mes-amours.txt	false	79227	5129		
-2003	Levy, Marc	Sept jours pour une éternité	Levy-Marc_Sept-jours-pour-une-eternite.txt	false	64586	5514		
-2012	Levy, Marc	Si c'était à refaire	Levy-Marc_Si-cetait-a-refaire.txt	false	89286	5784		
-2008	Levy, Marc	Toutes ces choses qu'on ne s'est pas dites	Levy-Marc_Toutes-Ces-Choses-Quon-Ne-Sest-Pas-Dites.txt	false	89650	5802		
-2013	Levy, Marc	Un sentiment plus fort que la peur	Levy-Marc_Un-sentiment-plus-fort-que-la-peur.txt	false	87593	6067		
-2005	Levy, Marc	Vous revoir	Levy-Marc_Vous-revoir.txt	false	73851	5167		
-2001	Millet, Catherine	La vie sexuelle de Catherine M.	Millet-Catherine_La-vie-sexuelle-de-Catherine-M.txt	false	73084	6539		
+2008	Gavalda, Anna	La consolante	Gavalda-Anna_La-consolante.txt	false	148405	10443	3.4653162372820754	0.014920906139437662
+2009	Gavalda, Anna	L'échappée belle	Gavalda-Anna_Lechappee-belle.txt	false	23664	3706	3.3771020106647995	0.014841895246329409
+2016	Giordano, Raphaëlle	Ta deuxième vie commence quand tu comprends que tu n'en as qu'une	Giordano-Raphaelle_Ta-deuxième-vie-commence-quand-tu-comprends-que-tu-nen-as-quune.txt	false	53199	5502	3.463733048898624	0.008464168430925791
+2004	Grangé, Jean-Christophe	La ligne noire	Grange-Jean-Christophe_La-Ligne-noire.txt	false	76953	7343	3.3890119275511084	0.012287166553438584
+2003	Grangé, Jean-Christophe	L’empire des loups	Grange-Jean-Christophe_Lempire-des-loups.txt	false	120413	9287	3.5523606492606197	0.009145456065962912
+2022	Grimaldi, Virginie	Il nous restera ça	Grimaldi-Virginie_Il-nous-restera-ça.txt	false	67306	5316	3.5339480134921453	0.006878245472431448
+2006	Groult, Benoîte	La touche étoile	Groult-Benoite_La-touche-etoile.txt	false	56814	6779	3.5378165155639087	0.01780926397457102
+2001	Houellebecq, Michel	Plateforme	Houellebecq-Michel_Plateforme.txt	false	98346	7859	3.480000336828953	0.0111109766107853
+2019	Houellebecq, Michel	Sérotonine	Houellebecq-Michel_Serotonine.txt	false	83974	7478	3.527167288062849	0.012180895438328843
+2015	Houellebecq, Michel	Soumission	Houellebecq-Michel_Soumission.txt	false	69250	6726	3.690277872227951	0.0067677298162158814
+2018	Lemaitre, Pierre	Couleurs de l'incendie	Lemaitre-Pierre_Couleurs-de-lincendie.txt	false	133098	8531	3.5851560443889174	0.004040431912262676
+2022	Lemaitre, Pierre	Le grand monde	Lemaitre-Pierre_Le-grand-monde.txt	false	166001	8535	3.4867023738975225	0.005776128775259298
+2023	Lemaitre, Pierre	Le silence et la colère	Lemaitre-Pierre_Le-Silence-et-la-Colere.txt	false	146810	7879	3.4502830767910257	0.003666263605881071
+2020	Lemaître, Pierre	Miroir de nos peines	Lemaitre-Pierre_Miroir-de-nos-peines.txt	false	130754	7910	3.3460857764076133	0.007728389987878758
+2015	Levy, Marc	Elle et lui	Levy-Marc_Elle-Et-Lui.txt	false	74652	4891	3.5626545821166804	0.0037224328538431797
+2004	Levy, Marc	La prochaine fois	Levy-Marc_La-prochaine-fois.txt	false	66585	5136	3.179124987063581	0.004965517739049522
+2009	Levy, Marc	Le premier jour	Levy-Marc_Le-Premier-jour.txt	false	124389	7152	3.2959778650414435	0.011685327790104241
+2010	Levy, Marc	Le voleur d'ombres	Levy-Marc_Le-voleur-dombres.txt	false	63224	3997	2.781760779493345	0.008887695771505373
+2007	Levy, Marc	Les enfants de la liberté	Levy-Marc_Les-enfants-de-la-liberte.txt	false	88928	5608	3.3468148658995656	0.005268915091151709
+2006	Levy, Marc	Mes amis, mes amours	Levy-Marc_Mes-amis-mes-amours.txt	false	79227	5129	3.361127527910144	0.006490874471711059
+2003	Levy, Marc	Sept jours pour une éternité	Levy-Marc_Sept-jours-pour-une-eternite.txt	false	64586	5514	3.4057735586147606	0.008226251434427007
+2012	Levy, Marc	Si c'était à refaire	Levy-Marc_Si-cetait-a-refaire.txt	false	89286	5784	3.288711132558207	0.004272679830844164
+2008	Levy, Marc	Toutes ces choses qu'on ne s'est pas dites	Levy-Marc_Toutes-Ces-Choses-Quon-Ne-Sest-Pas-Dites.txt	false	89650	5802	3.3392072299022173	0.006332015940695782
+2013	Levy, Marc	Un sentiment plus fort que la peur	Levy-Marc_Un-sentiment-plus-fort-que-la-peur.txt	false	87593	6067	3.0713015350321493	0.006662031117282299
+2005	Levy, Marc	Vous revoir	Levy-Marc_Vous-revoir.txt	false	73851	5167	3.129079849524825	0.00970277024740606
+2001	Millet, Catherine	La vie sexuelle de Catherine M.	Millet-Catherine_La-vie-sexuelle-de-Catherine-M.txt	false	73084	6539	3.2960594916032653	0.005457052138416002
 2014	Modiano, Patrick	Pour que tu ne te perdes pas dans le quartier roman	Modiano-Patrick_Pour-que-tu-ne-perdes-pas-dans-le-quartier.txt	false	34675	2759		
-2022	Musso, Guillaume	Angélique	Musso-Guillaume_Angelique.txt	false	57242	6505		
-2014	Musso, Guillaume	Central Park	Musso-Guillaume_Central-Park.txt	false	76992	7369		
-2013	Musso, Guillaume	Demain	Musso-Guillaume_Demain.txt	false	95462	7829		
-2008	Musso, Guillaume	Je reviens te chercher	Musso-Guillaume_Je-reviens-te-chercher.txt	false	84424	7252		
-2016	Musso, Guillaume	La fille de Brooklyn	Musso-Guillaume_La-fille-de-Brooklyn.txt	false	101253	8445		
-2010	Musso, Guillaume	La fille de papier	Musso-Guillaume_La-fille-de-papier.txt	false	105110	8997		
-2018	Musso, Guillaume	La jeune fille et la nuit	Musso-Guillaume_La-Jeune-Fille-et-la-nuit.txt	false	14257	3057		
-2020	Musso, Guillaume	La vie est un roman	Musso-Guillaume_La-vie-est-un-roman.txt	false	54978	6257		
-2019	Musso, Guillaume	La vie secrète des écrivains	Musso-Guillaume_La-vie-secrete-des-ecrivains.txt	false	62204	6273		
-2011	Musso, Guillaume	L'appel de l'ange	Musso-Guillaume_Lappel-de-lange.txt	false	98500	8759		
-2021	Musso, Guillaume	L'inconnue de la Seine	Musso-Guillaume_LInconnue-de-la-Seine.txt	false	73196	7646		
-2015	Musso, Guillaume	L'instant présent	Musso-Guillaume_Linstant-present.txt	false	73742	7085		
-2007	Musso, Guillaume	Parce que je t'aime	Musso-Guillaume_Parce-que-je-taime.txt	false	67560	6384		
-2009	Musso, Guillaume	Que serais-je sans toi ?	Musso-Guillaume_Que-serais-je-sans-toi.txt	false	80591	7660		
-2024	Musso, Guillaume	Quelqu'un d'autre	Musso-Guillaume_Quelquun-dautre.txt	false	65015	6955		
-2012	Musso, Guillaume	Sept ans après	Musso-Guillaume_Sept-ans-apres.txt	false	82835	7948		
-2006	Musso, Guillaume	Seras-tu là ?	Musso-Guillaume_Seras-tu-là.txt	false	77113	6610		
-2017	Musso, Guillaume	Un appartement à Paris	Musso-Guillaume_Un-appartement-a-Paris.txt	false	95627	8697		
+2022	Musso, Guillaume	Angélique	Musso-Guillaume_Angelique.txt	false	57242	6505	3.5389585765594602	0.008717255848762864
+2014	Musso, Guillaume	Central Park	Musso-Guillaume_Central-Park.txt	false	76992	7369	3.537570571207581	0.010659761696282195
+2013	Musso, Guillaume	Demain	Musso-Guillaume_Demain.txt	false	95462	7829	3.306623228151293	0.00824387010852494
+2008	Musso, Guillaume	Je reviens te chercher	Musso-Guillaume_Je-reviens-te-chercher.txt	false	84424	7252	3.495808174394781	0.006790871560228656
+2016	Musso, Guillaume	La fille de Brooklyn	Musso-Guillaume_La-fille-de-Brooklyn.txt	false	101253	8445	3.5336657297376877	0.008899338894483228
+2010	Musso, Guillaume	La fille de papier	Musso-Guillaume_La-fille-de-papier.txt	false	105110	8997	3.5685776596466154	0.008929083098535438
+2018	Musso, Guillaume	La jeune fille et la nuit	Musso-Guillaume_La-Jeune-Fille-et-la-nuit.txt	false	14257	3057	3.516630278025306	0.01307297501124649
+2020	Musso, Guillaume	La vie est un roman	Musso-Guillaume_La-vie-est-un-roman.txt	false	54978	6257	3.5877740472817723	0.009070911866058538
+2019	Musso, Guillaume	La vie secrète des écrivains	Musso-Guillaume_La-vie-secrete-des-ecrivains.txt	false	62204	6273	3.18709625378531	0.010400947519748214
+2011	Musso, Guillaume	L'appel de l'ange	Musso-Guillaume_Lappel-de-lange.txt	false	98500	8759	3.702623187408995	0.012479907596139964
+2021	Musso, Guillaume	L'inconnue de la Seine	Musso-Guillaume_LInconnue-de-la-Seine.txt	false	73196	7646	3.5441697205366354	0.014187137659397156
+2015	Musso, Guillaume	L'instant présent	Musso-Guillaume_Linstant-present.txt	false	73742	7085	3.5316646249570365	0.010105248513275131
+2007	Musso, Guillaume	Parce que je t'aime	Musso-Guillaume_Parce-que-je-taime.txt	false	67560	6384	3.6122904245751104	0.005453724442076099
+2009	Musso, Guillaume	Que serais-je sans toi ?	Musso-Guillaume_Que-serais-je-sans-toi.txt	false	80591	7660	3.495108229175218	0.011362538695932636
+2024	Musso, Guillaume	Quelqu'un d'autre	Musso-Guillaume_Quelquun-dautre.txt	false	65015	6955	3.500665012115046	0.011038011650904936
+2012	Musso, Guillaume	Sept ans après	Musso-Guillaume_Sept-ans-apres.txt	false	82835	7948	3.5364298544747923	0.008367721995256344
+2006	Musso, Guillaume	Seras-tu là ?	Musso-Guillaume_Seras-tu-là.txt	false	77113	6610	3.3016756785023063	0.013187349849943724
+2017	Musso, Guillaume	Un appartement à Paris	Musso-Guillaume_Un-appartement-a-Paris.txt	false	95627	8697	3.557238167268138	0.012647693401143682
 2005	Nothomb, Amélie	Acide sulfurique	Nothomb-Amelie_Acide-sulfurique.txt	false	27622	3024		
 2003	Nothomb, Amélie	Antéchrista	Nothomb-Amelie_Antechrista.txt	false	26614	3567		
-2002	Nothomb, Amélie	Robert des noms propres	Nothomb-Amelie_Robert-des-noms-propres.txt	false	27521	3391		
-2008	Pancol, Katherine	La valse lente des tortues	Pancol-Katherine_La-valse-lente-des-tortues.txt	false	231891	10618		
-2010	Pancol, Katherine	Les écureuils de Central Park sont tristes le lundi	Pancol-Katherine_Les-ecureuils-de-Central-Park-sont-tristes-le-lundi.txt	false	286113	11864		
-2014	Pancol, Katherine	Muchachas	Pancol-Katherine_Muchachas3.txt	false	146414	7758		
-2007	Pennac, Daniel	Chagrin d'école	Pennac-Daniel_Chagrin-decole.txt	false	59414	5885		
-2021	Perrin, Valérie	Trois	Perrin-Valerie_Trois.txt	false	178965	8561		
-2013	Puértolas, Romain	L'extraordinaire voyage du fakir qui était resté coincé dans une armoire Ikea	Puertolas-Romain_Lextraordinaire-voyage-du-fakir.txt	false	56396	5204		
-2024	Schlesser, Thomas	Les yeux de Mona	Schlesser-Thomas_Les-yeux-de-Mona.txt	false	148275	9757		
+2002	Nothomb, Amélie	Robert des noms propres	Nothomb-Amelie_Robert-des-noms-propres.txt	false	27521	3391	2.8347955210827305	0.0063862985468234905
+2008	Pancol, Katherine	La valse lente des tortues	Pancol-Katherine_La-valse-lente-des-tortues.txt	false	231891	10618	3.547581231921094	0.01095371602199095
+2010	Pancol, Katherine	Les écureuils de Central Park sont tristes le lundi	Pancol-Katherine_Les-ecureuils-de-Central-Park-sont-tristes-le-lundi.txt	false	286113	11864	3.587556258809743	0.010821112816798987
+2014	Pancol, Katherine	Muchachas	Pancol-Katherine_Muchachas3.txt	false	146414	7758	3.5421615476565864	0.008249737646337754
+2007	Pennac, Daniel	Chagrin d'école	Pennac-Daniel_Chagrin-decole.txt	false	59414	5885	3.510378106665138	0.007562668691775298
+2021	Perrin, Valérie	Trois	Perrin-Valerie_Trois.txt	false	178965	8561	2.839386467494726	0.010661680809970975
+2013	Puértolas, Romain	L'extraordinaire voyage du fakir qui était resté coincé dans une armoire Ikea	Puertolas-Romain_Lextraordinaire-voyage-du-fakir.txt	false	56396	5204	3.074877256570286	0.00894176661602821
+2024	Schlesser, Thomas	Les yeux de Mona	Schlesser-Thomas_Les-yeux-de-Mona.txt	false	148275	9757	3.367306811028993	0.009606277397169207
 2002	Schmitt, Éric-Emmanuel	Oscar et la dame rose	Schmitt-Eric-Emmanuel_Oscar-et-la-dame-rose.txt	false	14523	1674		
-2020	Slimani, Leïla	Le pays des autres	Slimani-Leila_Le-pays-des-autres.txt	false	93313	6160		
-2019	Tesson, Sylvain	La panthère des neiges	Tesson-Sylvain_La-panthere-des-neiges.txt	false	31634	4861		
-2006	Vargas, Fred	Dans les bois éternels	Vargas-Fred_Dans-les-bois-eternels.txt	false	108087	6803		
-2011	Vargas, Fred	L'Armée furieuse	Vargas-Fred_LArmee-furieuse.txt	false	115372	6790		
-2001	Vargas, Fred	Pars vite et reviens tard	Vargas-Fred_Pars-vite-et-reviens-tard.txt	false	98083	6642		
-2017	Vargas, Fred	Quand sort la recluse	Vargas-Fred_Quand-sort-la-recluse.txt	false	110882	7654		
-2004	Vargas, Fred	Sous les vents de Neptune	Vargas-Fred_Sous-les-vents-de-neptune.txt	false	115363	7388		
-2023	Vargas, Fred	Sur la dalle	Vargas-Fred_Sur-la-dalle.txt	false	131662	7016		
-2015	Vargas, Fred	Temps glaciaires	Vargas-Fred_Temps-glaciaires.txt	false	119597	7118		
-2008	Vargas, Fred	Un lieu incertain	Vargas-Fred_Un-lieu-incertain.txt	false	103166	6903		
-2021	Vigan, Delphine de	Les enfants sont rois	Vigan-Delphine-de_Les-enfants-sont-rois.txt	false	79990	6121		
-2002	Werber, Bernard	L'arbre des possibles: et autres histoires	Werber-Bernard_Larbre-Des-Possibles.txt	false	55054	6498		
-2009	Werber, Bernard	Le miroir de Cassandre	Werber-Bernard_Le-Miroir-de-Cassandre.txt	false	196131	10083		
-2007	Werber, Bernard	Le mystère des dieux	Werber-Bernard_Le-Mystere-des-Dieux.txt	false	145499	8774		
-2001	Werber, Bernard	L'ultime secret	Werber-Bernard_LUltime-secret.txt	false	112505	8078		
-2004	Werber, Bernard	Nous, les dieux	Werber-Bernard_Nous-les-dieux.txt	false	121939	8760		
+2020	Slimani, Leïla	Le pays des autres	Slimani-Leila_Le-pays-des-autres.txt	false	93313	6160	3.612230415065658	0.016413422524062447
+2019	Tesson, Sylvain	La panthère des neiges	Tesson-Sylvain_La-panthere-des-neiges.txt	false	31634	4861	3.1805606296176823	0.07108352927671813
+2006	Vargas, Fred	Dans les bois éternels	Vargas-Fred_Dans-les-bois-eternels.txt	false	108087	6803	2.996192416010632	0.01677071629045521
+2011	Vargas, Fred	L'Armée furieuse	Vargas-Fred_LArmee-furieuse.txt	false	115372	6790	3.219072545157479	0.015066906826483362
+2001	Vargas, Fred	Pars vite et reviens tard	Vargas-Fred_Pars-vite-et-reviens-tard.txt	false	98083	6642	3.0974435181529905	0.01114767657910143
+2017	Vargas, Fred	Quand sort la recluse	Vargas-Fred_Quand-sort-la-recluse.txt	false	110882	7654	3.0635797516031347	0.01748927673350755
+2004	Vargas, Fred	Sous les vents de Neptune	Vargas-Fred_Sous-les-vents-de-neptune.txt	false	115363	7388	3.3147328703566052	0.014912462052088436
+2023	Vargas, Fred	Sur la dalle	Vargas-Fred_Sur-la-dalle.txt	false	131662	7016	2.994161190874492	0.00939214482410388
+2015	Vargas, Fred	Temps glaciaires	Vargas-Fred_Temps-glaciaires.txt	false	119597	7118	3.348510877296773	0.013383180174652018
+2008	Vargas, Fred	Un lieu incertain	Vargas-Fred_Un-lieu-incertain.txt	false	103166	6903	2.866248774819289	0.011140935566974923
+2021	Vigan, Delphine de	Les enfants sont rois	Vigan-Delphine-de_Les-enfants-sont-rois.txt	false	79990	6121	3.4952079237815443	0.0036704271233610414
+2002	Werber, Bernard	L'arbre des possibles: et autres histoires	Werber-Bernard_Larbre-Des-Possibles.txt	false	55054	6498	3.3823732456907343	0.022547516641270377
+2009	Werber, Bernard	Le miroir de Cassandre	Werber-Bernard_Le-Miroir-de-Cassandre.txt	false	196131	10083	3.287956728273033	0.017484940512151437
+2007	Werber, Bernard	Le mystère des dieux	Werber-Bernard_Le-Mystere-des-Dieux.txt	false	145499	8774	3.193438845415176	0.019841158470197864
+2001	Werber, Bernard	L'ultime secret	Werber-Bernard_LUltime-secret.txt	false	112505	8078	3.366434023816402	0.015499869555458835
+2004	Werber, Bernard	Nous, les dieux	Werber-Bernard_Nous-les-dieux.txt	false	121939	8760	3.3813898241400953	0.04190029460858039
 2022	Andrea, Jean-Baptiste	Veiller sur elle	Andrea-Jean-Baptiste_Veiller-sur-elle.txt	true	126058	8259	3.3209105595371233	0.011636736399728122
 2011	Carrère, Emmanuel	Limonov	Carrere-Emmanuel_Limonov.txt	true	129822	9813	3.4022346539459876	0.0067557315304224985
 2003	Claudel, Philippe	Les âmes grises	Claudel-Philippe_Les-ames-grises.txt	true	98318	5937	3.695189601171276	0.017840660387568288
