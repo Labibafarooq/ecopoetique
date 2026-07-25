@@ -1,0 +1,13 @@
+nohup: ignoring input
+Retrying 3665 failed rows in batches of 4
+ETA: ~4.1h
+  [100/3665] ref=80 fig=20 (20.0% fig)
+  [200/3665] ref=144 fig=56 (28.0% fig)
+    Batch error: Expecting ',' delimiter: line 1 column 102 (char 101)
+  [300/3665] ref=213 fig=87 (29.0% fig)
+  [400/3665] ref=276 fig=124 (31.0% fig)
+  [500/3665] ref=355 fig=145 (29.0% fig)
+  [600/3665] ref=434 fig=166 (27.7% fig)
+  [700/3665] ref=497 fig=203 (29.0% fig)
+  [800/3665] ref=565 fig=235 (29.4% fig)
+  [900/3665] ref=632 fig=268 (29.8% fig)

@@ -1,0 +1,947 @@
+Sam,
+It.
+Okay.
+Should be this one.
+I think it's more or less.
+So
+this latest version has a different
+structure for the focalization, which is more.
+More or less the same, but different codes.
+And probably
+send it to you.
+And this was the last version we work on.
+Probably.
+I'm sorry.
+I didn't know.
+It was not.
+It's okay.
+It's okay.
+I just have to run it again.
+That might be the reason that the results are not that high.
+So I can check it again.
+That's completely fine.
+Should I send it to you by email?
+Right.
+Yeah, email is better for me.
+Yeah, this one was 70, so it's like 70.
+75.
+Thank you.
+Because the run takes around like four hours if I need.
+If I, like, create a new technique and I run it, the.
+I run the task zero on it.
+It takes around like three to four hours.
+So.
+Yeah, let me run this one.
+It's gonna take that time, but it's gonna give me the.
+Oh, yes, it has points here
+that might be better.
+Okay, I will run it and I'll let you know what this.
+These results give me.
+And let me see
+the.
+The goals that you send me now for the annotation.
+So this is for the
+task two.
+Yeah, I.
+I think.
+But I think that in this case, we should re.
+Annotate the localization.
+Okay.
+So just.
+Just wait for.
+I mean, run the vocalization.
+But probably I should.
+Or you run it with the.
+But you see that the position is not the same exact thing.
+And just.
+Just check if the other were more or less the same.
+So the focalization is different.
+So it's not the same
+kind of vocalization.
+I mean, it's more or less the same, but it's not the same codes.
+You're talking about the.
+The new file you just sent me.
+Yeah.
+Okay.
+For the task zero.
+Do you just.
+Just check that for the other
+codes where we can check right now the codes and the criteria are the same that in the gold set.
+Because otherwise.
+Just take the gold set.
+So the.
+Now this is the.
+This is the.
+Yeah,
+Let me zoom it.
+I don't know why it's.
+It.
+Okay, just.
+Just check if in the gold set we have the.
+The codes are this.
+I think they are.
+So except for the focalization, but.
+Just think the gold set.
+This is the.
+Oh, it's not the.
+What do you mean by like.
+Like the annotated.
+No, no.
+What are you trying to check?
+I mean, and it's just to check if the.
+The codes in the bones are the same that there are in the slot.
+And you.
+You added there.
+Golden Orthology.
+I guess
+this one.
+Right.
+So the focalization is different.
+But just check the others.
+I think it's okay.
+Just let me see the.
+Let me see what we have.
+So intrigue is lean
+frag and sick.
+Lean frag is okay.
+Sick.
+There's almost no.
+No, no one.
+So the temporality is like lean.
+This the zord.
+Yeah, probably there is one.
+It's not so frequent.
+Yes.
+The sword
+and narrator is auto.
+Narrator is auto
+and 10.
+Yeah, sure.
+And then we have the modality is
+E V E V T I N T R Intro.
+Yeah.
+Desk.
+Desk.
+Dia and mix.
+Desk and mix.
+Yes.
+Yeah.
+And the space
+is either frag 18 unit
+or image.
+I don't know if there are probably there are some.
+One
+image.
+Okay.
+And I think that is.
+It is register.
+Auto.
+Real fund.
+For which one?
+Auto.
+This one.
+Originality.
+This F Real Auto and
+specific.
+You can find one Spec.
+Yes.
+Yes.
+It's okay.
+So it's the only thing that's changing apart from the description.
+But I also have to look at the.
+The definitions of them.
+Yeah, the definitions are probably a little bit.
+Yeah.
+Let me.
+Let me try with these new definitions that if it changes because I just have to give them the new.
+New file that just work with this one.
+I think it's okay.
+So I have to run task zero on the new file, the one you just sent me.
+And I will have to annotate again the focalization for.
+I mean because the codes for focalization are different in this new file.
+So probably we'll have to resend you
+the goal set for the task 0
+in for task 0 with the focalization change with the new code.
+Okay.
+Of course.
+So I have to email you about this that send me the gold set of vocalization.
+And this was today's file, right?
+Yeah.
+For task two.
+Yeah.
+So let me open it.
+So the subcategory is.
+Okay.
+So the.
+The annotation was terrible because there's a lot of.
+Yeah.
+Yeah.
+Things that are not
+images analogical that were in there.
+So the.
+The codes are okay, I guess.
+But there are things that I had to add.
+So this is color.
+It's mean when.
+I don't know if we should just eliminate that.
+But it's when it is.
+The.
+The plant for example is used to design a color.
+It's called.
+It's like.
+So I don't know what's in English, but it's like.
+Like green apple.
+Green apple.
+Green color.
+Yeah.
+So it's a apple there.
+But it's It's.
+This line explains the color of the plant.
+Yeah.
+I mean, in this case this has been annotated as figurative because I.
+Anis is.
+I don't know.
+It's a plant, but it is used to design a color.
+Okay.
+Okay.
+So it's like it say it's a sweater,
+apple green.
+Right.
+Okay.
+So I don't know what to do with that.
+I put a color, a good color.
+I don't know if.
+To eliminate completely all this kind.
+But in any case we should add
+color.
+So there's no reference.
+But it's just a color.
+So it's not a metaphor.
+It's just a figurative use.
+Probably.
+It's just a case of how it's seen.
+Maybe we should.
+There's another new code which is idiomatic.
+So when it's used like
+it's in English, it's.
+It's a thing that you say is lexicalized.
+There's a Shashili.
+I don't know what's in English, but it's like finding a
+needle in the.
+Okay.
+Space.
+Right.
+So this is not.
+This is figurative, but it's not a new metaphor or a general metaphor.
+Is just a thing that is
+idiomatical use of this image, which is always the same same.
+So it is known and is no longer referring to
+the plant or the thing, but it's just here.
+It's something that is.
+That is said.
+So it's idiomatic in this case.
+And there's another one, another one I had to add which is.
+It's okay.
+It's okay.
+It's okay.
+It's okay.
+So this is the case
+were discussing the other day when it is not a metaphor.
+It is not a smile, but it's.
+It's an image.
+It's like a representation of the animal in like a story or
+in an image or something like this.
+So in this case I end up with the emac.
+Which is since saying that is an image
+and it's also.
+There's no reference here.
+Sometimes I had to
+put a interrogation mark
+because it is impossible given the context to determine what is the compari.
+But
+it is clear what's the form of the metaphor of this mind?
+So this is it, I guess.
+Okay, so maybe some of them doesn't have the gold set of the subcategories here.
+No, the subcategory is okay.
+Sometimes there is no.
+The category of the.
+Of the compari.
+You remember we talked about what is referring to because it's not clear in the phrase because there's not.
+Not enough context.
+But.
+But for the rest.
+So this X are.
+There's no.
+No, there's a wrong attribution.
+So probably they are not metaphorical use of the plant or something like that.
+So it was a wrong categorization of the phrase.
+And maybe we should add this category.
+Did you.
+Did you do the goal set for the comparison?
+What do you mean?
+This.
+This is.
+This is.
+This should be right.
+The figurative use of animal and plants, right?
+No, the 4.5.
+The new task you asked me to do last week.
+Yeah, you said that.
+Comparison comparator.
+And the comparison.
+Yeah, this is it.
+Okay.
+This one is.
+Yeah, but sometimes it's possible to determine it.
+Okay.
+Because that's why I was asking.
+Because you wrote the question mark.
+So I was confused that maybe.
+Yeah, the question mark is because it's not enough context.
+So even if my system does anything, it's okay.
+Do you want me to say okay for that part?
+Because when it looks at the goal set and there's no category like question mark, so it will say wrong.
+Even though in the goal set right here you don't even know what.
+Yeah, probably necessary.
+I don't know what do you think?
+But probably necessary to put.
+But I don't know how system would be if.
+If.
+If there is not enough information to
+determine.
+Just put.
+Determine or question mark or whatever.
+I don't know.
+Because sometimes it over
+does this.
+So in this case.
+So put too many question marks.
+It's probably not good.
+So it's better to have like answer in any case.
+And.
+But sometimes.
+Yeah, I think it won't be an issue because we do have the meanings of when we use this.
+When do we use a.
+And all that.
+I can check.
+I can run it and I can check what the results are.
+So maybe I should.
+I didn't have the time, but I should add definition for this new.
+You have to add that if you can tell me.
+Yeah.
+For this one image.
+Color.
+Like the one you just.
+Yeah, and color.
+I'm not sure if I'm going to put it in there, but let's.
+Let's.
+Let's see.
+And in the end, maybe we can eliminate that and lock.
+Idiom.
+It's idiomatic.
+Yeah, the idiom.
+And there is a.
+This is at least three that are.
+The others are.
+Okay.
+The other are image words.
+Image.
+Image.
+These ones, you said that they are not.
+They shouldn't be there.
+Yeah, it's like probably literal use of the plants.
+That's taken for metaphorical.
+If you want I can run like it's gonna finish.
+Animals is gonna finish this like tomorrow night and the plant is going to finish in two days.
+If you want, I can send you the goal set, like a random goal set from these results.
+Because this is also what Joanna did, but her system didn't do it much.
+Well, yeah,
+yeah, probably.
+I mean, what I have done is probably, I don't know, 100 something maybe.
+Yeah, because they are.
+Because maybe we can replace just the ones that are not good there.
+I don't know how many there are, but a lot.
+I mean, I would say
+this is a verb here.
+Here.
+This one.
+What is this?
+This is the subcategory of the metaphor.
+So you have the subcategories
+and so this is the code for the subcategory.
+This is explain which kind of smile or which kind of metaphor it is.
+So you have the.
+I have the file.
+Yes, I remember.
+Okay.
+Yeah, it might be like a hundred something because there's pretty much of a X points here.
+I think it might work.
+Even these might work for gold set.
+I still.
+Yeah, it's a little bit.
+Because since the.
+The plants were bad, there's probably much more animal than plants in this gold set.
+Yeah.
+Okay, then I can send you the gold set with just plants and some animals.
+Yeah.
+Okay.
+That's not an issue for me.
+Okay.
+Yeah, it's just to check which file did you use to run the whole thing?
+Because we have to.
+Yeah, I.
+It seems weird to me that there are less plants because normally it should be.
+Yeah, they're less.
+Of course, in terms of volume, but not.
+So if you have scorpus principal so entity in here.
+These are the plants and the animals.
+These are the animals,
+the plants.
+These are the total.
+Yeah, you can see there's no the probably the total is with animal and plants.
+Let me check.
+Which one did I run?
+Because according to the
+data I have,
+We should have.
+So according to the data I had, we should have around.
+101.
+Let's say 100,000 animals.
+Probably 120 or something.
+And around 60,000 plants.
+So it's half of it.
+Yeah.
+So half of it is it.
+The first one took five days and the other one is like two and a half days.
+So it's like.
+And also you'll have to run also the best seller, right?
+Yeah, the bestseller has only 70 or 40.
+70 something like that novel.
+So it's not gonna take much time.
+It's like a full day for both of them.
+So that's.
+That's not an Issue.
+And just once you have it, just it to me.
+So I can.
+Sometimes there's.
+Because it's still.
+Yeah, it's still running.
+And after every few, like every day I gather some random results and I check that if it's correct.
+The results are correct.
+With the animals, the ones.
+Can you send me just a random few.
+Yeah, of course.
+See what, what's.
+What what's giving.
+I will get it and I'll send
+it to you by email here and.
+Okay.
+So we wanted to talk about the.
+About the new tasks.
+Biodiversity.
+Yeah, yeah, I think I can do it by myself.
+It's not that complicated because it's, it's, it's, it's.
+It.
+I mean, I'm trying this week to do it by myself.
+If I.
+Not.
+Okay, I'm asking you.
+But
+it's.
+Maybe it's, it's.
+It's.
+It's only about
+applying.
+I can do it with artificial intelligence quite easily because it's just applying new calculation to data that we already have.
+So I'm, I'm just, I'm working on it and I can do it myself.
+It's maybe more complicated to explain all myself,
+so there's no problem.
+What I wanted to ask you.
+Sorry, you were saying, if you want me to do it, as you said, I don't think it's much of an issue because we just have to classify the animals and plants
+into some categories for the biodiversity.
+I can do it as well.
+So let me know if you cannot do it.
+Let me know.
+I will.
+I will try to figure it.
+Yeah.
+No, what I would like to talk about what's.
+Can we see again?
+The task with like the names.
+Do you remember the names of the people?
+Yeah, yeah, yeah.
+I did not work on that task anymore then afterwards.
+Yeah, but we had said something about we need to.
+Yeah, we need to add Arabic names and English names.
+Can I just see the results?
+What does it look like?
+Because the result seems a little bit
+strange to me and I wanted to check what
+would be an example of.
+I mean, what does.
+Do you have like a CSV file for all of it?
+What does it look like, the results of it?
+I think it's this one.
+Let me see.
+See.
+Do you want me to show you some examples?
+Yes.
+I mean.
+Yeah.
+And you run it on the main corpus.
+Bestseller corpus.
+On,
+on the whole corpus.
+In the total.
+Not in this one.
+But I went and I took the whole novel.
+Yeah.
+1,000.
+Yeah.
+70.
+Yeah.
+Let me find the exact file because I don't know, it went dependent
+J.
+Dependent human.
+CSV dependent human.
+CSV dependent human CSV.
+Okay, I cannot open it because it's too big.
+Sorry, what?
+Migos?
+I cannot open because.
+Because it's too big.
+Let me still try.
+Okay, I'll just try to show you from my kit from my
+terminal thing.
+Can you.
+Can you see it?
+Yeah, it's.
+A lot of things are happening here.
+So these are the.
+The names and then
+all of the details of the object.
+Okay.
+This is happening like this.
+Okay.
+And how big is this part?
+It's pretty big as you can see
+but.
+So you didn't have a gold set for this?
+No, I made it myself because it didn't give me the gold set for humans and I just ran it.
+Maybe that's why it didn't give.
+But the reason is that these are the humans
+names.
+But there might be many more.
+But it's just for the French.
+Yeah.
+And we were discussing also the fact that there was a percentage that.
+Yeah, that was very low.
+The.
+No, no, but it was the percentage of things that were not defined.
+Yeah.
+I did write it in a file.
+Let me.
+Let me try to find.
+It's
+it.
+It's
+it.
+Let me see.
+Where did the file go?
+I remember what the issues were.
+Sorry, not the issues like the what it was.
+But I'm trying to find the exact examples.
+I copy pasted some examples.
+It's no problem.
+It's just I did write it somewhere.
+Let me.
+Let me find it.
+Otherwise my brain will not work until I find.
+Was something like this.
+I don't have.
+I don't know where the final report went, but it's somewhere in my system.
+I'll find it.
+It was something like this that they did not.
+Were not in the category you told me about the action verb passive verbs.
+They were like.
+Okay, some you can see the examples.
+I think what I would need is like.
+Can you this week
+since there is running.
+I would need the
+most detailed documentation possible on this.
+So I can maybe.
+Because of course you explain it to me.
+But it's a lot of detail.
+I got this stuff.
+Maybe I would.
+Because I need to understand exactly what you did in order to be able to use it.
+So
+see if you have time this week it would be ideal to have like put together.
+I mean I've seen you written a lot of things.
+Yeah, it's just a documentation.
+No, that's a lot of documentation.
+Even I have to find here and there.
+So I completely understand.
+It's just.
+Just put together a documentation for the whole thing.
+You did
+Be okay for like 40 pages.
+Will you be able to write like would you be able to read like 40 pages?
+Is it okay?
+No problem.
+40 pages.
+It's okay.
+I mean it's just as much detail as possible.
+As much.
+Because it's going to take a much
+possible and so that I can.
+If there is something that it's not clear.
+Clear to me or maybe it's not okay.
+I would like to have a little bit of time to.
+Just
+before you leave, you.
+You leave to.
+To be honest, I don't think that it's gonna finish by the time I leave.
+I'll.
+I'll try to finish it by the time I leave.
+Like I think the last day would be 13th because on 14th is the public holiday.
+14th of July and 15th I leave.
+So even that's okay.
+I can work like we can communicate online until I give you the final results until like the end of.
+Yeah, that's why I was like, okay, it's okay.
+I don't have rush that I'm gonna have to finish it by 14th of July.
+So it's okay.
+So don't.
+Don't worry about it.
+Even if it didn't run by that time I didn't complete.
+I will complete it by.
+But of course there is something I need to check is better if I have the documentation.
+Yeah, I will give you the documentation by tomorrow or by Sunday.
+Not necessary.
+I mean I'm gonna tell you my.
+Because I have really urgent stuff to do from here to
+let's say Wednesday.
+I wouldn't be able to touch at anything.
+I mean maybe if I need to do something really urgent, I'll do it.
+Like the gold set for vocalization.
+It's.
+So I'm gonna do this but
+starting From Wednesday the 8th, I will be able to read it.
+So if you can buy that time, I'm gonna read it probably.
+I mean, I don't know when we are seeing each other again.
+Maybe Friday.
+Could be next Friday.
+Next Friday is.
+Which date?
+10th.
+I have an appointment on 10th.
+Wait, let me tell you the time of that appointment and we can schedule around it.
+Yeah, give me one second
+because I am leaving.
+So I just booked an appointment.
+Otherwise can be the 13th.
+Right.
+But maybe it's a little bit last a year.
+No, the appointment is at 1045.
+So we can do like.
+Is it okay?
+Afternoon is okay.
+If you want it by Wednesday then the system can be like.
+Can finish by Wednesday and I can run it on the remaining tasks so I can finish like task two and task three.
+Do you want me to add.
+To Finish the task 2 and task 3 and add it in the.
+In the documentation and I'll just give it to you.
+So by that time, task two is done.
+Task three is done.
+Task one is done.
+Task zero is still.
+I'm trying to figure it out.
+And task 4.5 is left behind because you said that the comparison you
+like
+put the task here just to be sure.
+Oh, you mean the.
+The list of task.
+The list of task.
+Let me.
+Let me find it from.
+It is in.
+So here's.
+So task zero.
+So we are working on it.
+It's almost done.
+Task one is.
+Okay.
+Just running.
+This one is partially built and I
+have to run it after.
+Partially built was for the.
+For what Joanna did, but now I have to make it again because I
+have to send it to you.
+The new categories.
+Yeah.
+For
+like breakdown.
+Task zero.
+I have to run the new file you sent me again.
+Yeah.
+Task zero.
+I have to give you a new goal set
+for vocalization.
+Okay.
+And so task three is done.
+These two are going to run after
+task one.
+Because here I have to.
+Something was left.
+No, there was something left in there for the animals and plants.
+Yeah, animal and plants.
+So literally you have to run.
+Yeah, I remember.
+Something was left in here for which I have to wait for the task 1.
+Task 2.
+Again, I can only run after I get the results from task one.
+We already did this, right?
+They extended to plants and humans.
+Yeah, yeah.
+And the last one.
+That one.
+You have to run it.
+And task five, I mean.
+And we win.
+We won.
+Want.
+I mean, I have to see that maybe in the future, but I don't have.
+Yeah, I don't.
+To be honest, I don't even know how to like give them.
+No, no.
+I mean, I have to think about it, but maybe it was a little bit too much of a stretch.
+And we have already.
+I can.
+I can then write the documentation until it's running and also try to figure out the task 0.
+The accuracy a little higher.
+Right now it's.
+Everything is at zero.
+70%.
+Around 70%.
+So are you okay with 70%?
+Two are on 70%, two are on 75% and one is on 91%.
+Yeah, I think we will do with it.
+We'll go with it.
+I mean, since we.
+You have tried.
+But again, it is really important to have documentation of what all the attempts that you did.
+Yeah.
+And the reason I'm not trying.
+I want to try GPT4.
+But I want to ask.
+I wanted to ask you before I run it do you want me to run with GPT?
+Like GPT or the paid version?
+Yeah, and also I wanted to ask you that
+which.
+Yeah, which one do you want?
+The highest percentage.
+So I'll try to run that first because I don't want to run it on say the Eugene.
+Which one was it?
+The escape space.
+I don't want to run it because the accuracy is very low already.
+So you can tell me which one do you want the highest and I can run on that
+focalization right now is 70 to 75%.
+Yeah, but
+I would say vocalization.
+But then I have to give you the, the new goal set for the set and otherwise.
+Because before running that I'll have to run the focalization on my own system because maybe the new goal set you will give me will
+have much better results with the, with the offline models.
+I would say is important.
+Okay, let me see what results I'm getting right now for Nash.
+Right now Regime Naruto is giving me 76% which is not bad.
+76.7%.
+Yeah.
+If we could get it like to up to 80, that would be amazing.
+So
+you, you're not very interested in
+Intrigue.
+Yeah, I mean I'm interested in everyone.
+Yeah, no, but like the highest one I need it.
+Yeah, yeah.
+And you have 66%.
+I mean temporality also no temporality is this one.
+I, I, you.
+I was checking two different things I did so the you can just look at the good results of both of them.
+So here I would say that strategic to try to get
+everything over.
+So 70% intrigue here.
+Yeah, the intrigue is 83.63.
+68.3 and temporal is 71%.
+Don't look at
+lowest.
+So that's so just.
+So if you can send it to me like even partial documentation from Wednesday, then I will read it on Thursday and, and
+we can discuss it on.
+When it's on Friday.
+On Friday.
+Because I already have the documentations, a lot of documentations.
+I wrote it from like giving it to chat GPT.
+Just write me the documentation of like.
+Okay, I did this, this.
+So I have some documentation.
+I have to just combine it, combine
+it and put it clear as possible
+and I'll give it to you.
+And you specifically want the
+files I ran the system with?
+Yeah.
+So you need exactly the, the file on GitHub that.
+Okay, I ran this.
+It would be cool to have it on GitHub.
+I mean I'm not putting, I'm not, I'm not using.
+Not on GitHub.
+I meant like you specifically need that.
+Okay, you got this result, 72%.
+Which file did you run?
+So you specifically want me to tell you those specific big files that I ran, which are on GitHub?
+Yeah, I mean, it's okay, but for me the most important thing is to
+be able to see what are the steps.
+So I'm not sure if it's specific files is so important.
+Of course there is much more documentation, but for me it's important to understand and to be able to translate into my
+work work what has been done exactly.
+And of course, the more specific it is, the best it is.
+But at a certain point I'm not.
+I don't know what exactly I'm gonna do, but I'm not going into so much detail then like I use this file on this file.
+But yeah, I mean,
+as I said, as much detail as you can.
+As long as it, it stays like, understandable.
+Yeah.
+Okay.
+Otherwise it's gonna be like a.
+A lot of numbers and stuff.
+Yeah, no, I will try to keep it as simple as possible.
+Yeah, I think that's, that's it.
+Super.
+Okay, perfect.
+So let's say that we see each other.
+So you know you're okay with.
+Even if it's.
+Goes to the AI.
+To the
+like a paid version?
+Yeah.
+You have the API, right?
+Yeah, no, I'm just saying that.
+Will you prefer to.
+For me to just try it more with offline models or.
+I.
+I don't care if you.
+If it can improve significantly.
+The paid version is okay.
+It's just that.
+Just don't go with the eight limit.
+Yeah, of course.
+We have 80 more.
+I can just put it more.
+I mean, it's not, it's not, it's not the problem if you can put €20 or €30 or €50.
+It's not, it's not a problem.
+If you think you need that money.
+I will try it on.
+Yeah, I will just try it on.
+Goal set for all of them and I'll just see.
+Do you think if we can try and as long as say, I.
+I mean,
+because what about like €100 or 200?
+No, no,
+what I checked was it was showing me if I want to run it all on the whole copy, it's gonna take €22.
+Yeah.
+€22.
+Yeah, I'll still check.
+I can, I can add like €14 to the top.
+Yeah, I will first, because these, the.
+That one is gonna be the whole.
+I'll still, still send you the whole final amount of what it should be.
+But I, I Will first check it check the goal set.
+Drop me an email where you say okay I need €25 so can you please stop up.
+So I'm going to do it.
+No problem.
+So we have the funds for this.
+Not.
+Not the problem.
+So
+we're gonna see each other on
+So I have to.
+10th of July to the task 0 a gold set for focalization.
+I sent you the new categories breakdown in terms of gold.
+We are okay so we don't need.
+You don't need me to do anything else for the.
+For the new gold you sent me for the 4.51.
+Yeah.
+That's why I need to like you
+have to do the new category and
+and probably if you have the plants at a certain moment and send.
+I will send you and you have to
+go the right goal set.
+Yeah you have to write the goal set for me again.
+So yeah, that's it.
+I think that's it for cool.
+Thank you.
+I think it's.
+It's.
+It's cool.
+I mean we are approaching to the
+end of it hopefully because before Joanna did was very good.
+But the accuracy was like 40% for just to get.
+I think it's better and I mean I'm really happy that we.
+Because the part where we
+do the data mining was okay but the stylometric and ontology was bad.
+So maybe we didn't.
+She didn't have any much time to do that.
+So I'm really.
+And I have to run the task zero on the new goals.
+The new categories you sent me by email.
+Yeah.
+Okay.
+I think it's not much different but we'll see if it's a little bit better.
+To be honest, even a little like a little line is different.
+It's gonna take away the whole accuracy.
+So I will still but if.
+If it's bad it's worse than the other view.
+Yeah of course I will stay with the other.
+Literally I just do this.
+If it's.
+If it worse I just leave that file and I lead with the previous one.
+So don't worry about it.
+So cool.
+Perfect.
+So thank you and see you.
+I'll review on email and I'll see you next Friday.
+Last.
+Last meeting and one more meeting and
+I'll deliver you the whole school and then we'll see in September I'll talk to Motorsam if I need something else.
+We'll see But I was still answering the feedback from your regular and feedback or something.
+Yeah later and I'll deliver you the.
+The project.
+Where did I put my keys?
+This is interesting.
+I I think I remember you doing this.
+Yeah.
+Okay.
+I'm running home and I hope you.
+Oh, I won't be able to, like, congratulate you, but congratulations.
+Congratulations on the end of this for your video.
+Thank you.
+Bye.
+Bye.
+See you next week.
+See you next week.
+Bye.
+Bye.
+You should.
+You should
+please have some lunch.
+Are you sure?
+That's so cute.
+Thank you.
+Have a great day.
+What's happening?
+Did I forget about this today?
+It's okay.
+Just grab a plate and get some.
+Oh, I forgot about bringing something.

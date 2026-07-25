@@ -1,0 +1,184 @@
+ANALYSE D'AGENTIVITÉ — ÉCOPOÉTIQUE
+
+The morphosyntactic analysis is based on the dependency files already
+created by the previous team (dépendants_ANIMAUX.csv, dépendants_PLANTES.csv,
+dépendants_animaux_référentiels.csv) stored in the GitLab repository.
+Human character extraction (dépendants_HUMAINS.csv) was built using
+spaCy French NER (fr_core_news_lg) on all 925 novels in CORPUS_TOTAL.
+
+Généré le 22/06/2026
+=================================================================
+HYPOTHÈSE: Les animaux et les plantes sont-ils des agents
+passifs comparés aux humains dans le roman français contemporain?
+=================================================================
+
+=================================================================
+  ANIMAUX référentiels — 95,243 occurrences
+=================================================================
+  Catégorie                       N       %
+  ------------------------------------------
+  Complément du nom          31,982  ( 33.6%)  ███████████
+  Agent actif                23,265  ( 24.4%)  ████████
+  Autre                      20,040  ( 21.0%)  ███████
+  Objet                      19,247  ( 20.2%)  ██████
+  Récepteur passif              709  (  0.7%)  
+
+  -- Agent actif (24.4%) — 3 exemples --
+    [jument] Sa monture était une jument alezane qu’il menait au pas.
+    [loup] Un loup aboya dans un vallon des environs, à moins d’un kilomètre.
+    [loups] Quand il m’a confié le papier, les loups nous encerclaient.
+
+  -- Récepteur passif (0.7%) — 3 exemples --
+    [vache] Il arrivait que le projecteur restât bloqué dans une seule direction, celle où la vache à poils longs avait ét
+    [bœuf] Du rognon ou du foie, du filet, des côtes ou de la langue, des pattes, de la peau ou de la queue ; de la volai
+    [chèvres] Des chèvres et des moutons sont tenus en laisse et arrivent en broutant l’herbe jaune—verte.
+
+  -- Objet (20.2%) — 3 exemples --
+    [papillon] demanda le policier en chassant un papillon énorme qui lui attaquait les joues.
+    [papillons] L’étoffe aussitôt se déchira, libérant environ sept cent soixantedeux papillons miniatures, d’un gris terne qu
+    [taupes] L’obscurité autour de nous sentait les sous-bois, les renardes, les taupes.
+
+  -- Complément du nom (33.6%) — 3 exemples --
+    [loup] Des blessures de loup, ça se soigne en moins d’une heure.
+    [merles] d’être fétide lui est refusé, elle n’est même pas fétide et insignifiante dans un carré de cimetière, dans le 
+    [oies] Elle interrogeait, très haut au-dessus de sa tête, le vol triangulaire des oies sauvages, elle se plaignait de
+
+=================================================================
+  PLANTES (tous) — 64,269 occurrences
+=================================================================
+  Catégorie                       N       %
+  ------------------------------------------
+  Complément du nom          31,815  ( 49.5%)  ████████████████
+  Autre                      14,878  ( 23.1%)  ███████
+  Objet                       9,727  ( 15.1%)  █████
+  Agent actif                 7,591  ( 11.8%)  ███
+  Récepteur passif              258  (  0.4%)  
+
+  -- Agent actif (11.8%) — 3 exemples --
+    [arbrisseau] Les inscriptions s’effritent.
+Un arbrisseau surgit d’une fissure.
+Il éventre la pierre tombale.
+
+    [moutarde] La moutarde me monte au nez.
+    [pruneau] Le petit pruneau ne comprend pas ce qui se passe.
+
+  -- Récepteur passif (0.4%) — 3 exemples --
+    [pois chiches] au chemin de fer qui devait pousser vite pour que notre pays blessé et plein de trous devienne prospère et que
+    [marronniers] – Vous verrez que les marronniers en face du Sénat sont taillés en forme de cubes.
+    [salade] Au crépuscule du jour du 18 juillet, comme la salade était finie depuis le début de l’après-midi, tu m’as dema
+
+  -- Objet (15.1%) — 3 exemples --
+    [buis] Puis il détale du buis taillé derrière lequel il les épiait.
+    [carotte] Je me rends compte que Schulmann m’a tendu une carotte et que tout mon enthousiasme n’a servi à rien.
+    [chicorée] Elle boit sa chicorée et elle est en Alsace.
+
+  -- Complément du nom (49.5%) — 3 exemples --
+    [acajou] Des cloisons lambrissées en acajou de Cuba, décorées de panneaux de pâte de verre, motifs de naïades de René L
+    [acajou] Elle étrenne sa nouvelle chambre, le lit Empire acajou motifs bronze, avec un matelas, deux traversins, deux c
+    [acajou] Le lit Empire acajou aux motifs en bronze arrive juste à temps dans la maison des Grands Sables.
+
+
+Plants still include figurative cases like "tendre une carotte" — will improve when Task 1 reaches 90%
+To fix this properly, yes — I WOULD need to connect Task 1 results to filter out the figurative plants before running the agentivity analysis. The pipeline would be:
+
+Task 1 classifies each plant mention as référentiel or figuré
+Filter dépendants_PLANTES.csv to keep only référentiel rows
+Re-run agentivity analysis on the filtered file
+
+Exactly like what was already done for animals — dépendants_animaux_référentiels.csv exists because someone already did that filtering step for animals.
+So yes — when Task 1 improves to 90%+ for plants, the next step would be to create dépendants_plantes_référentielles.csv the same way, and then the plant agentivity numbers will be cleaner. Until then the 11.8% figure includes some noise from idioms.
+=================================================================
+  HUMAINS (tous) — 219,651 occurrences (925 romans)
+=================================================================
+  Catégorie                       N       %
+  ------------------------------------------
+  Agent actif                81,755  ( 37.2%)  ████████████
+  Autre                      62,395  ( 28.4%)  █████████
+  Complément du nom          44,184  ( 20.1%)  ██████
+  Objet                      28,214  ( 12.8%)  ████
+  Récepteur passif            3,103  (  1.4%)  
+
+  -- Répartition par genre --
+    masculin        118,142  ( 53.8%)
+    indéterminé      56,980  ( 25.9%)    
+    féminin          44,529  ( 20.3%)
+
+
+there are several reasons a name gets "indéterminé":
+
+Name appears alone without nearby pronouns (e.g. just "Schulmann" in a sentence with no "il" or "elle" nearby)
+Ambiguous names that could be male or female (e.g. "Alex", "Claude", "Dominique")
+Foreign names spaCy doesn't know the gender of
+Abbreviations or nicknames
+
+It's not a bug — it's genuinely uncertain from the text context alone.
+
+
+  -- Rôles pour MASCULIN (118,142 occurrences) --
+    Agent actif               45,164  ( 38.2%)  ████████████
+    Autre                     33,549  ( 28.4%)  █████████
+    Complément du nom         22,214  ( 18.8%)  ██████
+    Objet                     15,624  ( 13.2%)  ████
+    Récepteur passif           1,591  (  1.3%)  
+
+  -- Rôles pour FÉMININ (44,529 occurrences) --
+    Agent actif               16,789  ( 37.7%)  ████████████
+    Autre                     11,785  ( 26.5%)  ████████
+    Complément du nom          9,421  ( 21.2%)  ███████
+    Objet                      5,750  ( 12.9%)  ████
+    Récepteur passif             784  (  1.8%)  
+
+  -- Agent actif (37.2%) — 3 exemples --
+    [Didier Schulmann|masculin] Didier Schulmann me rappelle peu après pour me donner des précisions.
+S’est-il rendu compte que je n’ai rien e
+    [le Mauny|masculin] C’est donc grâce au peu d’inclination artistique d’un peuple en guerre que le Mauny me revient.
+    [Schulmann|indéterminé] Son fils, mon oncle, vit encore à ce moment-là.
+Schulmann peut me soupçonner d’être cupide.
+
+  -- Récepteur passif (1.4%) — 3 exemples --
+    [Hermance|féminin] Hermance est née le 8 juin 1861.
+    [Alphonse|masculin] On colporte des saloperies.
+On finit par supposer qu’Alphonse aurait été tué par les tenanciers qui voulaient 
+    [Adrienne|féminin] Seule Adrienne est restée en Suisse.
+Mais c’est un choix.
+D’un côté, elle vit sur la terre qu’elle a élue, de 
+
+  -- Objet (12.8%) — 3 exemples --
+    [Didier Schulmann|masculin] Il s’appelle Didier Schulmann.
+    [Neuburger|indéterminé] Je ne vois pas, dis-je.
+Neuburger, c’est dans la famille de votre grand-père !
+Me gronde-t-il ?
+Bien sûr, ai-j
+    [Mauny|masculin] Je n’ai donc rien à gagner si ce n’est le fait que j’ai raison.
+– Ça me paraît évident, sinon je n’aurais pas 
+
+=================================================================
+RÉSUMÉ COMPARATIF — HIÉRARCHIE D'AGENTIVITÉ
+=================================================================
+  Catégorie                       Agent%  Passif%  Objet%  Compl%        N
+  -----------------------------------------------------------------
+  HUMAINS (tous)                   37.2%     1.4%   12.8%   20.1%  219,651
+  HUMAINS masculin                 38.2%     1.3%   13.2%   18.8%  118,142
+  HUMAINS féminin                  37.7%     1.8%   12.9%   21.2%   44,529
+  ANIMAUX référentiels             24.4%     0.7%   20.2%   33.6%   95,243
+  PLANTES                          11.8%     0.4%   15.1%   49.5%   64,269
+
+=================================================================
+CONCLUSION
+=================================================================
+  Humans act as agents 37% of the time.
+  Animals act as agents 24% of the time — 1.5x less than humans.
+  Plants act as agents only 11.8% — 3x less than humans.
+  Plants appear predominantly as noun complements (49.5%),
+  describing things rather than doing them.
+  Male and female humans show nearly identical agentivity (38.2% vs 37.7%).
+
+  → The hierarchy Humans > Animals > Plants is confirmed
+    across 379,163 total mentions in 925 French novels.
+
+NOTES
+  - Animal analysis uses referential-only file (figurative filtered out)
+  - Plant analysis still includes some figurative cases (ex: 'tendre une carotte')
+    → will be improved when Task 1 figurative filtering reaches 90%
+  - Human gender detection based on spaCy morphology + pronoun context
+  - 25.9% of human mentions have undetermined gender

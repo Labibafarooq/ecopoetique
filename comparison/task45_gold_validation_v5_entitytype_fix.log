@@ -1,0 +1,17 @@
+Total gold rows: 200
+Usable rows (real categorie_compare label, not X/blank/?): 104
+Remaining to classify: 104
+  [10/104 this run, 10 total] correct=8 (80.0%) elapsed=7.1min
+  [20/104 this run, 20 total] correct=17 (85.0%) elapsed=15.0min
+  [30/104 this run, 30 total] correct=24 (80.0%) elapsed=25.6min
+  [40/104 this run, 40 total] correct=31 (77.5%) elapsed=35.6min
+  [50/104 this run, 50 total] correct=38 (76.0%) elapsed=46.1min
+  [60/104 this run, 60 total] correct=48 (80.0%) elapsed=54.6min
+  [70/104 this run, 70 total] correct=56 (80.0%) elapsed=63.6min
+  [80/104 this run, 80 total] correct=64 (80.0%) elapsed=75.7min
+  [90/104 this run, 90 total] correct=71 (78.9%) elapsed=87.2min
+  [100/104 this run, 100 total] correct=78 (78.0%) elapsed=98.5min
+  [104/104 this run, 104 total] correct=82 (78.8%) elapsed=103.5min
+
+Final: 82/104 = 78.8%
+Saved to: /home/lfarooq/ecopoetique/comparison/resultats_task45_compare_category.csv

@@ -1,0 +1,181 @@
+
+==============================================================
+  TASK 0 MAP-REDUCE v7  (v6 rules + evidence-based INT/TEM/REG fixes)
+  Model: qwen3:30b   Chunks: 9   Max lines/chunk: 350   Reduce votes: 3
+  Started: 2026-07-05 20:55:04
+==============================================================
+
+Gold: 60 novels
+Novels in CORPUS_TOTAL: 60  missing: 0
+Resuming: 5 done, 55 remaining
+TEST MODE: 10 novels
+
+
+[1/10] Brunel-Camille_La-guerrilla-des-animaux.txt
+    2892 lines -> 9 chunks of ~321 lines
+    chunk 1/9: voice=third_person thread=Isaac time=nuit
+    chunk 2/9: voice=third_person thread=Isaac et l'équipage  time=aujourd'hui
+    chunk 3/9: voice=first_person thread=le narrateur (animal time=none
+    chunk 4/9: voice=third_person thread=Isaac's internal con time=none
+    chunk 5/9: voice=third_person thread=Isaac et Yumiko, leu time=none
+    chunk 6/9: voice=third_person thread=Yumiko et Isaac, leu time=nuit, après l'effond
+    chunk 7/9: voice=third_person thread=Yumiko's death and I time=none
+    chunk 8/9: voice=third_person thread=Isaac Obermann et le time=dix ans passèrent
+    chunk 9/9: voice=third_person thread=Isaac Obermann's fin time=2045
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 2/3 failed: No valid JSON object found. Response was:
+
+  -> 409s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_INTRx REG=REG_REALx ESP=ESP_FRAGx INT=INTR_LINv TEM=TEMP_LINv
+
+[2/10] Chevillard-Eric_Oreille-rouge.txt
+    2125 lines -> 9 chunks of ~236 lines
+    chunk 1/9: voice=third_person thread=Albert Moindre time=none
+    chunk 2/9: voice=third_person thread=le voyage vers l'Afr time=avant le départ
+    chunk 3/9: voice=third_person thread=Oreille rouge et son time=aujourd'hui
+    chunk 4/9: voice=third_person thread=Oreille rouge et sa  time=au matin
+    chunk 5/9: voice=third_person thread=Oreille rouge et son time=âge auquel meurt le 
+    chunk 6/9: voice=third_person thread=Oreille rouge time=present
+    chunk 7/9: voice=third_person thread=Oreille rouge time=matin, après-midi, s
+    chunk 8/9: voice=third_person thread=Oreille rouge et ses time=now
+    chunk 9/9: voice=third_person thread=Oreille rouge time=present
+    -> reduce step x3 (9/9 good observations)
+  -> 404s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_DESCv REG=REG_AUTOx ESP=ESP_FRAGv INT=INTR_FRAGv TEM=TEMP_LINv
+
+[3/10] Carrere-Emmanuel_Limonov.txt
+    5398 lines -> 9 chunks of ~599 lines
+    chunk 1/9: voice=first_person thread=Limonov et Kasparov time=2008
+    chunk 2/9: voice=third_person thread=Édouard et Anna time=1960s
+    chunk 3/9: voice=third_person thread=Édouard et Elena time=1976
+    chunk 4/9: voice=third_person thread=Édouard Limonov time=été 1980
+    chunk 5/9: voice=first_person thread=Édouard dans Moscou time=décembre 1989
+    chunk 6/9: voice=third_person thread=Édouard Limonov time=1991-1992
+    chunk 7/9: voice=third_person thread=Édouard dans la Kraj time=1993-1994
+    chunk 8/9: voice=third_person thread=Édouard Limonov time=fin septembre 2000
+    chunk 9/9: voice=third_person thread=Édouard Limonov time=2009
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 2/3 failed: No valid JSON object found. Response was:
+
+    x reduce vote 3/3 failed: No valid JSON object found. Response was:
+
+  -> 482s | NAR=NAR_AUTODx FOC=FOC_ZEROx MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 3 done]
+
+[4/10] Deck-Julia_Ann-dAngleterre.txt
+    4041 lines -> 9 chunks of ~449 lines
+    chunk 1/9: voice=first_person thread=mère et narratrice time=aujourd'hui, mainten
+    chunk 2/9: voice=first_person thread=mère et sa maladie time=le lendemain de l'ac
+    chunk 3/9: voice=third_person thread=Ann's life and thoug time=17 years old, 2 year
+    chunk 4/9: voice=first_person thread=mère et soins hospit time=48e anniversaire
+    chunk 5/9: voice=first_person thread=mère malade et réédu time=trois semaines après
+    chunk 6/9: voice=first_person thread=la relation mère-fil time=Covid, juillet
+    chunk 7/9: voice=first_person thread=Julia et sa mère Ann time=Fin août début septe
+    chunk 8/9: voice=third_person thread=Julia's mental state time=2022, 2023, 2024
+    chunk 9/9: voice=first_person thread=mère et narratrice time=2023, après l'hospit
+    -> reduce step x3 (9/9 good observations)
+  -> 435s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOv ESP=ESP_FRAGx INT=INTR_LINx TEM=TEMP_DISv
+
+[5/10] Despentes-Virginie_Vernon-Subutex-1.txt
+    7422 lines -> 9 chunks of ~824 lines
+    chunk 1/9: voice=third_person thread=Vernon time=dimanche
+    chunk 2/9: voice=third_person thread=Xavier's internal co time=none
+    chunk 3/9: voice=third_person thread=La Hyène et son trav time=après-midi
+    chunk 4/9: voice=first_person thread=Lydia Bazooka time=aujourd'hui, sans re
+    chunk 5/9: voice=third_person thread=Vernon et Gaëlle time=le lendemain matin
+    chunk 6/9: voice=third_person thread=Aïcha's internal con time=present
+    chunk 7/9: voice=first_person thread=Patrice's violent be time=present
+    chunk 8/9: voice=first_person thread=Vernon's street life time=le matin, après avoi
+    chunk 9/9: voice=third_person thread=Noël et son groupe time=samedi soir
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 1/3 failed: No valid JSON object found. Response was:
+
+  -> 477s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITv INT=INTR_FRAGv TEM=TEMP_LINx
+
+[6/10] Ducrozet-Pierre_Le-Grand-Vertige.txt
+    6090 lines -> 9 chunks of ~676 lines
+    chunk 1/9: voice=third_person thread=Nathan Régnier time=18 ans
+    chunk 2/9: voice=third_person thread=Chloé et Adam Thobia time=none
+    chunk 3/9: voice=third_person thread=June et Mia dans la  time=le lendemain de l'ar
+    chunk 4/9: voice=third_person thread=Tahir et le convoi s time=2017
+    chunk 5/9: voice=third_person thread=Nathan's underwater  time=25 octobre 2017
+    chunk 6/9: voice=third_person thread=relations between Ju time=november
+    chunk 7/9: voice=third_person thread=Arthur et les autres time=matin parisien, puis
+    chunk 8/9: voice=third_person thread=June et Adam retrouv time=aujourd'hui, après u
+    chunk 9/9: voice=third_person thread=June's emotional rea time=present
+    -> reduce step x3 (9/9 good observations)
+  -> 370s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_DESCx REG=REG_REALx ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 6 done]
+
+[7/10] Echenoz-Jean_Envoyee-speciale.txt
+    2945 lines -> 9 chunks of ~327 lines
+    chunk 1/9: voice=third_person thread=Objat et le général  time=avant-midi, printemp
+    chunk 2/9: voice=third_person thread=Lou Tausk time=la semaine dernière
+    chunk 3/9: voice=third_person thread=Constance's captivit time=matin
+    chunk 4/9: voice=third_person thread=Tausk et Nadine Alco time=dix-sept heures
+    chunk 5/9: voice=third_person thread=Tausk et Nadine Alco time=10 heures du matin
+    chunk 6/9: voice=third_person thread=Objat et Constance time=automne
+    chunk 7/9: voice=third_person thread=Constance et Gang Un time=le soir, avant minui
+    chunk 8/9: voice=third_person thread=Constance et Gang Un time=Les mêmes quinze jou
+    chunk 9/9: voice=third_person thread=Objat et Constance r time=Samedi matin
+    -> reduce step x3 (9/9 good observations)
+  -> 403s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_EVTv REG=REG_REALv ESP=ESP_FRAGv INT=INTR_LINv TEM=TEMP_DISx
+
+[8/10] Filhol-Elizabeth_Doggerland.txt
+    2844 lines -> 9 chunks of ~316 lines
+    chunk 1/9: voice=third_person thread=Ted Hamilton time=D'ici un quart d'heu
+    chunk 2/9: voice=third_person thread=Margaret et ses réfl time=jeudi 5 décembre
+    chunk 3/9: voice=third_person thread=Margaret et Marc time=octobre 1991
+    chunk 4/9: voice=third_person thread=Marc Berthelot's ref time=2012 (Elgin accident
+    chunk 5/9: voice=third_person thread=Marc Berthelot time=15h30
+    chunk 6/9: voice=third_person thread=Margaret Ross time=2013, 1991, 8150 ans
+    chunk 7/9: voice=third_person thread=Margaret's internal  time=1997
+    chunk 8/9: voice=third_person thread=Margaret et Marc en  time=présent
+    chunk 9/9: voice=third_person thread=Marc et Margaret, le time=décembre
+    -> reduce step x3 (9/9 good observations)
+  -> 457s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_INTRv REG=REG_REALv ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_DISv
+
+[9/10] Flahaut-Thomas_Ostwald.txt
+    2239 lines -> 9 chunks of ~248 lines
+    chunk 1/9: voice=first_person thread=Noël et son père time=hiver, Strasbourg
+    chunk 2/9: voice=first_person thread=Noël et Marie time=décembre
+    chunk 3/9: voice=first_person thread=Noël et Félix time=mois de février
+    chunk 4/9: voice=first_person thread=réflexion sur l'évac time=aujourd'hui, pendant
+    chunk 5/9: voice=first_person thread=Noël et Félix dans l time=aujourd'hui, après u
+    chunk 6/9: voice=first_person thread=observation de la ca time=nuit
+    chunk 7/9: voice=first_person thread=voyage vers Ostwald time=soir, nuit sans lune
+    chunk 8/9: voice=first_person thread=Félix et Noël dans S time=cinq jours après l'i
+    chunk 9/9: voice=first_person thread=Marie et Félix dans  time=le lendemain de l'ac
+    -> reduce step x3 (9/9 good observations)
+  -> 378s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_REALx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+  [checkpoint saved, 9 done]
+
+[10/10] Garcia-Tristan_La-meilleure-part-des-hommes.txt
+    5620 lines -> 9 chunks of ~624 lines
+    chunk 1/9: voice=first_person thread=Doumé's monologue on time=present moment (conv
+    chunk 2/9: voice=first_person thread=William et Doum time=années quatre-vingt-
+    chunk 3/9: voice=first_person thread=William's antics and time=1995
+    chunk 4/9: voice=first_person thread=Will's monologue on  time=dimanche
+    chunk 5/9: voice=first_person thread=Will's philosophy on time=2000
+    chunk 6/9: voice=third_person thread=William Miller et Do time=none
+    chunk 7/9: voice=third_person thread=Dominique et Leibowi time=none
+    chunk 8/9: voice=first_person thread=Liz et William time=début juillet
+    chunk 9/9: voice=first_person thread=Will's death and fun time=5 août
+    -> reduce step x3 (9/9 good observations)
+  -> 407s | NAR=NAR_TEMx FOC=FOC_INTx MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+
+Done — 10 novels processed
+Saved to: /home/lfarooq/ecopoetique/narratologie/resultats_task0_mapreduce_v9.csv
+
+==============================================================
+  MAP-REDUCE v7 RESULTS  —  qwen3:30b  (3x reduce vote)
+==============================================================
+  TYPE NARRATEUR          8/10  ( 80.0%)  ████████████████
+  FOCALISATION            7/10  ( 70.0%)  ██████████████
+  MODE NARRATIF           3/10  ( 30.0%)  ██████
+  REGIME NARRATIF         4/10  ( 40.0%)  ████████
+  ESPACE                  7/10  ( 70.0%)  ██████████████
+  INTRIGUE                5/10  ( 50.0%)  ██████████
+  TEMPORALITÉ             5/10  ( 50.0%)  ██████████
+--------------------------------------------------------------
+  OVERALL                 39/70   ( 55.7%)
+==============================================================
+

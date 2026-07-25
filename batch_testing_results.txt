@@ -1,0 +1,826 @@
+
+(labelimg_env) lfarooq@obtic-gpu1:~/ecopoetique/métaphore$ cd ~/ecopoetique/métaphore && python3 evaluate_goldsets_batch34.py
+Batch 3 & 4 evaluation — EXACT v6 prompts
+Model: qwen3:30b
+
+Warming up...
+Done.
+
+
+#################################################################
+  BATCH SIZE = 3
+#################################################################
+
+  ────────────────────────────────────────────────────────────
+  Animaux  —  190 rows  (121 réf + 69 fig)  batch=3
+  ────────────────────────────────────────────────────────────
+  [  1/190] chiens                 référentiel    ✓
+  [  2/190] souris                 référentiel    ✓
+  [  3/190] souris                 référentiel    ✓
+  [  4/190] chèvres                référentiel    ✓
+  [  5/190] mouches                figuré         ✓
+  [  6/190] chien                  référentiel    ✓
+  [  7/190] mouettes               référentiel    ✓
+  [  8/190] chiens                 référentiel    ✓
+  [  9/190] caïmans                référentiel    ✓
+  [ 10/190] oie                    figuré         ✓
+  [ 11/190] huître                 figuré         ✓
+  [ 12/190] lion                   référentiel    ✓
+  [ 13/190] singes                 figuré         ✓
+  [ 14/190] mouches                figuré         ✓
+  [ 15/190] moules                 référentiel    ✓
+  [ 16/190] cochon                 figuré         ✓
+  [ 17/190] autruches              référentiel    ✓
+  [ 18/190] gardons                référentiel    ✓
+  [ 19/190] tigre                  référentiel    ✓
+  [ 20/190] tigre                  figuré         ✓
+  [ 21/190] mouton                 référentiel    ✓
+  [ 22/190] poux                   référentiel    ✓
+  [ 23/190] sanglier               figuré         ✓
+  [ 24/190] sanglier               référentiel    ✓
+  [ 25/190] agneau                 figuré         ✓
+  [ 26/190] panthère               figuré         ✓
+  [ 27/190] bulot                  référentiel    ✓
+  [ 28/190] chevaux                référentiel    ✓
+  [ 29/190] singes                 référentiel    ✓
+  [ 30/190] lapin                  référentiel    ✓
+  [ 31/190] sauterelles            figuré         ✓
+  [ 32/190] porcs                  référentiel    ✓
+  [ 33/190] chien                  référentiel    ✓
+  [ 34/190] chiens                 référentiel    ✓
+  [ 35/190] taureau                référentiel    ✓
+  [ 36/190] lapin                  référentiel    ✓
+  [ 37/190] bœuf                   figuré         ✓
+  [ 38/190] baleines               référentiel    ✓
+  [ 39/190] chien                  référentiel    ✓
+  [ 40/190] chèvre                 figuré         ✓
+  [ 41/190] loup                   référentiel    ✓
+  [ 42/190] poules d’eau           référentiel    ✓
+  [ 43/190] luciole                figuré         ✓
+  [ 44/190] canard                 figuré         ✓
+  [ 45/190] dindons                figuré         ✓
+  [ 46/190] oiseau-moqueur         référentiel    ✓
+  [ 47/190] poulet                 référentiel    ✓
+  [ 48/190] salamandre             référentiel    ✓
+  [ 49/190] cerf                   référentiel    ✓
+  [ 50/190] hirondelles            référentiel    ✓
+  [ 51/190] mouches                référentiel    ✓
+  [ 52/190] loup                   figuré         ✓
+  [ 53/190] mouton                 figuré         ✓
+  [ 54/190] noctule                figuré         ✓
+  [ 55/190] hareng                 figuré         ✓
+  [ 56/190] chevaux                référentiel    ✓
+  [ 57/190] chien                  référentiel    ✓
+  [ 58/190] renard                 référentiel    ✓
+  [ 59/190] musaraignes            référentiel    ✓
+  [ 60/190] agneaux                référentiel    ✗  ← gold=référentiel pred=figuré
+  [ 61/190] faucon                 figuré         ✓
+  [ 62/190] chiens                 référentiel    ✓
+  [ 63/190] chiens                 référentiel    ✓
+  [ 64/190] saumon                 figuré         ✓
+  [ 65/190] chiens                 référentiel    ✓
+  [ 66/190] thon                   référentiel    ✓
+  [ 67/190] chevaux                figuré         ✓
+  [ 68/190] chats                  référentiel    ✓
+  [ 69/190] cheval                 référentiel    ✓
+  [ 70/190] grenouilles            référentiel    ✗  ← gold=référentiel pred=figuré
+  [ 71/190] serpents               référentiel    ✓
+  [ 72/190] serpent                figuré         ✓
+  [ 73/190] chiens                 référentiel    ✓
+  [ 74/190] margouillat            référentiel    ✓
+  [ 75/190] mouette                référentiel    ✓
+  [ 76/190] poussins               référentiel    ✓
+  [ 77/190] rat                    figuré         ✓
+  [ 78/190] mouches                référentiel    ✓
+  [ 79/190] chien                  référentiel    ✓
+  [ 80/190] musaraignes            référentiel    ✓
+  [ 81/190] bisons                 référentiel    ✓
+  [ 82/190] lapins                 figuré         ✓
+  [ 83/190] cheval                 référentiel    ✓
+  [ 84/190] agneau                 référentiel    ✓
+  [ 85/190] chèvres                référentiel    ✓
+  [ 86/190] blattes                figuré         ✓
+  [ 87/190] poule                  figuré         ✓
+  [ 88/190] porcs                  référentiel    ✓
+  [ 89/190] chiens                 référentiel    ✓
+  [ 90/190] âne                    figuré         ✓
+  [ 91/190] loup                   référentiel    ✓
+  [ 92/190] chamois                référentiel    ✓
+  [ 93/190] chèvre                 référentiel    ✓
+  [ 94/190] vaches                 référentiel    ✓
+  [ 95/190] jument                 figuré         ✓
+  [ 96/190] milans                 référentiel    ✓
+  [ 97/190] chiens                 référentiel    ✓
+  [ 98/190] muge                   figuré         ✓
+  [ 99/190] albatros               figuré         ✓
+  [100/190] baleine                figuré         ✓
+  [101/190] chiens                 référentiel    ✓
+  [102/190] musaraignes            référentiel    ✓
+  [103/190] lapins                 référentiel    ✓
+  [104/190] chien                  référentiel    ✓
+  [105/190] moineaux               figuré         ✓
+  [106/190] rats                   référentiel    ✓
+  [107/190] cheval                 référentiel    ✓
+  [108/190] sanglier               référentiel    ✓
+  [109/190] poulet                 référentiel    ✓
+  [110/190] baleines               référentiel    ✓
+  [111/190] paon                   référentiel    ✓
+  [112/190] paon                   référentiel    ✓
+  [113/190] chameau                figuré         ✓
+  [114/190] mouettes               référentiel    ✓
+  [115/190] rat                    figuré         ✗  ← gold=figuré pred=référentiel
+  [116/190] dorade                 référentiel    ✓
+  [117/190] cheval                 référentiel    ✓
+  [118/190] sanglier               référentiel    ✓
+  [119/190] lion                   référentiel    ✓
+  [120/190] brebis                 figuré         ✓
+  [121/190] canard                 figuré         ✗  ← gold=figuré pred=référentiel
+  [122/190] oie                    figuré         ✓
+  [123/190] sauterelles            référentiel    ✓
+  [124/190] bouquetins             référentiel    ✓
+  [125/190] paon                   référentiel    ✓
+  [126/190] juments                référentiel    ✓
+  [127/190] rats                   référentiel    ✓
+  [128/190] chiens                 référentiel    ✓
+  [129/190] moutons                référentiel    ✓
+  [130/190] hérons                 référentiel    ✓
+  [131/190] bulbuls                référentiel    ✓
+  [132/190] chiens                 référentiel    ✓
+  [133/190] mouton                 référentiel    ✓
+  [134/190] chèvre                 référentiel    ✓
+  [135/190] corbeaux               référentiel    ✓
+  [136/190] perdrix                référentiel    ✓
+  [137/190] chiens                 référentiel    ✓
+  [138/190] faucon                 figuré         ✓
+  [139/190] mouette                référentiel    ✓
+  [140/190] crotales               référentiel    ✓
+  [141/190] pythons                référentiel    ✓
+  [142/190] chevaux                référentiel    ✓
+  [143/190] cheval                 référentiel    ✓
+  [144/190] dingo                  référentiel    ✓
+  [145/190] poux                   référentiel    ✓
+  [146/190] chiot                  référentiel    ✓
+  [147/190] porc                   figuré         ✗  ← gold=figuré pred=référentiel
+  [148/190] cerfs                  référentiel    ✓
+  [149/190] vache                  figuré         ✗  ← gold=figuré pred=référentiel
+  [150/190] aigles                 référentiel    ✓
+  [151/190] poulets                référentiel    ✓
+  [152/190] chien                  figuré         ✓
+  [153/190] autruche               référentiel    ✓
+  [154/190] bœuf                   référentiel    ✗  ← gold=référentiel pred=figuré
+  [155/190] chien                  figuré         ✓
+  [156/190] chimpanzés             figuré         ✗  ← gold=figuré pred=référentiel
+  [157/190] cigales                référentiel    ✓
+  [158/190] tortues                figuré         ✓
+  [159/190] serpents               référentiel    ✓
+  [160/190] sanglier               référentiel    ✓
+  [161/190] bécasse                figuré         ✓
+  [162/190] poulet                 référentiel    ✓
+  [163/190] goéland                figuré         ✓
+  [164/190] chat                   figuré         ✓
+  [165/190] baleine                figuré         ✓
+  [166/190] baleine                figuré         ✓
+  [167/190] chiens                 figuré         ✗  ← gold=figuré pred=référentiel
+  [168/190] cheval                 figuré         ✓
+  [169/190] âne                    figuré         ✓
+  [170/190] fourmis                figuré         ✓
+  [171/190] lion                   figuré         ✗  ← gold=figuré pred=référentiel
+  [172/190] lion                   figuré         ✗  ← gold=figuré pred=référentiel
+  [173/190] abeille                référentiel    ✗  ← gold=référentiel pred=figuré
+  [174/190] taupes                 figuré         ✓
+  [175/190] âne                    figuré         ✗  ← gold=figuré pred=référentiel
+  [176/190] chiens                 référentiel    ✓
+  [177/190] mouche                 figuré         ✗  ← gold=figuré pred=référentiel
+  [178/190] vache                  figuré         ✓
+  [179/190] chimpanzé              référentiel    ✓
+  [180/190] chauve-souris          figuré         ✓
+  [181/190] scarabées              figuré         ✗  ← gold=figuré pred=référentiel
+  [182/190] tigre                  figuré         ✓
+  [183/190] chiens                 référentiel    ✓
+  [184/190] papillon               figuré         ✓
+  [185/190] bousiers               figuré         ✓
+  [186/190] singe                  référentiel    ✓
+  [187/190] chats                  référentiel    ✓
+  [188/190] âne                    figuré         ✗  ← gold=figuré pred=référentiel
+  [189/190] ours                   figuré         ✓
+  [190/190] coqs                   figuré         ✗  ← gold=figuré pred=référentiel
+
+  RESULT batch=3: overall=91.1% (173/190)  réf=96.7% (117/121)  fig=81.2% (56/69)
+  Speed: 4.4s/row  →  Animaux corpus: 155h (6.5 days)
+  Failed batches: 0
+
+  ────────────────────────────────────────────────────────────
+  Plantes  —  188 rows  (164 réf + 24 fig)  batch=3
+  ────────────────────────────────────────────────────────────
+  [  1/188] graminées              référentiel    ✓
+  [  2/188] serpolet               référentiel    ✓
+  [  3/188] pin                    référentiel    ✓
+  [  4/188] micocouliers           référentiel    ✓
+  [  5/188] joncs                  référentiel    ✓
+  [  6/188] tilleuls               référentiel    ✓
+  [  7/188] cèdre du Liban         référentiel    ✓
+  [  8/188] palmiers               référentiel    ✓
+  [  9/188] chanvre                référentiel    ✓
+  [ 10/188] pin                    référentiel    ✓
+  [ 11/188] raisin                 référentiel    ✓
+  [ 12/188] eucalyptus             référentiel    ✓
+  [ 13/188] pandanus               référentiel    ✓
+  [ 14/188] riz                    référentiel    ✓
+  [ 15/188] citron                 référentiel    ✓
+  [ 16/188] ronces                 référentiel    ✓
+  [ 17/188] oignons                référentiel    ✓
+  [ 18/188] tomates                référentiel    ✓
+  [ 19/188] anthémis               référentiel    ✓
+  [ 20/188] pastèque               référentiel    ✓
+  [ 21/188] magnolias              référentiel    ✓
+  [ 22/188] cardamome              référentiel    ✓
+  [ 23/188] olivier                figuré         ✗  ← gold=figuré pred=référentiel
+  [ 24/188] lin                    référentiel    ✓
+  [ 25/188] dattiers               référentiel    ✓
+  [ 26/188] roses                  référentiel    ✓
+  [ 27/188] riz                    référentiel    ✓
+  [ 28/188] foin                   référentiel    ✓
+  [ 29/188] poireaux               référentiel    ✓
+  [ 30/188] plantes ligneuses      figuré         ✗  ← gold=figuré pred=référentiel
+  [ 31/188] pois chiches           référentiel    ✓
+  [ 32/188] bois de rose           référentiel    ✓
+  [ 33/188] pins                   référentiel    ✓
+  [ 34/188] riz                    référentiel    ✓
+  [ 35/188] acacias                référentiel    ✓
+  [ 36/188] laurier                référentiel    ✓
+  [ 37/188] bambous                référentiel    ✓
+  [ 38/188] ronces                 référentiel    ✓
+  [ 39/188] fougères arborescentes référentiel    ✓
+  [ 40/188] riz                    référentiel    ✓
+  [ 41/188] pins                   référentiel    ✓
+  [ 42/188] riz                    référentiel    ✓
+  [ 43/188] fougères               référentiel    ✓
+  [ 44/188] maïs                   référentiel    ✓
+  [ 45/188] mélèzes                référentiel    ✓
+  [ 46/188] ifs                    référentiel    ✓
+  [ 47/188] tilleuls               référentiel    ✓
+  [ 48/188] gazon                  référentiel    ✓
+  [ 49/188] platanes               référentiel    ✓
+  [ 50/188] saules                 référentiel    ✓
+  [ 51/188] asphodèles             référentiel    ✓
+  [ 52/188] lilas                  référentiel    ✓
+  [ 53/188] sapin                  référentiel    ✓
+  [ 54/188] ajoncs                 référentiel    ✓
+  [ 55/188] joncs                  référentiel    ✓
+  [ 56/188] menthe                 référentiel    ✓
+  [ 57/188] pois                   référentiel    ✓
+  [ 58/188] rosiers                référentiel    ✓
+  [ 59/188] oliviers               référentiel    ✓
+  [ 60/188] ronces                 référentiel    ✓
+  [ 61/188] osier                  référentiel    ✓
+  [ 62/188] cocotier               référentiel    ✓
+  [ 63/188] gazon                  référentiel    ✓
+  [ 64/188] arachide               référentiel    ✓
+  [ 65/188] châtaigniers           référentiel    ✓
+  [ 66/188] bananier               référentiel    ✓
+  [ 67/188] haricots               référentiel    ✓
+  [ 68/188] lime                   figuré         ✓
+  [ 69/188] jasmin                 figuré         ✗  ← gold=figuré pred=référentiel
+  [ 70/188] hêtres                 référentiel    ✓
+  [ 71/188] thé                    référentiel    ✓
+  [ 72/188] café                   référentiel    ✓
+  [ 73/188] poivre                 référentiel    ✓
+  [ 74/188] calebasses             référentiel    ✓
+  [ 75/188] thym                   référentiel    ✓
+  [ 76/188] raisin                 référentiel    ✓
+  [ 77/188] poivrons               référentiel    ✓
+  [ 78/188] phlox                  référentiel    ✓
+  [ 79/188] palmier                référentiel    ✓
+  [ 80/188] bananier               référentiel    ✓
+  [ 81/188] chênes                 référentiel    ✓
+  [ 82/188] pois                   référentiel    ✓
+  [ 83/188] tilleuls               référentiel    ✓
+  [ 84/188] mangue                 référentiel    ✓
+  [ 85/188] renoncules             référentiel    ✓
+  [ 86/188] ancolie                référentiel    ✓
+  [ 87/188] myrtilles              référentiel    ✓
+  [ 88/188] bardanes               référentiel    ✓
+  [ 89/188] papayer                référentiel    ✓
+  [ 90/188] lin                    référentiel    ✓
+  [ 91/188] groseille              référentiel    ✓
+  [ 92/188] vigne                  référentiel    ✓
+  [ 93/188] roses                  référentiel    ✓
+  [ 94/188] asperge                figuré         ✓
+  [ 95/188] tomate                 référentiel    ✓
+  [ 96/188] lys                    figuré         ✗  ← gold=figuré pred=référentiel
+  [ 97/188] chêne                  référentiel    ✓
+  [ 98/188] abricotier             figuré         ✗  ← gold=figuré pred=référentiel
+  [ 99/188] carottes               figuré         ✓
+  [100/188] cocotier               référentiel    ✓
+  [101/188] calebasses             figuré         ✓
+  [102/188] oyats                  référentiel    ✓
+  [103/188] palmiers               figuré         ✗  ← gold=figuré pred=référentiel
+  [104/188] pois                   référentiel    ✓
+  [105/188] poivre                 référentiel    ✓
+  [106/188] pervenche              figuré         ✗  ← gold=figuré pred=référentiel
+  [107/188] pin                    référentiel    ✓
+  [108/188] ail                    référentiel    ✓
+  [109/188] luzerne                référentiel    ✓
+  [110/188] henné                  référentiel    ✓
+  [111/188] figuier                référentiel    ✓
+  [112/188] chêne                  référentiel    ✓
+  [113/188] joncs                  référentiel    ✓
+  [114/188] mouron                 référentiel    ✓
+  [115/188] gazon                  référentiel    ✓
+  [116/188] maïs                   référentiel    ✓
+  [117/188] concombre              référentiel    ✓
+  [118/188] manguiers              référentiel    ✓
+  [119/188] hêtre                  référentiel    ✓
+  [120/188] pommes de terre        référentiel    ✓
+  [121/188] bouleaux               référentiel    ✓
+  [122/188] osier blanc            référentiel    ✓
+  [123/188] nénuphars              référentiel    ✓
+  [124/188] concombre              référentiel    ✓
+  [125/188] chêne                  référentiel    ✓
+  [126/188] orchidée               référentiel    ✓
+  [127/188] raphia                 référentiel    ✓
+  [128/188] figue                  figuré         ✓
+  [129/188] lotus                  référentiel    ✓
+  [130/188] jacinthes              référentiel    ✓
+  [131/188] linaires               référentiel    ✓
+  [132/188] poivre noir            référentiel    ✓
+  [133/188] pommiers               figuré         ✓
+  [134/188] sapin                  référentiel    ✓
+  [135/188] pois                   figuré         ✓
+  [136/188] acanthe                référentiel    ✓
+  [137/188] bégonias               référentiel    ✓
+  [138/188] sapin                  référentiel    ✓
+  [139/188] pivoines               référentiel    ✓
+  [140/188] aulnes                 référentiel    ✓
+  [141/188] algues                 figuré         ✗  ← gold=figuré pred=référentiel
+  [142/188] chêne                  référentiel    ✓
+  [143/188] framboisiers           référentiel    ✓
+  [144/188] haricots               référentiel    ✓
+  [145/188] bambou                 référentiel    ✓
+  [146/188] concombres             référentiel    ✓
+  [147/188] litchis                référentiel    ✓
+  [148/188] épine noire            référentiel    ✓
+  [149/188] poireaux               référentiel    ✓
+  [150/188] riz                    référentiel    ✓
+  [151/188] ananas                 référentiel    ✓
+  [152/188] algues vertes          référentiel    ✓
+  [153/188] lauriers               référentiel    ✓
+  [154/188] hortensias             référentiel    ✓
+  [155/188] lin                    référentiel    ✓
+  [156/188] oignons                référentiel    ✓
+  [157/188] pastèques              figuré         ✓
+  [158/188] roseaux                référentiel    ✓
+  [159/188] oignons                figuré         ✓
+  [160/188] blé                    référentiel    ✓
+  [161/188] ronces                 référentiel    ✓
+  [162/188] lin                    référentiel    ✓
+  [163/188] prune                  référentiel    ✓
+  [164/188] sésame                 figuré         ✓
+  [165/188] papyrus                référentiel    ✓
+  [166/188] laitue                 référentiel    ✓
+  [167/188] plantes grimpantes     référentiel    ✓
+  [168/188] riz                    référentiel    ✓
+  [169/188] melon                  référentiel    ✓
+  [170/188] épinards               figuré         ✓
+  [171/188] chênes-lièges          référentiel    ✓
+  [172/188] melon d’eau            référentiel    ✓
+  [173/188] blé                    figuré         ✓
+  [174/188] prune                  figuré         ✓
+  [175/188] cactus                 référentiel    ✓
+  [176/188] blé                    référentiel    ✓
+  [177/188] tomate                 référentiel    ✓
+  [178/188] ananas                 figuré         ✗  ← gold=figuré pred=référentiel
+  [179/188] olivier                figuré         ✗  ← gold=figuré pred=référentiel
+  [180/188] frangipanier           référentiel    ✓
+  [181/188] riz                    référentiel    ✓
+  [182/188] vignes                 référentiel    ✓
+  [183/188] calebasse              figuré         ✓
+  [184/188] bouleaux               référentiel    ✓
+  [185/188] sapins                 référentiel    ✓
+  [186/188] séquoias               référentiel    ✓
+  [187/188] fougères               référentiel    ✓
+  [188/188] cèdre                  référentiel    ✓
+
+  RESULT batch=3: overall=94.7% (178/188)  réf=100.0% (164/164)  fig=58.3% (14/24)
+  Speed: 3.7s/row  →  Plantes corpus: 71h (3.0 days)
+  Failed batches: 0
+
+#################################################################
+  BATCH SIZE = 4
+#################################################################
+
+  ────────────────────────────────────────────────────────────
+  Animaux  —  190 rows  (121 réf + 69 fig)  batch=4
+  ────────────────────────────────────────────────────────────
+  [  1/190] chiens                 référentiel    ✓
+  [  2/190] souris                 référentiel    ✓
+  [  3/190] souris                 référentiel    ✓
+  [  4/190] chèvres                référentiel    ✓
+  [  5/190] mouches                figuré         ✓
+  [  6/190] chien                  référentiel    ✓
+  [  7/190] mouettes               référentiel    ✓
+  [  8/190] chiens                 référentiel    ✓
+  [  9/190] caïmans                référentiel    ✓
+  [ 10/190] oie                    figuré         ✓
+  [ 11/190] huître                 figuré         ✓
+  [ 12/190] lion                   référentiel    ✓
+  [ 13/190] singes                 figuré         ✓
+  [ 14/190] mouches                figuré         ✓
+  [ 15/190] moules                 référentiel    ✓
+  [ 16/190] cochon                 figuré         ✓
+  [ 17/190] autruches              référentiel    ✓
+  [ 18/190] gardons                référentiel    ✓
+  [ 19/190] tigre                  référentiel    ✓
+  [ 20/190] tigre                  figuré         ✓
+  [ 21/190] mouton                 référentiel    ✓
+  [ 22/190] poux                   référentiel    ✓
+  [ 23/190] sanglier               figuré         ✓
+  [ 24/190] sanglier               référentiel    ✓
+  [ 25/190] agneau                 figuré         ✓
+  [ 26/190] panthère               figuré         ✓
+  [ 27/190] bulot                  référentiel    ✓
+  [ 28/190] chevaux                référentiel    ✓
+  [ 29/190] singes                 référentiel    ✓
+  [ 30/190] lapin                  référentiel    ✓
+  [ 31/190] sauterelles            figuré         ✓
+  [ 32/190] porcs                  référentiel    ✓
+  [ 33/190] chien                  référentiel    ✓
+  [ 34/190] chiens                 référentiel    ✓
+  [ 35/190] taureau                référentiel    ✓
+  [ 36/190] lapin                  référentiel    ✓
+  [ 37/190] bœuf                   figuré         ✓
+  [ 38/190] baleines               référentiel    ✗  ← gold=référentiel pred=figuré
+  [ 39/190] chien                  référentiel    ✓
+  [ 40/190] chèvre                 figuré         ✓
+  [ 41/190] loup                   référentiel    ✓
+  [ 42/190] poules d’eau           référentiel    ✓
+  [ 43/190] luciole                figuré         ✓
+  [ 44/190] canard                 figuré         ✓
+  [ 45/190] dindons                figuré         ✓
+  [ 46/190] oiseau-moqueur         référentiel    ✓
+  [ 47/190] poulet                 référentiel    ✓
+  [ 48/190] salamandre             référentiel    ✓
+  [ 49/190] cerf                   référentiel    ✓
+  [ 50/190] hirondelles            référentiel    ✓
+  [ 51/190] mouches                référentiel    ✓
+  [ 52/190] loup                   figuré         ✓
+  [ 53/190] mouton                 figuré         ✓
+  [ 54/190] noctule                figuré         ✓
+  [ 55/190] hareng                 figuré         ✓
+  [ 56/190] chevaux                référentiel    ✓
+  [ 57/190] chien                  référentiel    ✓
+  [ 58/190] renard                 référentiel    ✓
+  [ 59/190] musaraignes            référentiel    ✓
+  [ 60/190] agneaux                référentiel    ✗  ← gold=référentiel pred=figuré
+  [ 61/190] faucon                 figuré         ✓
+  [ 62/190] chiens                 référentiel    ✓
+  [ 63/190] chiens                 référentiel    ✓
+  [ 64/190] saumon                 figuré         ✓
+  [ 65/190] chiens                 référentiel    ✓
+  [ 66/190] thon                   référentiel    ✓
+  [ 67/190] chevaux                figuré         ✓
+  [ 68/190] chats                  référentiel    ✓
+  [ 69/190] cheval                 référentiel    ✓
+  [ 70/190] grenouilles            référentiel    ✗  ← gold=référentiel pred=figuré
+  [ 71/190] serpents               référentiel    ✓
+  [ 72/190] serpent                figuré         ✓
+  [ 73/190] chiens                 référentiel    ✓
+  [ 74/190] margouillat            référentiel    ✓
+  [ 75/190] mouette                référentiel    ✓
+  [ 76/190] poussins               référentiel    ✓
+  [ 77/190] rat                    figuré         ✓
+  [ 78/190] mouches                référentiel    ✓
+  [ 79/190] chien                  référentiel    ✓
+  [ 80/190] musaraignes            référentiel    ✓
+  [ 81/190] bisons                 référentiel    ✓
+  [ 82/190] lapins                 figuré         ✓
+  [ 83/190] cheval                 référentiel    ✓
+  [ 84/190] agneau                 référentiel    ✓
+  [ 85/190] chèvres                référentiel    ✓
+  [ 86/190] blattes                figuré         ✓
+  [ 87/190] poule                  figuré         ✓
+  [ 88/190] porcs                  référentiel    ✗  ← gold=référentiel pred=figuré
+  [ 89/190] chiens                 référentiel    ✓
+  [ 90/190] âne                    figuré         ✓
+  [ 91/190] loup                   référentiel    ✓
+  [ 92/190] chamois                référentiel    ✓
+  [ 93/190] chèvre                 référentiel    ✓
+  [ 94/190] vaches                 référentiel    ✓
+  [ 95/190] jument                 figuré         ✓
+  [ 96/190] milans                 référentiel    ✓
+  [ 97/190] chiens                 référentiel    ✓
+  [ 98/190] muge                   figuré         ✓
+  [ 99/190] albatros               figuré         ✓
+  [100/190] baleine                figuré         ✓
+  [101/190] chiens                 référentiel    ✓
+  [102/190] musaraignes            référentiel    ✓
+  [103/190] lapins                 référentiel    ✓
+  [104/190] chien                  référentiel    ✓
+  [105/190] moineaux               figuré         ✓
+  [106/190] rats                   référentiel    ✓
+  [107/190] cheval                 référentiel    ✓
+  [108/190] sanglier               référentiel    ✓
+  [109/190] poulet                 référentiel    ✓
+  [110/190] baleines               référentiel    ✓
+  [111/190] paon                   référentiel    ✓
+  [112/190] paon                   référentiel    ✓
+  [113/190] chameau                figuré         ✓
+  [114/190] mouettes               référentiel    ✓
+  [115/190] rat                    figuré         ✗  ← gold=figuré pred=référentiel
+  [116/190] dorade                 référentiel    ✓
+  [117/190] cheval                 référentiel    ✓
+  [118/190] sanglier               référentiel    ✓
+  [119/190] lion                   référentiel    ✓
+  [120/190] brebis                 figuré         ✓
+  [121/190] canard                 figuré         ✓
+  [122/190] oie                    figuré         ✓
+  [123/190] sauterelles            référentiel    ✓
+  [124/190] bouquetins             référentiel    ✓
+  [125/190] paon                   référentiel    ✓
+  [126/190] juments                référentiel    ✓
+  [127/190] rats                   référentiel    ✓
+  [128/190] chiens                 référentiel    ✓
+  [129/190] moutons                référentiel    ✓
+  [130/190] hérons                 référentiel    ✓
+  [131/190] bulbuls                référentiel    ✓
+  [132/190] chiens                 référentiel    ✓
+  [133/190] mouton                 référentiel    ✓
+  [134/190] chèvre                 référentiel    ✓
+  [135/190] corbeaux               référentiel    ✓
+  [136/190] perdrix                référentiel    ✓
+  [137/190] chiens                 référentiel    ✓
+  [138/190] faucon                 figuré         ✓
+  [139/190] mouette                référentiel    ✓
+  [140/190] crotales               référentiel    ✓
+  [141/190] pythons                référentiel    ✓
+  [142/190] chevaux                référentiel    ✓
+  [143/190] cheval                 référentiel    ✓
+  [144/190] dingo                  référentiel    ✓
+  [145/190] poux                   référentiel    ✓
+  [146/190] chiot                  référentiel    ✓
+  [147/190] porc                   figuré         ✗  ← gold=figuré pred=référentiel
+  [148/190] cerfs                  référentiel    ✓
+  [149/190] vache                  figuré         ✗  ← gold=figuré pred=référentiel
+  [150/190] aigles                 référentiel    ✓
+  [151/190] poulets                référentiel    ✓
+  [152/190] chien                  figuré         ✓
+  [153/190] autruche               référentiel    ✓
+  [154/190] bœuf                   référentiel    ✗  ← gold=référentiel pred=figuré
+  [155/190] chien                  figuré         ✓
+  [156/190] chimpanzés             figuré         ✗  ← gold=figuré pred=référentiel
+  [157/190] cigales                référentiel    ✓
+  [158/190] tortues                figuré         ✓
+  [159/190] serpents               référentiel    ✓
+  [160/190] sanglier               référentiel    ✓
+  [161/190] bécasse                figuré         ✓
+  [162/190] poulet                 référentiel    ✓
+  [163/190] goéland                figuré         ✗  ← gold=figuré pred=référentiel
+  [164/190] chat                   figuré         ✗  ← gold=figuré pred=référentiel
+  [165/190] baleine                figuré         ✓
+  [166/190] baleine                figuré         ✓
+  [167/190] chiens                 figuré         ✗  ← gold=figuré pred=référentiel
+  [168/190] cheval                 figuré         ✗  ← gold=figuré pred=référentiel
+  [169/190] âne                    figuré         ✓
+  [170/190] fourmis                figuré         ✓
+  [171/190] lion                   figuré         ✗  ← gold=figuré pred=référentiel
+  [172/190] lion                   figuré         ✗  ← gold=figuré pred=référentiel
+  [173/190] abeille                référentiel    ✗  ← gold=référentiel pred=figuré
+  [174/190] taupes                 figuré         ✓
+  [175/190] âne                    figuré         ✗  ← gold=figuré pred=référentiel
+  [176/190] chiens                 référentiel    ✓
+  [177/190] mouche                 figuré         ✓
+  [178/190] vache                  figuré         ✓
+  [179/190] chimpanzé              référentiel    ✓
+  [180/190] chauve-souris          figuré         ✓
+  [181/190] scarabées              figuré         ✓
+  [182/190] tigre                  figuré         ✗  ← gold=figuré pred=référentiel
+  [183/190] chiens                 référentiel    ✓
+  [184/190] papillon               figuré         ✓
+  [185/190] bousiers               figuré         ✓
+  [186/190] singe                  référentiel    ✓
+  [187/190] chats                  référentiel    ✓
+  [188/190] âne                    figuré         ✗  ← gold=figuré pred=référentiel
+  [189/190] ours                   figuré         ✓
+  [190/190] coqs                   figuré         ✓
+
+  RESULT batch=4: overall=90.0% (171/190)  réf=95.0% (115/121)  fig=81.2% (56/69)
+  Speed: 3.9s/row  →  Animaux corpus: 140h (5.8 days)
+  Failed batches: 0
+
+  ────────────────────────────────────────────────────────────
+  Plantes  —  188 rows  (164 réf + 24 fig)  batch=4
+  ────────────────────────────────────────────────────────────
+  [  1/188] graminées              référentiel    ✓
+  [  2/188] serpolet               référentiel    ✓
+  [  3/188] pin                    référentiel    ✓
+  [  4/188] micocouliers           référentiel    ✓
+  [  5/188] joncs                  référentiel    ✓
+  [  6/188] tilleuls               référentiel    ✗  ← gold=référentiel pred=figuré
+  [  7/188] cèdre du Liban         référentiel    ✓
+  [  8/188] palmiers               référentiel    ✓
+  [  9/188] chanvre                référentiel    ✓
+  [ 10/188] pin                    référentiel    ✓
+  [ 11/188] raisin                 référentiel    ✓
+  [ 12/188] eucalyptus             référentiel    ✓
+  [ 13/188] pandanus               référentiel    ✓
+  [ 14/188] riz                    référentiel    ✓
+  [ 15/188] citron                 référentiel    ✓
+  [ 16/188] ronces                 référentiel    ✓
+  [ 17/188] oignons                référentiel    ✓
+  [ 18/188] tomates                référentiel    ✓
+  [ 19/188] anthémis               référentiel    ✓
+  [ 20/188] pastèque               référentiel    ✓
+  [ 21/188] magnolias              référentiel    ✓
+  [ 22/188] cardamome              référentiel    ✓
+  [ 23/188] olivier                figuré         ✓
+  [ 24/188] lin                    référentiel    ✓
+  [ 25/188] dattiers               référentiel    ✓
+  [ 26/188] roses                  référentiel    ✓
+  [ 27/188] riz                    référentiel    ✓
+  [ 28/188] foin                   référentiel    ✓
+  [ 29/188] poireaux               référentiel    ✓
+  [ 30/188] plantes ligneuses      figuré         ✗  ← gold=figuré pred=référentiel
+  [ 31/188] pois chiches           référentiel    ✓
+  [ 32/188] bois de rose           référentiel    ✓
+  [ 33/188] pins                   référentiel    ✓
+  [ 34/188] riz                    référentiel    ✓
+  [ 35/188] acacias                référentiel    ✓
+  [ 36/188] laurier                référentiel    ✓
+  [ 37/188] bambous                référentiel    ✓
+  [ 38/188] ronces                 référentiel    ✓
+  [ 39/188] fougères arborescentes référentiel    ✓
+  [ 40/188] riz                    référentiel    ✓
+  [ 41/188] pins                   référentiel    ✓
+  [ 42/188] riz                    référentiel    ✓
+  [ 43/188] fougères               référentiel    ✓
+  [ 44/188] maïs                   référentiel    ✓
+  [ 45/188] mélèzes                référentiel    ✓
+  [ 46/188] ifs                    référentiel    ✓
+  [ 47/188] tilleuls               référentiel    ✓
+  [ 48/188] gazon                  référentiel    ✓
+  [ 49/188] platanes               référentiel    ✓
+  [ 50/188] saules                 référentiel    ✗  ← gold=référentiel pred=figuré
+  [ 51/188] asphodèles             référentiel    ✓
+  [ 52/188] lilas                  référentiel    ✓
+  [ 53/188] sapin                  référentiel    ✓
+  [ 54/188] ajoncs                 référentiel    ✓
+  [ 55/188] joncs                  référentiel    ✓
+  [ 56/188] menthe                 référentiel    ✓
+  [ 57/188] pois                   référentiel    ✓
+  [ 58/188] rosiers                référentiel    ✓
+  [ 59/188] oliviers               référentiel    ✓
+  [ 60/188] ronces                 référentiel    ✗  ← gold=référentiel pred=figuré
+  [ 61/188] osier                  référentiel    ✓
+  [ 62/188] cocotier               référentiel    ✓
+  [ 63/188] gazon                  référentiel    ✓
+  [ 64/188] arachide               référentiel    ✓
+  [ 65/188] châtaigniers           référentiel    ✓
+  [ 66/188] bananier               référentiel    ✓
+  [ 67/188] haricots               référentiel    ✓
+  [ 68/188] lime                   figuré         ✓
+  [ 69/188] jasmin                 figuré         ✗  ← gold=figuré pred=référentiel
+  [ 70/188] hêtres                 référentiel    ✓
+  [ 71/188] thé                    référentiel    ✓
+  [ 72/188] café                   référentiel    ✓
+  [ 73/188] poivre                 référentiel    ✓
+  [ 74/188] calebasses             référentiel    ✓
+  [ 75/188] thym                   référentiel    ✓
+  [ 76/188] raisin                 référentiel    ✓
+  [ 77/188] poivrons               référentiel    ✓
+  [ 78/188] phlox                  référentiel    ✓
+  [ 79/188] palmier                référentiel    ✓
+  [ 80/188] bananier               référentiel    ✓
+  [ 81/188] chênes                 référentiel    ✓
+  [ 82/188] pois                   référentiel    ✓
+  [ 83/188] tilleuls               référentiel    ✓
+  [ 84/188] mangue                 référentiel    ✓
+  [ 85/188] renoncules             référentiel    ✓
+  [ 86/188] ancolie                référentiel    ✓
+  [ 87/188] myrtilles              référentiel    ✓
+  [ 88/188] bardanes               référentiel    ✓
+  [ 89/188] papayer                référentiel    ✓
+  [ 90/188] lin                    référentiel    ✓
+  [ 91/188] groseille              référentiel    ✓
+  [ 92/188] vigne                  référentiel    ✓
+  [ 93/188] roses                  référentiel    ✓
+  [ 94/188] asperge                figuré         ✓
+  [ 95/188] tomate                 référentiel    ✓
+  [ 96/188] lys                    figuré         ✗  ← gold=figuré pred=référentiel
+  [ 97/188] chêne                  référentiel    ✓
+  [ 98/188] abricotier             figuré         ✗  ← gold=figuré pred=référentiel
+  [ 99/188] carottes               figuré         ✓
+  [100/188] cocotier               référentiel    ✓
+  [101/188] calebasses             figuré         ✓
+  [102/188] oyats                  référentiel    ✓
+  [103/188] palmiers               figuré         ✗  ← gold=figuré pred=référentiel
+  [104/188] pois                   référentiel    ✓
+  [105/188] poivre                 référentiel    ✓
+  [106/188] pervenche              figuré         ✓
+  [107/188] pin                    référentiel    ✓
+  [108/188] ail                    référentiel    ✓
+  [109/188] luzerne                référentiel    ✓
+  [110/188] henné                  référentiel    ✓
+  [111/188] figuier                référentiel    ✓
+  [112/188] chêne                  référentiel    ✓
+  [113/188] joncs                  référentiel    ✓
+  [114/188] mouron                 référentiel    ✓
+  [115/188] gazon                  référentiel    ✓
+  [116/188] maïs                   référentiel    ✓
+  [117/188] concombre              référentiel    ✓
+  [118/188] manguiers              référentiel    ✓
+  [119/188] hêtre                  référentiel    ✓
+  [120/188] pommes de terre        référentiel    ✓
+  [121/188] bouleaux               référentiel    ✓
+  [122/188] osier blanc            référentiel    ✓
+  [123/188] nénuphars              référentiel    ✓
+  [124/188] concombre              référentiel    ✓
+  [125/188] chêne                  référentiel    ✓
+  [126/188] orchidée               référentiel    ✓
+  [127/188] raphia                 référentiel    ✓
+  [128/188] figue                  figuré         ✓
+  [129/188] lotus                  référentiel    ✓
+  [130/188] jacinthes              référentiel    ✓
+  [131/188] linaires               référentiel    ✓
+  [132/188] poivre noir            référentiel    ✓
+  [133/188] pommiers               figuré         ✓
+  [134/188] sapin                  référentiel    ✓
+  [135/188] pois                   figuré         ✓
+  [136/188] acanthe                référentiel    ✓
+  [137/188] bégonias               référentiel    ✓
+  [138/188] sapin                  référentiel    ✓
+  [139/188] pivoines               référentiel    ✓
+  [140/188] aulnes                 référentiel    ✓
+  [141/188] algues                 figuré         ✓
+  [142/188] chêne                  référentiel    ✓
+  [143/188] framboisiers           référentiel    ✓
+  [144/188] haricots               référentiel    ✓
+  [145/188] bambou                 référentiel    ✓
+  [146/188] concombres             référentiel    ✓
+  [147/188] litchis                référentiel    ✓
+  [148/188] épine noire            référentiel    ✓
+  [149/188] poireaux               référentiel    ✓
+  [150/188] riz                    référentiel    ✓
+  [151/188] ananas                 référentiel    ✓
+  [152/188] algues vertes          référentiel    ✓
+  [153/188] lauriers               référentiel    ✓
+  [154/188] hortensias             référentiel    ✓
+  [155/188] lin                    référentiel    ✓
+  [156/188] oignons                référentiel    ✓
+  [157/188] pastèques              figuré         ✓
+  [158/188] roseaux                référentiel    ✓
+  [159/188] oignons                figuré         ✓
+  [160/188] blé                    référentiel    ✓
+  [161/188] ronces                 référentiel    ✓
+  [162/188] lin                    référentiel    ✓
+  [163/188] prune                  référentiel    ✓
+  [164/188] sésame                 figuré         ✓
+  [165/188] papyrus                référentiel    ✗  ← gold=référentiel pred=figuré
+  [166/188] laitue                 référentiel    ✓
+  [167/188] plantes grimpantes     référentiel    ✓
+  [168/188] riz                    référentiel    ✓
+  [169/188] melon                  référentiel    ✓
+  [170/188] épinards               figuré         ✓
+  [171/188] chênes-lièges          référentiel    ✓
+  [172/188] melon d’eau            référentiel    ✓
+  [173/188] blé                    figuré         ✓
+  [174/188] prune                  figuré         ✓
+  [175/188] cactus                 référentiel    ✓
+  [176/188] blé                    référentiel    ✓
+  [177/188] tomate                 référentiel    ✓
+  [178/188] ananas                 figuré         ✗  ← gold=figuré pred=référentiel
+  [179/188] olivier                figuré         ✓
+  [180/188] frangipanier           référentiel    ✓
+  [181/188] riz                    référentiel    ✓
+  [182/188] vignes                 référentiel    ✓
+  [183/188] calebasse              figuré         ✓
+  [184/188] bouleaux               référentiel    ✓
+  [185/188] sapins                 référentiel    ✓
+  [186/188] séquoias               référentiel    ✓
+  [187/188] fougères               référentiel    ✓
+  [188/188] cèdre                  référentiel    ✓
+
+  RESULT batch=4: overall=94.7% (178/188)  réf=97.6% (160/164)  fig=75.0% (18/24)
+  Speed: 3.3s/row  →  Plantes corpus: 64h (2.7 days)
+  Failed batches: 0
+
+
+=================================================================
+  FINAL COMPARISON — ANIMAUX (121 réf + 69 fig = 190 rows)
+=================================================================
+  Method                Réf          Fig      Overall    Speed  Anim days
+  ──────────────────────────────────────────────────────────────
+  v6 (1 row)   118/121 (97.5%)   56/69 (81.2%)   174/190 (91.6%)
+  batch=3      117/121 (96.7%)   56/69 (81.2%)   173/190 (91.1%)    4.4s/row  6.5d
+  batch=4      115/121 (95.0%)   56/69 (81.2%)   171/190 (90.0%)    3.9s/row  5.8d
+  batch=5      114/121 (94.2%)     55/69 (79.7%)     169/190 (88.9%)   3.4s/row   5.8d
+
+=================================================================
+  FINAL COMPARISON — PLANTES (164 réf + 24 fig = 188 rows)
+=================================================================
+  Method                Réf          Fig      Overall    Speed Plant days
+  ──────────────────────────────────────────────────────────────
+  v6 (1 row)   162/164 (98.8%)   19/24 (79.2%)   181/188 (96.3%)
+  batch=3      164/164 (100.0%)   14/24 (58.3%)   178/188 (94.7%)    3.7s/row  3.0d
+  batch=4      160/164 (97.6%)   18/24 (75.0%)   178/188 (94.7%)    3.3s/row  2.7d
+  batch=5      160/164 (97.6%)     17/24 (70.8%)     177/188 (94.1%)   3.1s/row   3.2d
+(labelimg_env) lfarooq@obtic-gpu1:~/ecopoetique/métaphore$ 

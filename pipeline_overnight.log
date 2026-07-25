@@ -1,0 +1,267 @@
+nohup: ignoring input
+=== STEP 1+2: qwen72b think+nothink === Wed Jun 24 23:36:23 UTC 2026
+Gold set: 60 novels
+
+============================================================
+  qwen72b-limited — FOCALISATION — WITH thinking
+============================================================
+
+    Error: '"FOCALISATION"'
+  [ 1/60] Angot-Christine_Le-Voyage-dans-l'Est.txt   -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [ 2/60] Autissier-Isabelle_Soudain-seuls.txt       -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [ 3/60] Bienne-Gisele_La-malchimie.txt             -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [ 4/60] Binet-Laurent_La-septieme-fonction-du-lang -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [ 5/60] Bofane-In-Koli-Jean_Congo_inc._le_testamen -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [ 6/60] Brunel-Camille_La-guerrilla-des-animaux.tx -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [ 7/60] Chevillard-Eric_Oreille-rouge.txt          -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [ 8/60] Carrere-Emmanuel_Limonov.txt               -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [ 9/60] Deck-Julia_Ann-dAngleterre.txt             -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [10/60] Despentes-Virginie_Vernon-Subutex-1.txt    -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [11/60] Ducrozet-Pierre_Le-Grand-Vertige.txt       -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [12/60] Echenoz-Jean_Envoyee-speciale.txt          -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [13/60] Filhol-Elizabeth_Doggerland.txt            -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [14/60] Flahaut-Thomas_Ostwald.txt                 -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [15/60] Garcia-Tristan_La-meilleure-part-des-homme -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [16/60] Hunzinger-Claudie_Les-grands-cerfs.txt     -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [17/60] Hunzinger-Claudie_Un-chien-a-ma-table.txt  -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [18/60] Joncour-Serge_Nature-humaine.txt           -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [19/60] Joncour-Serge_Chien-Loup.txt               -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [20/60] Kerangal-Maylisde_Naissance-dun-pont.txt   -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [21/60] Lafon-Marie_Joseph.txt                     -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [22/60] Lançon-Philippe_Le-lambeau.txt             -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [23/60] LeTellier-Herve_Lanomalie.txt              -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [24/60] Loup-Douna_Les-printemps-sauvages.txt      -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [25/60] Louis-Edouard_En-finir-avec-Eddy-Bellegueu -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [26/60] Mathieu-Nicolas_Connemara.txt              -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [27/60] Mauvignier-Laurent_Histoires-de-la-nuit.tx -> FOC_INT OK (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [28/60] Mauvignier-Laurent_Autour-du-monde.txt     -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [29/60] Mauvignier-Laurent_Continuer.txt           -> FOC_INT OK (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [30/60] Mbougar_La-plus-secrete-memoire-des-hommes -> FOC_INT OK (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [31/60] Miano-Leonora_Rouge-imperatrice.txt        -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [32/60] Minard-Celine_Le-Grand-Jeu.txt             -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [33/60] Montalbetti-Christine_Mon-ancetre-poisson. -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [34/60] Mouawad-Wajdi_Anima.txt                    -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [35/60] Nirsimloo-Anenden-Ananda_Eve-de-ses-decomb -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [36/60] Pagano-Emmanuelle_Saufs-riverains.txt      -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [37/60] Plamondon-Eric_Taqawan.txt                 -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [38/60] Poulain-Catherine_Le-grand-marin.txt       -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [39/60] Reverdy-ThomasB_Climax.txt                 -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [40/60] Rico-Lucie_Le-chant-du-poulet-sous-vide.tx -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [41/60] Rico-Lucie_GPS.txt                         -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [42/60] Rodier-Jean_En-remontant-les-ruisseaux.txt -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [43/60] Rolin-Jean_Le-Traquet-kurde.txt            -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [44/60] Rolin-Jean_Un-chien-mort-apres-lui.txt     -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [45/60] Royer-Corinne_Pleine-terre.txt             -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [46/60] Sautiere-Jane_Mort-dun-cheval-dans-les-bra -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [47/60] Senges-Pierre_Ruines-de-Rome.txt           -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [48/60] Simonnot-Maud_LEnfant-celeste.txt          -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [49/60] Slimani-Leila_Chanson-douce.txt            -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [50/60] Sorman-Joy_La-peau-de-lours.txt            -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [51/60] Sorman-Joy_Comme-une-bete.txt              -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [52/60] Toussaint_Jean-Philippe-Faire_l_amour.txt  -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [53/60] Ventura-Maud_Mon-mari.txt                  -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [54/60] Volodine-Antoine_Songes-de-Mevlido.txt     -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [55/60] Volodine-Antoine_Terminus-radieux.txt      -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [56/60] Vuillard-Eric_14-Juillet.txt               -> FOC_INT XX (gold:FOC_EXT)
+    Error: '"FOCALISATION"'
+  [57/60] Wilhelmy-Audrée_Le-corps-des-bêtes.txt     -> FOC_INT OK (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [58/60] Vuillard-Eric_Lordre-du-jour.txt           -> FOC_INT XX (gold:FOC_EXT)
+    Error: '"FOCALISATION"'
+  [59/60] Vuillard-Eric_Tristesse-de-la-terre-Une-hi -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [60/60] Zeniter-Alice_Lart-de-perdre.txt           -> FOC_INT XX (gold:FOC_ZERO)
+
+  RESULT: 37/60 (61.7%)
+  Saved: /home/lfarooq/ecopoetique/narratologie/resultats_qwen72b_foc_think.csv
+
+============================================================
+  qwen72b-limited — FOCALISATION — WITHOUT thinking
+============================================================
+
+    Error: '"FOCALISATION"'
+  [ 1/60] Angot-Christine_Le-Voyage-dans-l'Est.txt   -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [ 2/60] Autissier-Isabelle_Soudain-seuls.txt       -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [ 3/60] Bienne-Gisele_La-malchimie.txt             -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [ 4/60] Binet-Laurent_La-septieme-fonction-du-lang -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [ 5/60] Bofane-In-Koli-Jean_Congo_inc._le_testamen -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [ 6/60] Brunel-Camille_La-guerrilla-des-animaux.tx -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [ 7/60] Chevillard-Eric_Oreille-rouge.txt          -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [ 8/60] Carrere-Emmanuel_Limonov.txt               -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [ 9/60] Deck-Julia_Ann-dAngleterre.txt             -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [10/60] Despentes-Virginie_Vernon-Subutex-1.txt    -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [11/60] Ducrozet-Pierre_Le-Grand-Vertige.txt       -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [12/60] Echenoz-Jean_Envoyee-speciale.txt          -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [13/60] Filhol-Elizabeth_Doggerland.txt            -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [14/60] Flahaut-Thomas_Ostwald.txt                 -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [15/60] Garcia-Tristan_La-meilleure-part-des-homme -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [16/60] Hunzinger-Claudie_Les-grands-cerfs.txt     -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [17/60] Hunzinger-Claudie_Un-chien-a-ma-table.txt  -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [18/60] Joncour-Serge_Nature-humaine.txt           -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [19/60] Joncour-Serge_Chien-Loup.txt               -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [20/60] Kerangal-Maylisde_Naissance-dun-pont.txt   -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [21/60] Lafon-Marie_Joseph.txt                     -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [22/60] Lançon-Philippe_Le-lambeau.txt             -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [23/60] LeTellier-Herve_Lanomalie.txt              -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [24/60] Loup-Douna_Les-printemps-sauvages.txt      -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [25/60] Louis-Edouard_En-finir-avec-Eddy-Bellegueu -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [26/60] Mathieu-Nicolas_Connemara.txt              -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [27/60] Mauvignier-Laurent_Histoires-de-la-nuit.tx -> FOC_INT OK (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [28/60] Mauvignier-Laurent_Autour-du-monde.txt     -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [29/60] Mauvignier-Laurent_Continuer.txt           -> FOC_INT OK (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [30/60] Mbougar_La-plus-secrete-memoire-des-hommes -> FOC_INT OK (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [31/60] Miano-Leonora_Rouge-imperatrice.txt        -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [32/60] Minard-Celine_Le-Grand-Jeu.txt             -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [33/60] Montalbetti-Christine_Mon-ancetre-poisson. -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [34/60] Mouawad-Wajdi_Anima.txt                    -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [35/60] Nirsimloo-Anenden-Ananda_Eve-de-ses-decomb -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [36/60] Pagano-Emmanuelle_Saufs-riverains.txt      -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [37/60] Plamondon-Eric_Taqawan.txt                 -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [38/60] Poulain-Catherine_Le-grand-marin.txt       -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [39/60] Reverdy-ThomasB_Climax.txt                 -> FOC_INT XX (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [40/60] Rico-Lucie_Le-chant-du-poulet-sous-vide.tx -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [41/60] Rico-Lucie_GPS.txt                         -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [42/60] Rodier-Jean_En-remontant-les-ruisseaux.txt -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [43/60] Rolin-Jean_Le-Traquet-kurde.txt            -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [44/60] Rolin-Jean_Un-chien-mort-apres-lui.txt     -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [45/60] Royer-Corinne_Pleine-terre.txt             -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [46/60] Sautiere-Jane_Mort-dun-cheval-dans-les-bra -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [47/60] Senges-Pierre_Ruines-de-Rome.txt           -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [48/60] Simonnot-Maud_LEnfant-celeste.txt          -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [49/60] Slimani-Leila_Chanson-douce.txt            -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [50/60] Sorman-Joy_La-peau-de-lours.txt            -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [51/60] Sorman-Joy_Comme-une-bete.txt              -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [52/60] Toussaint_Jean-Philippe-Faire_l_amour.txt  -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [53/60] Ventura-Maud_Mon-mari.txt                  -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [54/60] Volodine-Antoine_Songes-de-Mevlido.txt     -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [55/60] Volodine-Antoine_Terminus-radieux.txt      -> FOC_INT OK (gold:FOC_INT)
+    Error: '"FOCALISATION"'
+  [56/60] Vuillard-Eric_14-Juillet.txt               -> FOC_INT XX (gold:FOC_EXT)
+    Error: '"FOCALISATION"'
+  [57/60] Wilhelmy-Audrée_Le-corps-des-bêtes.txt     -> FOC_INT OK (gold:FOC_VAR)
+    Error: '"FOCALISATION"'
+  [58/60] Vuillard-Eric_Lordre-du-jour.txt           -> FOC_INT XX (gold:FOC_EXT)
+    Error: '"FOCALISATION"'
+  [59/60] Vuillard-Eric_Tristesse-de-la-terre-Une-hi -> FOC_INT XX (gold:FOC_ZERO)
+    Error: '"FOCALISATION"'
+  [60/60] Zeniter-Alice_Lart-de-perdre.txt           -> FOC_INT XX (gold:FOC_ZERO)
+
+  RESULT: 37/60 (61.7%)
+  Saved: /home/lfarooq/ecopoetique/narratologie/resultats_qwen72b_foc_nothink.csv
+
+============================================================
+  FINAL COMPARISON
+  With thinking:    61.7%
+  Without thinking: 61.7%
+  Previous best:    65.0% (local hybrid)
+============================================================
+=== STEP 3: Loterre v8 === Wed Jun 24 23:36:23 UTC 2026

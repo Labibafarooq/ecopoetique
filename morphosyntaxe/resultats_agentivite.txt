@@ -1,0 +1,98 @@
+ANALYSE D'AGENTIVITÉ — ÉCOPOÉTIQUE
+
+The morphosyntactic analysis is based on the dependency files already 
+created by the previous team (dépendants_ANIMAUX.csv, dépendants_PLANTES.csv, 
+dépendants_animaux_référentiels.csv) stored in the GitLab repository. 
+I ran the agentivity classification on these existing files using the same 
+syntactic categories defined in analyse_dependances.py."
+
+
+Animals: referential analysis is clean ✅
+Plants: needs referential filtering (waiting for Task 1 improvement)
+Humans: needs to be built from scratch
+
+
+
+Généré le 22/06/2026
+=================================================================
+HYPOTHÈSE: Les animaux et les plantes sont-ils des agents
+passifs comparés aux humains dans le roman français contemporain?
+=================================================================
+
+=================================================================
+  ANIMAUX référentiels — 95,243 occurrences
+=================================================================
+  Catégorie                       N       %
+  ------------------------------------------
+  Complément du nom          31,982  ( 33.6%)  ███████████
+  Agent actif                23,265  ( 24.4%)  ████████
+  Autre                      20,040  ( 21.0%)  ███████
+  Objet                      19,247  ( 20.2%)  ██████
+  Récepteur passif              709  (  0.7%)  
+
+  -- Agent actif (24.4%) — 3 exemples --
+    [jument] Sa monture était une jument alezane qu’il menait au pas.
+    [loup] Un loup aboya dans un vallon des environs, à moins d’un kilomètre.
+    [loups] Quand il m’a confié le papier, les loups nous encerclaient.
+
+  -- Récepteur passif (0.7%) — 3 exemples --
+    [vache] Il arrivait que le projecteur restât bloqué dans une seule direction, celle où la vache à poils long
+    [bœuf] Du rognon ou du foie, du filet, des côtes ou de la langue, des pattes, de la peau ou de la queue ; d
+    [chèvres] Des chèvres et des moutons sont tenus en laisse et arrivent en broutant l’herbe jaune—verte.
+
+  -- Objet (20.2%) — 3 exemples --
+    [papillon] demanda le policier en chassant un papillon énorme qui lui attaquait les joues.
+    [papillons] L’étoffe aussitôt se déchira, libérant environ sept cent soixantedeux papillons miniatures, d’un gri
+    [taupes] L’obscurité autour de nous sentait les sous-bois, les renardes, les taupes.
+
+  -- Complément du nom (33.6%) — 3 exemples --
+    [loup] Des blessures de loup, ça se soigne en moins d’une heure.
+    [merles] d’être fétide lui est refusé, elle n’est même pas fétide et insignifiante dans un carré de cimetière
+    [oies] Elle interrogeait, très haut au-dessus de sa tête, le vol triangulaire des oies sauvages, elle se pl
+
+=================================================================
+  PLANTES (tous) — 64,269 occurrences
+=================================================================
+  Catégorie                       N       %
+  ------------------------------------------
+  Complément du nom          31,815  ( 49.5%)  ████████████████
+  Autre                      14,878  ( 23.1%)  ███████
+  Objet                       9,727  ( 15.1%)  █████
+  Agent actif                 7,591  ( 11.8%)  ███
+  Récepteur passif              258  (  0.4%)  
+
+  -- Agent actif (11.8%) — 3 exemples --
+    [arbrisseau] Les inscriptions s’effritent.
+Un arbrisseau surgit d’une fissure.
+Il éventre la pierre tombale.
+
+    [moutarde] La moutarde me monte au nez.
+    [pruneau] Le petit pruneau ne comprend pas ce qui se passe.
+
+  -- Récepteur passif (0.4%) — 3 exemples --
+    [pois chiches] au chemin de fer qui devait pousser vite pour que notre pays blessé et plein de trous devienne prosp
+    [marronniers] – Vous verrez que les marronniers en face du Sénat sont taillés en forme de cubes.
+    [salade] Au crépuscule du jour du 18 juillet, comme la salade était finie depuis le début de l’après-midi, tu
+
+  -- Objet (15.1%) — 3 exemples --
+    [buis] Puis il détale du buis taillé derrière lequel il les épiait.
+    [carotte] Je me rends compte que Schulmann m’a tendu une carotte et que tout mon enthousiasme n’a servi à rien
+    [chicorée] Elle boit sa chicorée et elle est en Alsace.
+
+  -- Complément du nom (49.5%) — 3 exemples --
+    [acajou] Des cloisons lambrissées en acajou de Cuba, décorées de panneaux de pâte de verre, motifs de naïades
+    [acajou] Elle étrenne sa nouvelle chambre, le lit Empire acajou motifs bronze, avec un matelas, deux traversi
+    [acajou] Le lit Empire acajou aux motifs en bronze arrive juste à temps dans la maison des Grands Sables.
+
+=================================================================
+RÉSUMÉ COMPARATIF
+=================================================================
+  Catégorie                       Agent%  Passif%  Objet%  Compl%
+  ------------------------------------------------------------
+  ANIMAUX référentiels             24.4%     0.7%   20.2%   33.6%
+  PLANTES                          11.8%     0.4%   15.1%   49.5%
+=================================================================
+
+NOTE: Humains manquants — à construire pour comparaison complète
+NOTE: Plantes incluent encore des cas figuratifs (ex: 'tendre une carotte')
+      → filtrage référentiel/figuré nécessaire quand Task 1 sera amélioré

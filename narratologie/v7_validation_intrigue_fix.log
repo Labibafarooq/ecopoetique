@@ -1,0 +1,244 @@
+
+==============================================================
+  TASK 0 MAP-REDUCE v7  (v6 rules + evidence-based INT/TEM/REG fixes)
+  Model: qwen3:30b   Chunks: 9   Max lines/chunk: 350   Reduce votes: 3
+  Started: 2026-07-01 20:24:00
+==============================================================
+
+Gold: 79 novels
+Novels in CORPUS_TOTAL: 76  missing: 3
+TARGETED VALIDATION: 15 novels
+
+
+[1/15] Autissier-Isabelle_Soudain-seuls.txt
+    3790 lines -> 9 chunks of ~421 lines
+    chunk 1/9: voice=third_person thread=Louise et Ludovic en time=14 heures, ciel obsc
+    chunk 2/9: voice=third_person thread=Ludovic et Louise, l time=aujourd'hui, après l
+    chunk 3/9: voice=third_person thread=Louise's emotional c time=fin janvier
+    chunk 4/9: voice=third_person thread=Ludovic's despair an time=dusk, evening
+    chunk 5/9: voice=third_person thread=Louise's internal co time=fin avril, hiver
+    chunk 6/9: voice=third_person thread=Louise et sa détress time=un matin, après la m
+    chunk 7/9: voice=third_person thread=Louise's internal st time=after the Falklands,
+    chunk 8/9: voice=third_person thread=Louise's internal co time=after funeral, eveni
+    chunk 9/9: voice=third_person thread=Louise's inner journ time=December, after a fe
+    -> reduce step x3 (9/9 good observations)
+  -> 66s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+
+[2/15] Baque-Joel_La-fonte-des-glaces.txt
+    2967 lines -> 9 chunks of ~329 lines
+    chunk 1/9: voice=third_person thread=veuve time=en ce moment
+    chunk 2/9: voice=third_person thread=Louis time=aujourd'hui
+    chunk 3/9: voice=third_person thread=Louis et ses manchot time=Jour après jour
+    chunk 4/9: voice=third_person thread=Louis et son voyage  time=deux heures après so
+    chunk 5/9: voice=third_person thread=Louis et sa rencontr time=après le massacre de
+    chunk 6/9: voice=third_person thread=Louis et Alice en vo time=le matin après une n
+    chunk 7/9: voice=third_person thread=hallucinations after time=during meal and afte
+    chunk 8/9: voice=third_person thread=Louis et le cousin time=le surlendemain de l
+    chunk 9/9: voice=third_person thread=Louis et la Dream Te time=après le départ de l
+    -> reduce step x3 (9/9 good observations)
+  -> 71s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+
+[3/15] Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bismarck.txt
+    5803 lines -> 9 chunks of ~644 lines
+    chunk 1/9: voice=third_person thread=Isookanga et son dés time=none
+    chunk 2/9: voice=third_person thread=Shasha et ses frères time=le jour suivant le m
+    chunk 3/9: voice=third_person thread=Modogo's backstory a time=none
+    chunk 4/9: voice=third_person thread=Isookanga et la négo time=avant/après l'événem
+    chunk 5/9: voice=third_person thread=révérend Monk time=présent
+    chunk 6/9: voice=third_person thread=Mirnas et Bizimungu time=présent
+    chunk 7/9: voice=third_person thread=Chiara Argento et so time=aujourd'hui
+    chunk 8/9: voice=third_person thread=Isookanga et son onc time=aujourd'hui
+    chunk 9/9: voice=third_person thread=Kiro Bizimungu's dea time=now
+    -> reduce step x3 (9/9 good observations)
+  -> 61s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_EVTv REG=REG_REALv ESP=ESP_FRAGv INT=INTR_FRAGv TEM=TEMP_LINv
+  [checkpoint saved, 3 done]
+
+[4/15] Chevillard-Eric_Oreille-rouge.txt
+    2125 lines -> 9 chunks of ~236 lines
+    chunk 1/9: voice=third_person thread=Albert Moindre time=none
+    chunk 2/9: voice=third_person thread=le voyage vers l'Afr time=avant le départ
+    chunk 3/9: voice=third_person thread=Oreille rouge et son time=aujourd'hui
+    chunk 4/9: voice=third_person thread=Oreille rouge et sa  time=au matin
+    chunk 5/9: voice=third_person thread=Oreille rouge et son time=aujourd'hui
+    chunk 6/9: voice=third_person thread=Oreille rouge time=present
+    chunk 7/9: voice=third_person thread=Oreille rouge time=le matin, le soir, l
+    chunk 8/9: voice=third_person thread=Oreille rouge time=none
+    chunk 9/9: voice=third_person thread=Oreille rouge time=present
+    -> reduce step x3 (9/9 good observations)
+  -> 51s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_FRAGv TEM=TEMP_LINv
+
+[5/15] Carrere-Emmanuel_Limonov.txt
+    5398 lines -> 9 chunks of ~599 lines
+    chunk 1/9: voice=first_person thread=Limonov et Kasparov time=2008
+    chunk 2/9: voice=third_person thread=Édouard et Anna time=1960s
+    chunk 3/9: voice=third_person thread=Édouard et Elena time=1976
+    chunk 4/9: voice=third_person thread=Édouard Limonov time=été 1980
+    chunk 5/9: voice=first_person thread=Édouard dans Moscou time=décembre 1989
+    chunk 6/9: voice=third_person thread=Édouard Limonov time=1991-1992
+    chunk 7/9: voice=third_person thread=Édouard dans la Kraj time=1993-1994
+    chunk 8/9: voice=third_person thread=Édouard Limonov time=automne 2000
+    chunk 9/9: voice=third_person thread=Édouard Limonov time=2009
+    -> reduce step x3 (9/9 good observations)
+  -> 78s | NAR=NAR_TEMv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_FRAGv INT=INTR_FRAGv TEM=TEMP_DISv
+
+[6/15] Deck-Julia_Ann-dAngleterre.txt
+    4041 lines -> 9 chunks of ~449 lines
+    chunk 1/9: voice=first_person thread=mère et narratrice time=aujourd'hui, mainten
+    chunk 2/9: voice=first_person thread=mère et sa maladie time=le lendemain de l'ac
+    chunk 3/9: voice=third_person thread=Ann's life and thoug time=17 ans, après Capri
+    chunk 4/9: voice=first_person thread=mère et soins hospit time=48e anniversaire
+    chunk 5/9: voice=first_person thread=mère malade et réédu time=trois semaines après
+    chunk 6/9: voice=first_person thread=mère et soins time=Covid, juillet
+    chunk 7/9: voice=first_person thread=mère et fille en cri time=fin août début septe
+    chunk 8/9: voice=third_person thread=Julia's mental state time=2022, 2023, 2024
+    chunk 9/9: voice=first_person thread=mère et narratrice time=2023, après l'hospit
+    -> reduce step x3 (9/9 good observations)
+  -> 63s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 6 done]
+
+[7/15] Diop-David_Frere-d'âme.txt
+    1754 lines -> 9 chunks of ~194 lines
+    chunk 1/9: voice=first_person thread=Alfa Ndiaye's intern time=during battle
+    chunk 2/9: voice=first_person thread=Alfa Ndiaye's intern time=during a battle, wai
+    chunk 3/9: voice=first_person thread=le narrateur et sa c time=aujourd'hui, pendant
+    chunk 4/9: voice=first_person thread=Jean-Baptiste's deat time=during the night aft
+    chunk 5/9: voice=first_person thread=le narrateur et ses  time=aujourd'hui (dans le
+    chunk 6/9: voice=first_person thread=Alfa Ndiaye's reflec time=avant la guerre, ava
+    chunk 7/9: voice=first_person thread=attente de Penndo Ba time=à l'âge de quinze an
+    chunk 8/9: voice=first_person thread=Alfa's intimate mome time=avant la guerre
+    chunk 9/9: voice=first_person thread=le narrateur et sa d time=présent
+    -> reduce step x3 (9/9 good observations)
+  -> 54s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_FRAGv TEM=TEMP_DISv
+
+[8/15] Hunzinger-Claudie_Un-chien-a-ma-table.txt
+    3077 lines -> 9 chunks of ~341 lines
+    chunk 1/9: voice=first_person thread=la narratrice et la  time=automne
+    chunk 2/9: voice=first_person thread=la narratrice et ses time=présent (nuit), avec
+    chunk 3/9: voice=first_person thread=rencontre avec Yes,  time=automne
+    chunk 4/9: voice=first_person thread=la narratrice et Yes time=été de leur installa
+    chunk 5/9: voice=first_person thread=la narratrice et ses time=hiver, après la mort
+    chunk 6/9: voice=first_person thread=réflexion sur l'écri time=Nouvel An III aux Bo
+    chunk 7/9: voice=first_person thread=la narratrice et ses time=février, après-midi
+    chunk 8/9: voice=first_person thread=la narratrice et ses time=printemps, neige en 
+    chunk 9/9: voice=first_person thread=Grieg et Yes, la mor time=juillet, fin de l'ét
+    -> reduce step x3 (9/9 good observations)
+  -> 76s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_FRAGx TEM=TEMP_DISv
+
+[9/15] Joncour-Serge_Nature-humaine.txt
+    3877 lines -> 9 chunks of ~430 lines
+    chunk 1/9: voice=third_person thread=la famille Fabrier e time=dimanche 4 juillet
+    chunk 2/9: voice=third_person thread=Alexandre's internal time=evening
+    chunk 3/9: voice=third_person thread=Alexandre et sa miss time=dix-sept heures, déb
+    chunk 4/9: voice=third_person thread=Caroline's political time=evening of the Mitte
+    chunk 5/9: voice=third_person thread=Alexandre et son att time=fin avril 1986
+    chunk 6/9: voice=third_person thread=Alexandre et Constan time=1981, printemps
+    chunk 7/9: voice=third_person thread=Alexandre et Constan time=deux heures de l'apr
+    chunk 8/9: voice=third_person thread=Alexandre et sa rela time=mi-juillet
+    chunk 9/9: voice=third_person thread=Alexandre et sa réfl time=14 juillet 2000 (an 
+    -> reduce step x3 (9/9 good observations)
+  -> 75s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 9 done]
+
+[10/15] Lafon-Marie_Joseph.txt
+    497 lines -> 9 chunks of ~55 lines
+    chunk 1/9: voice=third_person thread=Joseph, ses mains et time=présent
+    chunk 2/9: voice=first_person thread=Joseph, son travail  time=cinquante-huit, bien
+    chunk 3/9: voice=third_person thread=Joseph et la patronn time=été
+    chunk 4/9: voice=third_person thread=Joseph's daily routi time=avant de se coucher,
+    chunk 5/9: voice=third_person thread=Joseph's memories an time=20s-40s (Joseph's li
+    chunk 6/9: voice=third_person thread=Joseph et sa mère time=17 juin 1984
+    chunk 7/9: voice=third_person thread=Joseph et son passé  time=août 1985 à avril 19
+    chunk 8/9: voice=third_person thread=Joseph's memories of time=20 years later (21 y
+    chunk 9/9: voice=third_person thread=Joseph's reflection  time=29 mai (enterrement 
+    -> reduce step x3 (9/9 good observations)
+  -> 48s | NAR=NAR_EXTv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_DISv
+
+[11/15] Pourchet-Maria_Feu.txt
+    4142 lines -> 9 chunks of ~460 lines
+    chunk 1/9: voice=first_person thread=Laure, dans un resta time=aujourd'hui, après-m
+    chunk 2/9: voice=first_person thread=Laure's internal tur time=dix-septième jour
+    chunk 3/9: voice=first_person thread=la protagoniste en v time=mi-juillet, vacances
+    chunk 4/9: voice=first_person thread=attente et déception time=dimanche, août, 3 he
+    chunk 5/9: voice=first_person thread=Anna et sa danse time=samedi
+    chunk 6/9: voice=first_person thread=Clément et son père time=Lundi matin, 8h45, a
+    chunk 7/9: voice=first_person thread=Laure's internal con time=aujourd'hui (dans le
+    chunk 8/9: voice=first_person thread=Laure's suicide atte time=non
+    chunk 9/9: voice=first_person thread=Laure's emotional re time=dimanche après-midi,
+    -> reduce step x3 (9/9 good observations)
+  -> 61s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+
+[12/15] Rico-Lucie_GPS.txt
+    2926 lines -> 9 chunks of ~325 lines
+    chunk 1/9: voice=first_person thread=Sandrine's invitatio time=present
+    chunk 2/9: voice=first_person thread=Sandrine's emotional time=during wedding photo
+    chunk 3/9: voice=first_person thread=Sandrine's disappear time=present
+    chunk 4/9: voice=first_person thread=le chômage et la rec time=aujourd'hui
+    chunk 5/9: voice=first_person thread=recherche de Sandrin time=depuis que Sandrine 
+    chunk 6/9: voice=first_person thread=suivre Sandrine sur  time=en cours de nuit, ap
+    chunk 7/9: voice=first_person thread=Sandrine's point on  time=12h15-12h20 (Middelk
+    chunk 8/9: voice=first_person thread=retrouvailles avec S time=été, 29 ans, quinze 
+    chunk 9/9: voice=first_person thread=Sandrine's ghost and time=minuit passé
+    -> reduce step x3 (9/9 good observations)
+  -> 57s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINx
+  [checkpoint saved, 12 done]
+
+[13/15] Simonnot-Maud_LEnfant-celeste.txt
+    1329 lines -> 9 chunks of ~147 lines
+    chunk 1/9: voice=first_person thread=enfant et mère time=l'autre soir
+    chunk 2/9: voice=first_person thread=mère et Célian time=été, après une nuit 
+    chunk 3/9: voice=first_person thread=Célian et sa mère à  time=avant et après l'épi
+    chunk 4/9: voice=first_person thread=Célian et la forêt time=le premier matin, le
+    chunk 5/9: voice=first_person thread=la narratrice et Cél time=dix jours après le d
+    chunk 6/9: voice=first_person thread=Célian et Björn time=été
+    chunk 7/9: voice=first_person thread=Célian et Björn time=matin, après une nui
+    chunk 8/9: voice=first_person thread=Célian et la nature time=été
+    chunk 9/9: voice=first_person thread=Célian et sa mère time=été, fin du voyage
+    -> reduce step x3 (9/9 good observations)
+  -> 48s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINv
+
+[14/15] Ventura-Maud_Mon-mari.txt
+    3315 lines -> 9 chunks of ~368 lines
+    chunk 1/9: voice=first_person thread=la narratrice et son time=aujourd'hui, lundi
+    chunk 2/9: voice=first_person thread=la narratrice et son time=aujourd'hui
+    chunk 3/9: voice=first_person thread=la femme et son conf time=mercredi matin
+    chunk 4/9: voice=first_person thread=la narratrice et son time=soirée à la maison, 
+    chunk 5/9: voice=first_person thread=la narratrice et son time=jeudi matin, après u
+    chunk 6/9: voice=first_person thread=la narratrice et son time=le matin, après une 
+    chunk 7/9: voice=first_person thread=analyse obsessionnel time=mercredi après-midi,
+    chunk 8/9: voice=first_person thread=la narratrice et son time=samedi soir, après l
+    chunk 9/9: voice=first_person thread=la narratrice et sa  time=dimanche soir, après
+    -> reduce step x3 (9/9 good observations)
+  -> 71s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_FRAGx TEM=TEMP_LINv
+
+[15/15] Volodine-Antoine_Songes-de-Mevlido.txt
+    8809 lines -> 9 chunks of ~978 lines
+    chunk 1/9: voice=third_person thread=Mevlido et Maleeya d time=plus de minuit
+    chunk 2/9: voice=third_person thread=Mevlido's internal c time=cinquante ans
+    chunk 3/9: voice=third_person thread=Mevlido's emotional  time=afternoon/night
+    chunk 4/9: voice=third_person thread=Mevlido's therapy se time=after a storm, durin
+    chunk 5/9: voice=third_person thread=Mevlido et son passa time=aujourd'hui
+    chunk 6/9: voice=third_person thread=Mevlido et Maleeya d time=cette nuit
+    chunk 7/9: voice=third_person thread=Mevlido's daily rout time=none
+    chunk 8/9: voice=first_person thread=Mevlido's disorienta time=night
+    chunk 9/9: voice=third_person thread=Mevlido's final mome time=none
+    -> reduce step x3 (9/9 good observations)
+  -> 58s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_INTRx REG=REG_SPECv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 15 done]
+
+Done — 15 novels processed
+Saved to: /home/lfarooq/ecopoetique/narratologie/resultats_task0_mapreduce_v7.csv
+
+==============================================================
+  MAP-REDUCE v7 RESULTS  —  qwen3:30b  (3x reduce vote)
+==============================================================
+  TYPE NARRATEUR         15/15  (100.0%)  ████████████████████
+  FOCALISATION           14/15  ( 93.3%)  ██████████████████
+  MODE NARRATIF           4/15  ( 26.7%)  █████
+  REGIME NARRATIF        10/15  ( 66.7%)  █████████████
+  ESPACE                  7/15  ( 46.7%)  █████████
+  INTRIGUE                9/15  ( 60.0%)  ████████████
+  TEMPORALITÉ            11/15  ( 73.3%)  ██████████████
+--------------------------------------------------------------
+  OVERALL                 70/105  ( 66.7%)
+==============================================================
+

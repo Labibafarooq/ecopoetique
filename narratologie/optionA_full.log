@@ -1,0 +1,898 @@
+nohup: ignoring input
+
+==============================================================
+  NARRATOLOGIE MAP-REDUCE  Option A  (targeted reduce)
+  Model: qwen3:30b   Port: 11435   Chunks: 9
+  Started: 2026-06-11 22:45:31
+==============================================================
+
+Ollama reachable. Models: ['qwen3:30b']
+
+Gold: 60 novels
+TEMPORALITÉ sample: 'TEMP_DIS' ✓
+With 'Acceptable aussi': 44
+
+Novels in CORPUS_TOTAL: 60
+
+
+[1/60] Angot-Christine_Le-Voyage-dans-l'Est.txt
+    5372 lines → 9 chunks of ~596 lines
+    ✓ chunk 1/9: voice=first_person mode=description time=chronological
+    ✓ chunk 2/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 5/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 6/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 566s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✗ ESP=ESP_FRAG✓ INT=INTR_LIN✓ TEM=TEMP_LIN✗
+
+[2/60] Autissier-Isabelle_Soudain-seuls.txt
+    3790 lines → 9 chunks of ~421 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=description time=chronological
+    ✓ chunk 6/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=third_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 228s | NAR=NAR_EXT✓ FOC=FOC_VAR✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+
+[3/60] Bienne-Gisele_La-malchimie.txt
+    3185 lines → 9 chunks of ~353 lines
+    ✓ chunk 1/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 2/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 5/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 8/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 486s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_FRAG✗ INT=INTR_LIN✓ TEM=TEMP_DIS✓
+  💾 checkpoint (3 done)
+
+[4/60] Binet-Laurent_La-septieme-fonction-du-langage.txt
+    7575 lines → 9 chunks of ~841 lines
+    ✓ chunk 1/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=description time=chronological
+    ✓ chunk 6/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=third_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 472s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_MIX✓ REG=REG_REAL✗ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[5/60] Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bismarck.txt
+    5803 lines → 9 chunks of ~644 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=description time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 6/9: voice=third_person mode=description time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 9/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 621s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_FRAG✓ TEM=TEMP_LIN✓
+
+[6/60] Brunel-Camille_La-guerrilla-des-animaux.txt
+    2892 lines → 9 chunks of ~321 lines
+    ✓ chunk 1/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=first_person mode=action_event time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=third_person mode=description time=chronological
+    ✓ chunk 9/9: voice=third_person mode=description time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 581s | NAR=NAR_EXT✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_SPEC✗ ESP=ESP_FRAG✗ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+  💾 checkpoint (6 done)
+
+[7/60] Chevillard-Eric_Oreille-rouge.txt
+    2125 lines → 9 chunks of ~236 lines
+    ✓ chunk 1/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 2/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=description time=chronological
+    ✓ chunk 9/9: voice=third_person mode=description time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 446s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+
+[8/60] Carrere-Emmanuel_Limonov.txt
+    5398 lines → 9 chunks of ~599 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=first_person mode=description time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 695s | NAR=NAR_EXT✗ FOC=FOC_INT✓ MOD=MOD_MIX✓ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[9/60] Deck-Julia_Ann-dAngleterre.txt
+    4041 lines → 9 chunks of ~449 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=third_person mode=description time=chronological
+    ✓ chunk 4/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 482s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_REAL✗ ESP=ESP_FRAG✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+  💾 checkpoint (9 done)
+
+[10/60] Despentes-Virginie_Vernon-Subutex-1.txt
+    7422 lines → 9 chunks of ~824 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=third_person mode=description time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 622s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[11/60] Ducrozet-Pierre_Le-Grand-Vertige.txt
+    6090 lines → 9 chunks of ~676 lines
+    ✓ chunk 1/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 4/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 5/9: voice=third_person mode=description time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=third_person mode=introspectio time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 482s | NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_MIX✓ REG=REG_REAL✗ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[12/60] Echenoz-Jean_Envoyee-speciale.txt
+    2945 lines → 9 chunks of ~327 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=third_person mode=description time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=description time=chronological
+    ✓ chunk 5/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=third_person mode=action_event time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=description time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=first_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 539s | NAR=NAR_EXT✓ FOC=FOC_EXT✗ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_FRAG✗ TEM=TEMP_LIN✓
+  💾 checkpoint (12 done)
+
+[13/60] Filhol-Elizabeth_Doggerland.txt
+    2844 lines → 9 chunks of ~316 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=description time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=third_person mode=introspectio time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 640s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_MIX✓ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[14/60] Flahaut-Thomas_Ostwald.txt
+    2239 lines → 9 chunks of ~248 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=first_person mode=description time=chronological
+    ✓ chunk 7/9: voice=first_person mode=description time=chronological
+    ✓ chunk 8/9: voice=first_person mode=description time=chronological
+    ✓ chunk 9/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 517s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_DESC✗ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+
+[15/60] Garcia-Tristan_La-meilleure-part-des-hommes.txt
+    5620 lines → 9 chunks of ~624 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 5/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 7/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=first_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 601s | NAR=NAR_AUTOD✗ FOC=FOC_INT✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+  💾 checkpoint (15 done)
+
+[16/60] Hunzinger-Claudie_Les-grands-cerfs.txt
+    2955 lines → 9 chunks of ~328 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=description time=chronological
+    ✓ chunk 4/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=first_person mode=description time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 558s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_LIN✗
+
+[17/60] Hunzinger-Claudie_Un-chien-a-ma-table.txt
+    3077 lines → 9 chunks of ~341 lines
+    ✓ chunk 1/9: voice=first_person mode=description time=chronological
+    ✓ chunk 2/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=description time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=first_person mode=description time=chronological
+    ✓ chunk 5/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 450s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_LIN✗
+
+[18/60] Joncour-Serge_Nature-humaine.txt
+    3877 lines → 9 chunks of ~430 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 630s | NAR=NAR_EXT✓ FOC=FOC_VAR✗ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+  💾 checkpoint (18 done)
+
+[19/60] Joncour-Serge_Chien-Loup.txt
+    5002 lines → 9 chunks of ~555 lines
+    ✓ chunk 1/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 5/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=third_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 487s | NAR=NAR_EXT✓ FOC=FOC_VAR✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[20/60] Kerangal-Maylisde_Naissance-dun-pont.txt
+    1860 lines → 9 chunks of ~206 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=third_person mode=description time=chronological
+    ✓ chunk 7/9: voice=third_person mode=description time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=third_person mode=description time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 496s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+
+[21/60] Lafon-Marie_Joseph.txt
+    497 lines → 9 chunks of ~55 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=third_person mode=description time=chronological
+    ✓ chunk 5/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=description time=chronological
+    ✓ chunk 9/9: voice=third_person mode=description time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 485s | NAR=NAR_EXT✓ FOC=FOC_VAR✗ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_DIS✓
+  💾 checkpoint (21 done)
+
+[22/60] Lançon-Philippe_Le-lambeau.txt
+    8734 lines → 9 chunks of ~970 lines
+    ✓ chunk 1/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 2/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 610s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✗ ESP=ESP_FRAG✓ INT=INTR_LIN✓ TEM=TEMP_LIN✗
+
+[23/60] LeTellier-Herve_Lanomalie.txt
+    5848 lines → 9 chunks of ~649 lines
+    ✓ chunk 1/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=third_person mode=description time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 8/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=third_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 512s | NAR=NAR_EXT✓ FOC=FOC_EXT✗ MOD=MOD_MIX✓ REG=REG_REAL✗ ESP=ESP_FRAG✓ INT=INTR_FRAG✓ TEM=TEMP_LIN✗
+
+[24/60] Loup-Douna_Les-printemps-sauvages.txt
+    1611 lines → 9 chunks of ~179 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 3/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=description time=chronological
+    ✓ chunk 6/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 8/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 495s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+  💾 checkpoint (24 done)
+
+[25/60] Louis-Edouard_En-finir-avec-Eddy-Bellegueule.txt
+    2161 lines → 9 chunks of ~240 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 5/9: voice=first_person mode=description time=chronological
+    ✓ chunk 6/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 514s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[26/60] Mathieu-Nicolas_Connemara.txt
+    7596 lines → 9 chunks of ~844 lines
+    ✓ chunk 1/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=third_person mode=description time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=third_person mode=description time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 554s | NAR=NAR_EXT✓ FOC=FOC_VAR✗ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[27/60] Mauvignier-Laurent_Histoires-de-la-nuit.txt
+    3899 lines → 9 chunks of ~433 lines
+    ✓ chunk 1/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 5/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 6/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 9/9: voice=third_person mode=action_event time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 459s | NAR=NAR_EXT✓ FOC=FOC_VAR✓ MOD=MOD_MIX✓ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+  💾 checkpoint (27 done)
+
+[28/60] Mauvignier-Laurent_Autour-du-monde.txt
+    5136 lines → 9 chunks of ~570 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=third_person mode=description time=chronological
+    ✓ chunk 4/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 545s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_MIX✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[29/60] Mauvignier-Laurent_Continuer.txt
+    2339 lines → 9 chunks of ~259 lines
+    ✓ chunk 1/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 581s | NAR=NAR_EXT✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_FANT✗ ESP=ESP_ITIN✓ INT=INTR_LIN✓ TEM=TEMP_LIN✗
+
+[30/60] Mbougar_La-plus-secrete-memoire-des-hommes.txt
+    8812 lines → 9 chunks of ~979 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 6/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 8/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 523s | NAR=NAR_AUTOD✗ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+  💾 checkpoint (30 done)
+
+[31/60] Miano-Leonora_Rouge-imperatrice.txt
+    10968 lines → 9 chunks of ~1218 lines
+    ✓ chunk 1/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=third_person mode=introspectio time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 540s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_INTR✗ REG=REG_SPEC✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+
+[32/60] Minard-Celine_Le-Grand-Jeu.txt
+    2818 lines → 9 chunks of ~313 lines
+    ✗ chunk 1/9 failed: No valid JSON found. Response: ''
+    ✓ chunk 2/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 8/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    → reduce step (8/9 good) — 7 targeted calls
+  → 584s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_FANT✓ ESP=ESP_ITIN✗ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+
+[33/60] Montalbetti-Christine_Mon-ancetre-poisson.txt
+    2156 lines → 9 chunks of ~239 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=unclear mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=unclear mode=description time=chronological
+    ✓ chunk 4/9: voice=first_person mode=description time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=unclear mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 596s | NAR=NAR_AUTOD✗ FOC=FOC_INT✓ MOD=MOD_DESC✗ REG=REG_REAL✗ ESP=ESP_FRAG✗ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+  💾 checkpoint (33 done)
+
+[34/60] Mouawad-Wajdi_Anima.txt
+    9216 lines → 9 chunks of ~1024 lines
+    ✓ chunk 1/9: voice=first_person mode=description time=chronological
+    ✓ chunk 2/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=first_person mode=action_event time=chronological
+    ✓ chunk 5/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=first_person mode=action_event time=chronological
+    ✓ chunk 9/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 585s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_EVT✓ REG=REG_FANT✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+
+[35/60] Nirsimloo-Anenden-Ananda_Eve-de-ses-decombres.txt
+    2884 lines → 9 chunks of ~320 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 6/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 491s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[36/60] Pagano-Emmanuelle_Saufs-riverains.txt
+    2998 lines → 9 chunks of ~333 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=first_person mode=description time=chronological
+    ✓ chunk 3/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 4/9: voice=third_person mode=description time=chronological
+    ✓ chunk 5/9: voice=first_person mode=description time=chronological
+    ✓ chunk 6/9: voice=first_person mode=description time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=first_person mode=description time=chronological
+    ✓ chunk 9/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 527s | NAR=NAR_AUTOD✓ FOC=FOC_INT✗ MOD=MOD_DESC✓ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+  💾 checkpoint (36 done)
+
+[37/60] Plamondon-Eric_Taqawan.txt
+    3096 lines → 9 chunks of ~344 lines
+    ✓ chunk 1/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=third_person mode=description time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 5/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=third_person mode=description time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=third_person mode=action_event time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 436s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_MIX✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[38/60] Poulain-Catherine_Le-grand-marin.txt
+    10184 lines → 9 chunks of ~1131 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=description time=chronological
+    ✓ chunk 4/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=first_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 206s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_MIX✓ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+
+[39/60] Reverdy-ThomasB_Climax.txt
+    3972 lines → 9 chunks of ~441 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=unclear mode=description time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=third_person mode=description time=chronological
+    ✓ chunk 5/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=description time=chronological
+    ✓ chunk 8/9: voice=third_person mode=description time=chronological
+    ✓ chunk 9/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 240s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_DESC✗ REG=REG_FANT✗ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+  💾 checkpoint (39 done)
+
+[40/60] Rico-Lucie_Le-chant-du-poulet-sous-vide.txt
+    3894 lines → 9 chunks of ~432 lines
+    ✓ chunk 1/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=description time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=third_person mode=description time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=third_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 242s | NAR=NAR_EXT✓ FOC=FOC_INT✓ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+
+[41/60] Rico-Lucie_GPS.txt
+    2926 lines → 9 chunks of ~325 lines
+    ✓ chunk 1/9: voice=unclear mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=unclear mode=mixed time=chronological
+    ✓ chunk 3/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=unclear mode=mixed time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=unclear mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=unclear mode=introspectio time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 284s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_DIS✓
+
+[42/60] Rodier-Jean_En-remontant-les-ruisseaux.txt
+    1130 lines → 9 chunks of ~125 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=first_person mode=description time=chronological
+    ✓ chunk 3/9: voice=first_person mode=description time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=description time=chronological
+    ✓ chunk 6/9: voice=first_person mode=description time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=first_person mode=description time=chronological
+    ✓ chunk 8/9: voice=first_person mode=description time=chronological
+    ✓ chunk 9/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 226s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_DESC✓ REG=REG_REAL✓ ESP=ESP_ITIN✓ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+  💾 checkpoint (42 done)
+
+[43/60] Rolin-Jean_Le-Traquet-kurde.txt
+    593 lines → 9 chunks of ~65 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=first_person mode=description time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 4/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 5/9: voice=third_person mode=description time=chronological
+    ✓ chunk 6/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 7/9: voice=third_person mode=description time=chronological
+    ✓ chunk 8/9: voice=first_person mode=description time=chronological
+    ✓ chunk 9/9: voice=first_person mode=description time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 241s | NAR=NAR_EXT✗ FOC=FOC_INT✓ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[44/60] Rolin-Jean_Un-chien-mort-apres-lui.txt
+    1603 lines → 9 chunks of ~178 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=first_person mode=description time=chronological
+    ✓ chunk 4/9: voice=first_person mode=description time=chronological
+    ✓ chunk 5/9: voice=third_person mode=description time=chronological
+    ✓ chunk 6/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=description time=chronological
+    ✓ chunk 8/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=first_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 240s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_DESC✗ REG=REG_FANT✗ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[45/60] Royer-Corinne_Pleine-terre.txt
+    3520 lines → 9 chunks of ~391 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=third_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 234s | NAR=NAR_EXT✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+  💾 checkpoint (45 done)
+
+[46/60] Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-mere.txt
+    1547 lines → 9 chunks of ~171 lines
+    ✓ chunk 1/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 4/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=first_person mode=description time=chronological
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 233s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[47/60] Senges-Pierre_Ruines-de-Rome.txt
+    1204 lines → 9 chunks of ~133 lines
+    ✓ chunk 1/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 2/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 3/9: voice=third_person mode=description time=chronological
+    ✓ chunk 4/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=first_person mode=description time=chronological
+    ✓ chunk 7/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=first_person mode=description time=chronological
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 208s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_DESC✓ REG=REG_REAL✗ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+
+[48/60] Simonnot-Maud_LEnfant-celeste.txt
+    1329 lines → 9 chunks of ~147 lines
+    ✓ chunk 1/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 6/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 245s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✗ ESP=ESP_FRAG✗ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+  💾 checkpoint (48 done)
+
+[49/60] Slimani-Leila_Chanson-douce.txt
+    3744 lines → 9 chunks of ~416 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=third_person mode=description time=chronological
+    ✓ chunk 3/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 4/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=third_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 260s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_MIX✓ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[50/60] Sorman-Joy_La-peau-de-lours.txt
+    858 lines → 9 chunks of ~95 lines
+    ✓ chunk 1/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 2/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=first_person mode=description time=chronological
+    ✓ chunk 4/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 5/9: voice=first_person mode=description time=chronological
+    ✓ chunk 6/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=first_person mode=description time=chronological
+    ✓ chunk 8/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 9/9: voice=first_person mode=mixed time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 241s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_SPEC✗ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+
+[51/60] Sorman-Joy_Comme-une-bete.txt
+    1347 lines → 9 chunks of ~149 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=third_person mode=introspectio time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=third_person mode=description time=chronological
+    ✓ chunk 6/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=description time=chronological
+    ✓ chunk 8/9: voice=third_person mode=description time=chronological
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 226s | NAR=NAR_EXT✓ FOC=FOC_INT✓ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+  💾 checkpoint (51 done)
+
+[52/60] Toussaint_Jean-Philippe-Faire_l_amour.txt
+    885 lines → 9 chunks of ~98 lines
+    ✓ chunk 1/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 4/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 5/9: voice=first_person mode=description time=chronological
+    ✓ chunk 6/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=first_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 214s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[53/60] Ventura-Maud_Mon-mari.txt
+    3315 lines → 9 chunks of ~368 lines
+    ✓ chunk 1/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 2/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 3/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 7/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 8/9: voice=first_person mode=introspectio time=chronological
+    ✓ chunk 9/9: voice=first_person mode=introspectio time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 184s | NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✗ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_LIN✗
+
+[54/60] Volodine-Antoine_Songes-de-Mevlido.txt
+    8809 lines → 9 chunks of ~978 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=unclear mode=description time=chronological
+    ✓ chunk 8/9: voice=third_person mode=description time=chronological
+    ✓ chunk 9/9: voice=third_person mode=description time=radically_scramble
+    → reduce step (9/9 good) — 7 targeted calls
+  → 289s | NAR=NAR_EXT✓ FOC=FOC_INT✓ MOD=MOD_DESC✗ REG=REG_FANT✗ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+  💾 checkpoint (54 done)
+
+[55/60] Volodine-Antoine_Terminus-radieux.txt
+    8864 lines → 9 chunks of ~984 lines
+    ✓ chunk 1/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=description time=chronological
+    ✓ chunk 5/9: voice=third_person mode=description time=chronological
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=third_person mode=description time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 244s | NAR=NAR_EXT✓ FOC=FOC_VAR✓ MOD=MOD_DESC✓ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[56/60] Vuillard-Eric_14-Juillet.txt
+    2325 lines → 9 chunks of ~258 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=third_person mode=description time=chronological
+    ✓ chunk 3/9: voice=third_person mode=description time=chronological
+    ✓ chunk 4/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=action_event time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 7/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 9/9: voice=third_person mode=description time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 237s | NAR=NAR_EXT✓ FOC=FOC_EXT✓ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+
+[57/60] Wilhelmy-Audrée_Le-corps-des-bêtes.txt
+    1912 lines → 9 chunks of ~212 lines
+    ✓ chunk 1/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 2/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 4/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 7/9: voice=third_person mode=description time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 291s | NAR=NAR_EXT✓ FOC=FOC_VAR✓ MOD=MOD_DESC✓ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+  💾 checkpoint (57 done)
+
+[58/60] Vuillard-Eric_Lordre-du-jour.txt
+    1290 lines → 9 chunks of ~143 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=first_person mode=description time=chronological
+    ✓ chunk 3/9: voice=third_person mode=description time=chronological
+    ✓ chunk 4/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 5/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=third_person mode=description time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=first_person mode=description time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 248s | NAR=NAR_EXT✓ FOC=FOC_EXT✓ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+
+[59/60] Vuillard-Eric_Tristesse-de-la-terre-Une-histoire-de-Buffalo-Bill-Cody.txt
+    1491 lines → 9 chunks of ~165 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 2/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 3/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 4/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 6/9: voice=third_person mode=action_event time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 8/9: voice=third_person mode=description time=has_flashbacks_or_
+    ✓ chunk 9/9: voice=third_person mode=description time=chronological
+    → reduce step (9/9 good) — 7 targeted calls
+  → 262s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_FRAG✗ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+
+[60/60] Zeniter-Alice_Lart-de-perdre.txt
+    8181 lines → 9 chunks of ~909 lines
+    ✓ chunk 1/9: voice=third_person mode=description time=chronological
+    ✓ chunk 2/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 3/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 4/9: voice=first_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 5/9: voice=third_person mode=mixed time=has_flashbacks_or_
+    ✓ chunk 6/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 7/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 8/9: voice=third_person mode=mixed time=chronological
+    ✓ chunk 9/9: voice=third_person mode=introspectio time=has_flashbacks_or_
+    → reduce step (9/9 good) — 7 targeted calls
+  → 229s | NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_MIX✓ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+  💾 checkpoint (60 done)
+
+✅ Done — 60 novels processed
+   Saved to: /home/lfarooq/ecopoetique/narratologie/resultats_qwen3_30b_mapreduce_optionA.csv
+
+==============================================================
+  OPTION A RESULTS  —  qwen3:30b
+==============================================================
+  TYPE NARRATEUR         55/60  ( 91.7%)  ██████████████████
+  FOCALISATION           38/60  ( 63.3%)  ████████████
+  MODE NARRATIF          24/60  ( 40.0%)  ████████
+  REGIME NARRATIF        39/60  ( 65.0%)  █████████████
+  ESPACE                 30/60  ( 50.0%)  ██████████
+  INTRIGUE               21/60  ( 35.0%)  ███████
+  TEMPORALITÉ            26/60  ( 43.3%)  ████████
+--------------------------------------------------------------
+  OVERALL                233/420  ( 55.5%)
+==============================================================
+
+  Baseline (125-line):   55.7%
+  Map-reduce v3:         63.3%
+  Option A (this run):   55.5%  (-0.2pp vs baseline, -7.8pp vs v3)
+

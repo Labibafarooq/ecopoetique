@@ -1,0 +1,8 @@
+[  100/23327] rule=39 llm=0 err=61 ETA=9.7h
+[  200/23327] rule=81 llm=0 err=119 ETA=9.2h
+[  300/23327] rule=136 llm=0 err=164 ETA=8.3h
+[  400/23327] rule=179 llm=0 err=221 ETA=8.3h
+[  500/23327] rule=222 llm=0 err=278 ETA=8.3h
+[  600/23327] rule=246 llm=0 err=354 ETA=9.4h
+[  700/23327] rule=287 llm=0 err=413 ETA=12.8h
+[  800/23327] rule=342 llm=0 err=458 ETA=12.7h

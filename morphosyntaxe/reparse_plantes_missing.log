@@ -1,0 +1,20 @@
+Rows to re-parse: 7,516
+  [500/7,516] matched=498 (99.6%) elapsed=0.1min ETA=1.8min
+  [1,000/7,516] matched=998 (99.8%) elapsed=0.2min ETA=1.2min
+  [1,500/7,516] matched=1,498 (99.9%) elapsed=0.2min ETA=1.0min
+  [2,000/7,516] matched=1,998 (99.9%) elapsed=0.3min ETA=0.9min
+  [2,500/7,516] matched=2,498 (99.9%) elapsed=0.4min ETA=0.8min
+  [3,000/7,516] matched=2,996 (99.9%) elapsed=0.5min ETA=0.7min
+  [3,500/7,516] matched=3,494 (99.8%) elapsed=0.5min ETA=0.6min
+  [4,000/7,516] matched=3,993 (99.8%) elapsed=0.6min ETA=0.5min
+  [4,500/7,516] matched=4,493 (99.8%) elapsed=0.6min ETA=0.4min
+  [5,000/7,516] matched=4,990 (99.8%) elapsed=0.7min ETA=0.3min
+  [5,500/7,516] matched=5,486 (99.7%) elapsed=0.8min ETA=0.3min
+  [6,000/7,516] matched=5,984 (99.7%) elapsed=0.8min ETA=0.2min
+  [6,500/7,516] matched=6,482 (99.7%) elapsed=0.9min ETA=0.1min
+  [7,000/7,516] matched=6,980 (99.7%) elapsed=0.9min ETA=0.1min
+  [7,500/7,516] matched=7,479 (99.7%) elapsed=1.0min ETA=0.0min
+  [7,516/7,516] matched=7,495 (99.7%) elapsed=1.0min ETA=0.0min
+
+Done. 7,495/7,516 matched (99.7%)
+Saved to: /home/lfarooq/ecopoetique/morphosyntaxe/dépendants_PLANTES_missing_rows.csv

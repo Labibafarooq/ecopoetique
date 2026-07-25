@@ -1,0 +1,27 @@
+Catégorie;Définition;Options typologiques (avec codes)
+Nature de l’intrigue;rganisation dramatique du récit — manière dont les événements sont disposés pour créer de la tension narrative, de l’attente ou de la surprise.;"• linéaire / continue (INTR_LIN) : les événements s’enchaînent dans un ordre progressif sans rupture majeure.
+• fragmentaire / discontinue (INTR_FRAG) : l’intrigue est construite par blocs disjoints, souvent non liés immédiatement.
+• cyclique (INTR_CYC) : répétition de motifs ou de situations créant un effet de boucle ou de retour."
+Structure temporelle;Gestion de la chronologie — manière dont l’ordre des faits est respecté ou perturbé dans le récit, à travers des retours en arrière, des anticipations ou des ruptures.;"• chronologique / linéaire (TEMP_LIN) : narration suivant principalement l’ordre réel des événements.
+• discordant : analepses ou prolepses ponctuelles (TEMP_DIS) : présence de retours en arrière ou d’anticipations modérées mais significatifs.
+• désordre / non linéaire (TEMP_DESORD) : structure éclatée avec nombreux déplacements temporels non hiérarchisés."
+Type de narrateur;Statut du narrateur par rapport aux événements racontés : participe-t-il à l’histoire ou non ?;"• narrateur personnage / autodiégétique (NAR_AUTOD) : le narrateur est aussi le personnage principal.
+• narrateur témoin (NAR_TEM) : le narrateur est un personnage secondaire observant les événements.
+• narrateur externe / hétérodiégétique (NAR_EXT) : le narrateur est extérieur à l’histoire racontée."
+Focalisation;Degré d’accès du lecteur aux informations disponibles pour les personnages : partage, restriction ou excès de savoir selon les cas.;"récit focalisé (FOC_RFOC) : centrage narratif sur un ou plusieurs personnages, avec un accès privilégié à ce qu’ils perçoivent, pensent ou savent ; le lecteur partage leur champ d’information.
+focalisation restreinte (FOC_REST) : le lecteur en sait moins que les personnages ; l’accès à l’information est partiel ou différé, ce qui crée un effet de curiosité ou de mystère.
+focalisation élargie (FOC_ELARG) : le lecteur en sait plus que les personnages ; certaines informations sont divulguées de manière à permettre l’anticipation d’événements que les protagonistes ignorent.
+focalisation mixte (FOC_MIXTE) : alternance structurée de plusieurs régimes de focalisation dans des séquences distinctes (chapitres, voix, blocs narratifs)."
+Mode narratif dominant;Type de contenu prédominant : récit d’action, description, introspection, dialogues, etc.;"• narration d’événements (MOD_EVT) : récit centré sur les faits, actions et décisions de manière prédominante.
+• description (MOD_DESC) : mise en valeur des décors, objets ou atmosphères de manière prédominante.
+• introspection (MOD_INTR) : accès aux réflexions ou états mentaux des personnages de manière prédominante.
+• dialogue / polyphonie (MOD_DIA) : récit structuré par les échanges verbaux ou voix multiples de manière prédominante.
+• mixte équilibré (MOD_MIX) : alternance régulière de plusieurs modes sans prédominance."
+Régime narratif;Type de monde représenté et posture fictionnelle dominante du récit.;"• autobiographique / autofictionnel (REG_AUTO) : récit fondé sur l’expérience de l’auteur ou un double fictionnel.
+• réaliste / mimétique (REG_REAL) : représentation cohérente du monde réel, sans rupture manifeste des codes référentiels.
+• fantastique (REG_FANT) : intrusion du surnaturel ou de l’étrange dans un cadre réaliste.
+• spéculatif : dystopique / uchronique / anticipation (REG_SPEC) : monde fictionnel modifié, futuriste ou alternatif."
+Organisation de l’espace narratif;Structure et dynamique spatiale dominante du récit : continuité, fragmentation, mobilité ou fictionnalisation de l’espace.;"• unitaire / concentré (ESP_UNIT) : récit ancré dans un lieu unique ou très restreint.
+• fragmenté / éclaté (ESP_FRAG) : succession de lieux multiples sans continuité géographique.
+• itinérant / mobile (ESP_ITIN) : progression narrative par déplacements successifs.
+• imaginé / fictionnalisé (ESP_IMAG) : espace inventé, symbolique ou irréaliste."

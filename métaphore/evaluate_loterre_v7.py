@@ -1,0 +1,209 @@
+"""
+Task 1 — Literal/Figurative — Loterre ONLY — v7
+New contrastive examples targeting specific error patterns from v6:
+- "hors des marais" type (escape from bad situation)
+- "traverser la mer" type (sea as distance/memory)
+- "largué en mer" type (abandonment metaphor)
+- "le désert" as chosen isolation
+- "paysage" as inner renewal
+- Hard référentiel: real rivers/lakes in contemplation scenes
+All examples are independent — zero overlap with gold set.
+"""
+import os, csv, json, re, requests
+
+OLLAMA_URL   = "http://localhost:11435/api/chat"
+OLLAMA_MODEL = "qwen3:30b"
+GOLD_FILE    = os.path.expanduser("~/ecopoetique/métaphore/GOLD_litteralite_loterre__RB.csv")
+OUTPUT_FILE  = os.path.expanduser("~/ecopoetique/métaphore/eval_loterre_v7_results.csv")
+
+EXAMPLES_LOTERRE = """
+EXEMPLES — termes écologiques/géographiques Loterre (indépendants du jeu d'évaluation):
+
+référentiel (lieu ou concept écologique réel):
+• "Les scientifiques étudient l'écosystème du lac depuis vingt ans."
+  → écosystème = référentiel (vrai concept écologique scientifique)
+• "La déforestation détruit les forêts tropicales à un rythme alarmant."
+  → forêts = référentiel (vraies forêts, contexte écologique)
+• "Le biologiste traversait la steppe mongole à dos de cheval depuis des jours."
+  → steppe = référentiel (vrai biome géographique traversé)
+• "La montagne culminait à 4807 mètres — le Mont Blanc, toit de l'Europe."
+  → montagne = référentiel (vrai sommet géographique précis)
+• "Cet après-midi la brousse s'est encore ouverte sur un homme du chantier."
+  → brousse = référentiel (vrai paysage africain, contexte géographique)
+• "Il s'assit au bord du fleuve et regarda l'eau couler en silence pendant une heure."
+  → fleuve = référentiel (vrai cours d'eau, présent physiquement dans la scène)
+• "Les forêts brûlaient. Les océans agonisaient. Le permafrost fondait."
+  → océans = référentiel (vrais océans dans un contexte de crise écologique réelle)
+• "Il s'est imaginé adoubé par les grandes familles du désert."
+  → désert = référentiel (vrai désert, contexte géographique/tribal africain)
+• "Il se pendit face à l'immensité de la mer, les pieds dans le sable."
+  → mer = référentiel (vraie mer, lieu physique de l'action)
+• "Les caniveaux charriaient l'eau de pluie comme de vrais ruisseaux de montagne."
+  → montagne = référentiel (comparaison géographique, montagne = lieu réel de référence)
+• "Elle avait choisi une plage isolée pour ses vacances, loin de tout bruit."
+  → plage = référentiel (vrai lieu de vacances, espace géographique concret)
+
+figuré (métaphore, expression idiomatique):
+• "Prêcher dans le désert — personne n'écoutait ses avertissements répétés."
+  → désert = figuré (expression idiomatique, parler sans être entendu)
+• "Déplacer des montagnes — elle ferait tout pour sauver son entreprise."
+  → montagnes = figuré (expression idiomatique, effort surhumain)
+• "Ce n'est pas la mer à boire — il suffit de remplir deux formulaires."
+  → mer = figuré (expression idiomatique, ce n'est pas difficile)
+• "Sa carrière était un désert depuis son licenciement."
+  → désert = figuré (métaphore pour une période sans activité)
+• "Ils vivaient dans un océan de dettes depuis la faillite."
+  → océan = figuré (métaphore pour une grande quantité accablante)
+• "Le temps nous avait poussés hors du marécage de l'adolescence."
+  → marécage = figuré (métaphore pour une période difficile et enlisante)
+• "Elle avait enfin réussi à sortir des sables mouvants de sa dépression."
+  → sables mouvants = figuré (métaphore pour une situation qui engloutit)
+• "Cette promesse avait franchi des océans et des années avant de lui parvenir."
+  → océans = figuré (métaphore pour une grande distance temporelle et émotionnelle)
+• "Il avait choisi le désert de la solitude plutôt que les compromis du monde."
+  → désert = figuré (métaphore pour l'isolement volontaire, pas un lieu géographique)
+• "Être largué en haute mer sans boussole — c'est ce qu'il ressentait face au dossier."
+  → mer = figuré (métaphore pour se retrouver perdu dans une situation complexe)
+• "Son sourire était un paysage de printemps après un long hiver intérieur."
+  → paysage = figuré (métaphore pour un état émotionnel, pas un lieu réel)
+• "La conversation stagnait, tout le monde était enlisé dans le marais des non-dits."
+  → marais = figuré (métaphore pour une situation bloquée et malsaine)
+
+CAS DIFFICILES — règles décisives:
+• Si le terme géographique est suivi d'une action humaine abstraite (traverser + mémoire, sortir + dépression, choisir + solitude) → TOUJOURS figuré
+• Si le terme est dans une vraie scène physique (quelqu'un regarde/marche/nage près d'un lac/fleuve/mer réel) → référentiel
+• Crise écologique réelle (réchauffement, pollution) → référentiel même avec verbe dramatique
+• Contexte africain/asiatique avec lieu géographique nommé ou décrit → référentiel
+• "montagne de + objet concret" (jouets, papiers, dossiers) → figuré (DE_QUANTIF: quantification métaphorique)
+• Expression figée connue (mer à boire, désert de solitude, océan de dettes) → toujours figuré
+"""
+
+CORE_DEFINITIONS = """
+DÉFINITIONS:
+- référentiel: le terme désigne un lieu géographique ou phénomène écologique RÉEL — physiquement présent ou mentionné dans un contexte concret (naturaliste, géographique, scientifique, écologique)
+- figuré: le terme est utilisé comme métaphore, comparaison (avec "comme"), expression idiomatique, ou symbole abstrait décrivant une situation ou émotion humaine
+
+⚠️ RÈGLES CLÉS:
+1. Expression idiomatique connue → toujours figuré
+2. Terme + action abstraite humaine (mémoire, dépression, solitude, dette) → figuré  
+3. Terme décrivant un lieu physiquement présent dans la scène → référentiel
+4. Crise environnementale réelle → référentiel même avec verbe fort
+5. Contexte géographique africain/asiatique avec lieu décrit → référentiel
+6. "montagne/forêt/mer de + objet concret" = quantification → figuré
+"""
+
+def build_prompt(token, contexte):
+    return f"""Tu es un expert en sémantique française. Détermine si le terme est utilisé de façon LITTÉRALE (référentiel) ou FIGURÉE dans cette phrase.
+
+{CORE_DEFINITIONS}
+
+{EXAMPLES_LOTERRE}
+
+TERME À ANALYSER: <terme>{token}</terme>
+PHRASE: {contexte}
+
+Réponds UNIQUEMENT avec ce JSON:
+{{"label": "référentiel"}} ou {{"label": "figuré"}}"""
+
+def classify(token, contexte):
+    try:
+        resp = requests.post(OLLAMA_URL, json={
+            "model": OLLAMA_MODEL,
+            "messages": [{"role": "user", "content": build_prompt(token, contexte)}],
+            "stream": False,
+            "options": {"temperature": 0, "num_predict": 5000},
+        }, timeout=300)
+        resp.raise_for_status()
+        raw = resp.json()["message"]["content"].strip()
+        raw = re.sub(r"<think>.*?</think>", "", raw, flags=re.DOTALL).strip()
+        raw = re.sub(r"```(?:json)?", "", raw).replace("```", "").strip()
+        m = re.search(r'\{[^}]+\}', raw)
+        if m:
+            data = json.loads(m.group(0))
+            label = data.get("label", "").strip().lower()
+            if label in ["référentiel", "figuré"]:
+                return label
+        for label in ["référentiel", "figuré"]:
+            if label in raw.lower():
+                return label
+        return None
+    except Exception as e:
+        print(f"    ERROR: {e}")
+        return None
+
+def main():
+    # Load gold
+    gold = []
+    with open(GOLD_FILE, encoding="utf-8") as f:
+        for row in csv.DictReader(f, delimiter=";"):
+            label = row["consensus"].strip()
+            if label in ["référentiel", "figuré"]:
+                gold.append({
+                    "fichier":  row.get("fichier", "").strip(),
+                    "token":    row["token_lexique"].strip(),
+                    "contexte": row["contexte"].strip(),
+                    "label":    label,
+                })
+
+    print(f"\n{'='*70}")
+    print(f"  LOTERRE v7 — {len(gold)} examples")
+    print(f"  Référentiel: {sum(1 for g in gold if g['label']=='référentiel')}")
+    print(f"  Figuré: {sum(1 for g in gold if g['label']=='figuré')}")
+    print(f"{'='*70}\n")
+
+    results = []
+    correct_total = correct_ref = correct_fig = 0
+    total_ref = total_fig = 0
+
+    for i, item in enumerate(gold, 1):
+        pred = classify(item["token"], item["contexte"])
+        if pred is None:
+            pred = "référentiel"
+
+        is_correct = int(pred == item["label"])
+        correct_total += is_correct
+
+        if item["label"] == "référentiel":
+            total_ref += 1
+            correct_ref += is_correct
+        else:
+            total_fig += 1
+            correct_fig += is_correct
+
+        results.append({
+            "fichier":      item["fichier"],
+            "token":        item["token"],
+            "contexte":     item["contexte"],
+            "gold_label":   item["label"],
+            "qwen_pred":    pred,
+            "qwen_correct": is_correct,
+        })
+
+        if i % 20 == 0 or i == len(gold):
+            acc     = correct_total / i * 100
+            acc_ref = correct_ref / max(total_ref, 1) * 100
+            acc_fig = correct_fig / max(total_fig, 1) * 100
+            print(f"  [{i:>3}/{len(gold)}] Overall={acc:.1f}%  Réf={acc_ref:.1f}%  Fig={acc_fig:.1f}%")
+
+    # Save
+    with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=list(results[0].keys()))
+        w.writeheader()
+        w.writerows(results)
+
+    overall = correct_total / len(gold) * 100
+    ref_acc = correct_ref / max(total_ref, 1) * 100
+    fig_acc = correct_fig / max(total_fig, 1) * 100
+
+    print(f"\n{'='*70}")
+    print(f"  LOTERRE v7 FINAL")
+    print(f"  Overall: {overall:.1f}%  Réf: {ref_acc:.1f}%  Fig: {fig_acc:.1f}%")
+    print(f"\n  Comparison:")
+    print(f"  v3: 85.2% / 56.1% fig")
+    print(f"  v6: 86.2% / 61.0% fig")
+    print(f"  v7: {overall:.1f}% / {fig_acc:.1f}% fig")
+    print(f"{'='*70}")
+    print(f"\n  Saved to: {OUTPUT_FILE}")
+
+if __name__ == "__main__":
+    main()

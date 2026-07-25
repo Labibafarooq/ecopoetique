@@ -1,0 +1,301 @@
+Gold: 79 novels | 9 chunks × 50 lines = 450 total lines/novel
+To classify: 79 | Model: qwen3:30b
+======================================================================
+[ 1/79] Angot-Christine_Le-Voyage-dans-l'Est.txt 33s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✗ ESP=ESP_FRAG✓ INT=INTR_LIN✓ TEM=TEMP_DIS✓
+       running: NAR=100% FOC=100% MOD=100% REG=0% ESP=100% INT=100% TEM=100%
+[ 2/79] Autissier-Isabelle_Soudain-seuls.txt 24s
+       NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+       running: NAR=100% FOC=50% MOD=50% REG=50% ESP=50% INT=100% TEM=100%
+[ 3/79] Baque-Joel_La-fonte-des-glaces.txt 31s
+       NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_FRAG✗ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+       running: NAR=100% FOC=33% MOD=33% REG=67% ESP=33% INT=100% TEM=100%
+[ 4/79] Appanah-Nathacha_dessus-le-toit.txt 43s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_DIS✓
+       running: NAR=100% FOC=25% MOD=25% REG=75% ESP=25% INT=100% TEM=100%
+[ 5/79] Bienne-Gisele_La-malchimie.txt 33s
+       NAR=NAR_AUTOD✗ FOC=FOC_INT✗ MOD=MOD_INTR✗ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_DESORD✗
+       running: NAR=80% FOC=20% MOD=20% REG=60% ESP=20% INT=100% TEM=80%
+[ 6/79] Binet-Laurent_La-septieme-fonction-du-langage.txt 28s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✗ MOD=MOD_MIX✓ REG=REG_REAL✗ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=83% FOC=17% MOD=33% REG=50% ESP=33% INT=83% TEM=67%
+[ 7/79] Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bisma 22s
+       NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_EVT✓ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+       running: NAR=86% FOC=14% MOD=43% REG=57% ESP=29% INT=71% TEM=71%
+[ 8/79] Brunel-Camille_La-guerrilla-des-animaux.txt
+  [attempt 0] no JSON. raw=''
+ 73s
+       NAR=NAR_EXT✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_REAL✗ ESP=ESP_FRAG✗ INT=INTR_FRAG✗ TEM=TEMP_LIN✓
+       running: NAR=88% FOC=25% MOD=38% REG=50% ESP=25% INT=62% TEM=75%
+[ 9/79] Chevillard-Eric_Oreille-rouge.txt 19s
+       NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+       running: NAR=89% FOC=22% MOD=33% REG=56% ESP=22% INT=56% TEM=78%
+[10/79] Carrere-Emmanuel_Limonov.txt 38s
+       NAR=NAR_AUTOD✗ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_AUTO✗ ESP=ESP_FRAG✓ INT=INTR_FRAG✓ TEM=TEMP_DESORD✗
+       running: NAR=80% FOC=30% MOD=30% REG=50% ESP=30% INT=60% TEM=70%
+[11/79] Deck-Julia_Ann-dAngleterre.txt
+  [attempt 0] no JSON. raw='{\n  "TYPE NARRATEUR": "NAR_AUTOD",\n  "FOCALISATION": "FOC_INT",\n  "MODE NARRATIF'
+ 73s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+       running: NAR=82% FOC=36% MOD=27% REG=45% ESP=27% INT=55% TEM=73%
+[12/79] Despentes-Virginie_Vernon-Subutex-1.txt 33s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_FRAG✓ TEM=TEMP_DESORD✗
+       running: NAR=83% FOC=42% MOD=25% REG=50% ESP=33% INT=58% TEM=67%
+[13/79] Despentes-Virginie_Cher-connard.txt
+  [attempt 0] no JSON. raw=''
+
+  [attempt 1] no JSON. raw=''
+ 107s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_LIN✗
+       running: NAR=85% FOC=46% MOD=23% REG=54% ESP=31% INT=62% TEM=62%
+[14/79] Deville-Patrick_Peste_choléra.txt
+  [attempt 0] no JSON. raw=''
+ 73s
+       NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+       running: NAR=86% FOC=43% MOD=21% REG=57% ESP=36% INT=57% TEM=64%
+[15/79] Desjardins-Antoine_Indice-des-feux.txt
+  [attempt 0] no JSON. raw=''
+ 61s
+       NAR=NAR_AUTOD✗ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=80% FOC=47% MOD=27% REG=60% ESP=33% INT=53% TEM=60%
+[16/79] Diop-David_Frere-d'âme.txt 42s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_DESORD✗
+       running: NAR=81% FOC=50% MOD=25% REG=56% ESP=31% INT=50% TEM=56%
+[17/79] Ducrozet-Pierre_Le-Grand-Vertige.txt
+  [attempt 0] no JSON. raw=''
+
+  [attempt 1] no JSON. raw=''
+
+  [attempt 2] no JSON. raw=''
+ ✗ failed (105s)
+[18/79] Echenoz-Jean_Envoyee-speciale.txt 39s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_LIN✓ TEM=TEMP_DIS✗
+       running: NAR=82% FOC=53% MOD=24% REG=59% ESP=35% INT=53% TEM=53%
+[19/79] Ernaux-Annie_Les-annees.txt 36s
+       NAR=NAR_AUTOD✗ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_AUTO✗ ESP=ESP_FRAG✓ INT=INTR_FRAG✗ TEM=TEMP_DESORD✗
+       running: NAR=78% FOC=56% MOD=22% REG=56% ESP=39% INT=50% TEM=50%
+[20/79] Filhol-Elizabeth_Doggerland.txt 36s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_MIX✓ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_DESORD✗
+       running: NAR=79% FOC=58% MOD=26% REG=58% ESP=37% INT=47% TEM=47%
+[21/79] Filhol-Elisabeth_Sister-ship.txt 43s
+       NAR=NAR_AUTOD✗ FOC=FOC_INT✗ MOD=MOD_MIX✓ REG=REG_SPEC✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=75% FOC=55% MOD=30% REG=60% ESP=35% INT=45% TEM=45%
+[22/79] Flahaut-Thomas_Ostwald.txt 35s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+       running: NAR=76% FOC=57% MOD=29% REG=57% ESP=33% INT=48% TEM=48%
+[23/79] Garcia-Tristan_La-meilleure-part-des-hommes.txt
+  [attempt 0] no JSON. raw=''
+ 77s
+       NAR=NAR_TEM✗ FOC=FOC_INT✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=73% FOC=55% MOD=27% REG=59% ESP=36% INT=45% TEM=45%
+[24/79] Hunzinger-Claudie_Les-grands-cerfs.txt 36s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_DIS✓
+       running: NAR=74% FOC=57% MOD=30% REG=61% ESP=39% INT=48% TEM=48%
+[25/79] Hunzinger-Claudie_Un-chien-a-ma-table.txt 47s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_DIS✓
+       running: NAR=75% FOC=58% MOD=33% REG=62% ESP=42% INT=50% TEM=50%
+[26/79] Houellebecq-Michel_Soumission.txt ⚠ not found
+[27/79] Joncour-Serge_Nature-humaine.txt 45s
+       NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_DESORD✗
+       running: NAR=76% FOC=56% MOD=32% REG=64% ESP=44% INT=48% TEM=48%
+[28/79] Joncour-Serge_Chien-Loup.txt 46s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_MIX✓ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+       running: NAR=77% FOC=58% MOD=35% REG=65% ESP=46% INT=46% TEM=50%
+[29/79] Kerangal-Maylisde_Naissance-dun-pont.txt 31s
+       NAR=NAR_EXT✓ FOC=FOC_VAR✓ MOD=MOD_MIX✓ REG=REG_REAL✓ ESP=ESP_FRAG✗ INT=INTR_FRAG✓ TEM=TEMP_LIN✓
+       running: NAR=78% FOC=59% MOD=37% REG=67% ESP=44% INT=48% TEM=52%
+[30/79] Lafon-Marie_Joseph.txt 33s
+       NAR=NAR_EXT✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_LIN✗
+       running: NAR=79% FOC=61% MOD=36% REG=68% ESP=46% INT=50% TEM=50%
+[31/79] Lafon-Marie_Histoire-du-fils.txt 47s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+       running: NAR=79% FOC=62% MOD=34% REG=69% ESP=48% INT=48% TEM=52%
+[32/79] Lançon-Philippe_Le-lambeau.txt 38s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_AUTO✓ ESP=ESP_FRAG✓ INT=INTR_LIN✓ TEM=TEMP_DIS✓
+       running: NAR=80% FOC=63% MOD=33% REG=70% ESP=50% INT=50% TEM=53%
+[33/79] Laroui-Fouad_Une-Annee-Chez-Les-Français.txt 29s
+       NAR=NAR_EXT✗ FOC=FOC_INT✓ MOD=MOD_EVT✗ REG=REG_REAL✗ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+       running: NAR=77% FOC=65% MOD=32% REG=68% ESP=52% INT=52% TEM=55%
+[34/79] LeTellier-Herve_Lanomalie.txt 27s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_EVT✓ REG=REG_FANT✓ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=78% FOC=66% MOD=34% REG=69% ESP=53% INT=50% TEM=53%
+[35/79] Loup-Douna_Les-printemps-sauvages.txt 40s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_DIS✗
+       running: NAR=79% FOC=67% MOD=36% REG=70% ESP=52% INT=52% TEM=52%
+[36/79] Louis-Edouard_En-finir-avec-Eddy-Bellegueule.txt
+  [attempt 0] no JSON. raw=''
+ 67s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_AUTO✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=79% FOC=68% MOD=38% REG=71% ESP=50% INT=50% TEM=50%
+[37/79] Mathieu-Nicolas_Connemara.txt 39s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+       running: NAR=80% FOC=69% MOD=37% REG=71% ESP=51% INT=49% TEM=51%
+[38/79] Mabanckou-Alain_Verre-casse.txt 31s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_MIX✓ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_LIN✗
+       running: NAR=81% FOC=69% MOD=39% REG=72% ESP=53% INT=50% TEM=50%
+[39/79] Mauvignier-Laurent_Histoires-de-la-nuit.txt 33s
+       NAR=NAR_EXT✓ FOC=FOC_VAR✓ MOD=MOD_MIX✓ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+       running: NAR=81% FOC=70% MOD=41% REG=73% ESP=54% INT=49% TEM=51%
+[40/79] Mauvignier-Laurent_Autour-du-monde.txt 38s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_FRAG✓ TEM=TEMP_LIN✗
+       running: NAR=82% FOC=68% MOD=39% REG=74% ESP=55% INT=50% TEM=50%
+[41/79] Mauvignier-Laurent_Continuer.txt 37s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_FRAG✗ INT=INTR_LIN✓ TEM=TEMP_LIN✗
+       running: NAR=82% FOC=67% MOD=38% REG=74% ESP=54% INT=51% TEM=49%
+[42/79] Mbougar_La-plus-secrete-memoire-des-hommes.txt 34s
+       NAR=NAR_AUTOD✗ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_FRAG✓ TEM=TEMP_DESORD✓
+       running: NAR=80% FOC=68% MOD=38% REG=75% ESP=55% INT=52% TEM=50%
+[43/79] Miano-Leonora_Rouge-imperatrice.txt
+  [attempt 0] no JSON. raw='{\n  "TYPE NARRATEUR": "NAR_EXT",\n  "FOCALISATION":'
+ 72s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_INTR✗ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+       running: NAR=80% FOC=68% MOD=37% REG=73% ESP=54% INT=51% TEM=51%
+[44/79] Minard-Celine_Le-Grand-Jeu.txt 21s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✗ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+       running: NAR=81% FOC=69% MOD=38% REG=71% ESP=55% INT=52% TEM=52%
+[45/79] Montalbetti-Christine_Mon-ancetre-poisson.txt
+  [attempt 0] no JSON. raw=''
+
+  [attempt 1] no JSON. raw='{\n  "TYPE NARRATE'
+ 110s
+       NAR=NAR_AUTOD✗ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=79% FOC=70% MOD=40% REG=70% ESP=53% INT=51% TEM=51%
+[46/79] Mouawad-Wajdi_Anima.txt
+  [attempt 0] no JSON. raw=''
+
+  [attempt 1] no JSON. raw=''
+
+  [attempt 2] no JSON. raw=''
+ ✗ failed (115s)
+[47/79] Nirsimloo-Anenden-Ananda_Eve-de-ses-decombres.txt 26s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+       running: NAR=80% FOC=70% MOD=41% REG=70% ESP=55% INT=50% TEM=52%
+[48/79] NDiaye-Marie_Trois-femmes-puissantes.txt
+  [attempt 0] no JSON. raw=''
+ 84s
+       NAR=NAR_EXT✓ FOC=FOC_INT✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+       running: NAR=80% FOC=69% MOD=40% REG=71% ESP=53% INT=49% TEM=53%
+[49/79] Pagano-Emmanuelle_Saufs-riverains.txt 39s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_FRAG✓ TEM=TEMP_DESORD✗
+       running: NAR=80% FOC=70% MOD=41% REG=72% ESP=54% INT=50% TEM=52%
+[50/79] Panassenko-Polina_Tenir-sa-langue.txt 37s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_DESORD✗
+       running: NAR=81% FOC=70% MOD=40% REG=70% ESP=53% INT=51% TEM=51%
+[51/79] Plamondon-Eric_Taqawan.txt 39s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✗ MOD=MOD_MIX✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+       running: NAR=81% FOC=69% MOD=40% REG=71% ESP=52% INT=50% TEM=52%
+[52/79] Poulain-Catherine_Le-grand-marin.txt 33s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_DIS✓
+       running: NAR=82% FOC=69% MOD=39% REG=71% ESP=51% INT=51% TEM=53%
+[53/79] Pourchet-Maria_Feu.txt
+  [attempt 0] no JSON. raw=''
+
+  [attempt 1] no JSON. raw=''
+ 112s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_FRAG✗ TEM=TEMP_LIN✓
+       running: NAR=82% FOC=70% MOD=38% REG=72% ESP=52% INT=50% TEM=54%
+[54/79] Reverdy-ThomasB_Climax.txt
+  [attempt 0] no JSON. raw=''
+
+  [attempt 1] no JSON. raw=''
+
+  [attempt 2] no JSON. raw=''
+ ✗ failed (120s)
+[55/79] Rico-Lucie_Le-chant-du-poulet-sous-vide.txt 40s
+       NAR=NAR_EXT✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+       running: NAR=82% FOC=71% MOD=37% REG=73% ESP=53% INT=51% TEM=55%
+[56/79] Rico-Lucie_GPS.txt 28s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✓ TEM=TEMP_DIS✓
+       running: NAR=83% FOC=71% MOD=37% REG=71% ESP=52% INT=52% TEM=56%
+[57/79] Rodier-Jean_En-remontant-les-ruisseaux.txt 37s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_DESC✓ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_FRAG✗ TEM=TEMP_DESORD✗
+       running: NAR=83% FOC=72% MOD=38% REG=72% ESP=51% INT=51% TEM=55%
+[58/79] Rolin-Jean_Le-Traquet-kurde.txt 37s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_FRAG✓ TEM=TEMP_DIS✓
+       running: NAR=83% FOC=72% MOD=37% REG=72% ESP=52% INT=52% TEM=56%
+[59/79] Rolin-Jean_Un-chien-mort-apres-lui.txt 35s
+       NAR=NAR_TEM✗ FOC=FOC_VAR✗ MOD=MOD_MIX✗ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_FRAG✓ TEM=TEMP_DIS✓
+       running: NAR=82% FOC=71% MOD=36% REG=73% ESP=53% INT=53% TEM=56%
+[60/79] Rosenthal-Olivia_Que-font-les-rennes-apres-Nol.txt 44s
+       NAR=NAR_EXT✗ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_DIS✗
+       running: NAR=80% FOC=71% MOD=38% REG=73% ESP=52% INT=52% TEM=55%
+[61/79] Royer-Corinne_Pleine-terre.txt
+  [attempt 0] no JSON. raw=''
+ 81s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✗ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+       running: NAR=81% FOC=70% MOD=37% REG=74% ESP=51% INT=51% TEM=56%
+[62/79] Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-me 40s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_DESORD✓
+       running: NAR=81% FOC=71% MOD=38% REG=72% ESP=50% INT=50% TEM=57%
+[63/79] Senges-Pierre_Ruines-de-Rome.txt 35s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_REAL✗ ESP=ESP_FRAG✗ INT=INTR_FRAG✗ TEM=TEMP_DIS✗
+       running: NAR=81% FOC=71% MOD=37% REG=71% ESP=49% INT=49% TEM=56%
+[64/79] Simonnot-Maud_LEnfant-celeste.txt
+  [attempt 0] no JSON. raw=''
+ 81s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✗ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+       running: NAR=82% FOC=72% MOD=38% REG=70% ESP=50% INT=48% TEM=57%
+[65/79] Sinno-Neige_Triste-tigre.txt 33s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_FRAG✗ INT=INTR_LIN✓ TEM=TEMP_DESORD✗
+       running: NAR=82% FOC=72% MOD=39% REG=70% ESP=49% INT=49% TEM=56%
+[66/79] Slimani-Leila_Chanson-douce.txt
+  [attempt 0] no JSON. raw=''
+
+  [attempt 1] no JSON. raw=''
+ 101s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=82% FOC=73% MOD=39% REG=71% ESP=50% INT=48% TEM=55%
+[67/79] Sorman-Joy_La-peau-de-lours.txt 37s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_REAL✗ ESP=ESP_FRAG✗ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+       running: NAR=83% FOC=73% MOD=38% REG=70% ESP=49% INT=49% TEM=56%
+[68/79] Sorman-Joy_Comme-une-bete.txt 39s
+       NAR=NAR_EXT✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_REAL✓ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_LIN✓
+       running: NAR=83% FOC=73% MOD=38% REG=70% ESP=50% INT=50% TEM=56%
+[69/79] Tesson-Sylvain_La-panthere-des-neiges.txt ⚠ not found
+[70/79] Toussaint_Jean-Philippe-Faire_l_amour.txt 28s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_MIX✗ REG=REG_REAL✗ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=83% FOC=74% MOD=37% REG=69% ESP=49% INT=49% TEM=55%
+[71/79] Ventura-Maud_Mon-mari.txt 40s
+       NAR=NAR_AUTOD✓ FOC=FOC_INT✓ MOD=MOD_INTR✓ REG=REG_REAL✗ ESP=ESP_UNIT✓ INT=INTR_LIN✓ TEM=TEMP_DESORD✗
+       running: NAR=83% FOC=74% MOD=38% REG=68% ESP=50% INT=50% TEM=55%
+[72/79] Volodine-Antoine_Songes-de-Mevlido.txt 34s
+       NAR=NAR_AUTOD✗ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_SPEC✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=82% FOC=75% MOD=37% REG=69% ESP=49% INT=49% TEM=54%
+[73/79] Volodine-Antoine_Terminus-radieux.txt
+  [attempt 0] no JSON. raw=''
+ 72s
+       NAR=NAR_EXT✓ FOC=FOC_INT✓ MOD=MOD_INTR✗ REG=REG_SPEC✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_DIS✗
+       running: NAR=82% FOC=75% MOD=37% REG=69% ESP=49% INT=49% TEM=53%
+[74/79] Vuillard-Eric_14-Juillet.txt 41s
+       NAR=NAR_EXT✓ FOC=FOC_EXT✓ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✓
+       running: NAR=83% FOC=75% MOD=36% REG=70% ESP=48% INT=48% TEM=54%
+[75/79] Werber-Bernard_Nous-les-dieux.txt ⚠ not found
+[76/79] Wilhelmy-Audrée_Le-corps-des-bêtes.txt 30s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✗ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=83% FOC=74% MOD=37% REG=70% ESP=47% INT=47% TEM=53%
+[77/79] Vuillard-Eric_Lordre-du-jour.txt
+  [attempt 0] no JSON. raw=''
+ 71s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=83% FOC=75% MOD=37% REG=70% ESP=46% INT=46% TEM=52%
+[78/79] Vuillard-Eric_Tristesse-de-la-terre-Une-histoire-de- 41s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_DESC✗ REG=REG_REAL✓ ESP=ESP_UNIT✗ INT=INTR_LIN✗ TEM=TEMP_LIN✗
+       running: NAR=83% FOC=75% MOD=36% REG=71% ESP=46% INT=46% TEM=51%
+[79/79] Zeniter-Alice_Lart-de-perdre.txt 37s
+       NAR=NAR_EXT✓ FOC=FOC_ZERO✓ MOD=MOD_INTR✓ REG=REG_REAL✓ ESP=ESP_FRAG✓ INT=INTR_LIN✗ TEM=TEMP_DIS✓
+       running: NAR=84% FOC=75% MOD=37% REG=71% ESP=47% INT=45% TEM=52%
+
+======================================================================
+MODEL: qwen3:30b  |  9 chunks × 50 lines
+======================================================================
+  TYPE NARRATEUR       61/73  ( 83.6%)  ████████████████
+  FOCALISATION         55/73  ( 75.3%)  ███████████████
+  MODE NARRATIF        27/73  ( 37.0%)  ███████
+  REGIME NARRATIF      52/73  ( 71.2%)  ██████████████
+  ESPACE               34/73  ( 46.6%)  █████████
+  INTRIGUE             33/73  ( 45.2%)  █████████
+  TEMPORALITÉ          38/73  ( 52.1%)  ██████████
+
+  OVERALL  300/511  (58.7%)
+
+  Output: resultats_task0_v5.csv

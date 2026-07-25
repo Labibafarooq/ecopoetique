@@ -1,0 +1,434 @@
+
+==============================================================
+  TASK 0 MAP-REDUCE v7  (v6 rules + evidence-based INT/TEM/REG fixes)
+  Model: qwen3:30b   Chunks: 9   Max lines/chunk: 350   Reduce votes: 3
+  Started: 2026-07-10 15:47:31
+==============================================================
+
+Gold: 60 novels
+Novels in CORPUS_TOTAL: 60  missing: 0
+Resuming: 33 done, 27 remaining
+
+
+[1/27] Mouawad-Wajdi_Anima.txt
+    9216 lines -> 9 chunks of ~1024 lines
+    chunk 1/9: voice=first_person thread=cortège funéraire et time=printemps, matin
+    chunk 2/9: voice=first_person thread=le narrateur et son  time=none
+    chunk 3/9: voice=first_person thread=Coach's speech about time=pluie fine, après l'
+    chunk 4/9: voice=first_person thread=corneille dévorant u time=none
+    chunk 5/9: voice=first_person thread=Shelly's story time=present
+    chunk 6/9: voice=first_person thread=le narrateur animal  time=aujourd'hui
+    chunk 7/9: voice=first_person thread=le personnage princi time=le soir, l'aube, le 
+    chunk 8/9: voice=first_person thread=Wahhch et Winona en  time=dawn
+    chunk 9/9: voice=first_person thread=Wahhch's confession time=30 years later
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 1/3 failed: No valid JSON object found. Response was:
+
+    x reduce vote 3/3 failed: No valid JSON object found. Response was:
+
+  -> 891s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_FANTv ESP=ESP_ITINv INT=INTR_LINx TEM=TEMP_LINv
+
+[2/27] Nirsimloo-Anenden-Ananda_Eve-de-ses-decombres.txt
+    2884 lines -> 9 chunks of ~320 lines
+    chunk 1/9: voice=first_person thread=Sadiq's internal str time=17 years old
+    chunk 2/9: voice=first_person thread=Clélio's internal co time=dix-huit ans (procha
+    chunk 3/9: voice=first_person thread=Ève's internal confl time=17 ans
+    chunk 4/9: voice=first_person thread=Ève's inner turmoil time=present
+    chunk 5/9: voice=first_person thread=Savita and Ève's rel time=present
+    chunk 6/9: voice=first_person thread=Ève's grief and inte time=dix-sept ans (17 yea
+    chunk 7/9: voice=first_person thread=Clélio's prison thou time=present
+    chunk 8/9: voice=first_person thread=Ève's internal confl time=now
+    chunk 9/9: voice=first_person thread=Sad et Ève time=aujourd'hui, après l
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 3/3 failed: No valid JSON object found. Response was:
+
+  -> 916s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOx ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+
+[3/27] Pagano-Emmanuelle_Saufs-riverains.txt
+    2998 lines -> 9 chunks of ~333 lines
+    chunk 1/9: voice=first_person thread=enfance dans les cau time=enfance
+    chunk 2/9: voice=first_person thread=François de Bedos de time=1709
+    chunk 3/9: voice=third_person thread=François, le facteur time=1782 (date mentionné
+    chunk 4/9: voice=first_person thread=lait, paysage, mémoi time=été de recherche, an
+    chunk 5/9: voice=third_person thread=Jean's childhood mem time=presque quatre-vingt
+    chunk 6/9: voice=first_person thread=la construction du b time=1969
+    chunk 7/9: voice=first_person thread=enfance, conflit du  time=adolescence, puberté
+    chunk 8/9: voice=first_person thread=Marie et la danse de time=été
+    chunk 9/9: voice=first_person thread=Lucien's decline and time=fin décembre, après 
+    -> reduce step x3 (9/9 good observations)
+  -> 936s | NAR=NAR_AUTODv FOC=FOC_INTx MOD=MOD_DESCv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_DISv
+  [checkpoint saved, 3 done]
+
+[4/27] Plamondon-Eric_Taqawan.txt
+    3096 lines -> 9 chunks of ~344 lines
+    chunk 1/9: voice=third_person thread=Océane, son annivers time=11 juin 1966, quinze
+    chunk 2/9: voice=third_person thread=Océane et la police time=11 juin 1981
+    chunk 3/9: voice=third_person thread=Leclerc et la jeune  time=juin 1981, matin
+    chunk 4/9: voice=third_person thread=Leclerc et l'Indien time=le matin
+    chunk 5/9: voice=third_person thread=Caroline Seguette time=vendredi soir de déc
+    chunk 6/9: voice=third_person thread=Yves et Caroline dan time=dimanche matin, avri
+    chunk 7/9: voice=third_person thread=Yves Leclerc's searc time=23 JUIN 1981
+    chunk 8/9: voice=third_person thread=William's search for time=during the chase
+    chunk 9/9: voice=third_person thread=Océane's return to M time=1984 (juillet)
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 3/3 failed: No valid JSON object found. Response was:
+
+  -> 464s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_EVTv REG=REG_REALv ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_LINx
+
+[5/27] Poulain-Catherine_Le-grand-marin.txt
+    10184 lines -> 9 chunks of ~1131 lines
+    chunk 1/9: voice=first_person thread=la narratrice et son time=aujourd'hui, dans la
+    chunk 2/9: voice=first_person thread=Lili's physical pain time=during the fishing t
+    chunk 3/9: voice=first_person thread=le retour à bord du  time=Le soir vient. Dix h
+    chunk 4/9: voice=first_person thread=Lili's morning routi time=early morning after 
+    chunk 5/9: voice=first_person thread=Lili's internal refl time=during the salmon se
+    chunk 6/9: voice=first_person thread=Lili's emotional sta time=le soir, après avoir
+    chunk 7/9: voice=first_person thread=Lili et son retour à time=dès que l'on prend d
+    chunk 8/9: voice=first_person thread=Lili's internal conf time=present moment (afte
+    chunk 9/9: voice=first_person thread=Lili's internal stru time=night to dawn, after
+    -> reduce step x3 (9/9 good observations)
+  -> 220s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+
+[6/27] Reverdy-ThomasB_Climax.txt
+    3972 lines -> 9 chunks of ~441 lines
+    chunk 1/9: voice=third_person thread=Anå, sa réflexion su time=aujourd'hui, en été
+    chunk 2/9: voice=third_person thread=Anå's memories of No time=present moment (driv
+    chunk 3/9: voice=third_person thread=Knut et Baïkal time=avant l'accident
+    chunk 4/9: voice=third_person thread=Noah's journey on th time=10 octobre
+    chunk 5/9: voice=third_person thread=chiens militaires et time=fin octobre
+    chunk 6/9: voice=third_person thread=Knut et ses chiens c time=28 octobre
+    chunk 7/9: voice=third_person thread=Knut et la catastrop time=31 octobre, après le
+    chunk 8/9: voice=third_person thread=Anå et Sigurd time=l'après-midi, soleil
+    chunk 9/9: voice=first_person thread=Anå's panic and sear time=november dawn
+    -> reduce step x3 (9/9 good observations)
+  -> 210s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_FRAGx INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 6 done]
+
+[7/27] Rico-Lucie_Le-chant-du-poulet-sous-vide.txt
+    3894 lines -> 9 chunks of ~432 lines
+    chunk 1/9: voice=third_person thread=Paule et sa relation time=la nuit tombe, après
+    chunk 2/9: voice=third_person thread=Paule et ses poulets time=ce samedi-là
+    chunk 3/9: voice=third_person thread=Paule et ses poulets time=none
+    chunk 4/9: voice=third_person thread=Paule et ses poulets time=décembre
+    chunk 5/9: voice=third_person thread=Paule et ses poulets time=février
+    chunk 6/9: voice=third_person thread=Paule et son rapport time=présent
+    chunk 7/9: voice=third_person thread=Paule et les poulets time=le lendemain de la r
+    chunk 8/9: voice=third_person thread=Paule's internal con time=present
+    chunk 9/9: voice=third_person thread=Paule's emotional cr time=night
+    -> reduce step x3 (9/9 good observations)
+  -> 130s | NAR=NAR_EXTv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINv
+
+[8/27] Rico-Lucie_GPS.txt
+    2926 lines -> 9 chunks of ~325 lines
+    chunk 1/9: voice=first_person thread=Sandrine's invitatio time=present
+    chunk 2/9: voice=first_person thread=Sandrine's emotional time=during wedding photo
+    chunk 3/9: voice=first_person thread=Sandrine's disappear time=present
+    chunk 4/9: voice=first_person thread=le chômage et la rec time=aujourd'hui
+    chunk 5/9: voice=first_person thread=recherche de Sandrin time=depuis que Sandrine 
+    chunk 6/9: voice=first_person thread=suivre Sandrine sur  time=en cours de nuit, ap
+    chunk 7/9: voice=first_person thread=Sandrine's point on  time=12h15-12h20 (Middelk
+    chunk 8/9: voice=first_person thread=retrouvailles avec S time=été, 29 ans, quinze 
+    chunk 9/9: voice=first_person thread=Sandrine's ghost and time=minuit passé
+    -> reduce step x3 (9/9 good observations)
+  -> 100s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINx
+
+[9/27] Rodier-Jean_En-remontant-les-ruisseaux.txt
+    1130 lines -> 9 chunks of ~125 lines
+    chunk 1/9: voice=first_person thread=pêche et paysage du  time=âge (8-15 ans), sais
+    chunk 2/9: voice=first_person thread=pêche en crue time=Samedi 8 juin
+    chunk 3/9: voice=first_person thread=pêche et paysage time=quelques jours plus 
+    chunk 4/9: voice=first_person thread=pêche aux insectes n time=octobre, à la chute 
+    chunk 5/9: voice=first_person thread=pêche et réflexions  time=saison (été ?)
+    chunk 6/9: voice=first_person thread=pêcheur et paysage time=le lendemain, pluie 
+    chunk 7/9: voice=first_person thread=paysage et explorati time=Premier mai
+    chunk 8/9: voice=first_person thread=pêche à la main dans time=Juin
+    chunk 9/9: voice=first_person thread=pêche et nature time=août finit, automne
+    -> reduce step x3 (9/9 good observations)
+  -> 96s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_DESCv REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+  [checkpoint saved, 9 done]
+
+[10/27] Rolin-Jean_Le-Traquet-kurde.txt
+    593 lines -> 9 chunks of ~65 lines
+    chunk 1/9: voice=third_person thread=oiseaux ornithologiq time=1874, 1922-1948, 195
+    chunk 2/9: voice=third_person thread=étude des fraudes or time=1993, années 1990, 1
+    chunk 3/9: voice=third_person thread=Meinertzhagen's dece time=1917 (autumn), 1905,
+    chunk 4/9: voice=third_person thread=Meinertzhagen's fabr time=1910, 1899, 1927, 19
+    chunk 5/9: voice=third_person thread=St. John Philby's li time=1920-1933
+    chunk 6/9: voice=third_person thread=Thesiger's travels a time=1946-1948
+    chunk 7/9: voice=first_person thread=observation du traqu time=mai 2016
+    chunk 8/9: voice=first_person thread=observation des oise time=21 mai 2016
+    chunk 9/9: voice=first_person thread=observation des oise time=1961, 2011, 1960s
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 1/3 failed: No valid JSON object found. Response was:
+
+    x reduce vote 2/3 failed: No valid JSON object found. Response was:
+
+    x reduce vote 3/3 failed: No valid JSON object found. Response was:
+
+  x FAILED: All reduce votes failed
+
+[11/27] Rolin-Jean_Un-chien-mort-apres-lui.txt
+    1603 lines -> 9 chunks of ~178 lines
+    chunk 1/9: voice=first_person thread=l'interprète et les  time=dernières années du 
+    chunk 2/9: voice=first_person thread=le narrateur observa time=aujourd'hui, dans la
+    chunk 3/9: voice=first_person thread=recherche de chiens  time=soirée, nuit tombant
+    chunk 4/9: voice=first_person thread=détails de la guerre time=19h15, le samedi 12 
+    chunk 5/9: voice=first_person thread=détails des ruines e time=10 août
+    chunk 6/9: voice=first_person thread=dîner chez Mme G. et time=lundi 16 octobre 200
+    chunk 7/9: voice=first_person thread=chiens errants et le time=après-midi
+    chunk 8/9: voice=first_person thread=voyage en Australie  time=mai 2007
+    chunk 9/9: voice=first_person thread=découverte de l'hist time=13 juillet 2007
+    -> reduce step x3 (9/9 good observations)
+  -> 145s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_FRAGv INT=INTR_FRAGv TEM=TEMP_DISv
+
+[12/27] Royer-Corinne_Pleine-terre.txt
+    3520 lines -> 9 chunks of ~391 lines
+    chunk 1/9: voice=third_person thread=Jacques Bonhomme time=matin, jour de mai
+    chunk 2/9: voice=third_person thread=André Odouard's grie time=anniversary of Arnau
+    chunk 3/9: voice=third_person thread=Jacques Bonhomme time=été 2015
+    chunk 4/9: voice=third_person thread=Jacques Bonhomme time=été 2015
+    chunk 5/9: voice=first_person thread=Jacques Bonhomme time=aujourd'hui (dans le
+    chunk 6/9: voice=third_person thread=Marie-Ange's grief a time=une semaine après l'
+    chunk 7/9: voice=first_person thread=Jacques et sa corde time=nuit
+    chunk 8/9: voice=third_person thread=Jacques Bonhomme time=2017, printemps
+    chunk 9/9: voice=third_person thread=Jacques Bonhomme's f time=mai 2017
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 2/3 failed: No valid JSON object found. Response was:
+
+  -> 154s | NAR=NAR_AUTODx FOC=FOC_ZEROx MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINv
+  [checkpoint saved, 12 done]
+
+[13/27] Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-mere.txt
+    1547 lines -> 9 chunks of ~171 lines
+    chunk 1/9: voice=first_person thread=enfant et cheval time=enfance
+    chunk 2/9: voice=first_person thread=l'histoire de l'éduc time=années 70
+    chunk 3/9: voice=first_person thread=l'attachement à un c time=été, nuit de pleine 
+    chunk 4/9: voice=first_person thread=la chatte et sa mère time=après la naissance d
+    chunk 5/9: voice=first_person thread=souffrance de la per time=présent (dans le tem
+    chunk 6/9: voice=first_person thread=la chatte et sa rela time=présent
+    chunk 7/9: voice=first_person thread=confrontation avec l time=présent
+    chunk 8/9: voice=first_person thread=réflexion sur la con time=présent
+    chunk 9/9: voice=first_person thread=réflexion sur la vie time=1973 (Algérie), nuit
+    -> reduce step x3 (9/9 good observations)
+  -> 107s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_DISx
+
+[14/27] Senges-Pierre_Ruines-de-Rome.txt
+    1204 lines -> 9 chunks of ~133 lines
+    chunk 1/9: voice=first_person thread=le narrateur et ses  time=none
+    chunk 2/9: voice=first_person thread=le narrateur et son  time=présent
+    chunk 3/9: voice=first_person thread=jardinier clandestin time=en été
+    chunk 4/9: voice=first_person thread=le jardinier adventi time=none
+    chunk 5/9: voice=first_person thread=le jardinier et ses  time=le matin, quand le d
+    chunk 6/9: voice=first_person thread=le jardinier et sa v time=été
+    chunk 7/9: voice=first_person thread=le jardinier milléna time=présent (après les o
+    chunk 8/9: voice=first_person thread=le jardinier et sa r time=présent
+    chunk 9/9: voice=first_person thread=jardinier millénaris time=présent
+    -> reduce step x3 (9/9 good observations)
+  -> 106s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINv
+
+[15/27] Simonnot-Maud_LEnfant-celeste.txt
+    1329 lines -> 9 chunks of ~147 lines
+    chunk 1/9: voice=first_person thread=enfant et mère time=l'autre soir
+    chunk 2/9: voice=first_person thread=mère et Célian time=été, après une nuit 
+    chunk 3/9: voice=first_person thread=Célian et sa mère à  time=avant et après l'épi
+    chunk 4/9: voice=first_person thread=Célian et la forêt time=le premier matin, le
+    chunk 5/9: voice=first_person thread=la narratrice et Cél time=dix jours après le d
+    chunk 6/9: voice=first_person thread=Célian et Björn time=été
+    chunk 7/9: voice=first_person thread=Célian et Björn time=matin, après une nui
+    chunk 8/9: voice=first_person thread=Célian et la nature time=été
+    chunk 9/9: voice=first_person thread=Célian et sa mère time=été, fin du voyage
+    -> reduce step x3 (9/9 good observations)
+  -> 81s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINv
+  [checkpoint saved, 15 done]
+
+[16/27] Slimani-Leila_Chanson-douce.txt
+    3744 lines -> 9 chunks of ~416 lines
+    chunk 1/9: voice=third_person thread=Myriam's mental stat time=first month of inter
+    chunk 2/9: voice=third_person thread=Louise et les enfant time=none
+    chunk 3/9: voice=third_person thread=Louise's presence an time=unspecified
+    chunk 4/9: voice=third_person thread=Louise's mental stat time=samedi, dimanche, lu
+    chunk 5/9: voice=third_person thread=Louise et les enfant time=hiver
+    chunk 6/9: voice=third_person thread=Louise's internal co time=during a morning aft
+    chunk 7/9: voice=third_person thread=Louise's mental stat time=presque 8 heures / l
+    chunk 8/9: voice=third_person thread=Louise's internal co time=mars
+    chunk 9/9: voice=third_person thread=Louise's mental stat time=after the murder
+    -> reduce step x3 (9/9 good observations)
+  -> 108s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+
+[17/27] Sorman-Joy_La-peau-de-lours.txt
+    858 lines -> 9 chunks of ~95 lines
+    chunk 1/9: voice=third_person thread=pacte ours-village time=ancien pacte, saison
+    chunk 2/9: voice=first_person thread=l'ours en captivité time=après l'achat par le
+    chunk 3/9: voice=first_person thread=l'animal narrateur e time=pendant la traversée
+    chunk 4/9: voice=first_person thread=l'ours en captivité  time=le soir même, quelqu
+    chunk 5/9: voice=first_person thread=l'ours et ses relati time=avant le spectacle
+    chunk 6/9: voice=first_person thread=l'ours et sa découve time=aujourd'hui
+    chunk 7/9: voice=first_person thread=l'ours en exil time=aujourd'hui, après l
+    chunk 8/9: voice=first_person thread=l'ours captif et sa  time=le temps s'étire mor
+    chunk 9/9: voice=first_person thread=l'ours mourant time=après la mort de l'o
+    -> reduce step x3 (9/9 good observations)
+  -> 109s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_FANTv ESP=ESP_FRAGx INT=INTR_LINv TEM=TEMP_LINv
+
+[18/27] Sorman-Joy_Comme-une-bete.txt
+    1347 lines -> 9 chunks of ~149 lines
+    chunk 1/9: voice=third_person thread=Pim, apprenti bouche time=16 ans, septembre, d
+    chunk 2/9: voice=third_person thread=Pim et ses réflexion time=Ce soir
+    chunk 3/9: voice=third_person thread=Pim et Patrick à l'a time=La veille de Noël, t
+    chunk 4/9: voice=third_person thread=Pim et l'abattoir time=28 ans, début de la 
+    chunk 5/9: voice=third_person thread=Pim et les vaches time=matin, première trai
+    chunk 6/9: voice=third_person thread=Pim et sa relation a time=aujourd'hui
+    chunk 7/9: voice=third_person thread=Pim le boucher time=4h, 4h30, 5h30, 8h
+    chunk 8/9: voice=third_person thread=Pim et sa relation à time=Fin de matinée
+    chunk 9/9: voice=third_person thread=Pim et sa quête de l time=minuit à l'aube
+    -> reduce step x3 (9/9 good observations)
+  -> 113s | NAR=NAR_EXTv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINv
+  [checkpoint saved, 18 done]
+
+[19/27] Toussaint_Jean-Philippe-Faire_l_amour.txt
+    885 lines -> 9 chunks of ~98 lines
+    chunk 1/9: voice=first_person thread=Jean-Philippe et Mar time=hiver, sept ans plus
+    chunk 2/9: voice=first_person thread=l'absence d'amour en time=plus de trois heures
+    chunk 3/9: voice=first_person thread=le narrateur et Mari time=4h du matin
+    chunk 4/9: voice=first_person thread=Marie et le narrateu time=5h du matin, fin de 
+    chunk 5/9: voice=first_person thread=Marie et le narrateu time=9.0 4 a.m. (et 8.5 7
+    chunk 6/9: voice=first_person thread=Marie's emotional br time=le matin après le tr
+    chunk 7/9: voice=first_person thread=le personnage en dép time=matinée, après-midi,
+    chunk 8/9: voice=first_person thread=le narrateur seul da time=le lendemain de l'en
+    chunk 9/9: voice=first_person thread=Marie's absence and  time=night, after returni
+    -> reduce step x3 (9/9 good observations)
+  -> 104s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_ITINx INT=INTR_LINx TEM=TEMP_LINx
+
+[20/27] Ventura-Maud_Mon-mari.txt
+    3315 lines -> 9 chunks of ~368 lines
+    chunk 1/9: voice=first_person thread=la narratrice et son time=aujourd'hui, lundi
+    chunk 2/9: voice=first_person thread=la narratrice et son time=aujourd'hui
+    chunk 3/9: voice=first_person thread=la femme et son conf time=mercredi matin
+    chunk 4/9: voice=first_person thread=la narratrice et son time=soirée à la maison, 
+    chunk 5/9: voice=first_person thread=la narratrice et son time=jeudi matin, après u
+    chunk 6/9: voice=first_person thread=la narratrice et son time=le matin, après une 
+    chunk 7/9: voice=first_person thread=analyse obsessionnel time=mercredi après-midi,
+    chunk 8/9: voice=first_person thread=la narratrice et son time=samedi soir, après l
+    chunk 9/9: voice=first_person thread=la narratrice et sa  time=dimanche soir, après
+    -> reduce step x3 (9/9 good observations)
+  -> 104s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINx
+
+[21/27] Volodine-Antoine_Songes-de-Mevlido.txt
+    8809 lines -> 9 chunks of ~978 lines
+    chunk 1/9: voice=third_person thread=Mevlido et Maleeya d time=plus de minuit
+    chunk 2/9: voice=third_person thread=Mevlido's internal c time=cinquante ans
+    chunk 3/9: voice=third_person thread=Mevlido's emotional  time=afternoon/night
+    chunk 4/9: voice=third_person thread=Mevlido's therapy se time=after a storm, durin
+    chunk 5/9: voice=third_person thread=Mevlido et son passa time=aujourd'hui
+    chunk 6/9: voice=third_person thread=Mevlido et Maleeya d time=cette nuit
+    chunk 7/9: voice=third_person thread=Mevlido's daily rout time=none
+    chunk 8/9: voice=first_person thread=Mevlido's disorienta time=night
+    chunk 9/9: voice=third_person thread=Mevlido's final mome time=none
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 2/3 failed: No valid JSON object found. Response was:
+
+  -> 143s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_DESCx REG=REG_SPECv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 21 done]
+
+[22/27] Volodine-Antoine_Terminus-radieux.txt
+    8864 lines -> 9 chunks of ~984 lines
+    chunk 1/9: voice=third_person thread=Kronauer's journey a time=during the day, appr
+    chunk 2/9: voice=third_person thread=Samiya Schmidt et Kr time=aujourd'hui, après q
+    chunk 3/9: voice=third_person thread=Kronauer's internal  time=present
+    chunk 4/9: voice=third_person thread=Iliouchenko's intern time=samedi suivant, vers
+    chunk 5/9: voice=third_person thread=Hadzoböl Münzberg's  time=matinée
+    chunk 6/9: voice=third_person thread=Kronauer's internal  time=matinée
+    chunk 7/9: voice=third_person thread=Kronauer's internal  time=during a snowstorm
+    chunk 8/9: voice=third_person thread=Kronauer's internal  time=automne sombre
+    chunk 9/9: voice=third_person thread=Kronauer et Schulhof time=automne
+    -> reduce step x3 (9/9 good observations)
+  -> 129s | NAR=NAR_EXTv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_SPECv ESP=ESP_ITINv INT=INTR_LINx TEM=TEMP_LINx
+
+[23/27] Vuillard-Eric_14-Juillet.txt
+    2325 lines -> 9 chunks of ~258 lines
+    chunk 1/9: voice=third_person thread=la folie Titon et so time=1789
+    chunk 2/9: voice=third_person thread=Versailles et ses ha time=none
+    chunk 3/9: voice=third_person thread=la foule armée de Pa time=13 juillet 1789
+    chunk 4/9: voice=first_person thread=Fournier et Delorme  time=petit matin
+    chunk 5/9: voice=third_person thread=Thuriot de La Rosièr time=11 heures et demie d
+    chunk 6/9: voice=third_person thread=Louis Tournay's acti time=mardi 14
+    chunk 7/9: voice=third_person thread=Sagault's death and  time=during the storming 
+    chunk 8/9: voice=third_person thread=Michel Béziers et Ma time=14 juillet 1789
+    chunk 9/9: voice=third_person thread=Marie Bliard's grief time=14 juillet 1789, 23 
+    -> reduce step x3 (9/9 good observations)
+  -> 111s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINv
+
+[24/27] Wilhelmy-Audrée_Le-corps-des-bêtes.txt
+    1912 lines -> 9 chunks of ~212 lines
+    chunk 1/9: voice=third_person thread=Mie et Osip time=12 ans, 15 ans plus 
+    chunk 2/9: voice=third_person thread=Osip's internal conf time=none
+    chunk 3/9: voice=third_person thread=Mie's transformation time=11 ans
+    chunk 4/9: voice=third_person thread=Noé et Osip time=été
+    chunk 5/9: voice=third_person thread=Noé et son dessin su time=avant les crises, pe
+    chunk 6/9: voice=third_person thread=Noé et son travail s time=le soir, l'automne
+    chunk 7/9: voice=third_person thread=Osip et Mie time=printemps
+    chunk 8/9: voice=third_person thread=Mie dans la cabane d time=automne
+    chunk 9/9: voice=third_person thread=Mie's inner thoughts time=afternoon/evening
+    -> reduce step x3 (9/9 good observations)
+  -> 333s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_DESCv REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 24 done]
+
+[25/27] Vuillard-Eric_Lordre-du-jour.txt
+    1290 lines -> 9 chunks of ~143 lines
+    chunk 1/9: voice=third_person thread=le froid et la stagn time=février, lundi, 20 f
+    chunk 2/9: voice=third_person thread=Halifax et Goering time=1937-1938
+    chunk 3/9: voice=third_person thread=Schuschnigg's psycho time=1934, Genève
+    chunk 4/9: voice=third_person thread=Schuschnigg et Seyss time=16 février 1938
+    chunk 5/9: voice=third_person thread=Schuschnigg et Mikla time=11 mars 1938, vers 1
+    chunk 6/9: voice=third_person thread=Ribbentrop's oblivio time=12 mars
+    chunk 7/9: voice=third_person thread=panne des chars alle time=12 mars 1938, 13 mar
+    chunk 8/9: voice=first_person thread=Hollywood Custom Pal time=1938-03-15 (Anschlus
+    chunk 9/9: voice=third_person thread=suicide collective e time=12 mars 1938, printe
+    -> reduce step x3 (9/9 good observations)
+  -> 109s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_EVTv REG=REG_REALv ESP=ESP_FRAGv INT=INTR_FRAGv TEM=TEMP_DISv
+
+[26/27] Vuillard-Eric_Tristesse-de-la-terre-Une-histoire-de-Buffalo-Bill-Cody.txt
+    1491 lines -> 9 chunks of ~165 lines
+    chunk 1/9: voice=third_person thread=Exposition universel time=1893
+    chunk 2/9: voice=third_person thread=Buffalo Bill's inter time=none
+    chunk 3/9: voice=third_person thread=Sitting Bull et les  time=matin, après-midi, n
+    chunk 4/9: voice=third_person thread=Wounded Knee massacr time=1891-01-02
+    chunk 5/9: voice=third_person thread=spectacle de Buffalo time=during the show
+    chunk 6/9: voice=third_person thread=Buffalo Bill et la v time=1886
+    chunk 7/9: voice=third_person thread=Buffalo Bill et sa r time=soixante-quatre ans
+    chunk 8/9: voice=third_person thread=Cody's death and ref time=January 1917
+    chunk 9/9: voice=third_person thread=Wilson Bentley time=15 ans, 17 ans, soix
+    -> reduce step x3 (9/9 good observations)
+  -> 331s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_FRAGx INT=INTR_LINx TEM=TEMP_LINx
+
+[27/27] Zeniter-Alice_Lart-de-perdre.txt
+    8181 lines -> 9 chunks of ~909 lines
+    chunk 1/9: voice=third_person thread=Yema, mariée à Ali time=quatorze ans, printe
+    chunk 2/9: voice=third_person thread=Hamid's circumcision time=5 years old
+    chunk 3/9: voice=third_person thread=Fatima's death and a time=1960
+    chunk 4/9: voice=third_person thread=Hamid et son interac time=novembre 1962
+    chunk 5/9: voice=third_person thread=Yema et Hamid time=23 septembre 1965
+    chunk 6/9: voice=third_person thread=Hamid's internal con time=été 72
+    chunk 7/9: voice=third_person thread=Clarisse et Hamid da time=le mois suivant
+    chunk 8/9: voice=third_person thread=Naïma's research on  time=present time (spring
+    chunk 9/9: voice=third_person thread=Naïma's internal con time=morning after arriva
+    -> reduce step x3 (9/9 good observations)
+  -> 385s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 27 done]
+
+Done — 26 novels processed
+Saved to: /home/lfarooq/ecopoetique/narratologie/resultats_task0_mapreduce_v9.csv
+
+==============================================================
+  MAP-REDUCE v7 RESULTS  —  qwen3:30b  (3x reduce vote)
+==============================================================
+  TYPE NARRATEUR         25/26  ( 96.2%)  ███████████████████
+  FOCALISATION           20/26  ( 76.9%)  ███████████████
+  MODE NARRATIF          11/26  ( 42.3%)  ████████
+  REGIME NARRATIF        21/26  ( 80.8%)  ████████████████
+  ESPACE                 13/26  ( 50.0%)  ██████████
+  INTRIGUE                9/26  ( 34.6%)  ██████
+  TEMPORALITÉ            13/26  ( 50.0%)  ██████████
+--------------------------------------------------------------
+  OVERALL                112/182  ( 61.5%)
+==============================================================
+

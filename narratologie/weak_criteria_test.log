@@ -1,0 +1,963 @@
+============================================================
+WEAK CRITERIA TEST — Gemma3:27b vs Mistral-Small3.1
+Criteria: FOCALISATION, MODE NARRATIF, ESPACE, INTRIGUE
+============================================================
+Gold set: 79 novels
+
+============================================================
+  MODEL: gemma3:27b
+============================================================
+
+[ 1/76] Angot-Christine_Le-Voyage-dans-l'Est.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[ 2/76] Autissier-Isabelle_Soudain-seuls.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_ITIN     ✓  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[ 3/76] Baque-Joel_La-fonte-des-glaces.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[ 4/76] Appanah-Nathacha_dessus-le-toit.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[ 5/76] Bienne-Gisele_La-malchimie.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[ 6/76] Binet-Laurent_La-septieme-fonction-du-langage.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[ 7/76] Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bismarck
+  FOCALISATION         → FOC_EXT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[ 8/76] Brunel-Camille_La-guerrilla-des-animaux.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[ 9/76] Chevillard-Eric_Oreille-rouge.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_DESC)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[10/76] Carrere-Emmanuel_Limonov.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[11/76] Deck-Julia_Ann-dAngleterre.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[12/76] Despentes-Virginie_Vernon-Subutex-1.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[13/76] Despentes-Virginie_Cher-connard.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[14/76] Deville-Patrick_Peste_choléra.txt
+  FOCALISATION         → FOC_EXT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[15/76] Desjardins-Antoine_Indice-des-feux.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[16/76] Diop-David_Frere-d'âme.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[17/76] Ducrozet-Pierre_Le-Grand-Vertige.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_ITIN     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[18/76] Echenoz-Jean_Envoyee-speciale.txt
+  FOCALISATION         → FOC_EXT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[19/76] Ernaux-Annie_Les-annees.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[20/76] Filhol-Elizabeth_Doggerland.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[21/76] Filhol-Elisabeth_Sister-ship.txt
+  FOCALISATION         → FOC_EXT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_ITIN     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[22/76] Flahaut-Thomas_Ostwald.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_ITIN     ✓  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[23/76] Garcia-Tristan_La-meilleure-part-des-hommes.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[24/76] Hunzinger-Claudie_Les-grands-cerfs.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[25/76] Hunzinger-Claudie_Un-chien-a-ma-table.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[26/76] Joncour-Serge_Nature-humaine.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[27/76] Joncour-Serge_Chien-Loup.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[28/76] Kerangal-Maylisde_Naissance-dun-pont.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[29/76] Lafon-Marie_Joseph.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[30/76] Lafon-Marie_Histoire-du-fils.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[31/76] Lançon-Philippe_Le-lambeau.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[32/76] Laroui-Fouad_Une-Annee-Chez-Les-Français.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[33/76] LeTellier-Herve_Lanomalie.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[34/76] Loup-Douna_Les-printemps-sauvages.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_INTR     ✓  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[35/76] Louis-Edouard_En-finir-avec-Eddy-Bellegueule.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[36/76] Mathieu-Nicolas_Connemara.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[37/76] Mabanckou-Alain_Verre-casse.txt
+  ⚠️  Skipped
+
+[38/76] Mauvignier-Laurent_Histoires-de-la-nuit.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[39/76] Mauvignier-Laurent_Autour-du-monde.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[40/76] Mauvignier-Laurent_Continuer.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[41/76] Mbougar_La-plus-secrete-memoire-des-hommes.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[42/76] Miano-Leonora_Rouge-imperatrice.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_IMAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[43/76] Minard-Celine_Le-Grand-Jeu.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[44/76] Montalbetti-Christine_Mon-ancetre-poisson.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_IMAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[45/76] Mouawad-Wajdi_Anima.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[46/76] Nirsimloo-Anenden-Ananda_Eve-de-ses-decombres.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[47/76] NDiaye-Marie_Trois-femmes-puissantes.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[48/76] Pagano-Emmanuelle_Saufs-riverains.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_DESC)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[49/76] Panassenko-Polina_Tenir-sa-langue.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[50/76] Plamondon-Eric_Taqawan.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_EVT      ✓  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[51/76] Poulain-Catherine_Le-grand-marin.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[52/76] Pourchet-Maria_Feu.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[53/76] Reverdy-ThomasB_Climax.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[54/76] Rico-Lucie_Le-chant-du-poulet-sous-vide.txt
+  FOCALISATION         → FOC_VAR      ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[55/76] Rico-Lucie_GPS.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[56/76] Rodier-Jean_En-remontant-les-ruisseaux.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_DESC)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[57/76] Rolin-Jean_Le-Traquet-kurde.txt
+  FOCALISATION         → FOC_EXT      ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[58/76] Rolin-Jean_Un-chien-mort-apres-lui.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[59/76] Rosenthal-Olivia_Que-font-les-rennes-apres-Nol.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[60/76] Royer-Corinne_Pleine-terre.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[61/76] Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-mere.
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_CYC)
+
+[62/76] Senges-Pierre_Ruines-de-Rome.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_DESC)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_CYC)
+
+[63/76] Simonnot-Maud_LEnfant-celeste.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[64/76] Sinno-Neige_Triste-tigre.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_INTR     ✓  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[65/76] Slimani-Leila_Chanson-douce.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_EVT      ✗  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[66/76] Sorman-Joy_La-peau-de-lours.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[67/76] Sorman-Joy_Comme-une-bete.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[68/76] Toussaint_Jean-Philippe-Faire_l_amour.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_CYC)
+
+[69/76] Ventura-Maud_Mon-mari.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_INTR     ✓  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[70/76] Volodine-Antoine_Songes-de-Mevlido.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_IMAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[71/76] Volodine-Antoine_Terminus-radieux.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_CYC)
+
+[72/76] Vuillard-Eric_14-Juillet.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_EXT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[73/76] Wilhelmy-Audrée_Le-corps-des-bêtes.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_DESC)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[74/76] Vuillard-Eric_Lordre-du-jour.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_EXT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[75/76] Vuillard-Eric_Tristesse-de-la-terre-Une-histoire-de-Buf
+  FOCALISATION         → FOC_ZERO     ✓  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[76/76] Zeniter-Alice_Lart-de-perdre.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+============================================================
+  RESULTS — gemma3:27b
+============================================================
+  FOCALISATION         41/75 ( 54.7%) ██████████
+  MODE NARRATIF        28/75 ( 37.3%) ███████
+  ESPACE               30/75 ( 40.0%) ████████
+  INTRIGUE             26/75 ( 34.7%) ██████
+  ───────────────────────────────────────────────────────
+  WEAK CRITERIA AVG: 41.7%
+
+  Comparison vs Hybrid v2:
+  FOCALISATION         54.7%  (↓8.6pp vs 63.3%)
+  MODE NARRATIF        37.3%  (↓34.4pp vs 71.7%)
+  ESPACE               40.0%  (↓10.0pp vs 50.0%)
+  INTRIGUE             34.7%  (↓30.3pp vs 65.0%)
+  ✅ Saved to /home/lfarooq/ecopoetique/narratologie/resultats_gemma3_27b_weak.csv
+
+============================================================
+  MODEL: mistral-small3.1
+============================================================
+
+[ 1/76] Angot-Christine_Le-Voyage-dans-l'Est.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[ 2/76] Autissier-Isabelle_Soudain-seuls.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_ITIN     ✓  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[ 3/76] Baque-Joel_La-fonte-des-glaces.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[ 4/76] Appanah-Nathacha_dessus-le-toit.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[ 5/76] Bienne-Gisele_La-malchimie.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[ 6/76] Binet-Laurent_La-septieme-fonction-du-langage.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[ 7/76] Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bismarck
+  FOCALISATION         → FOC_EXT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[ 8/76] Brunel-Camille_La-guerrilla-des-animaux.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[ 9/76] Chevillard-Eric_Oreille-rouge.txt
+  FOCALISATION         → FOC_ZERO     ✓  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_DESC)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[10/76] Carrere-Emmanuel_Limonov.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[11/76] Deck-Julia_Ann-dAngleterre.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[12/76] Despentes-Virginie_Vernon-Subutex-1.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[13/76] Despentes-Virginie_Cher-connard.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_INTR     ✗  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[14/76] Deville-Patrick_Peste_choléra.txt
+  FOCALISATION         → FOC_ZERO     ✓  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[15/76] Desjardins-Antoine_Indice-des-feux.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[16/76] Diop-David_Frere-d'âme.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_INTR     ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[17/76] Ducrozet-Pierre_Le-Grand-Vertige.txt
+  FOCALISATION         → FOC_ZERO     ✓  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[18/76] Echenoz-Jean_Envoyee-speciale.txt
+  FOCALISATION         → FOC_EXT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[19/76] Ernaux-Annie_Les-annees.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_DESC     ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[20/76] Filhol-Elizabeth_Doggerland.txt
+  FOCALISATION         → FOC_ZERO     ✓  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[21/76] Filhol-Elisabeth_Sister-ship.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_DESC     ✗  (gold:MOD_MIX)
+  ESPACE               → ESP_IMAG     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[22/76] Flahaut-Thomas_Ostwald.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[23/76] Garcia-Tristan_La-meilleure-part-des-hommes.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[24/76] Hunzinger-Claudie_Les-grands-cerfs.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[25/76] Hunzinger-Claudie_Un-chien-a-ma-table.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[26/76] Joncour-Serge_Nature-humaine.txt
+  FOCALISATION         → FOC_EXT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[27/76] Joncour-Serge_Chien-Loup.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[28/76] Kerangal-Maylisde_Naissance-dun-pont.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[29/76] Lafon-Marie_Joseph.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_DESC     ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[30/76] Lafon-Marie_Histoire-du-fils.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[31/76] Lançon-Philippe_Le-lambeau.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[32/76] Laroui-Fouad_Une-Annee-Chez-Les-Français.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[33/76] LeTellier-Herve_Lanomalie.txt
+  FOCALISATION         → FOC_ZERO     ✓  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[34/76] Loup-Douna_Les-printemps-sauvages.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_INTR     ✓  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[35/76] Louis-Edouard_En-finir-avec-Eddy-Bellegueule.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[36/76] Mathieu-Nicolas_Connemara.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[37/76] Mabanckou-Alain_Verre-casse.txt
+  ⚠️  Skipped
+
+[38/76] Mauvignier-Laurent_Histoires-de-la-nuit.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[39/76] Mauvignier-Laurent_Autour-du-monde.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[40/76] Mauvignier-Laurent_Continuer.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[41/76] Mbougar_La-plus-secrete-memoire-des-hommes.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[42/76] Miano-Leonora_Rouge-imperatrice.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_IMAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[43/76] Minard-Celine_Le-Grand-Jeu.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[44/76] Montalbetti-Christine_Mon-ancetre-poisson.txt
+  FOCALISATION         → FOC_VAR      ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_IMAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[45/76] Mouawad-Wajdi_Anima.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[46/76] Nirsimloo-Anenden-Ananda_Eve-de-ses-decombres.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_INTR     ✓  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[47/76] NDiaye-Marie_Trois-femmes-puissantes.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[48/76] Pagano-Emmanuelle_Saufs-riverains.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_DESC     ✓  (gold:MOD_DESC)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[49/76] Panassenko-Polina_Tenir-sa-langue.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[50/76] Plamondon-Eric_Taqawan.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[51/76] Poulain-Catherine_Le-grand-marin.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[52/76] Pourchet-Maria_Feu.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[53/76] Reverdy-ThomasB_Climax.txt
+  FOCALISATION         → FOC_EXT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[54/76] Rico-Lucie_Le-chant-du-poulet-sous-vide.txt
+  FOCALISATION         → FOC_VAR      ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[55/76] Rico-Lucie_GPS.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[56/76] Rodier-Jean_En-remontant-les-ruisseaux.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_DESC)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[57/76] Rolin-Jean_Le-Traquet-kurde.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_DESC     ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[58/76] Rolin-Jean_Un-chien-mort-apres-lui.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_DESC     ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[59/76] Rosenthal-Olivia_Que-font-les-rennes-apres-Nol.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[60/76] Royer-Corinne_Pleine-terre.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[61/76] Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-mere.
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_CYC)
+
+[62/76] Senges-Pierre_Ruines-de-Rome.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_DESC)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_CYC)
+
+[63/76] Simonnot-Maud_LEnfant-celeste.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[64/76] Sinno-Neige_Triste-tigre.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_INTR     ✓  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[65/76] Slimani-Leila_Chanson-douce.txt
+  FOCALISATION         → FOC_ZERO     ✓  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[66/76] Sorman-Joy_La-peau-de-lours.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[67/76] Sorman-Joy_Comme-une-bete.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_DESC     ✗  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_FRAG    ✗  (gold:INTR_LIN)
+
+[68/76] Toussaint_Jean-Philippe-Faire_l_amour.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_CYC)
+
+[69/76] Ventura-Maud_Mon-mari.txt
+  FOCALISATION         → FOC_INT      ✓  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_INTR     ✓  (gold:MOD_INTR)
+  ESPACE               → ESP_UNIT     ✓  (gold:ESP_UNIT)
+  INTRIGUE             → INTR_LIN     ✓  (gold:INTR_LIN)
+
+[70/76] Volodine-Antoine_Songes-de-Mevlido.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_IMAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[71/76] Volodine-Antoine_Terminus-radieux.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_INT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_CYC)
+
+[72/76] Vuillard-Eric_14-Juillet.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_EXT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[73/76] Wilhelmy-Audrée_Le-corps-des-bêtes.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_VAR)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_DESC)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[74/76] Vuillard-Eric_Lordre-du-jour.txt
+  FOCALISATION         → FOC_ZERO     ✗  (gold:FOC_EXT)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✓  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+[75/76] Vuillard-Eric_Tristesse-de-la-terre-Une-histoire-de-Buf
+  FOCALISATION         → FOC_ZERO     ✓  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✗  (gold:MOD_EVT)
+  ESPACE               → ESP_FRAG     ✗  (gold:ESP_ITIN)
+  INTRIGUE             → INTR_FRAG    ✓  (gold:INTR_FRAG)
+
+[76/76] Zeniter-Alice_Lart-de-perdre.txt
+  FOCALISATION         → FOC_INT      ✗  (gold:FOC_ZERO)
+  MODE NARRATIF        → MOD_MIX      ✓  (gold:MOD_MIX)
+  ESPACE               → ESP_UNIT     ✗  (gold:ESP_FRAG)
+  INTRIGUE             → INTR_LIN     ✗  (gold:INTR_FRAG)
+
+============================================================
+  RESULTS — mistral-small3.1
+============================================================
+  FOCALISATION         39/75 ( 52.0%) ██████████
+  MODE NARRATIF        27/75 ( 36.0%) ███████
+  ESPACE               33/75 ( 44.0%) ████████
+  INTRIGUE             32/75 ( 42.7%) ████████
+  ───────────────────────────────────────────────────────
+  WEAK CRITERIA AVG: 43.7%
+
+  Comparison vs Hybrid v2:
+  FOCALISATION         52.0%  (↓11.3pp vs 63.3%)
+  MODE NARRATIF        36.0%  (↓35.7pp vs 71.7%)
+  ESPACE               44.0%  (↓6.0pp vs 50.0%)
+  INTRIGUE             42.7%  (↓22.3pp vs 65.0%)
+  ✅ Saved to /home/lfarooq/ecopoetique/narratologie/resultats_mistral-small3_1_weak.csv
+
+============================================================
+FINAL COMPARISON
+============================================================
+  Criterion             Hybrid v2   Gemma3:27b  Mistral-S
+  ──────────────────────────────────────────────────────
+  FOCALISATION              63.3%        54.7%      52.0%  
+  MODE NARRATIF             71.7%        37.3%      36.0%  
+  ESPACE                    50.0%        40.0%      44.0%  
+  INTRIGUE                  65.0%        34.7%      42.7%  

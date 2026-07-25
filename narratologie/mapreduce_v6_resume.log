@@ -1,0 +1,824 @@
+
+==============================================================
+  TASK 0 MAP-REDUCE v6  (v3 architecture + v6 rules)
+  Model: qwen3:30b   Chunks: 9   Reduce votes: 3
+  Started: 2026-07-01 11:26:26
+==============================================================
+
+Gold: 79 novels
+Novels in CORPUS_TOTAL: 76  missing: 3
+Resuming: 21 done, 55 remaining
+
+
+[1/55] Flahaut-Thomas_Ostwald.txt
+    2239 lines -> 9 chunks of ~248 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=description conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=description conf=5
+    chunk 6/9: voice=first_person mode=action_event conf=5
+    chunk 7/9: voice=first_person mode=description conf=5
+    chunk 8/9: voice=first_person mode=description conf=5
+    chunk 9/9: voice=first_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 189s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_REALx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+
+[2/55] Garcia-Tristan_La-meilleure-part-des-hommes.txt
+    5620 lines -> 9 chunks of ~624 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=third_person mode=action_event conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=action_event conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 205s | NAR=NAR_AUTODx FOC=FOC_INTx MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+
+[3/55] Hunzinger-Claudie_Les-grands-cerfs.txt
+    2955 lines -> 9 chunks of ~328 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=description conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=description conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 173s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINx
+  [checkpoint saved, 3 done]
+
+[4/55] Hunzinger-Claudie_Un-chien-a-ma-table.txt
+    3077 lines -> 9 chunks of ~341 lines
+    chunk 1/9: voice=first_person mode=description conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=description conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 167s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINx
+
+[5/55] Joncour-Serge_Nature-humaine.txt
+    3877 lines -> 9 chunks of ~430 lines
+    chunk 1/9: voice=third_person mode=introspectio conf=5
+    chunk 2/9: voice=third_person mode=action_event conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=action_event conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 165s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+
+[6/55] Joncour-Serge_Chien-Loup.txt
+    5002 lines -> 9 chunks of ~555 lines
+    chunk 1/9: voice=third_person mode=introspectio conf=5
+    chunk 2/9: voice=third_person mode=description conf=5
+    chunk 3/9: voice=third_person mode=description conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=description conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=description conf=5
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 172s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 6 done]
+
+[7/55] Kerangal-Maylisde_Naissance-dun-pont.txt
+    1860 lines -> 9 chunks of ~206 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=third_person mode=description conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=description conf=5
+    chunk 7/9: voice=third_person mode=action_event conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 221s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_MIXv REG=REG_REALv ESP=ESP_ITINx INT=INTR_LINx TEM=TEMP_LINv
+
+[8/55] Lafon-Marie_Joseph.txt
+    497 lines -> 9 chunks of ~55 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=third_person mode=introspectio conf=5
+    chunk 3/9: voice=third_person mode=description conf=5
+    chunk 4/9: voice=third_person mode=description conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=description conf=5
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 169s | NAR=NAR_EXTv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITv INT=INTR_FRAGx TEM=TEMP_LINx
+
+[9/55] Lafon-Marie_Histoire-du-fils.txt
+    1065 lines -> 9 chunks of ~118 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=third_person mode=introspectio conf=5
+    chunk 3/9: voice=third_person mode=mixed conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 182s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_INTRx REG=REG_REALv ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 9 done]
+
+[10/55] Lançon-Philippe_Le-lambeau.txt
+    8734 lines -> 9 chunks of ~970 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 175s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOv ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_DISv
+
+[11/55] Laroui-Fouad_Une-Annee-Chez-Les-Français.txt
+    5952 lines -> 9 chunks of ~661 lines
+    chunk 1/9: voice=third_person mode=action_event conf=5
+    chunk 2/9: voice=third_person mode=action_event conf=5
+    chunk 3/9: voice=third_person mode=action_event conf=5
+    chunk 4/9: voice=third_person mode=action_event conf=5
+    chunk 5/9: voice=third_person mode=action_event conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=description conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 178s | NAR=NAR_EXTx FOC=FOC_INTv MOD=MOD_EVTx REG=REG_REALx ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINv
+
+[12/55] LeTellier-Herve_Lanomalie.txt
+    5848 lines -> 9 chunks of ~649 lines
+    chunk 1/9: voice=third_person mode=action_event conf=5
+    chunk 2/9: voice=third_person mode=action_event conf=5
+    chunk 3/9: voice=third_person mode=mixed conf=5
+    chunk 4/9: voice=third_person mode=action_event conf=5
+    chunk 5/9: voice=third_person mode=action_event conf=5
+    chunk 6/9: voice=third_person mode=action_event conf=5
+    chunk 7/9: voice=third_person mode=action_event conf=5
+    chunk 8/9: voice=third_person mode=action_event conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 216s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_EVTv REG=REG_SPECx ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_DISv
+  [checkpoint saved, 12 done]
+
+[13/55] Loup-Douna_Les-printemps-sauvages.txt
+    1611 lines -> 9 chunks of ~179 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=description conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 157s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+
+[14/55] Louis-Edouard_En-finir-avec-Eddy-Bellegueule.txt
+    2161 lines -> 9 chunks of ~240 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=description conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 125s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+
+[15/55] Mathieu-Nicolas_Connemara.txt
+    7596 lines -> 9 chunks of ~844 lines
+    chunk 1/9: voice=third_person mode=introspectio conf=5
+    chunk 2/9: voice=third_person mode=introspectio conf=5
+    chunk 3/9: voice=third_person mode=action_event conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=action_event conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=action_event conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=4
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 185s | NAR=NAR_EXTv FOC=FOC_INTx MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 15 done]
+
+[16/55] Mabanckou-Alain_Verre-casse.txt
+    129 lines -> 9 chunks of ~14 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=action_event conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=action_event conf=5
+    chunk 7/9: voice=unclear mode=description conf=5
+    chunk 8/9: voice=third_person mode=description conf=5
+    chunk 9/9: voice=unclear mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 193s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITv INT=INTR_FRAGx TEM=TEMP_LINx
+
+[17/55] Mauvignier-Laurent_Histoires-de-la-nuit.txt
+    3899 lines -> 9 chunks of ~433 lines
+    chunk 1/9: voice=third_person mode=introspectio conf=5
+    chunk 2/9: voice=third_person mode=introspectio conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=action_event conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 186s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINv
+
+[18/55] Mauvignier-Laurent_Autour-du-monde.txt
+    5136 lines -> 9 chunks of ~570 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=third_person mode=introspectio conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 210s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 18 done]
+
+[19/55] Mauvignier-Laurent_Continuer.txt
+    2339 lines -> 9 chunks of ~259 lines
+    chunk 1/9: voice=third_person mode=action_event conf=5
+    chunk 2/9: voice=third_person mode=introspectio conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=description conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 233s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_INTRx REG=REG_REALv ESP=ESP_ITINv INT=INTR_LINv TEM=TEMP_LINx
+
+[20/55] Mbougar_La-plus-secrete-memoire-des-hommes.txt
+    8812 lines -> 9 chunks of ~979 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=action_event conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 183s | NAR=NAR_AUTODx FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+
+[21/55] Miano-Leonora_Rouge-imperatrice.txt
+    10968 lines -> 9 chunks of ~1218 lines
+    chunk 1/9: voice=third_person mode=introspectio conf=5
+    chunk 2/9: voice=third_person mode=description conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=action_event conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 176s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_INTRx REG=REG_SPECv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINv
+  [checkpoint saved, 21 done]
+
+[22/55] Minard-Celine_Le-Grand-Jeu.txt
+    2818 lines -> 9 chunks of ~313 lines
+    chunk 1/9: voice=first_person mode=description conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=description conf=5
+    chunk 4/9: voice=first_person mode=description conf=5
+    chunk 5/9: voice=first_person mode=description conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=description conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 179s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_REALx ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINv
+
+[23/55] Montalbetti-Christine_Mon-ancetre-poisson.txt
+    2156 lines -> 9 chunks of ~239 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=description conf=5
+    chunk 3/9: voice=third_person mode=description conf=5
+    chunk 4/9: voice=first_person mode=description conf=5
+    chunk 5/9: voice=first_person mode=description conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 301s | NAR=NAR_TEMv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_AUTOv ESP=ESP_FRAGx INT=INTR_FRAGv TEM=TEMP_LINx
+
+[24/55] Mouawad-Wajdi_Anima.txt
+    9216 lines -> 9 chunks of ~1024 lines
+    chunk 1/9: voice=first_person mode=description conf=5
+    chunk 2/9: voice=first_person mode=description conf=5
+    chunk 3/9: voice=first_person mode=description conf=5
+    chunk 4/9: voice=first_person mode=action_event conf=5
+    chunk 5/9: voice=first_person mode=action_event conf=5
+    chunk 6/9: voice=first_person mode=action_event conf=5
+    chunk 7/9: voice=first_person mode=mixed conf=5
+    chunk 8/9: voice=first_person mode=action_event conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 249s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_EVTv REG=REG_REALx ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINv
+  [checkpoint saved, 24 done]
+
+[25/55] Nirsimloo-Anenden-Ananda_Eve-de-ses-decombres.txt
+    2884 lines -> 9 chunks of ~320 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=mixed conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 231s | NAR=NAR_AUTODv FOC=FOC_VARx MOD=MOD_INTRv REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+
+[26/55] NDiaye-Marie_Trois-femmes-puissantes.txt
+    3039 lines -> 9 chunks of ~337 lines
+    chunk 1/9: voice=third_person mode=introspectio conf=5
+    chunk 2/9: voice=third_person mode=introspectio conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 184s | NAR=NAR_EXTv FOC=FOC_INTx MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_DISv
+
+[27/55] Pagano-Emmanuelle_Saufs-riverains.txt
+    2998 lines -> 9 chunks of ~333 lines
+    chunk 1/9: voice=first_person mode=description conf=5
+    chunk 2/9: voice=first_person mode=description conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=description conf=5
+    chunk 5/9: voice=first_person mode=description conf=5
+    chunk 6/9: voice=first_person mode=description conf=5
+    chunk 7/9: voice=first_person mode=description conf=5
+    chunk 8/9: voice=first_person mode=description conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 171s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_DESCv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_FRAGv TEM=TEMP_LINx
+  [checkpoint saved, 27 done]
+
+[28/55] Panassenko-Polina_Tenir-sa-langue.txt
+    2166 lines -> 9 chunks of ~240 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=description conf=5
+    chunk 3/9: voice=first_person mode=description conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 174s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_REALx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINx
+
+[29/55] Plamondon-Eric_Taqawan.txt
+    3096 lines -> 9 chunks of ~344 lines
+    chunk 1/9: voice=third_person mode=introspectio conf=5
+    chunk 2/9: voice=third_person mode=action_event conf=5
+    chunk 3/9: voice=third_person mode=action_event conf=5
+    chunk 4/9: voice=third_person mode=action_event conf=5
+    chunk 5/9: voice=third_person mode=description conf=5
+    chunk 6/9: voice=third_person mode=description conf=5
+    chunk 7/9: voice=third_person mode=action_event conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=action_event conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 216s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_EVTv REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+
+[30/55] Poulain-Catherine_Le-grand-marin.txt
+    10184 lines -> 9 chunks of ~1131 lines
+    chunk 1/9: voice=first_person mode=description conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=description conf=5
+    chunk 4/9: voice=first_person mode=description conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=action_event conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 159s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+  [checkpoint saved, 30 done]
+
+[31/55] Pourchet-Maria_Feu.txt
+    4142 lines -> 9 chunks of ~460 lines
+    chunk 1/9: voice=unclear mode=introspectio conf=5
+    chunk 2/9: voice=unclear mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=unclear mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 180s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+
+[32/55] Reverdy-ThomasB_Climax.txt
+    3972 lines -> 9 chunks of ~441 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=third_person mode=description conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=description conf=5
+    chunk 5/9: voice=third_person mode=action_event conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=description conf=5
+    chunk 8/9: voice=third_person mode=description conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 215s | NAR=NAR_EXTv FOC=FOC_INTx MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+
+[33/55] Rico-Lucie_Le-chant-du-poulet-sous-vide.txt
+    3894 lines -> 9 chunks of ~432 lines
+    chunk 1/9: voice=third_person mode=introspectio conf=5
+    chunk 2/9: voice=third_person mode=description conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=description conf=5
+    chunk 6/9: voice=third_person mode=description conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 175s | NAR=NAR_EXTv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINv
+  [checkpoint saved, 33 done]
+
+[34/55] Rico-Lucie_GPS.txt
+    2926 lines -> 9 chunks of ~325 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=unclear mode=introspectio conf=5
+    chunk 4/9: voice=unclear mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=unclear mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 239s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_REALx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_DISv
+
+[35/55] Rodier-Jean_En-remontant-les-ruisseaux.txt
+    1130 lines -> 9 chunks of ~125 lines
+    chunk 1/9: voice=first_person mode=description conf=5
+    chunk 2/9: voice=first_person mode=description conf=5
+    chunk 3/9: voice=first_person mode=description conf=5
+    chunk 4/9: voice=first_person mode=description conf=5
+    chunk 5/9: voice=first_person mode=description conf=5
+    chunk 6/9: voice=first_person mode=description conf=5
+    chunk 7/9: voice=first_person mode=description conf=5
+    chunk 8/9: voice=first_person mode=description conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 155s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_DESCv REG=REG_REALv ESP=ESP_UNITx INT=INTR_FRAGx TEM=TEMP_LINv
+
+[36/55] Rolin-Jean_Le-Traquet-kurde.txt
+    593 lines -> 9 chunks of ~65 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=first_person mode=action_event conf=5
+    chunk 3/9: voice=third_person mode=action_event conf=5
+    chunk 4/9: voice=third_person mode=action_event conf=5
+    chunk 5/9: voice=third_person mode=action_event conf=5
+    chunk 6/9: voice=third_person mode=action_event conf=5
+    chunk 7/9: voice=first_person mode=description conf=5
+    chunk 8/9: voice=first_person mode=description conf=5
+    chunk 9/9: voice=first_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 263s | NAR=NAR_EXTx FOC=FOC_ZEROx MOD=MOD_EVTv REG=REG_REALv ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 36 done]
+
+[37/55] Rolin-Jean_Un-chien-mort-apres-lui.txt
+    1603 lines -> 9 chunks of ~178 lines
+    chunk 1/9: voice=first_person mode=description conf=5
+    chunk 2/9: voice=first_person mode=description conf=5
+    chunk 3/9: voice=first_person mode=description conf=5
+    chunk 4/9: voice=first_person mode=description conf=5
+    chunk 5/9: voice=third_person mode=description conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=description conf=5
+    chunk 8/9: voice=first_person mode=description conf=5
+    chunk 9/9: voice=first_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 164s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_LINx
+
+[38/55] Rosenthal-Olivia_Que-font-les-rennes-apres-Nol.txt
+    1696 lines -> 9 chunks of ~188 lines
+    chunk 1/9: voice=third_person mode=introspectio conf=5
+    chunk 2/9: voice=unclear mode=description conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=unclear mode=introspectio conf=5
+    chunk 5/9: voice=unclear mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=introspectio conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=unclear mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 3/3 failed: No valid JSON object found. Response was:
+Okay, let's tackle this. I need to analyze the provided data for the French novel "Rosenthal-Olivia_Que-font-les-rennes-apres-Nol.txt" based on the 9 sections with their observations. The goal is to determine the correct narrative categories using the given criteria.
+
+First, I'll go through each of the seven categories one by one.
+
+**TYPE NARRATEUR:**
+Looking at the "narrator_voice" and "narrator_
+  -> 324s | NAR=NAR_EXTx FOC=FOC_INTv MOD=MOD_INTRv REG=REG_FANTx ESP=ESP_UNITx INT=INTR_FRAGv TEM=TEMP_LINx
+
+[39/55] Royer-Corinne_Pleine-terre.txt
+    3520 lines -> 9 chunks of ~391 lines
+    chunk 1/9: voice=third_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=action_event conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 227s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINv
+  [checkpoint saved, 39 done]
+
+[40/55] Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-mere.txt
+    1547 lines -> 9 chunks of ~171 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 144s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITx INT=INTR_CYCv TEM=TEMP_LINx
+
+[41/55] Senges-Pierre_Ruines-de-Rome.txt
+    1204 lines -> 9 chunks of ~133 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=description conf=5
+    chunk 4/9: voice=first_person mode=description conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=description conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 163s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_FRAGx TEM=TEMP_LINv
+
+[42/55] Simonnot-Maud_LEnfant-celeste.txt
+    1329 lines -> 9 chunks of ~147 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=description conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 154s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_REALx ESP=ESP_UNITv INT=INTR_FRAGv TEM=TEMP_LINv
+  [checkpoint saved, 42 done]
+
+[43/55] Sinno-Neige_Triste-tigre.txt
+    3311 lines -> 9 chunks of ~367 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 203s | NAR=NAR_AUTODx FOC=FOC_INTx MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_FRAGx TEM=TEMP_DISx
+
+[44/55] Slimani-Leila_Chanson-douce.txt
+    3744 lines -> 9 chunks of ~416 lines
+    chunk 1/9: voice=third_person mode=action_event conf=5
+    chunk 2/9: voice=third_person mode=description conf=5
+    chunk 3/9: voice=third_person mode=description conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=introspectio conf=5
+    chunk 6/9: voice=third_person mode=mixed conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=action_event conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 222s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_MIXv REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+
+[45/55] Sorman-Joy_La-peau-de-lours.txt
+    858 lines -> 9 chunks of ~95 lines
+    chunk 1/9: voice=third_person mode=action_event conf=5
+    chunk 2/9: voice=first_person mode=action_event conf=5
+    chunk 3/9: voice=first_person mode=action_event conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=action_event conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 156s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_REALx ESP=ESP_UNITx INT=INTR_CYCx TEM=TEMP_LINv
+  [checkpoint saved, 45 done]
+
+[46/55] Sorman-Joy_Comme-une-bete.txt
+    1347 lines -> 9 chunks of ~149 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=third_person mode=introspectio conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=description conf=5
+    chunk 6/9: voice=third_person mode=description conf=5
+    chunk 7/9: voice=third_person mode=description conf=5
+    chunk 8/9: voice=third_person mode=description conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 196s | NAR=NAR_EXTv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINv
+
+[47/55] Toussaint_Jean-Philippe-Faire_l_amour.txt
+    885 lines -> 9 chunks of ~98 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=description conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=description conf=5
+    chunk 5/9: voice=first_person mode=description conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=description conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 153s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_REALx ESP=ESP_FRAGv INT=INTR_CYCv TEM=TEMP_LINx
+
+[48/55] Ventura-Maud_Mon-mari.txt
+    3315 lines -> 9 chunks of ~368 lines
+    chunk 1/9: voice=first_person mode=introspectio conf=5
+    chunk 2/9: voice=first_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=first_person mode=introspectio conf=5
+    chunk 6/9: voice=first_person mode=introspectio conf=5
+    chunk 7/9: voice=first_person mode=introspectio conf=5
+    chunk 8/9: voice=first_person mode=introspectio conf=5
+    chunk 9/9: voice=first_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 151s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_REALx ESP=ESP_UNITv INT=INTR_CYCx TEM=TEMP_LINv
+  [checkpoint saved, 48 done]
+
+[49/55] Volodine-Antoine_Songes-de-Mevlido.txt
+    8809 lines -> 9 chunks of ~978 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=third_person mode=introspectio conf=5
+    chunk 3/9: voice=first_person mode=introspectio conf=5
+    chunk 4/9: voice=first_person mode=description conf=5
+    chunk 5/9: voice=third_person mode=description conf=5
+    chunk 6/9: voice=third_person mode=action_event conf=5
+    chunk 7/9: voice=unclear mode=description conf=5
+    chunk 8/9: voice=third_person mode=description conf=5
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 268s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_DESCx REG=REG_REALx ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+
+[50/55] Volodine-Antoine_Terminus-radieux.txt
+    8864 lines -> 9 chunks of ~984 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=third_person mode=action_event conf=5
+    chunk 3/9: voice=third_person mode=introspectio conf=5
+    chunk 4/9: voice=third_person mode=action_event conf=5
+    chunk 5/9: voice=third_person mode=description conf=5
+    chunk 6/9: voice=third_person mode=mixed conf=5
+    chunk 7/9: voice=third_person mode=action_event conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 250s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_MIXx REG=REG_SPECv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+
+[51/55] Vuillard-Eric_14-Juillet.txt
+    2325 lines -> 9 chunks of ~258 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=third_person mode=description conf=5
+    chunk 3/9: voice=third_person mode=description conf=5
+    chunk 4/9: voice=first_person mode=description conf=5
+    chunk 5/9: voice=third_person mode=action_event conf=5
+    chunk 6/9: voice=third_person mode=description conf=5
+    chunk 7/9: voice=third_person mode=description conf=5
+    chunk 8/9: voice=third_person mode=action_event conf=5
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 195s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINv
+  [checkpoint saved, 51 done]
+
+[52/55] Wilhelmy-Audrée_Le-corps-des-bêtes.txt
+    1912 lines -> 9 chunks of ~212 lines
+    chunk 1/9: voice=third_person mode=introspectio conf=5
+    chunk 2/9: voice=third_person mode=description conf=5
+    chunk 3/9: voice=third_person mode=description conf=5
+    chunk 4/9: voice=third_person mode=description conf=5
+    chunk 5/9: voice=third_person mode=description conf=5
+    chunk 6/9: voice=third_person mode=description conf=5
+    chunk 7/9: voice=third_person mode=description conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 203s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_DESCv REG=REG_REALv ESP=ESP_UNITx INT=INTR_FRAGv TEM=TEMP_LINx
+
+[53/55] Vuillard-Eric_Lordre-du-jour.txt
+    1290 lines -> 9 chunks of ~143 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=third_person mode=action_event conf=5
+    chunk 3/9: voice=third_person mode=description conf=5
+    chunk 4/9: voice=third_person mode=action_event conf=5
+    chunk 5/9: voice=third_person mode=action_event conf=5
+    chunk 6/9: voice=third_person mode=description conf=5
+    chunk 7/9: voice=third_person mode=description conf=5
+    chunk 8/9: voice=first_person mode=description conf=5
+    chunk 9/9: voice=third_person mode=introspectio conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 210s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_MIXx REG=REG_REALv ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_DISv
+
+[54/55] Vuillard-Eric_Tristesse-de-la-terre-Une-histoire-de-Buffalo-Bill-Cody.txt
+    1491 lines -> 9 chunks of ~165 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=third_person mode=description conf=5
+    chunk 3/9: voice=third_person mode=action_event conf=5
+    chunk 4/9: voice=third_person mode=description conf=5
+    chunk 5/9: voice=third_person mode=action_event conf=5
+    chunk 6/9: voice=third_person mode=action_event conf=5
+    chunk 7/9: voice=third_person mode=introspectio conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=description conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 203s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_FRAGx INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 54 done]
+
+[55/55] Zeniter-Alice_Lart-de-perdre.txt
+    8181 lines -> 9 chunks of ~909 lines
+    chunk 1/9: voice=third_person mode=description conf=5
+    chunk 2/9: voice=third_person mode=action_event conf=5
+    chunk 3/9: voice=third_person mode=action_event conf=5
+    chunk 4/9: voice=first_person mode=introspectio conf=5
+    chunk 5/9: voice=third_person mode=description conf=5
+    chunk 6/9: voice=third_person mode=description conf=5
+    chunk 7/9: voice=third_person mode=description conf=5
+    chunk 8/9: voice=third_person mode=introspectio conf=5
+    chunk 9/9: voice=third_person mode=action_event conf=5
+    -> reduce step x3 (9/9 good observations)
+  -> 206s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+
+Done — 55 novels processed
+Saved to: /home/lfarooq/ecopoetique/narratologie/resultats_task0_mapreduce_v6.csv
+
+==============================================================
+  MAP-REDUCE v6 RESULTS  —  qwen3:30b  (3x reduce vote)
+==============================================================
+  TYPE NARRATEUR         49/55  ( 89.1%)  █████████████████
+  FOCALISATION           39/55  ( 70.9%)  ██████████████
+  MODE NARRATIF          21/55  ( 38.2%)  ███████
+  REGIME NARRATIF        40/55  ( 72.7%)  ██████████████
+  ESPACE                 27/55  ( 49.1%)  █████████
+  INTRIGUE               21/55  ( 38.2%)  ███████
+  TEMPORALITÉ            24/55  ( 43.6%)  ████████
+--------------------------------------------------------------
+  OVERALL                221/385  ( 57.4%)
+==============================================================
+

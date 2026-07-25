@@ -1,0 +1,13 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 3751.31it/s]
+Processing 5 novels (device=CPU)...
+Output: /home/lfarooq/ecopoetique/morphosyntaxe/dépendants_HUMAINS_multilingual.csv
+  [  1/5] Achache-Carole_La-Plage-De-Trouville.txt      + 332 rows (263.0s) | fr=321 ml_new=11 | ETA=18min
+  [  2/5] Adam-Olivier_A-labri-de-rien.txt              + 124 rows (266.6s) | fr=438 ml_new=18 | ETA=13min
+  [  3/5] Adam-Olivier_Falaises.txt                     + 145 rows (240.9s) | fr=559 ml_new=42 | ETA=9min
+  [  4/5] Adam-Olivier_Le-coeur-regulier.txt            + 142 rows (268.0s) | fr=696 ml_new=47 | ETA=4min
+  [  5/5] Adam-Olivier_Les-Lisieres.txt                 + 154 rows (259.9s) | fr=811 ml_new=86 | ETA=0min
+
+Done in 21.6 minutes
+  Total rows: 897  (fr_model=811, multilingual_model=86)
+  Saved to: /home/lfarooq/ecopoetique/morphosyntaxe/dépendants_HUMAINS_multilingual.csv

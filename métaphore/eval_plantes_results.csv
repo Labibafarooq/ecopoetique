@@ -1,0 +1,189 @@
+fichier,token,contexte,gold_label,qwen_pred,qwen_correct,gpt_pred,gpt_correct
+Niel-Colin_Entre-fauves.txt,graminées,"Entre le lion et nous, le milieu est grand ouvert, à peine quelques arbres, des graminées rases qui dépassent des pierre",référentiel,référentiel,1,,0
+Boisséson-Matthieu-de_Le-Grand-Chariot.txt,serpolet,"Nous fîmes une pause sur la berge, dans une échancrure de sable où poussait le serpolet, mais cernée par la bruyère et l",référentiel,référentiel,1,,0
+Rolin-Olivier_Tigre-en-papier.txt,pin,"», c’est comme ça qu’il m’a salué, en me balançant une claque formidable entre les omoplates, sur le parvis où on attend",référentiel,référentiel,1,,0
+Dubois-Jean_Une-vie-francaise.txt,micocouliers,Mon métier consistait à parcourir le monde du pas du promeneur en photographiant des micocouliers à la lumière du coucha,référentiel,référentiel,1,,0
+Del-Amo-Jean-Baptiste_Regne-animal.txt,joncs,Des ragondins prennent la fuite entre les touffes de joncs et les feuilles tranchantes des laîches.,référentiel,référentiel,1,,0
+Braudau-Michel_Linterpretation-des-singes.txt,tilleuls,"Il gonfle son blé et le fauche une première fois, le reprend, le secoue et l’empoigne. Il est tout prêt à s’unir avec la",référentiel,référentiel,1,,0
+Rolin-Jean_Les-evenements.txt,cèdre du Liban,"Mais ce défaut d’épaisseur est corrigé, au moins partiellement, par la largeur du parc qui le sépare de la route, un par",référentiel,référentiel,1,,0
+Bigot-Christophe_Un-autre-mattend-ailleurs.txt,palmiers,"Seuls demeurent, plantés dans la terre aride, quelques palmiers étiques.",référentiel,référentiel,1,,0
+Plazenet-Laurence_La-blessure-et-la-soif.txt,chanvre,"Je conservais des feuilles de papier de chanvre de Chou, des bâtons d’encre de Chankou, des peaux de lapin choisies dans",référentiel,référentiel,1,,0
+Rolin-Olivier_Le-metereologue.txt,pin,"Les lobes d’une feuille visualisaient les nombres élémentaires, sa forme la symétrie et la dissymétrie, une pomme de pin",référentiel,référentiel,1,,0
+Mann-Esther-Levon-Minasian_Le-fil-des-anges.txt,raisin,"Il m’a dit: « Va, oncle Vazguen, ramasse du raisin autant que tu veux. »",référentiel,référentiel,1,,0
+Bencheikh-Djilali_Tes-yeux-bleus-occupent-mon-esprit.txt,eucalyptus,"À l’abri d’un eucalyptus chenu, nous soulevons le bras à tour de rôle dans un mouvement aussi lymphatique que désespéré.",référentiel,référentiel,1,,0
+Moi-Anna_Le-venin-du-papillon.txt,pandanus,"Jusqu’au déjeuner, les deux sœurs traînent leurs jambes de héron entre les fleurs d’oiseaux de paradis et les feuilles s",référentiel,référentiel,1,,0
+Jenni-Alexis_Lart-français-de-la-guerre.txt,riz,Ils se demandent l’un à l’autre s’ils ont mangé du riz.,référentiel,référentiel,1,,0
+Arnaud-Clara_Et-vous-passerez-comme-des-vents-fou.txt,citron,"Sardines à l’huile, à la tomate, au citron, et des maquereaux, allez, pour changer.",référentiel,référentiel,1,,0
+Apperry-Yann_Farrago.txt,ronces,"Ses pieds labouraient l’humus, se cramponnaient aux ronces, aux branches les plus basses, si bien que parfois, j’avais l",référentiel,référentiel,1,,0
+Besson-Patrick_Mais-le-fleuve-tuera-lhomme-blanc.txt,oignons,"noirs, le bœuf aux oignons et du riz cantonnais.",référentiel,référentiel,1,,0
+Defraiteur-Anne_Palace-Cafe.txt,tomates,"— Je travaille pour que les tomates soient plus rouges, les radis moins piquants, les endives moins amères et les pommes",référentiel,référentiel,1,,0
+Deserable-Francois_Un-certain-M.txt,anthémis,"Il n’avait plus de rose à ses pieds, mais des fleurs, des anthémis un peu fanées qu’un admirateur – une admiratrice ?",référentiel,référentiel,1,,0
+Levi-Celia_La-Tannerie.txt,pastèque,"Lila s’activait en cuisine, elle mixait de la pastèque avec de la vodka.",référentiel,référentiel,1,,0
+Moix-Yann_Podium.txt,magnolias,"Dans un parterre de magnolias, une feuille de classeur plastifiée :",référentiel,référentiel,1,,0
+Appanah-Nathacha_Le-dernier-frere.txt,cardamome,"Ma mère avait fait du riz au lait avec du sucre, de la cardamome, et pour épaissir ce petit déjeuner car il y avait vrai",référentiel,référentiel,1,,0
+Mazloum-Diane_Lagedor.txt,olivier,"Ne laissez pas la branche d’olivier tomber de ma main… » Souriant, il avait joint les poings au-dessus de la tête comme ",figuré,figuré,1,,0
+Cusset-Catherine_La-Haine-de-la-famille.txt,lin,"Elle n’aime que les beaux tissus sans mélange, pure laine, pur cachemire, pur coton, pure soie, pur lin, ou, s’il faut u",référentiel,référentiel,1,,0
+RIchard-Jennifer_Il-est-a-toi-ce-beau-pays.txt,dattiers,Les palmiers et les dattiers côtoyaient bananiers et caoutchoucs.,référentiel,référentiel,1,,0
+Olmi-Veronique_Le-gosse.txt,roses,"terre plein sur lequel est échoué un long bateau penché, et puis des allées de lauriers, des violettes, du lilas, des ro",référentiel,référentiel,1,,0
+Ravaloson-Johry_Vol-a-vif.txt,riz,"Le tour de garde établi, nous nous affalons mollement à côté d’une rivière, mâchonnant qui du zébu boucané, qui du riz s",référentiel,référentiel,1,,0
+Mann-Esther-Levon-Minasian_Le-fil-des-anges.txt,foin,C’est du foin que je t’ai donné pour que tu rumines?,référentiel,référentiel,1,,0
+Jeanmart-Hedwige_Blanes.txt,poireaux,"Tous ceux qui allaient et venaient au marché, le cabas vide ou le cabas déjà lourd d’où pointaient des queues de poireau",référentiel,référentiel,1,,0
+Del-Amo-Jean-Baptiste_Le-fils-de-lhomme.txt,plantes ligneuses,"Certaines ont pourri et cèdent entre ses mains quand il les tire à lui, d’autres émergent de l’humus, dévoilent leurs ra",figuré,figuré,1,,0
+Khoury-Ghata-Venus_Sept-pierres-pour-la-femme-adultere.txt,pois chiches,"Rien que des lentilles et des pois chiches alors qu’elle rêve de poulet grillé et d’agneau farci, au pire d’aubergines e",référentiel,référentiel,1,,0
+Moi-Anna_Le-venin-du-papillon.txt,bois de rose,"Il en fallait plus pour décourager Mae : elle le recopia à la main, rivetée à une grande table en bois de rose, d’une éc",référentiel,référentiel,1,,0
+Ducrozet-Pierre_Linvention-des-corps.txt,pins,"Deux camarades le retrouvent finalement, allongé dans la forêt, observant le ciel à travers une trouée entre deux pins.",référentiel,référentiel,1,,0
+Truong-Jeanne_Ceux-qui-sont-restes-la-bas.txt,riz,Il ne restait plus un seul grain de riz.,référentiel,référentiel,1,,0
+Jeancourt-Galignani-Oriane_Quand-larbre-tombe.txt,acacias,"profondément enracinées dans le sol qu’il eût été impossible de les arracher à la bêche, les sommets vacillants des peup",référentiel,référentiel,1,,0
+Adrian-Pierre_Hotel-Roma.txt,laurier,Le laurier ployait contre la façade.,référentiel,référentiel,1,,0
+Schwartz-Violaine_La-tete-en-arriere.txt,bambous,Surveiller les bambous. Écrire une petite annonce.,référentiel,référentiel,1,,0
+Trassard-Jean_lhomme-des-haies.txt,ronces,"La faucille fait bien pour le flanc de haie où c’est de l’herbe qui pousse, s’il y a des ronces j’aime mieux prendre ma ",référentiel,référentiel,1,,0
+Chemla-Nicolas_Murnau-des-tenebres.txt,fougères arborescentes,"« Au fond de ce gouffre, c’était un vrai enchantement : des végétations extravagantes s’enchevêtraient à l’ombre, ruisse",référentiel,référentiel,1,,0
+Raharimanana_Revenir.txt,riz,"Le client partait avec ses patates, son riz ou ses lentilles, mais sûrement pas 25 kg.",référentiel,référentiel,1,,0
+Jestin-Victor_La-Chaleur.txt,pins,"Trois étoiles au cœur d’une forêt de pins, au bord de l’océan.",référentiel,référentiel,1,,0
+Gaude-Laurent_Danser-les-ombres.txt,riz,"“Je m’appelle Rose Eustache” et personne n’ose l’interrompre mais tout le monde préférerait qu’elle se taise, je m’appel",référentiel,référentiel,1,,0
+Ducrozet-Pierre_Linvention-des-corps.txt,fougères,Du sable presque et quelques fougères disséminées.,référentiel,référentiel,1,,0
+Chambaz-Bernard_Dernieres-nouvelles-du-Martin-Pêcheur.txt,maïs,"Quand l’avion le mitraille, il doit se jeter à terre, avant de courir dans un style impeccable et un costume gris anthra",référentiel,référentiel,1,,0
+Deck-Julia_Monument-national.txt,mélèzes,"Un flamboiement éclatait derrière les mélèzes, marée rouge étalée au-dessus des cimes.",référentiel,référentiel,1,,0
+Segur-Philippe_Poetique-de-l-egorgeur.txt,ifs,Ils disparaissent dans les virages derrière la masse sombre des pins et des ifs avant de ressurgir plus loin.,référentiel,référentiel,1,,0
+Garcia-Tristan_Faber.txt,tilleuls,"Les façades blanches des habitations bourgeoises jaunissaient sous le coup des lampadaires, qui transformaient les tille",référentiel,référentiel,1,,0
+Bigot-Christophe_Un-autre-mattend-ailleurs.txt,gazon,"Les hôtels de luxe avec piscine, garçons en blanc et gazon anglais côtoient les bidonvilles grands comme des agglomérati",référentiel,référentiel,1,,0
+Bertrand-Jacques_Comment-jai-mange-mon-estomac.txt,platanes,"J’ai toujours aimé dîner dehors, sous les platanes du sud, à la fraîche, les soirs de fin d’été.",référentiel,référentiel,1,,0
+Haenel-Yannick_Cercle.txt,saules,"Cap au libre, me disais-je, et je regardais autour de moi : plus loin, dans l’allée des Cygnes, il y avait des saules, d",référentiel,référentiel,1,,0
+Bichet-Yves_Lhomme-qui-marche.txt,asphodèles,"Je grimpe une dernière fois vers ma frontière, comme un petit vieux, un pied après l’autre, montant le lacet de Plampine",référentiel,référentiel,1,,0
+Grayson-Catherine-Lune_Le-testament-de-nos-corps.txt,lilas,"C’était en mai, les lilas fleurissaient, ça sentait le printemps.",référentiel,référentiel,1,,0
+Zenatti-Valerie_Jacob-Jacob.txt,sapin,"Le bruit du canon rebondit de sapin en sapin, et de l’autre côté de ces collines, il va rouler sur la plaine d’Alsace co",référentiel,référentiel,1,,0
+Gaudy-Helene_Archipels.txt,ajoncs,"Ça sent le sable sec et la mer qui revient, coquilles d’huîtres, ajoncs, herbes frottées, plantes du Sud exilées par la ",référentiel,référentiel,1,,0
+Monenembo-Tierno_Bled.txt,joncs,"Derrière un comptoir de roseaux et de joncs, une porte s’ouvrait sur une autre pièce pleine de divans, de tapis et de pl",référentiel,référentiel,1,,0
+Dorsan-Mary_Le-present-infini-s'arrête.txt,menthe,Le contraste serait parfait après le thé à la menthe sirupeux.,référentiel,référentiel,1,,0
+Tremblay-Michel_Le-peintre-d-aquarelles.txt,pois,Et accompagnés de petits pois en boîte.,référentiel,référentiel,1,,0
+Roegiers-Patrick_Le-bonheur-des-belges.txt,rosiers,"Outre des rosiers taillés à l’ancienne, il est semé de plantes, de légumes et de fleurs, sorte d’Éden luxuriant, paradis",référentiel,référentiel,1,,0
+Majdalani-Charif_Caravanserail.txt,oliviers,"Ce dernier confirme et, en allant s’asseoir à l’ombre d’un acacia, sur des tapis ou sur des chaises basses, les deux fut",référentiel,référentiel,1,,0
+Bonnefoy-Miguel_Sucre-noir.txt,ronces,"L’abattement et la lassitude étaient mêlés, confondus, comme les monnaies différentes d’un même trésor, et il rentrait d",référentiel,référentiel,1,,0
+Haenel-Yannick_Cercle.txt,osier,"La méduse est revenue, elle tourne autour du petit salon en osier.",référentiel,référentiel,1,,0
+Belem-Gaëlle_Un-monstre-est-la-derriere-la-porte.txt,cocotier,"Balié nique : balai végétal fait de tiges de palmier ou de cocotier, utilisé pour nettoyer les cours et menacer tous les",référentiel,référentiel,1,,0
+Mathieu-Nicolas_Leurs-enfants-apres-eux.txt,gazon,"Ils burent comme ça à tour de rôle, puis jetèrent la canette sur le gazon fraîchement tondu.",référentiel,référentiel,1,,0
+Effa-Gaston-Paul_les-enfants-de-la-tradition.txt,arachide,"Mes mains, alors, allaient et venaient dans l’eau et dans la pâte d’arachide, et je comprenais enfin ce que disait ma gr",référentiel,référentiel,1,,0
+Villeminot-Vincent_Nous-sommes-letincelle.txt,châtaigniers,"Des hommes, des femmes, des enfants passaient du côté des châtaigniers, au cours de la journée, les regardaient de loin ",référentiel,référentiel,1,,0
+NDiaye-Marie_Autoportrait-en-vert.txt,bananier,"Ils ne pensent plus à cette ferme désolée, ils ne pensent plus à ce qu’ils n’ont pas vu auprès du bananier.",référentiel,référentiel,1,,0
+Morgieve-Richard_La-fete-des-meres.txt,haricots,"Il manquait Eliot Ness et des mitraillettes. Ensuite, après avoir acheté un santon, j’étais allé dans un supermarché Car",référentiel,référentiel,1,,0
+Dupont-Eric_La-fiancee-americaine.txt,lime,Elle m’a passé un grand peignoir vert lime et m’a forcé à prendre des aspirines.,figuré,référentiel,0,,0
+Greveillac-Paul_Maitres-et-esclaves.txt,jasmin,"Bercés dans le jasmin, cachés derrière des moucharabiehs compliqués, ils buvaient le thé dans des maisons laquées, perch",figuré,référentiel,0,,0
+Millet-Richard_Ma-vie-parmi-les-ombres.txt,hêtres,Le caporal Foly me prendrait par la main pour me conduire au Labyrinthe dont l’entrée se trouvait non plus dans le Pas-d,référentiel,référentiel,1,,0
+Cortanze-Gerard-de_Assam.txt,thé,"– Camelia sesanqua, c’est le nom latin du thé, dit Percy.",référentiel,référentiel,1,,0
+Reinhardt-Eric_Cendrillon.txt,café,"Ces transactions à terme permettaient aux producteurs de blé, de sucre, de café, de LOCKER les prix un an à l’avance et ",référentiel,référentiel,1,,0
+Bayon-Bruno_Les-pays-immobiles.txt,poivre,Que je pue le poivre fumé?,référentiel,référentiel,1,,0
+Bachi-Salim_Amours-et-aventures-de-Sinbad.txt,calebasses,"« Je restai dans cet état un certain temps, lorsqu’un beau jour je débouchai dans une clairière où abondaient des courge",référentiel,référentiel,1,,0
+Palou-Anthony_La-faucille-dor.txt,thym,"Beurrez le fond de la cocotte, ajoutez l’huile, puis tapissez le fond avec les carottes, les oignons coupés en rondelles",référentiel,référentiel,1,,0
+Delabroy-Allard-Pauline_Ca-raconte-Sarah.txt,raisin,"La douceur éternelle du thé pris dans le jardin, sur le vieux mobilier en fer-blanc, une table ronde et quatre chaises p",référentiel,référentiel,1,,0
+Serrano-Jean-Louis_La-beauté-du-poulpe.txt,poivrons,"Quand l’un pleure, la même inquiétude crispe les visages de Fatma et de Marie. On partage les mêmes odeurs de poivrons g",référentiel,référentiel,1,,0
+Echenoz-Jean_Au-piano.txt,phlox,"Il guida Max vers un minuscule cottage de type anglo-saxon flanqué d’un jardinet foisonnant de roses et d’anémones, de p",référentiel,référentiel,1,,0
+Belem-Gaëlle_Un-monstre-est-la-derriere-la-porte.txt,palmier,"Balié nique : balai végétal fait de tiges de palmier ou de cocotier, utilisé pour nettoyer les cours et menacer tous les",référentiel,référentiel,1,,0
+Zukerman-David_San-Perdido.txt,bananier,"Aucune feuille de bananier ne traîne sur le sol et aucune buche n’a été déplacée, ce qui n’aurait pas manqué de se produ",référentiel,référentiel,1,,0
+Deserable-Francois_Un-certain-M.txt,chênes,"Et si Faulkner, se dit Gary, né dans la cambrousse confédérée chez les cagoules pointues, là où la nuit sous les grands ",référentiel,référentiel,1,,0
+Bienne-Gisele_La-malchimie.txt,pois,"L’herbe des prairies, la plaine, son blé, son maïs, ses colzas, ses luzernes, ses patates, ses betteraves, ses tournesol",référentiel,référentiel,1,,0
+Haenel-Yannick_Cercle.txt,tilleuls,"À l’ombre des tilleuls un murmure, comme une fontaine de phrases.",référentiel,référentiel,1,,0
+Ducrozet-Pierre_Linvention-des-corps.txt,mangue,"Le poulpe a disparu, laissant place à la fameuse gaufre à l’esturgeon et au carpaccio de thon et de mangue.",référentiel,référentiel,1,,0
+Koenig-Gaspard_Humus.txt,renoncules,"Autour de la minuscule plage de gravier s’étaient réfugiés des touffes d’herbes hirsutes, des joncs lançant leurs fleurs",référentiel,référentiel,1,,0
+Nicole-Eugene_Loeuvre-des-mers.txt,ancolie,Le pied d’ancolie soigné par La Vieille a gagné dix centimètres dans le jardin de la maison Jacquet. Cependant couve un ,référentiel,référentiel,1,,0
+Volodine-Antoine_Terminus-radieux.txt,myrtilles,"La tiédeur de l’été se faufila jusqu’à eux, avec des odeurs de feuilles sèches, de champignons et de myrtilles, de baies",référentiel,référentiel,1,,0
+Guay-Poliquin-Christian_Les-ombres-filantes.txt,bardanes,reprend mon cousin en décrochant les boules de bardanes accrochées à ses vêtements.,référentiel,référentiel,1,,0
+Chevillard-Eric_Oreille-rouge.txt,papayer,Le frêle papayer produit un fruit plus lourd que lui et ne rompt pas ni ne le laissera choir pourtant avant qu’il soit b,référentiel,référentiel,1,,0
+Guilbert-Cecile_Reanimation.txt,lin,"N’ayant pas refait le lit depuis notre départ à l’hôpital, j’ai soigneusement évité de toucher au cocon de plumes gainé ",référentiel,référentiel,1,,0
+Giraud-Thomas_Le-bruit-des-tuiles.txt,groseille,"Des groseilles oui, bien dures, immangeables, sans même un goût de groseille mais plutôt de sable et de sel.",référentiel,référentiel,1,,0
+Daoud-Kamel_enquête.txt,vigne,Je me souviens de la vigne pourvoyeuse d’ombre le long des murs et du piaillement strident des oiseaux.,référentiel,référentiel,1,,0
+Peju-Pierre_Le-rire-de-l-ogre.txt,roses,"Quand il n’est pas avec ses malades, il est avec ses roses, il taille, il jardine.",référentiel,référentiel,1,,0
+Dreyfus-Arthur_Journal-sexuel-dun-garçon-daujourdhui.txt,asperge,"(J’ai assimilé, dans un texte, la bite d’un garçon brésilien à une asperge trop cuite. Ce côté flasque et blanc.)",figuré,figuré,1,,0
+Ravey-Yves_Enlevement-avec-rancon.txt,tomate,"Je lui ai demandé si, trois œufs, c’était suffisant, alors j’ai ajouté un peu d’ail, une tranche de tomate sur le côté, ",référentiel,référentiel,1,,0
+Pourchet-Maria_Feu.txt,lys,"Tu t’entends penser courage Laure, quand vous ouvrez la porte sur un lit court, un bureau, deux fauteuils de style dans ",figuré,référentiel,0,,0
+Olmi-Veronique_Bakhita.txt,chêne,L’enfant joue avec Mèlia et Chiara au pied du grand chêne.,référentiel,référentiel,1,,0
+Becheur-Ali_Le-paradis-des-femmes.txt,abricotier,"Rien vu de la Corniche, des petites maisons tassées les unes contre les autres pour se tenir les coudes, pour ne pas s’é",figuré,référentiel,0,,0
+Monenembo-Tierno_Saharienne-indigo.txt,carottes,"Parfois même, j’ai l’impression d’entendre son cruel ricanement s’échapper de la clameur de Paris. Les carottes sont cui",figuré,figuré,1,,0
+Nguyen_Soie-et-metal.txt,cocotier,"Arrivé à hauteur de l’endroit où il l’avait vue pour la première fois, il remonta, comme d’habitude, et s’assit contre u",référentiel,référentiel,1,,0
+Mairesse-Beata_Tous-tes-enfants-disperses.txt,calebasses,"Les mots sont souvent comme de jolies calebasses décorées, creuses et fêlées sous leur apparence reluisante, ou traîtres",figuré,figuré,1,,0
+Roegiers-Patrick_Le-bonheur-des-belges.txt,oyats,Je me réjouis de fouler le bandeau de sable qui sépare les brise-lames et le ruban des dunes plantées d’oyats verts.,référentiel,référentiel,1,,0
+Deville-Patrick_Kampuchea.txt,palmiers,"« À quoi cela m’avait-il servi vraiment d’apprendre les conquêtes d’Alexandre le Grand, que César avait franchi le Rubic",figuré,référentiel,0,,0
+Chiche-Sarah_Les-entenebres.txt,pois,Je vois ma mère aux cheveux parsemés de blanc penchée sur des petits pois qu’elle cuisine pour ma fille.,référentiel,référentiel,1,,0
+Lafon-Marie_Joseph.txt,poivre,Joseph se servait de sucre dans la boîte rectangulaire qui était toujours garnie et à sa place sur l’étagère carrelée à ,référentiel,référentiel,1,,0
+Dreyfus-Arthur_Journal-sexuel-dun-garçon-daujourdhui.txt,pervenche,"Dans Elles ont 15 ans, déclaration d’amour (bien incorrecte pour notre époque) aux petites nymphes de platebande, Fanon ",figuré,référentiel,0,,0
+Niel-Colin_Entre-fauves.txt,pin,"Les plumes caressent ma joue, j’aligne mon tunnel, visette-viseur-cible, le pin vert des vingt mètres calé en haut de la",référentiel,référentiel,1,,0
+Prudhomme-Sylvain_Par-les-routes.txt,ail,J’ai préparé une vinaigrette à l’huile d’olive et à l’ail.,référentiel,référentiel,1,,0
+Mauvignier-Laurent_Continuer.txt,luzerne,"On regarde les chevaux qui broutent de la luzerne un peu plus loin, en se disant qu’il faudra se rapprocher.",référentiel,référentiel,1,,0
+Del-Amo-Jean-Baptiste_Le-fils-de-lhomme.txt,henné,"Tout, dans le corps de la mère, est entré en résistance contre celui de l’aïeule : ses formes pleines, sa peau souple, s",référentiel,référentiel,1,,0
+Pradeau-Christophe_La-grande-sauvagerie.txt,figuier,"Lorsqu’enfin je me retrouvai seule, à l’heure de la sieste, sous le figuier, mon livre à la main, le vertige me reprit q",référentiel,référentiel,1,,0
+Fottorino-Eric_Mohican.txt,chêne,Il sait qu’on ne plante pas un maïs avant que les feuilles de chêne dépassent la taille d’une oreille d’écureuil.,référentiel,référentiel,1,,0
+Wilhelmy-Audrée_Le-corps-des-bêtes.txt,joncs,"Elle étend la paille sur le sol, pose des roches pour que les joncs ne s’éparpillent pas au vent, puis quand les herbes ",référentiel,référentiel,1,,0
+Senges-Pierre_Ruines-de-Rome.txt,mouron,"L’esprit mal informé attribue l’insomnie au souci, aux pensées, et même au mouron – qui est une stellaire, de la famille",référentiel,référentiel,1,,0
+Sewtohul-Amal_Histoire-dAshok.txt,gazon,"» Bref, j’ai dû filer. * Bien fait, je n’avais pas à me mêler de cette histoire. Demain je rentrerai chez moi. Chez moi:",référentiel,référentiel,1,,0
+Bailly-Pierric_Michael-Jackson.txt,maïs,"Pour le retour de Maud, je prépare une salade avec du maïs et des pignons de pin.",référentiel,référentiel,1,,0
+Delaume-Chloe_Le-coeur-synthetique.txt,concombre,"Devant le caissier aux dreadlocks, Richard range les œufs frais, les steaks de soja, le chocolat au lait d’amande, le to",référentiel,référentiel,1,,0
+Victor-Gary_La_piste-des-sortileges.txt,manguiers,Les branches basses des manguiers mettent les fruits à portée de la main.,référentiel,référentiel,1,,0
+Arnaud-Clara_Et-vous-passerez-comme-des-vents-fou.txt,hêtre,"Elle arrima la caméra sur un vieux hêtre, ça me paraît être un bon angle, oui, enfin, peut-être un peu plus par là si je",référentiel,référentiel,1,,0
+Trassard-Jean_lhomme-des-haies.txt,pommes de terre,"Quand je venais avec mon père qui brûlait les fevas* de pommes de terre ou des barbeyures, je mettais des pommes à cuire",référentiel,référentiel,1,,0
+Flahaut-Thomas_Ostwald.txt,bouleaux,Celui de buissons d’orties qui moutonnent entre deux bouleaux est encore différent.,référentiel,référentiel,1,,0
+Huston-Nancy_Lignes-de-faille.txt,osier blanc,"Quand je sors sur la véranda elle est déjà là, assise dans le fauteuil à bascule en osier blanc, un livre dans une main ",référentiel,référentiel,1,,0
+Bayamack-Emmanuelle_Arcadie.txt,nénuphars,Ma bouche aussi aurait voulu en être et rejoindre la sienne entre lentisques et nénuphars.,référentiel,référentiel,1,,0
+Darrieussecq-Marie_Il-faut-beaucoup-aimer-les-hommes.txt,concombre,"Kouhouesso appela la serveuse pour un deuxième Eastern Standard (concombre-menthe-tonic-vodka) et s’excusa, il sortait f",référentiel,référentiel,1,,0
+Message-Vincent_Les-veilleurs.txt,chêne,Les bois en ronde-bosse de la Salle des Globes ne lui disaient plus rien : dans tous les blocs de chêne attendant d’être,référentiel,référentiel,1,,0
+Narine-Vidya_Orchideiste.txt,orchidée,"Personne ne sait à quoi ressemblera cette nouvelle orchidée si elle existe, même pas lui.",référentiel,référentiel,1,,0
+RIchard-Jennifer_Il-est-a-toi-ce-beau-pays.txt,raphia,"Il trouva dans sa chambre tout le confort occidental, un lit en bois, avec tête de lit et matelas en raphia et bambou.",référentiel,référentiel,1,,0
+Darrieussecq-Marie_White.txt,figue,"Ça donnait un temps entredeux, mi-figue mi-raisin, pour satisfaire tout le monde.",figuré,figuré,1,,0
+Ouaknine-Serge_le-tao-du-tagueur.txt,lotus,"C’est si beau, un lotus qui se tient droit! — Vous avez des lotus? » demande-t-elle, soudain illuminée.",référentiel,référentiel,1,,0
+Lepront-Catherine_Des-gens-du-monde.txt,jacinthes,"Elle venait avec des oignons de tulipes préparer le printemps du jardin, elle avait constaté que les roses de Noël, les ",référentiel,référentiel,1,,0
+Hunzinger-Claudie_Les-grands-cerfs.txt,linaires,"En revenant vers la maison, elle a tout de même trouvé du jaune, de l’orange et du violet, des linaires, du millepertuis",référentiel,référentiel,1,,0
+Nizard-Simon_Les-mains-de-Fatma.txt,poivre noir,"cette contrebande unique de parfums qu’elle trafique sous sa peau tendue: poivre rouge, cannelle,j amaïque, gingembre, b",référentiel,référentiel,1,,0
+Ladjali-Cecile_Benedict.txt,pommiers,Les pommiers calcinés se gaussent de sa peine.,figuré,figuré,1,,0
+Brisac-Genevieve_Une-annee-avec-mon-pere.txt,sapin,Il fouille dans les paquets au pied du sapin.,référentiel,référentiel,1,,0
+Dorsan-Mary_Le-present-infini-s'arrête.txt,pois,"Caroline reconnaît dans son assiette blanche la couleur des petits pois de son parapluie, elle trace des lignes de pluie",figuré,figuré,1,,0
+Brisac-Genevieve_Dans-les-yeux-des-autres.txt,acanthe,"Mélini vient négocier des tulipes pourpres pour son vase noir, des iris pour le salon, des branches d’asters, des aubépi",référentiel,référentiel,1,,0
+Deville-Patrick_Peste_choléra.txt,bégonias,"Chez Vilmorin, il choisit graines et bulbes, arums et bégonias, amarantes crêtes-de-coq et pétunias, cyclamens, zinnias,",référentiel,référentiel,1,,0
+Rondeau-Daniel_Dans-la-marche-du-temps.txt,sapin,Il se dit que son amant venait probablement d’arriver dans le salon pour voir si par hasard le Père Noël n’avait rien dé,référentiel,référentiel,1,,0
+Mazloum-Diane_Lagedor.txt,pivoines,"De sa longue main gantée, il a introduit avec soin le dernier bouquet de pivoines dans un vase en cristal.",référentiel,référentiel,1,,0
+Malte-Marcus_Le-garçon.txt,aulnes,Ensuite il faut franchir une petite jungle d’aulnes et de peupliers.,référentiel,référentiel,1,,0
+Dorion-Helene_Pas-meme-le-bruit-d-un-fleuve.txt,algues,"D’autres restent encore captifs de cette nuit, et leur nom devient un secret usé, recouvert par les algues et que grugen",figuré,figuré,1,,0
+Rozier-Gilles_Dun-pays-sans-amour.txt,chêne,"J’avais fait déposer les papiers à motif de toile de Jouy et j’avais fait repeindre en blanc, retirer les moquettes et r",référentiel,référentiel,1,,0
+Minard-Celine_Le-Grand-Jeu.txt,framboisiers,"J’ai noté les emplacements des framboisiers sauvages, des nappes de fraisiers en bordure de forêt, je les guette, je ne ",référentiel,référentiel,1,,0
+Joncour-Serge_Chien-Loup.txt,haricots,"— C’est bien des haricots et des œufs que votre dame m’a demandés, hier ?",référentiel,référentiel,1,,0
+Minard-Celine_Le-Grand-Jeu.txt,bambou,Le chant des oiseaux dans un bosquet de bambou remplace les musiques à corde.,référentiel,référentiel,1,,0
+Huston-Nancy_Dolce-agonia.txt,concombres,"– et il y a des condiments divers, des chutneys et des moutardes, de minuscules assiettes de betteraves et de concombres",référentiel,référentiel,1,,0
+Greveillac-Paul_Maitres-et-esclaves.txt,litchis,"De l’ongle de son auriculaire, qu’il avait long et courbe comme une serpe, Lao Tian écossait jadis les litchis les plus ",référentiel,référentiel,1,,0
+Del-Amo-Jean-Baptiste_Le-fils-de-lhomme.txt,épine noire,"Alertés par le cri du geai, de nombreux petits oiseaux s’envolent à leur tour depuis des buissons d’épine noire et de co",référentiel,référentiel,1,,0
+Boyer-Marie-Christine_Faro.txt,poireaux,"C’est arrivé alors qu’il s’affairait dans la cuisine pour étre stir que la soupe, la sacro-sainte soupe de poireaux et d",référentiel,référentiel,1,,0
+Lewat-Osvalde_Les-aquatiques.txt,riz,"Contrôler les stocks par surprise, peser le sac de riz, le kilo de viande, les paquets de lessive, tracer au stylo le ni",référentiel,référentiel,1,,0
+Berest-Anne_Les-patriarches.txt,ananas,"Chez Biba il y avait des pianos à queue blancs et je mangeais des épaisses tranches de jambon d’York, avec des rondelles",référentiel,référentiel,1,,0
+Scali-Dominique_Les-marins-ne-savent-pas-nager.txt,algues vertes,"L’air était lourd de l’iode des algues vertes, du soufre des algues noires carbonisées par le midi.",référentiel,référentiel,1,,0
+Bachi-Salim_La_Kahena.txt,lauriers,"Les massifs de mimosas, les lauriers-roses, les rosiers se découpaient clairement, ne laissant émerger que tiges et coro",référentiel,référentiel,1,,0
+Martin-Chauffier-Gilles_Lere-des-suspects.txt,hortensias,"Une maison de pêcheur, petite et jolie, en plein bourg, avec juste un massif d’hortensias de chaque côté de l’entrée.",référentiel,référentiel,1,,0
+Boisséson-Matthieu-de_Le-Grand-Chariot.txt,lin,"Élie s’était spécialisé dans les textiles particuliers, car il ne pouvait faire concurrence aux lainiers du Nord : certa",référentiel,référentiel,1,,0
+Chalandon-Sorj_Retour-à-Killybegs.txt,oignons,"Sur le dessus, de l’argent, un sandwich d’oignons et d’œufs, une bouteille d’eau.",référentiel,référentiel,1,,0
+Nathan-Tobie_Ce-pays-qui-te-ressemble.txt,pastèques,L’Anglaise avec des seins gros comme des pastèques !,figuré,figuré,1,,0
+Chemla-Nicolas_Murnau-des-tenebres.txt,roseaux,"Puis ce même garçon l’avait conduit en pirogue au travers des îlots de pêcheurs qui bordaient le rivage, et, comme trave",référentiel,référentiel,1,,0
+Thomas-Chantal_Souvenirs-de-la-maree-basse.txt,oignons,"Ils étaient là, en rang d’oignons.",figuré,figuré,1,,0
+Poivre-dArvor-Olivier_Le-voyage-du-fils.txt,blé,"Il s’agit d’un mélange d’alcool de sorgho et de blé, fruit de sept fermentations et huit distillations successives : trè",référentiel,référentiel,1,,0
+Jenni-Alexis_Lart-français-de-la-guerre.txt,ronces,Dans un creux poussaient des ronces.,référentiel,référentiel,1,,0
+Moix-Yann_Naissance.txt,lin,"Burguet, ma chemise en lin !",référentiel,référentiel,1,,0
+Bauer-Nathalie_Des-garçons-davenir.txt,prune,"– Bien sûr, balbutiai-je, et nous regagnâmes le PS où, en compagnie de Jules et d’un potard ahuri, nous sirotâmes un ver",référentiel,référentiel,1,,0
+Hassaine-Lilia_Soleil-amer.txt,sésame,"Sheila réfléchit un instant, puis elle retira son alliance et la lui passa au doigt : « Le voilà, le précieux sésame.",figuré,figuré,1,,0
+Haenel-Yannick_TIens-ferme-ta-couronne.txt,papyrus,"de nerfs, n’en finissaient plus de protester ; et moi, je m’enlisais dans la dépression : quand bien même on parviendrai",référentiel,référentiel,1,,0
+Moix-Yann_Naissance.txt,laitue,"En outre, sachez qu’avant de concevoir cette bestiole – dont le ratage ne peut en rien m’être imputé au vu de l’extrême ",référentiel,référentiel,1,,0
+Lambert-Kevin_Que-notre-joie-demeure.txt,plantes grimpantes,"Elles sont, comme vous pouvez le voir, partiellement démolies, chacune à une hauteur différente, et tapissées de plantes",référentiel,référentiel,1,,0
+Lulu-Annie_Peine-des-faunes.txt,riz,"C’est ce que se disait Nyanya, qui avait demandé à Margaret de lui enseigner, après ses devoirs du soir, l’énigme des le",référentiel,référentiel,1,,0
+Dimitrova-Albena_Nous-dinerons-en-francais.txt,melon,"Comme à la fin du communisme, sobrement, à Paris aussi on sert des petits cubes de melon défraîchis lors des festivités.",référentiel,référentiel,1,,0
+Matzneff-Gabriel_Voici-venir-le-fiance.txt,épinards,"Bientôt ces kilos de papiers dont chaque feuillet lui rappelait un baiser, une étreinte, un visage, ces photos où était ",figuré,figuré,1,,0
+Alaoui-Meryem_La-verite-sort-de-la-bouche-du-cheval.txt,chênes-lièges,MAÂMORA  Forêt de chênes-lièges de la région de Rabat s’étendant sur plus de cent cinquante mille hectares.,référentiel,référentiel,1,,0
+Poivre-d-Arvor-Olivier_Disparaitre.txt,melon d’eau,"Et pour ne pas se déshydrater, il tient souvent contre sa poitrine un melon d’eau dans lequel il mord à intervalles régu",référentiel,référentiel,1,,0
+Robbe-Grillet-Alain_La-Reprise.txt,blé,"D’après leurs âges respectifs, ces deux adultes très bruns devraient être les parents de la fillette aux boucles de blé ",figuré,figuré,1,,0
+Bon-François_Daewoo.txt,prune,"Et pour les quatre cents qu’on était, deux couleurs au choix, prune ou myrtille.J",figuré,référentiel,0,,0
+Poulain-Catherine_Le-grand-marin.txt,cactus,"Elle était indienne Lucy, c’était mon amie… nos joues rouges ce jour-là, son coquard bleu sur l’œil, son rire et la besa",référentiel,référentiel,1,,0
+Majdalani-Charif_Le-dernier-seigneur-de-Marsad.txt,blé,"Le marbre certes n’arrivait plus à cause du blocus, ce qui peut-être justifia aux yeux de Khattar le fait qu’il vendît s",référentiel,référentiel,1,,0
+Sabolo-Monica_Eden.txt,tomate,"Il mettait en place sa scène de tir, posant patiemment des pots de sauce tomate sur une rangée de cailloux, puis reculai",référentiel,référentiel,1,,0
+Dreyfus-Arthur_Journal-sexuel-dun-garçon-daujourdhui.txt,ananas,"J’entre, ôte mes chaussures, m’assieds sur son convertible (motif palmiers), il m’offre un jus d’ananas, je dis : « Avec",figuré,référentiel,0,,0
+Senges-Pierre_Ruines-de-Rome.txt,olivier,"Posé, paresseux, presque immobile, l’horticulteur millénariste s’accorde à la lenteur de ses plantes en pot, à leur stoï",figuré,figuré,1,,0
+Nirsimloo-Anenden-Ananda_Eve-de-ses-decombres.txt,frangipanier,"Son sexe, l’odeur tubéreuse des fleurs de frangipanier et la tiédeur à moitié pourrie de la mangrove.",référentiel,référentiel,1,,0
+Gaude-Laurent_Danser-les-ombres.txt,riz,"Elle voudrait repartir, ne rien acheter pour ne pas céder devant cette hausse scandaleuse, elle voudrait ne plus rien ma",référentiel,référentiel,1,,0
+Boisséson-Matthieu-de_Le-Grand-Chariot.txt,vignes,"Loin du lycée et de son stade sur la droite, il plongeait vers la rivière, à travers l’espalier de terrasses alluviales,",référentiel,référentiel,1,,0
+Effa-Gaston-Paul_les-enfants-de-la-tradition.txt,calebasse,"Je le savais, ces filles que me vantait Konaté étaient sûrement sans papiers et, une fois mariée, la belle ne ferait de ",figuré,figuré,1,,0
+Kaddour-Hedi_Waltenberg.txt,bouleaux,"Le bois de bouleaux et de marronniers est vieux, envahi de buissons, mais il fait avec la lumière de beaux mélanges d’or",référentiel,référentiel,1,,0
+Chapuis-Bernard_Onze-ans-avec-Lou.txt,sapins,"Mais s’il en savait assez, pensait-il, pour ne pas se perdre dans la Sologne de son oncle, c’était loin d’être le cas da",référentiel,référentiel,1,,0
+Koenig-Gaspard_Humus.txt,séquoias,"Depuis la terrasse, on voyait les cyprès qui descendaient jusqu’à la piscine, puis plus loin les forêts de séquoias qui ",référentiel,référentiel,1,,0
+Adam-Olivier_Le-coeur-regulier.txt,fougères,"Sous la voûte des grands arbres où se croisaient les premières chauves-souris et les dernières buses, au milieu des foug",référentiel,référentiel,1,,0
+Robles-Jean_Là-où-les-tigres-sont-chez-eux.txt,cèdre,"— Ce morceau de cèdre, à première vue si peu intéressant, le père Boym l’a prélevé, lors de son voyage d’Arménie, d’une ",référentiel,référentiel,1,,0

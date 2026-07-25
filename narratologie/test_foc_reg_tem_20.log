@@ -1,0 +1,76 @@
+
+==============================================================
+  TASK 0 — FOCALISATION NEW SCHEME (v7 base, FOC replaced only)
+  Model: qwen3:30b   Chunks: 9   Max lines/chunk: 350   Reduce votes: 3
+  Gold: /home/lfarooq/ecopoetique/narratologie/GOLD_narratologie_0807.csv
+  Started: 2026-07-08 15:41:41
+==============================================================
+
+Gold: 79 novels
+Novels in CORPUS_TOTAL: 76  in CORPUS_Bestsellers: 3  missing entirely: 0
+Resuming: 5 done, 74 remaining
+TEST MODE: 15 novels
+
+
+[1/15] Binet-Laurent_La-septieme-fonction-du-langage.txt
+    7575 lines -> 9 chunks of ~841 lines
+    chunk 1/9: voice=third_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=more_than_characters chmark=no
+    chunk 4/9: voice=third_person know=same_as_characters chmark=no
+    chunk 5/9: voice=third_person know=same_as_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=same_as_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 407s | NAR=NAR_EXTv FOC=FOC_ELARGx MOD=MOD_EVTv REG=REG_REALx ESP=ESP_FRAGv INT=INTR_FRAGv TEM=TEMP_LINx
+
+[2/15] Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bismarck.txt
+    5803 lines -> 9 chunks of ~644 lines
+    chunk 1/9: voice=third_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=same_as_characters chmark=no
+    chunk 3/9: voice=third_person know=same_as_characters chmark=no
+    chunk 4/9: voice=third_person know=same_as_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=same_as_characters chmark=no
+    chunk 7/9: voice=third_person know=same_as_characters chmark=no
+    chunk 8/9: voice=third_person know=same_as_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 380s | NAR=NAR_EXTv FOC=FOC_RFOCx MOD=MOD_EVTv REG=REG_REALv ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_LINv
+
+[3/15] Brunel-Camille_La-guerrilla-des-animaux.txt
+    2892 lines -> 9 chunks of ~321 lines
+    chunk 1/9: voice=third_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=third_person know=same_as_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=same_as_characters chmark=no
+    chunk 7/9: voice=third_person know=same_as_characters chmark=no
+    x chunk 8/9 failed: HTTPConnectionPool(host='localhost', port=11435): Read timed out. (read timeout=300)
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (8/9 good observations)
+  -> 946s | NAR=NAR_EXTv FOC=FOC_RFOCv MOD=MOD_EVTv REG=REG_REALx ESP=ESP_FRAGx INT=INTR_LINv TEM=TEMP_LINv
+  [checkpoint saved, 3 done]
+
+[4/15] Chevillard-Eric_Oreille-rouge.txt
+    2125 lines -> 9 chunks of ~236 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=third_person know=same_as_characters chmark=no
+    chunk 4/9: voice=third_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=same_as_characters chmark=no
+    chunk 6/9: voice=third_person know=same_as_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=same_as_characters chmark=no
+    chunk 9/9: voice=third_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 332s | NAR=NAR_EXTv FOC=FOC_RFOCx MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINv
+
+[5/15] Carrere-Emmanuel_Limonov.txt
+    5398 lines -> 9 chunks of ~599 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=same_as_characters chmark=no
+    chunk 3/9: voice=third_person know=same_as_characters chmark=no

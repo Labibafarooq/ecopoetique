@@ -1,0 +1,17 @@
+Usable gold rows: 114
+Remaining: 114
+  [10/114 this run, 10 total] correct=8 (80.0%) rule=0 llm=10 elapsed=2.7min
+  [20/114 this run, 20 total] correct=15 (75.0%) rule=0 llm=20 elapsed=6.6min
+  [30/114 this run, 30 total] correct=24 (80.0%) rule=0 llm=30 elapsed=9.5min
+  [40/114 this run, 40 total] correct=32 (80.0%) rule=0 llm=40 elapsed=17.6min
+  [50/114 this run, 50 total] correct=37 (74.0%) rule=0 llm=50 elapsed=27.2min
+  [60/114 this run, 60 total] correct=44 (73.3%) rule=0 llm=60 elapsed=36.9min
+  [70/114 this run, 70 total] correct=51 (72.9%) rule=0 llm=70 elapsed=43.7min
+  [80/114 this run, 80 total] correct=57 (71.2%) rule=0 llm=80 elapsed=53.3min
+  [90/114 this run, 90 total] correct=63 (70.0%) rule=0 llm=90 elapsed=61.2min
+  [100/114 this run, 100 total] correct=68 (68.0%) rule=0 llm=100 elapsed=69.9min
+  [110/114 this run, 110 total] correct=76 (69.1%) rule=0 llm=110 elapsed=77.8min
+  [114/114 this run, 114 total] correct=76 (66.7%) rule=0 llm=114 elapsed=80.9min
+
+Final: 76/114 = 66.7%
+Saved to: /home/lfarooq/ecopoetique/métaphore/resultats_task2_gold_validation.csv

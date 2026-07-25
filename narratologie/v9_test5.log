@@ -1,0 +1,100 @@
+
+==============================================================
+  TASK 0 MAP-REDUCE v7  (v6 rules + evidence-based INT/TEM/REG fixes)
+  Model: qwen3:30b   Chunks: 9   Max lines/chunk: 350   Reduce votes: 3
+  Started: 2026-07-05 20:20:52
+==============================================================
+
+Gold: 60 novels
+Novels in CORPUS_TOTAL: 60  missing: 0
+TEST MODE: 5 novels
+
+
+[1/5] Angot-Christine_Le-Voyage-dans-l'Est.txt
+    5372 lines -> 9 chunks of ~596 lines
+    chunk 1/9: voice=first_person thread=Christine (narratric time=été (Gérardmer)
+    chunk 2/9: voice=first_person thread=surveillance constan time=avant/après un événe
+    chunk 3/9: voice=first_person thread=rapport père-fille time=âge 15 ans
+    chunk 4/9: voice=first_person thread=inceste, relations f time=16-17 ans
+    chunk 5/9: voice=first_person thread=détresse psychologiq time=vingt-trois ans
+    chunk 6/9: voice=first_person thread=dilemma between Pier time=Samedi 13 avril
+    chunk 7/9: voice=first_person thread=conversation avec Cl time=26 ans à Nice, avril
+    chunk 8/9: voice=first_person thread=réflexion sur l'ince time=26 ans, deux ans apr
+    chunk 9/9: voice=first_person thread=Claude's departure a time=après l'enterrement 
+    -> reduce step x3 (9/9 good observations)
+  -> 352s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_FRAGv INT=INTR_LINv TEM=TEMP_LINx
+
+[2/5] Autissier-Isabelle_Soudain-seuls.txt
+    3790 lines -> 9 chunks of ~421 lines
+    chunk 1/9: voice=third_person thread=Louise et Ludovic en time=14 heures, ciel obsc
+    chunk 2/9: voice=third_person thread=Ludovic et Louise da time=à trente-trois ans
+    chunk 3/9: voice=third_person thread=Louise's emotional c time=fin janvier
+    chunk 4/9: voice=third_person thread=Ludovic's despair an time=dusk to night
+    chunk 5/9: voice=third_person thread=Louise's internal co time=fin avril
+    chunk 6/9: voice=third_person thread=Louise et sa détress time=un matin, après la n
+    chunk 7/9: voice=third_person thread=Louise's internal st time=after Falklands arri
+    chunk 8/9: voice=third_person thread=Louise's internal co time=after the funeral
+    chunk 9/9: voice=third_person thread=Louise's inner journ time=December, after a fe
+    -> reduce step x3 (9/9 good observations)
+  -> 413s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_INTRx REG=REG_REALv ESP=ESP_FRAGx INT=INTR_LINv TEM=TEMP_LINv
+
+[3/5] Bienne-Gisele_La-malchimie.txt
+    3185 lines -> 9 chunks of ~353 lines
+    chunk 1/9: voice=first_person thread=narratrice et son li time=présent
+    chunk 2/9: voice=first_person thread=Sylvain's illness an time=present
+    chunk 3/9: voice=first_person thread=Sylvain's illness an time=5 hours in the morni
+    chunk 4/9: voice=first_person thread=sœur de Sylvain, leu time=aujourd'hui, après u
+    chunk 5/9: voice=first_person thread=Sylvain's illness an time=2016 (court d'appel 
+    chunk 6/9: voice=first_person thread=Sylvain's illness an time=present
+    chunk 7/9: voice=first_person thread=Sylvain's recovery a time=été
+    chunk 8/9: voice=first_person thread=Sylvain's illness an time=automne
+    chunk 9/9: voice=first_person thread=Sylvain's death and  time=décembre, avant l'an
+    -> reduce step x3 (9/9 good observations)
+  -> 379s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINx
+  [checkpoint saved, 3 done]
+
+[4/5] Binet-Laurent_La-septieme-fonction-du-langage.txt
+    7575 lines -> 9 chunks of ~841 lines
+    chunk 1/9: voice=third_person thread=Bayard, cours de Fou time=none
+    chunk 2/9: voice=third_person thread=Bayard et Deleuze da time=1980
+    chunk 3/9: voice=third_person thread=Simon Herzog et Baya time=during the chase
+    chunk 4/9: voice=third_person thread=Simon et Anastasia time=none
+    chunk 5/9: voice=third_person thread=Logos Club meeting time=minuit passé
+    chunk 6/9: voice=third_person thread=Sollers et Kristeva  time=au moment du spectac
+    chunk 7/9: voice=third_person thread=Simon Herzog time=nuit
+    chunk 8/9: voice=third_person thread=Simon Herzog's joust time=during the Carnival 
+    chunk 9/9: voice=third_person thread=Simon et Anastasia d time=1981, soirée de vict
+    -> reduce step x3 (9/9 good observations)
+  -> 424s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_EVTv REG=REG_REALx ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_LINx
+
+[5/5] Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bismarck.txt
+    5803 lines -> 9 chunks of ~644 lines
+    chunk 1/9: voice=third_person thread=Isookanga et son dés time=none
+    chunk 2/9: voice=third_person thread=Shasha et ses frères time=le jour suivant le m
+    chunk 3/9: voice=third_person thread=Modogo's backstory a time=none
+    chunk 4/9: voice=third_person thread=Isookanga et la négo time=avant/après l'événem
+    chunk 5/9: voice=third_person thread=révérend Monk et ses time=présent
+    chunk 6/9: voice=third_person thread=Mirnas et Bizimungu time=présent
+    chunk 7/9: voice=third_person thread=Chiara Argento et le time=aujourd'hui
+    chunk 8/9: voice=third_person thread=Isookanga et son onc time=aujourd'hui
+    chunk 9/9: voice=third_person thread=Kiro Bizimungu's dea time=now
+    -> reduce step x3 (9/9 good observations)
+  -> 359s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_EVTv REG=REG_REALv ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_LINv
+
+Done — 5 novels processed
+Saved to: /home/lfarooq/ecopoetique/narratologie/resultats_task0_mapreduce_v9.csv
+
+==============================================================
+  MAP-REDUCE v7 RESULTS  —  qwen3:30b  (3x reduce vote)
+==============================================================
+  TYPE NARRATEUR          5/5   (100.0%)  ████████████████████
+  FOCALISATION            4/5   ( 80.0%)  ████████████████
+  MODE NARRATIF           4/5   ( 80.0%)  ████████████████
+  REGIME NARRATIF         4/5   ( 80.0%)  ████████████████
+  ESPACE                  4/5   ( 80.0%)  ████████████████
+  INTRIGUE                3/5   ( 60.0%)  ████████████
+  TEMPORALITÉ             2/5   ( 40.0%)  ████████
+--------------------------------------------------------------
+  OVERALL                 26/35   ( 74.3%)
+==============================================================
+

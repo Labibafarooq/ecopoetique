@@ -1,0 +1,244 @@
+
+==============================================================
+  TASK 0 MAP-REDUCE v7  (v6 rules + evidence-based INT/TEM/REG fixes)
+  Model: qwen3:30b   Chunks: 9   Max lines/chunk: 350   Reduce votes: 3
+  Started: 2026-07-01 16:32:45
+==============================================================
+
+Gold: 79 novels
+Novels in CORPUS_TOTAL: 76  missing: 3
+TARGETED VALIDATION: 15 novels
+
+
+[1/15] Autissier-Isabelle_Soudain-seuls.txt
+    3790 lines -> 9 chunks of ~421 lines
+    chunk 1/9: voice=third_person thread=Louise et Ludovic unit=direct_continuation time=14 heures, après-mid
+    chunk 2/9: voice=third_person thread=Ludovic et Louise unit=direct_continuation time=aujourd'hui (dans le
+    chunk 3/9: voice=third_person thread=Louise unit=direct_continuation time=fin janvier
+    chunk 4/9: voice=third_person thread=Ludovic unit=direct_continuation time=dans la nuit, crépus
+    chunk 5/9: voice=third_person thread=Louise unit=direct_continuation time=fin avril
+    chunk 6/9: voice=third_person thread=Louise unit=direct_continuation time=dix jours, matin, so
+    chunk 7/9: voice=third_person thread=Louise unit=direct_continuation time=après les Falkland, 
+    chunk 8/9: voice=third_person thread=Louise unit=direct_continuation time=trois semaines après
+    chunk 9/9: voice=third_person thread=Louise unit=direct_continuation time=décembre
+    -> reduce step x3 (9/9 good observations)
+  -> 64s | NAR=NAR_EXTv FOC=FOC_INTx MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+
+[2/15] Baque-Joel_La-fonte-des-glaces.txt
+    2967 lines -> 9 chunks of ~329 lines
+    chunk 1/9: voice=third_person thread=veuve unit=direct_continuation time=temps suspendu (avan
+    chunk 2/9: voice=third_person thread=Louis unit=direct_continuation time=aujourd'hui (dans le
+    chunk 3/9: voice=third_person thread=Louis unit=direct_continuation time=jour après jour
+    chunk 4/9: voice=third_person thread=Louis unit=direct_continuation time=deux heures après so
+    chunk 5/9: voice=third_person thread=Louis unit=direct_continuation time=après le massacre de
+    chunk 6/9: voice=third_person thread=Louis unit=direct_continuation time=dîner, puis petit dé
+    chunk 7/9: voice=third_person thread=Louis unit=direct_continuation time=during the meal and 
+    chunk 8/9: voice=third_person thread=Louis unit=direct_continuation time=le surlendemain de l
+    chunk 9/9: voice=third_person thread=Louis unit=echoes_earlier_secti time=été
+    -> reduce step x3 (9/9 good observations)
+  -> 72s | NAR=NAR_EXTv FOC=FOC_INTx MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+
+[3/15] Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bismarck.txt
+    5803 lines -> 9 chunks of ~644 lines
+    chunk 1/9: voice=third_person thread=Isookanga unit=direct_continuation time=none
+    chunk 2/9: voice=third_person thread=Shasha unit=direct_continuation time=le jour suivant le m
+    chunk 3/9: voice=third_person thread=Modogo unit=direct_continuation time=fin de journée
+    chunk 4/9: voice=third_person thread=Isookanga unit=direct_continuation time=avant/après un événe
+    chunk 5/9: voice=third_person thread=révérend Monk unit=direct_continuation time=présent
+    chunk 6/9: voice=third_person thread=Waldemar Mirnas unit=direct_continuation time=present
+    chunk 7/9: voice=third_person thread=Chiara Argento unit=direct_continuation time=aujourd'hui
+    chunk 8/9: voice=third_person thread=Isookanga unit=direct_continuation time=present
+    chunk 9/9: voice=third_person thread=Kiro Bizimungu unit=direct_continuation time=now
+    -> reduce step x3 (9/9 good observations)
+  -> 63s | NAR=NAR_EXTv FOC=FOC_INTx MOD=MOD_EVTv REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINv
+  [checkpoint saved, 3 done]
+
+[4/15] Chevillard-Eric_Oreille-rouge.txt
+    2125 lines -> 9 chunks of ~236 lines
+    chunk 1/9: voice=third_person thread=Albert Moindre unit=direct_continuation time=none
+    chunk 2/9: voice=third_person thread=Oreille rouge unit=direct_continuation time=avant le départ pour
+    chunk 3/9: voice=third_person thread=Oreille rouge unit=direct_continuation time=during stay in Djenn
+    chunk 4/9: voice=third_person thread=Oreille rouge unit=direct_continuation time=au matin, chaque soi
+    chunk 5/9: voice=third_person thread=Oreille rouge unit=direct_continuation time=aujourd'hui
+    chunk 6/9: voice=third_person thread=Oreille rouge unit=direct_continuation time=présent
+    chunk 7/9: voice=third_person thread=Oreille rouge unit=direct_continuation time=matin, soir, saison 
+    chunk 8/9: voice=third_person thread=Oreille rouge unit=direct_continuation time=present
+    chunk 9/9: voice=third_person thread=Oreille rouge unit=direct_continuation time=unspecified
+    -> reduce step x3 (9/9 good observations)
+  -> 52s | NAR=NAR_EXTv FOC=FOC_ZEROv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINv
+
+[5/15] Carrere-Emmanuel_Limonov.txt
+    5398 lines -> 9 chunks of ~599 lines
+    chunk 1/9: voice=first_person thread=Limonov et Kasparov unit=direct_continuation time=2008
+    chunk 2/9: voice=third_person thread=Édouard unit=direct_continuation time=1960s
+    chunk 3/9: voice=third_person thread=Édouard Limonov unit=direct_continuation time=1976
+    chunk 4/9: voice=third_person thread=Édouard Limonov unit=direct_continuation time=été 1980
+    chunk 5/9: voice=first_person thread=Édouard unit=direct_continuation time=décembre 1989
+    chunk 6/9: voice=third_person thread=Édouard Limonov unit=direct_continuation time=1992
+    chunk 7/9: voice=third_person thread=Édouard unit=direct_continuation time=1993-1994
+    chunk 8/9: voice=third_person thread=Édouard Limonov unit=direct_continuation time=automne 2000
+    chunk 9/9: voice=third_person thread=Édouard Veniaminovit unit=direct_continuation time=2009
+    -> reduce step x3 (9/9 good observations)
+  -> 78s | NAR=NAR_TEMv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_FRAGv INT=INTR_LINx TEM=TEMP_LINx
+
+[6/15] Deck-Julia_Ann-dAngleterre.txt
+    4041 lines -> 9 chunks of ~449 lines
+    chunk 1/9: voice=first_person thread=la narratrice et sa  unit=direct_continuation time=aujourd'hui, le mome
+    chunk 2/9: voice=first_person thread=Julia (narratrice) unit=direct_continuation time=le lendemain de l'ac
+    chunk 3/9: voice=third_person thread=Ann unit=direct_continuation time=17 ans, 1955
+    chunk 4/9: voice=first_person thread=mère et narratrice unit=direct_continuation time=48e anniversaire
+    chunk 5/9: voice=first_person thread=mère et fille unit=direct_continuation time=1974
+    chunk 6/9: voice=first_person thread=mère et sa fille unit=direct_continuation time=juillet
+    chunk 7/9: voice=first_person thread=Ann et Julia unit=direct_continuation time=Fin août début septe
+    chunk 8/9: voice=third_person thread=Julia unit=direct_continuation time=2022-10-18
+    chunk 9/9: voice=first_person thread=la narratrice et sa  unit=direct_continuation time=2023
+    -> reduce step x3 (9/9 good observations)
+  -> 64s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_DISv
+  [checkpoint saved, 6 done]
+
+[7/15] Diop-David_Frere-d'âme.txt
+    1754 lines -> 9 chunks of ~194 lines
+    chunk 1/9: voice=first_person thread=Alfa Ndiaye unit=direct_continuation time=during the war, afte
+    chunk 2/9: voice=first_person thread=Alfa Ndiaye unit=direct_continuation time=during battle
+    chunk 3/9: voice=first_person thread=le narrateur (soldat unit=direct_continuation time=aujourd'hui (dans la
+    chunk 4/9: voice=first_person thread=Alfa (narrateur) unit=direct_continuation time=après la mort de Jea
+    chunk 5/9: voice=first_person thread=soldat noir narrateu unit=direct_continuation time=durant la guerre
+    chunk 6/9: voice=first_person thread=Alfa Ndiaye unit=direct_continuation time=avant la guerre, ava
+    chunk 7/9: voice=first_person thread=Alfa Ndiaye (le narr unit=direct_continuation time=à l'âge de quinze an
+    chunk 8/9: voice=first_person thread=Alfa unit=direct_continuation time=avant la guerre
+    chunk 9/9: voice=first_person thread=le narrateur unit=echoes_earlier_secti time=après l'acte sexuel 
+    -> reduce step x3 (9/9 good observations)
+  -> 55s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_DISv
+
+[8/15] Hunzinger-Claudie_Un-chien-a-ma-table.txt
+    3077 lines -> 9 chunks of ~341 lines
+    chunk 1/9: voice=first_person thread=narratrice et Grieg unit=direct_continuation time=automne
+    chunk 2/9: voice=first_person thread=la narratrice unit=direct_continuation time=un an après la mort 
+    chunk 3/9: voice=first_person thread=narratrice et Yes unit=direct_continuation time=automne
+    chunk 4/9: voice=first_person thread=la narratrice et Yes unit=direct_continuation time=été (20 juin)
+    chunk 5/9: voice=first_person thread=narratrice et Yes unit=direct_continuation time=hiver, 80 ans
+    chunk 6/9: voice=first_person thread=Sophie Huizinga unit=direct_continuation time=Nouvel An III aux Bo
+    chunk 7/9: voice=first_person thread=narratrice et ses an unit=direct_continuation time=février, après-midi,
+    chunk 8/9: voice=first_person thread=narratrice unit=direct_continuation time=printemps, neige, ma
+    chunk 9/9: voice=first_person thread=Grieg et Yes unit=direct_continuation time=juillet
+    -> reduce step x3 (9/9 good observations)
+  -> 75s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINx
+
+[9/15] Joncour-Serge_Nature-humaine.txt
+    3877 lines -> 9 chunks of ~430 lines
+    chunk 1/9: voice=third_person thread=Alexandre unit=direct_continuation time=dimanche 4 juillet
+    chunk 2/9: voice=third_person thread=Alexandre unit=direct_continuation time=soirée à Toulouse
+    chunk 3/9: voice=third_person thread=Alexandre unit=direct_continuation time=avant le premier tou
+    chunk 4/9: voice=third_person thread=Caroline unit=direct_continuation time=avant le premier tou
+    chunk 5/9: voice=third_person thread=Alexandre unit=direct_continuation time=avril 1986
+    chunk 6/9: voice=third_person thread=Alexandre unit=direct_continuation time=1981, printemps
+    chunk 7/9: voice=third_person thread=Alexandre unit=direct_continuation time=deux heures de l'apr
+    chunk 8/9: voice=third_person thread=Alexandre unit=direct_continuation time=été (mi-juillet)
+    chunk 9/9: voice=third_person thread=Alexandre unit=direct_continuation time=14 Juillet 1999, an 
+    -> reduce step x3 (9/9 good observations)
+  -> 76s | NAR=NAR_EXTv FOC=FOC_INTx MOD=MOD_INTRx REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 9 done]
+
+[10/15] Lafon-Marie_Joseph.txt
+    497 lines -> 9 chunks of ~55 lines
+    chunk 1/9: voice=third_person thread=Joseph unit=direct_continuation time=present
+    chunk 2/9: voice=third_person thread=Joseph unit=direct_continuation time=cinquante-huit, bien
+    chunk 3/9: voice=third_person thread=Joseph unit=direct_continuation time=présent
+    chunk 4/9: voice=third_person thread=Joseph unit=direct_continuation time=avant de se coucher,
+    chunk 5/9: voice=third_person thread=Joseph unit=direct_continuation time=âge: 32-47 ans (trou
+    chunk 6/9: voice=third_person thread=mère et Joseph unit=direct_continuation time=dimanche 17 juin 198
+    chunk 7/9: voice=third_person thread=Joseph unit=direct_continuation time=avril 1986
+    chunk 8/9: voice=third_person thread=Joseph unit=direct_continuation time=20 ans après l'événe
+    chunk 9/9: voice=third_person thread=Joseph unit=direct_continuation time=29 mai, juin, hiver 
+    -> reduce step x3 (9/9 good observations)
+  -> 50s | NAR=NAR_EXTv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_AUTOx ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_DISv
+
+[11/15] Pourchet-Maria_Feu.txt
+    4142 lines -> 9 chunks of ~460 lines
+    chunk 1/9: voice=first_person thread=Laure unit=direct_continuation time=aujourd'hui
+    chunk 2/9: voice=first_person thread=Laure unit=direct_continuation time=dix-septième jour
+    chunk 3/9: voice=first_person thread=la narratrice unit=direct_continuation time=mi-juillet, vacances
+    chunk 4/9: voice=first_person thread=Laure unit=direct_continuation time=dimanche, août, 3 ao
+    chunk 5/9: voice=first_person thread=Anna et la mère unit=direct_continuation time=samedi
+    chunk 6/9: voice=first_person thread=Clément unit=direct_continuation time=Lundi matin, 8 heure
+    chunk 7/9: voice=first_person thread=Laure unit=direct_continuation time=soirée théâtre, aprè
+    chunk 8/9: voice=first_person thread=Laure unit=direct_continuation time=en ce moment, après 
+    chunk 9/9: voice=first_person thread=Laure unit=echoes_earlier_secti time=deux ans après les j
+    -> reduce step x3 (9/9 good observations)
+  -> 62s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+
+[12/15] Rico-Lucie_GPS.txt
+    2926 lines -> 9 chunks of ~325 lines
+    chunk 1/9: voice=first_person thread=Sandrine's fiancaill unit=direct_continuation time=present
+    chunk 2/9: voice=first_person thread=Sandrine's emotional unit=direct_continuation time=enfance à trentième 
+    chunk 3/9: voice=first_person thread=Sandrine (GPS tracki unit=direct_continuation time=present
+    chunk 4/9: voice=first_person thread=la narratrice unit=direct_continuation time=aujourd'hui, après l
+    chunk 5/9: voice=first_person thread=protagoniste unit=direct_continuation time=une semaine après la
+    chunk 6/9: voice=first_person thread=Sandrine's disappear unit=direct_continuation time=2018 (automne), 2012
+    chunk 7/9: voice=first_person thread=Sandrine et la carte unit=direct_continuation time=16-17 ans, puis 20 a
+    chunk 8/9: voice=first_person thread=la narratrice et San unit=direct_continuation time=été, 29 ans, quinze 
+    chunk 9/9: voice=first_person thread=protagoniste unit=echoes_earlier_secti time=minuit passé
+    -> reduce step x3 (9/9 good observations)
+  -> 58s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRx REG=REG_AUTOx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_DISv
+  [checkpoint saved, 12 done]
+
+[13/15] Simonnot-Maud_LEnfant-celeste.txt
+    1329 lines -> 9 chunks of ~147 lines
+    chunk 1/9: voice=first_person thread=Célian unit=direct_continuation time=enfance (âge 7 ans),
+    chunk 2/9: voice=first_person thread=la narratrice et Cél unit=direct_continuation time=été, nuit, matin
+    chunk 3/9: voice=first_person thread=Célian et sa mère unit=direct_continuation time=présent, avec des ré
+    chunk 4/9: voice=first_person thread=Célian et la mémoire unit=direct_continuation time=le premier matin, le
+    chunk 5/9: voice=first_person thread=la narratrice et Cél unit=direct_continuation time=dix jours après le d
+    chunk 6/9: voice=first_person thread=Célian unit=direct_continuation time=été
+    chunk 7/9: voice=first_person thread=la narratrice et Cél unit=direct_continuation time=matin, après une nui
+    chunk 8/9: voice=first_person thread=la narratrice et Cél unit=direct_continuation time=été, après le solsti
+    chunk 9/9: voice=first_person thread=Célian et la narratr unit=echoes_earlier_secti time=été, fin de voyage
+    -> reduce step x3 (9/9 good observations)
+  -> 51s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_LINx TEM=TEMP_LINv
+
+[14/15] Ventura-Maud_Mon-mari.txt
+    3315 lines -> 9 chunks of ~368 lines
+    chunk 1/9: voice=first_person thread=la narratrice unit=direct_continuation time=lundi matin
+    chunk 2/9: voice=first_person thread=la narratrice unit=direct_continuation time=aujourd'hui
+    chunk 3/9: voice=first_person thread=la femme mariée unit=direct_continuation time=mercredi matin
+    chunk 4/9: voice=first_person thread=la narratrice unit=direct_continuation time=aujourd'hui, après 1
+    chunk 5/9: voice=first_person thread=la narratrice unit=direct_continuation time=jeudi
+    chunk 6/9: voice=first_person thread=la narratrice unit=direct_continuation time=le vendredi
+    chunk 7/9: voice=first_person thread=la narratrice (femme unit=direct_continuation time=mercredi soir, samed
+    chunk 8/9: voice=first_person thread=la narratrice unit=direct_continuation time=samedi soir, après l
+    chunk 9/9: voice=first_person thread=la narratrice unit=direct_continuation time=dimanche
+    -> reduce step x3 (9/9 good observations)
+  -> 69s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_AUTOv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINv
+
+[15/15] Volodine-Antoine_Songes-de-Mevlido.txt
+    8809 lines -> 9 chunks of ~978 lines
+    chunk 1/9: voice=third_person thread=Mevlido et Maleeya unit=direct_continuation time=plus de minuit
+    chunk 2/9: voice=third_person thread=Mevlido unit=direct_continuation time=cinquante ans
+    chunk 3/9: voice=third_person thread=Mevlido unit=direct_continuation time=nuit
+    chunk 4/9: voice=third_person thread=Mevlido unit=direct_continuation time=après l'orage
+    chunk 5/9: voice=third_person thread=Mevlido unit=direct_continuation time=now
+    chunk 6/9: voice=third_person thread=Mevlido unit=direct_continuation time=cette nuit
+    chunk 7/9: voice=third_person thread=Mevlido unit=direct_continuation time=none
+    chunk 8/9: voice=first_person thread=Mevlido unit=direct_continuation time=none
+    chunk 9/9: voice=third_person thread=Mevlido unit=direct_continuation time=longue durée (heures
+    -> reduce step x3 (9/9 good observations)
+  -> 60s | NAR=NAR_EXTv FOC=FOC_INTv MOD=MOD_DESCx REG=REG_SPECv ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+  [checkpoint saved, 15 done]
+
+Done — 15 novels processed
+Saved to: /home/lfarooq/ecopoetique/narratologie/resultats_task0_mapreduce_v7.csv
+
+==============================================================
+  MAP-REDUCE v7 RESULTS  —  qwen3:30b  (3x reduce vote)
+==============================================================
+  TYPE NARRATEUR         15/15  (100.0%)  ████████████████████
+  FOCALISATION           11/15  ( 73.3%)  ██████████████
+  MODE NARRATIF           4/15  ( 26.7%)  █████
+  REGIME NARRATIF         9/15  ( 60.0%)  ████████████
+  ESPACE                  6/15  ( 40.0%)  ████████
+  INTRIGUE                7/15  ( 46.7%)  █████████
+  TEMPORALITÉ            11/15  ( 73.3%)  ██████████████
+--------------------------------------------------------------
+  OVERALL                 63/105  ( 60.0%)
+==============================================================
+

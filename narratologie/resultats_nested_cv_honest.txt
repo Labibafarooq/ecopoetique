@@ -1,0 +1,14 @@
+60 novels, 43 features
+
+======================================================================
+  NESTED CV (model choice made WITHOUT seeing the held-out novel)
+======================================================================
+  TYPE NARRATEUR      54/60  =  90.0%   (inner-CV model picks: {'GB': 7, 'LogReg': 51, 'RF': 2})
+  FOCALISATION        39/60  =  65.0%   (inner-CV model picks: {'LogReg': 40, 'GB': 18, 'RF': 2})
+  MODE NARRATIF       38/60  =  63.3%   (inner-CV model picks: {'RF': 29, 'LogReg': 18, 'GB': 13})
+  REGIME NARRATIF     41/60  =  68.3%   (inner-CV model picks: {'LogReg': 15, 'RF': 42, 'GB': 3})
+  ESPACE              23/60  =  38.3%   (inner-CV model picks: {'GB': 12, 'LogReg': 9, 'RF': 39})
+  INTRIGUE            39/60  =  65.0%   (inner-CV model picks: {'RF': 60})
+  TEMPORALITÉ         35/60  =  58.3%   (inner-CV model picks: {'RF': 36, 'LogReg': 24})
+----------------------------------------------------------------------
+  OVERALL (nested, honest) 269/420 =  64.0%

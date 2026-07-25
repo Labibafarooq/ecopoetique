@@ -1,0 +1,24 @@
+Testing 20 rows with qwen2.5:7b
+  [1/20] id=5 gold=META_ATTR pred=META_ATTR OK correct=1 elapsed=0.1min
+  [2/20] id=6 gold=META_ATTR pred=LOC_IDIOM WRONG correct=1 elapsed=0.1min
+  [3/20] id=8 gold=META_JUXT pred=LOC_IDIOM WRONG correct=1 elapsed=0.2min
+  [4/20] id=9 gold=LOC_IDIOM pred=LOC_IDIOM OK correct=2 elapsed=0.2min
+  [5/20] id=11 gold=COUL pred=LOC_IDIOM WRONG correct=2 elapsed=0.3min
+  [6/20] id=12 gold=COMME_SI pred=LOC_IDIOM WRONG correct=2 elapsed=0.3min
+  [7/20] id=23 gold=COMME_P pred=LOC_IDIOM WRONG correct=2 elapsed=0.4min
+  [8/20] id=28 gold=META_FILEE pred=LOC_IDIOM WRONG correct=2 elapsed=0.4min
+  [9/20] id=32 gold=DE_PROP pred=LOC_IDIOM WRONG correct=2 elapsed=0.5min
+  [10/20] id=36 gold=COMME_SI pred=LOC_IDIOM WRONG correct=2 elapsed=0.5min
+  [11/20] id=48 gold=META_ATTR pred=LOC_IDIOM WRONG correct=2 elapsed=0.6min
+  [12/20] id=57 gold=META_APP pred=LOC_IDIOM WRONG correct=2 elapsed=0.6min
+  [13/20] id=65 gold=META_VERB pred=LOC_IDIOM WRONG correct=2 elapsed=0.7min
+  [14/20] id=68 gold=DE_PARANGON pred=LOC_IDIOM WRONG correct=2 elapsed=0.7min
+  [15/20] id=70 gold=IMAG pred=LOC_IDIOM WRONG correct=2 elapsed=0.7min
+  [16/20] id=71 gold=LOC_IDIOM pred=LOC_IDIOM OK correct=3 elapsed=0.8min
+  [17/20] id=76 gold=META_ATTR pred=LOC_IDIOM WRONG correct=3 elapsed=0.8min
+  [18/20] id=77 gold=LOC_IDIOM pred=LOC_IDIOM OK correct=4 elapsed=0.9min
+  [19/20] id=83 gold=META_ATTR pred=LOC_IDIOM WRONG correct=4 elapsed=0.9min
+  [20/20] id=91 gold=COMME_SN pred=LOC_IDIOM WRONG correct=4 elapsed=1.0min
+
+Final (qwen2.5:7b): 4/20 = 20.0%  total_time=1.0min (2.9s/row)
+Saved to: /home/lfarooq/ecopoetique/métaphore/resultats_task2_qwen25_7b_smallbatch.csv

@@ -8,7 +8,7 @@ def extraire_lignes(lignes, fichier_sortie):
 
     total = len(lignes)
     resultats = []
-
+    
     # 10 premières lignes
     resultats.append('\n\n--- DEBUT ---\n\n')
     resultats.extend(lignes[:25])

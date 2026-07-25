@@ -1,0 +1,932 @@
+nohup: ignoring input
+Processing 925 novels...
+Output: /home/lfarooq/ecopoetique/morphosyntaxe/dépendants_HUMAINS.csv
+  [  1/925] Achache-Carole_La-Plage-De-Trouville.txt           + 321 rows | total=    321 | ETA=266min
+  [  2/925] Adam-Olivier_A-labri-de-rien.txt                   + 117 rows | total=    438 | ETA=160min
+  [  3/925] Adam-Olivier_Falaises.txt                          + 121 rows | total=    559 | ETA=123min
+  [  4/925] Adam-Olivier_Le-coeur-regulier.txt                 + 137 rows | total=    696 | ETA=104min
+  [  5/925] Adam-Olivier_Les-Lisieres.txt                      + 115 rows | total=    811 | ETA=93min
+  [  6/925] Adimi-Kaouther_Nos-richesses.txt                   + 253 rows | total=  1,064 | ETA=86min
+  [  7/925] Adrian-Pierre_Hotel-Roma.txt                       + 246 rows | total=  1,310 | ETA=80min
+  [  8/925] Akouche-Karim_La-musique-dereglee-du-monde.txt     + 136 rows | total=  1,446 | ETA=76min
+  [  9/925] Alaoui-Meryem_La-verite-sort-de-la-bouche-du-cheva + 205 rows | total=  1,651 | ETA=73min
+  [ 10/925] Alexakis-Vassilis_Lenfant-grec.txt                 + 174 rows | total=  1,825 | ETA=70min
+  [ 11/925] Alexakis-Vassilis_Les-mots-etrangers.txt           + 221 rows | total=  2,046 | ETA=68min
+  [ 12/925] Alexander-Alfred_Bord-du-canal.txt                 + 218 rows | total=  2,264 | ETA=66min
+  [ 13/925] Alexandre-Alfred_Les-villes-assassines.txt         + 199 rows | total=  2,463 | ETA=66min
+  [ 14/925] Alikavazovic-Jakuta_L-avancee-de-la-nuit.txt       + 241 rows | total=  2,704 | ETA=64min
+  [ 15/925] Alikavazovic-Jakuta_Le-Londres-Louxor.txt          + 329 rows | total=  3,033 | ETA=63min
+  [ 16/925] Almendros-Vincent_Fairemouche.txt                  + 233 rows | total=  3,266 | ETA=62min
+  [ 17/925] Amadou-Amal-Djaili_Les-impatientes.txt             + 179 rows | total=  3,445 | ETA=61min
+  [ 18/925] Amerique-jean-d_Soleil-a-coudre.txt                + 103 rows | total=  3,548 | ETA=61min
+  [ 19/925] Amette-Jacques-Pierre_La-maitresse-de-Brecht.txt   + 530 rows | total=  4,078 | ETA=60min
+  [ 20/925] Amigorena-Santiago-H_Ghetto-Interieir.txt          + 404 rows | total=  4,482 | ETA=59min
+  [ 21/925] Amigorena-Santiago_Le-Premier-Amour.txt            + 250 rows | total=  4,732 | ETA=58min
+  [ 22/925] Amigorena-Santiago_Le-premier-exil.txt             + 142 rows | total=  4,874 | ETA=58min
+  [ 23/925] Amoudi-Mokhtar_Les-conditions-ideales.txt          + 289 rows | total=  5,163 | ETA=57min
+  [ 24/925] Andrea-Jean-Baptiste_Ma-reine.txt                  + 164 rows | total=  5,327 | ETA=57min
+  [ 25/925] Andrea-Jean-Baptiste_Veiller-sur-elle.txt          + 242 rows | total=  5,569 | ETA=56min
+  [ 26/925] Angot-Christine_Le-Voyage-dans-l'Est.txt           + 105 rows | total=  5,674 | ETA=56min
+  [ 27/925] Angot-Christine_Un-amour-impossible.txt            + 129 rows | total=  5,803 | ETA=56min
+  [ 28/925] Antonescu-Raluca_Inondation.txt                    + 321 rows | total=  6,124 | ETA=55min
+  [ 29/925] Appanah-Nathacha_Le-dernier-frere.txt              + 153 rows | total=  6,277 | ETA=55min
+  [ 30/925] Appanah-Nathacha_Tropique-de-la-violence.txt       + 169 rows | total=  6,446 | ETA=55min
+  [ 31/925] Appanah-Nathacha_dessus-le-toit.txt                + 211 rows | total=  6,657 | ETA=54min
+  [ 32/925] Apperry-Yann_Farrago.txt                           + 311 rows | total=  6,968 | ETA=54min
+  [ 33/925] April-Jean-Philippe_Les-ensauvagés.txt             + 376 rows | total=  7,344 | ETA=53min
+  [ 34/925] Arcan-Nelly_Putain.txt                             +  23 rows | total=  7,367 | ETA=53min
+  [ 35/925] Arnaud-Clara_Et-vous-passerez-comme-des-vents-fou. + 226 rows | total=  7,593 | ETA=53min
+  [ 36/925] Arnaud-Claude_Quastu-fait-de-tes-freres.txt        + 311 rows | total=  7,904 | ETA=52min
+  [ 37/925] Arsand-Daniel_Lily.txt                             + 289 rows | total=  8,193 | ETA=52min
+  [ 38/925] Assayas-Michka_Exhibition.txt                      + 371 rows | total=  8,564 | ETA=52min
+  [ 39/925] Assouline-Pierre_Lutetia.txt                       + 142 rows | total=  8,706 | ETA=51min
+  [ 40/925] Aubry-Gwenaelle_Lisolee_suivie_de_Lisolement.txt   +  42 rows | total=  8,748 | ETA=51min
+  [ 41/925] Aubry-Gwenaelle_Partages.txt                       + 191 rows | total=  8,939 | ETA=51min
+  [ 42/925] Aubry-Gwenaelle_Personne.txt                       + 107 rows | total=  9,046 | ETA=51min
+  [ 43/925] Aubry-Suzanne_Ma-vie-entre-tes-mains.txt           + 400 rows | total=  9,446 | ETA=50min
+  [ 44/925] Audeguy-Stephane_Fils-unique.txt                   + 175 rows | total=  9,621 | ETA=50min
+  [ 45/925] Audeguy-Stephane_Histoire-du-lion-personne.txt     + 359 rows | total=  9,980 | ETA=50min
+  [ 46/925] Audeguy-Stephane_Nous-autres.txt                   + 183 rows | total= 10,163 | ETA=50min
+  [ 47/925] Authier-Christian_Une-certaine-fatigue.txt         + 254 rows | total= 10,417 | ETA=49min
+  [ 48/925] Autissier-Isabelle_Soudain-seuls.txt               + 143 rows | total= 10,560 | ETA=49min
+  [ 49/925] Awumey-Edem_Noces-de-coton.txt                     + 262 rows | total= 10,822 | ETA=49min
+  [ 50/925] Azoulai-Nathalie_Berenice.txt                      + 376 rows | total= 11,198 | ETA=49min
+  [ 51/925] Azoulai-Nathalie_La-Fille-parfaite.txt             + 282 rows | total= 11,480 | ETA=49min
+  [ 52/925] Azoulai-Nathalie_Les-spectateurs.txt               + 212 rows | total= 11,692 | ETA=48min
+  [ 53/925] Bachi-Salim_Amours-et-aventures-de-Sinbad.txt      + 240 rows | total= 11,932 | ETA=48min
+  [ 54/925] Bachi-Salim_La_Kahena.txt                          + 285 rows | total= 12,217 | ETA=48min
+  [ 55/925] Bachi-Salim_Le-chien-d-Ulysse.txt                  + 317 rows | total= 12,534 | ETA=48min
+  [ 56/925] Bachi-Salim_Le-silence-de-Mahomet.txt              + 519 rows | total= 13,053 | ETA=48min
+  [ 57/925] Baechler-Sonia_On-dirait-toi.txt                   + 247 rows | total= 13,300 | ETA=47min
+  [ 58/925] Baglin-Claire_En-salle.txt                         + 163 rows | total= 13,463 | ETA=47min
+  [ 59/925] Bailly-Pierric_L-homme-des-bois.txt                +  93 rows | total= 13,556 | ETA=47min
+  [ 60/925] Bailly-Pierric_La-foudre.txt                       + 212 rows | total= 13,768 | ETA=47min
+  [ 61/925] Bailly-Pierric_Michael-Jackson.txt                 + 451 rows | total= 14,219 | ETA=47min
+  [ 62/925] Baque-Joel_La-fonte-des-glaces.txt                 + 248 rows | total= 14,467 | ETA=48min
+  [ 63/925] Barbe-Jean_Le-travail-de-l-huître.txt             + 330 rows | total= 14,797 | ETA=48min
+  [ 64/925] Barberis-Dominique_Les-kangourous.txt              + 141 rows | total= 14,938 | ETA=48min
+  [ 65/925] Barberis-Dominique_Quelque-chose-a-cacher.txt      + 110 rows | total= 15,048 | ETA=47min
+  [ 66/925] Barberis-Dominique_Une-facon-d-aimer.txt           + 269 rows | total= 15,317 | ETA=47min
+  [ 67/925] Barberis-Dominique_d-Avray.txt                     + 156 rows | total= 15,473 | ETA=47min
+  [ 68/925] Barille-Elisabeth_Les-soeurs-et-autres-especes.txt + 339 rows | total= 15,812 | ETA=47min
+  [ 69/925] Bataille-Christophe_Quartier-general-du-bruit.txt  + 250 rows | total= 16,062 | ETA=47min
+  [ 70/925] Bauchau-Henry_Le-Boulevard-peripherique.txt        + 150 rows | total= 16,212 | ETA=47min
+  [ 71/925] Bauer-Nathalie_Des-garçons-davenir.txt             + 215 rows | total= 16,427 | ETA=47min
+  [ 72/925] Bayamack-Emmanuelle_Arcadie.txt                    + 249 rows | total= 16,676 | ETA=47min
+  [ 73/925] Bayamack-Tam-Emmanuelle_La-treizieme-heure.txt     + 183 rows | total= 16,859 | ETA=46min
+  [ 74/925] Bayard-Ines_Le-Malheur-du-bas.txt                  + 418 rows | total= 17,277 | ETA=46min
+  [ 75/925] Bayon-Bruno_Les-pays-immobiles.txt                 + 141 rows | total= 17,418 | ETA=46min
+  [ 76/925] Beauchemin-Jean-Francois_Le-jour-des-corneilles.tx + 171 rows | total= 17,589 | ETA=46min
+  [ 77/925] Beaulieu-Alain_Le-Joueur-de-quilles.txt            + 292 rows | total= 17,881 | ETA=46min
+  [ 78/925] Becheur-Ali_Le-paradis-des-femmes.txt              + 167 rows | total= 18,048 | ETA=46min
+  [ 79/925] Becker-Emma_La-maison.txt                          + 128 rows | total= 18,176 | ETA=46min
+  [ 80/925] Becker-Emma_Le-Mal-joli.txt                        + 204 rows | total= 18,380 | ETA=46min
+  [ 81/925] Begaudeau-Francois_Entre-les-murs.txt              + 315 rows | total= 18,695 | ETA=46min
+  [ 82/925] Beigbeder-Frederic_Un-Roman-Francais.txt           + 281 rows | total= 18,976 | ETA=46min
+  [ 83/925] Beigbeder-Frederic_Windows-on-the-World.txt        + 312 rows | total= 19,288 | ETA=46min
+  [ 84/925] Beinstingel-Thierry_Ils-desertent.txt              +  41 rows | total= 19,329 | ETA=45min
+  [ 85/925] Belaskri-Yahia_Le-silence-des-dieux.txt            + 269 rows | total= 19,598 | ETA=45min
+  [ 86/925] Belaskri-Yahya_Les-fils-du-jour.txt                + 361 rows | total= 19,959 | ETA=45min
+  [ 87/925] Belem-Gaëlle_Un-monstre-est-la-derriere-la-porte.t + 118 rows | total= 20,077 | ETA=46min
+  [ 88/925] Belezi-Mathieu_Attaquer-la-terre-et-le-soleil.txt  + 126 rows | total= 20,203 | ETA=46min
+  [ 89/925] Belezi-Mathieu_Cetait-notre-terre.txt              + 253 rows | total= 20,456 | ETA=46min
+  [ 90/925] Bellanger-Aurelien_Le-Grand-Paris.txt              + 119 rows | total= 20,575 | ETA=46min
+  [ 91/925] Bello-Antoine_Les-Falsificateurs.txt               + 283 rows | total= 20,858 | ETA=46min
+  [ 92/925] Bencheikh-Djilali_Tes-yeux-bleus-occupent-mon-espr + 292 rows | total= 21,150 | ETA=46min
+  [ 93/925] Benchetrit-Samuel_Chroniques-de-lasphalte.txt      + 595 rows | total= 21,745 | ETA=45min
+  [ 94/925] Benoziglio-Jean_Louis-Capet-suite-et-fin.txt       + 270 rows | total= 22,015 | ETA=45min
+  [ 95/925] Bensimon-Philippe_Tableaux-maudits.txt             + 256 rows | total= 22,271 | ETA=45min
+  [ 96/925] Berest-Anne_La-carte-postale.txt                   + 421 rows | total= 22,692 | ETA=45min
+  [ 97/925] Berest-Anne_Les-patriarches.txt                    + 361 rows | total= 23,053 | ETA=45min
+  [ 98/925] Bernheim-Emanuele_Tout-sest-bien-passe.txt         + 182 rows | total= 23,235 | ETA=45min
+  [ 99/925] Berrada-Berca-Lamia_Kant-et-la-petite-robe-rouge.t +  43 rows | total= 23,278 | ETA=45min
+  [100/925] Bertrand-Jacques_Comment-jai-mange-mon-estomac.txt + 172 rows | total= 23,450 | ETA=45min
+  [101/925] Besson-Patrick_Mais-le-fleuve-tuera-lhomme-blanc.t + 324 rows | total= 23,774 | ETA=45min
+  [102/925] Besson-Philippe_Les-jours-fragiles.txt             +  93 rows | total= 23,867 | ETA=44min
+  [103/925] Besson-Philippe_Son-frere.txt                      + 131 rows | total= 23,998 | ETA=44min
+  [104/925] Besson-Philippe_saison.txt                         + 300 rows | total= 24,298 | ETA=44min
+  [105/925] Bessora_Les-orphelins.txt                          + 519 rows | total= 24,817 | ETA=44min
+  [106/925] Beyrouk_Et-le-ciel-a-oublié-de-plevoir.txt         + 183 rows | total= 25,000 | ETA=44min
+  [107/925] Beyrouk_Je-suis-seul.txt                           + 196 rows | total= 25,196 | ETA=44min
+  [108/925] Bichet-Yves_Lhomme-qui-marche.txt                  + 202 rows | total= 25,398 | ETA=44min
+  [109/925] Bichet-Yves_Trois-enfants-du-tumulte.txt           + 259 rows | total= 25,657 | ETA=44min
+  [110/925] Bienne-Gisele_La-malchimie.txt                     + 141 rows | total= 25,798 | ETA=44min
+  [111/925] Bigot-Christophe_Un-autre-mattend-ailleurs.txt     + 470 rows | total= 26,268 | ETA=44min
+  [112/925] Binebine-Mahi_Le-fou-du-roi.txt                    + 183 rows | total= 26,451 | ETA=43min
+  [113/925] Binebine-Mahi_Terre_d'ombre_brulee.txt             + 232 rows | total= 26,683 | ETA=43min
+  [114/925] Binet-Laurent_La-septieme-fonction-du-langage.txt  + 571 rows | total= 27,254 | ETA=43min
+  [115/925] Bizot-Veronique_Un-avenir.txt                      + 119 rows | total= 27,373 | ETA=43min
+  [116/925] Bizot-Veronique_ame_qui_vive.txt                   + 135 rows | total= 27,508 | ETA=43min
+  [117/925] Bleys-Olivier_Discours-dun-arbre-sur-la-fragilite- + 329 rows | total= 27,837 | ETA=43min
+  [118/925] Blottiere-Alain_Le-tombeau-de-Tommy.txt            + 240 rows | total= 28,077 | ETA=43min
+  [119/925] Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bis + 228 rows | total= 28,305 | ETA=43min
+  [120/925] Boisséson-Matthieu-de_Le-Grand-Chariot.txt         + 396 rows | total= 28,701 | ETA=43min
+  [121/925] Boley-Guy_A-ma-soeur-et-unique.txt                 + 299 rows | total= 29,000 | ETA=43min
+  [122/925] Boltanski-Christophe_La-Cache.txt                  + 178 rows | total= 29,178 | ETA=42min
+  [123/925] Bon-François_Daewoo.txt                            +  66 rows | total= 29,244 | ETA=42min
+  [124/925] Bonnefoy-Miguel_Heritage.txt                       + 225 rows | total= 29,469 | ETA=42min
+  [125/925] Bonnefoy-Miguel_Le-Voyage-d-Octavio.txt            + 183 rows | total= 29,652 | ETA=42min
+  [126/925] Bonnefoy-Miguel_Le-reve-du-jaguar.txt              + 267 rows | total= 29,919 | ETA=42min
+  [127/925] Bonnefoy-Miguel_Linventeur.txt                     + 220 rows | total= 30,139 | ETA=42min
+  [128/925] Bonnefoy-Miguel_Sucre-noir.txt                     + 244 rows | total= 30,383 | ETA=42min
+  [129/925] Boratav-David_Murmures_à_Beyoglu.txt               + 210 rows | total= 30,593 | ETA=42min
+  [130/925] Bortnikov-Dimitri_Lagneau-des-neiges.txt           + 310 rows | total= 30,903 | ETA=42min
+  [131/925] Bouchet-David_Soleil.txt                           + 246 rows | total= 31,149 | ETA=42min
+  [132/925] Bouillier-Gregoire_Le-coeur-ne-cede-pas.txt        + 231 rows | total= 31,380 | ETA=42min
+  [133/925] Bouillier-Gregoire_Rapport-sur-moi.txt             + 184 rows | total= 31,564 | ETA=41min
+  [134/925] Boulin-Jean-Eric_Supplement-au-roman-national.txt  + 254 rows | total= 31,818 | ETA=41min
+  [135/925] Boum-Hemley_Le-reve-du-pecheur.txt                 + 193 rows | total= 32,011 | ETA=41min
+  [136/925] Boum-Hemley_Les-jours-viennent-et-passent.txt      + 254 rows | total= 32,265 | ETA=41min
+  [137/925] Bouraoui-Nina_Mes-mauvaises-pensees.txt            + 103 rows | total= 32,368 | ETA=41min
+  [138/925] Bouraoui-Nina_Otages.txt                           +  82 rows | total= 32,450 | ETA=41min
+  [139/925] Bouraoui-Nina_Satisfaction.txt                     + 233 rows | total= 32,683 | ETA=41min
+  [140/925] Bouraoui-Nina_Tous-les-hommes-desirent-naturelleme + 191 rows | total= 32,874 | ETA=41min
+  [141/925] Bourland-Anne_Les-corps-halogenes.txt              + 182 rows | total= 33,056 | ETA=41min
+  [142/925] Bouysse-Franck_Buveurs-de-vent.txt                 + 280 rows | total= 33,336 | ETA=41min
+  [143/925] Bouysse-Franck_Ne-daucune-femme.txt                +  63 rows | total= 33,399 | ETA=40min
+  [144/925] Boyer-Marie-Christine_Faro.txt                     + 376 rows | total= 33,775 | ETA=40min
+  [145/925] Braudau-Michel_Linterpretation-des-singes.txt      + 217 rows | total= 33,992 | ETA=40min
+  [146/925] Brisac-Genevieve_Dans-les-yeux-des-autres.txt      + 385 rows | total= 34,377 | ETA=40min
+  [147/925] Brisac-Genevieve_Une-annee-avec-mon-pere.txt       + 161 rows | total= 34,538 | ETA=40min
+  [148/925] Brisac-Genevieve_Vie-de-ma-voisine.txt             + 250 rows | total= 34,788 | ETA=40min
+  [149/925] Bronner-Luc_Chaudun.txt                            + 264 rows | total= 35,052 | ETA=40min
+  [150/925] Brunel-Camille_La-guerrilla-des-animaux.txt        + 231 rows | total= 35,283 | ETA=40min
+  [151/925] Bulle-Estelle-Sarah_La-ou-les-chiens-aboient-par-l + 190 rows | total= 35,473 | ETA=40min
+  [152/925] Buti-Roland_Le_milieu-de-lhorizon.txt              + 185 rows | total= 35,658 | ETA=40min
+  [153/925] Bégaudeau-François_Lamour.txt                      + 546 rows | total= 36,204 | ETA=40min
+  [154/925] Carrere-Emmanuel_Dautres-Vies-Que-La-Mienne.txt    + 342 rows | total= 36,546 | ETA=40min
+  [155/925] Carrere-Emmanuel_Limonov.txt                       + 331 rows | total= 36,877 | ETA=40min
+  [156/925] Carrere-Emmanuel_Un-roman-russe.txt                + 238 rows | total= 37,115 | ETA=40min
+  [157/925] Cathrine-Arnaud_La_Disparition_de_Richard_Taylor.t + 297 rows | total= 37,412 | ETA=40min
+  [158/925] Chacour-Eric_Ce-que-je-sais-de-toi.txt             + 150 rows | total= 37,562 | ETA=40min
+  [159/925] Chalandon-Sorj_Enfant-de-salaud.txt                + 164 rows | total= 37,726 | ETA=40min
+  [160/925] Chalandon-Sorj_Le-quatrieme-mur.txt                + 324 rows | total= 38,050 | ETA=40min
+  [161/925] Chalandon-Sorj_Lenrage.txt                         + 329 rows | total= 38,379 | ETA=40min
+  [162/925] Chalandon-Sorj_Mon-traitre.txt                     + 337 rows | total= 38,716 | ETA=40min
+  [163/925] Chalandon-Sorj_Retour-à-Killybegs.txt              + 308 rows | total= 39,024 | ETA=40min
+  [164/925] Chalandon-Sorj_Une-promesse.txt                    + 481 rows | total= 39,505 | ETA=40min
+  [165/925] Chambaz-Bernard_Dernieres-nouvelles-du-Martin-Pêch + 260 rows | total= 39,765 | ETA=40min
+  [166/925] Chapuis-Bernard_La-vie-parlée.txt                  + 353 rows | total= 40,118 | ETA=40min
+  [167/925] Chapuis-Bernard_Onze-ans-avec-Lou.txt              + 530 rows | total= 40,648 | ETA=40min
+  [168/925] Chapuis-Mathilde_Nafar.txt                         +  81 rows | total= 40,729 | ETA=40min
+  [169/925] Charras-Pierre_Dix-neuf-secondes.txt               + 199 rows | total= 40,928 | ETA=39min
+  [170/925] Chemla-Nicolas_Murnau-des-tenebres.txt             + 192 rows | total= 41,120 | ETA=39min
+  [171/925] Cherfi-Magyd_Ma-Part-De-Gaulois.txt                + 249 rows | total= 41,369 | ETA=39min
+  [172/925] Chevillard-Eric_Choir.txt                          +  74 rows | total= 41,443 | ETA=39min
+  [173/925] Chevillard-Eric_Oreille-rouge.txt                  + 108 rows | total= 41,551 | ETA=39min
+  [174/925] Chiche-Sarah_Les-entenebres.txt                    + 109 rows | total= 41,660 | ETA=39min
+  [175/925] Chiche-Sarah_Saturne.txt                           + 125 rows | total= 41,785 | ETA=39min
+  [176/925] Choplin-Antoine_La-barque-de-Masao.txt             + 286 rows | total= 42,071 | ETA=39min
+  [177/925] Claudel-Philippe_Le-rapport-de-Brodeck.txt         + 160 rows | total= 42,231 | ETA=39min
+  [178/925] Claudel-Philippe_Les-ames-grises.txt               + 156 rows | total= 42,387 | ETA=39min
+  [179/925] Clemencon-Frederique_Colonie.txt                   + 137 rows | total= 42,524 | ETA=39min
+  [180/925] Clemençon-Frederique_Traques.txt                   + 115 rows | total= 42,639 | ETA=39min
+  [181/925] Clerc-Thomas_Paris-musee-du-XXIe-siecle.txt        + 155 rows | total= 42,794 | ETA=39min
+  [182/925] Clermont-Stefanie_le-jeu-de-la-musique.txt         + 326 rows | total= 43,120 | ETA=39min
+  [183/925] Clermont-Thierry_Barroco-bordello.txt              + 352 rows | total= 43,472 | ETA=39min
+  [184/925] Clermont-Tonnerre-Adelaide-de_Le-dernier-des-notre + 315 rows | total= 43,787 | ETA=39min
+  [185/925] Coatalem-Jean_La-part-du-fils.txt                  + 150 rows | total= 43,937 | ETA=39min
+  [186/925] Collette-Sandrine_Madelaine-avant-l-aube.txt       + 209 rows | total= 44,146 | ETA=39min
+  [187/925] Collette-Sandrine_On-etait-des-loups.txt           + 166 rows | total= 44,312 | ETA=38min
+  [188/925] Colonna-Daria_La-voleuse.txt                       + 117 rows | total= 44,429 | ETA=38min
+  [189/925] Commerge-Beatrice_Et-il-ne-pleut-jamais-naturellem + 374 rows | total= 44,803 | ETA=38min
+  [190/925] Confiant-Raphael_La-panse-du-chacal.txt            + 285 rows | total= 45,088 | ETA=38min
+  [191/925] Cortanze-Gerard-de_Assam.txt                       + 251 rows | total= 45,339 | ETA=38min
+  [192/925] Corvisier-Stephane__Reine-de-nuit.txt              + 371 rows | total= 45,710 | ETA=38min
+  [193/925] Cosse-Laurence_La-grande-arche.txt                 + 336 rows | total= 46,046 | ETA=38min
+  [194/925] Cotton_Stanislas_La-moitie-du-jour-il-fait-nuit.tx + 131 rows | total= 46,177 | ETA=38min
+  [195/925] Coulin-Delphine_Une-fille-dans-la-jungle.txt       + 191 rows | total= 46,368 | ETA=38min
+  [196/925] Coulin-Delphine_Voir-du-pays.txt                   + 210 rows | total= 46,578 | ETA=38min
+  [197/925] Coulon-Cecile_Le-roi-na-pas-sommeil.txt            + 429 rows | total= 47,007 | ETA=38min
+  [198/925] Coulon-Cecile_Trois-saisons-dorage.txt             + 262 rows | total= 47,269 | ETA=38min
+  [199/925] Cusset-Catherine_L-autre-qu-on-adorait.txt         + 170 rows | total= 47,439 | ETA=38min
+  [200/925] Cusset-Catherine_La-Haine-de-la-famille.txt        + 123 rows | total= 47,562 | ETA=38min
+  [201/925] Da-Empoli-Giuliano_Le-mage-du-Kremlin.txt          + 203 rows | total= 47,765 | ETA=38min
+  [202/925] Dagtekin-Seyhmus_A-la-source-la-nuit.txt           +  13 rows | total= 47,778 | ETA=37min
+  [203/925] Dai-Sijie_Le-complexe-de-Di.txt                    + 174 rows | total= 47,952 | ETA=37min
+  [204/925] Dalembert-Louis_Avant-que-les-ombres-s-effacent.tx + 374 rows | total= 48,326 | ETA=37min
+  [205/925] Dalembert-Louis_Milwaukee-Blues.txt                + 164 rows | total= 48,490 | ETA=37min
+  [206/925] Dalembert-Louis_Mur-Mediterranee.txt               + 190 rows | total= 48,680 | ETA=37min
+  [207/925] Damas-Genevieve_Si-tu-passes-la-riviere.txt        + 341 rows | total= 49,021 | ETA=37min
+  [208/925] Dantzig-Charles_Dans-un-avion-pour-Caracas.txt     + 302 rows | total= 49,323 | ETA=37min
+  [209/925] Dantzig-Charles_Histoire-de-l-amour-et-de-la-haine + 346 rows | total= 49,669 | ETA=37min
+  [210/925] Dantzig-Charles_Je-mappelle-François.txt           + 356 rows | total= 50,025 | ETA=37min
+  [211/925] Dantzig-Charles_Un-film-damour.txt                 + 442 rows | total= 50,467 | ETA=37min
+  [212/925] Daoud-Kamel_Houris.txt                             +  55 rows | total= 50,522 | ETA=37min
+  [213/925] Daoud-Kamel_enquête.txt                            + 135 rows | total= 50,657 | ETA=37min
+  [214/925] Darrieussecq-Marie_Il-faut-beaucoup-aimer-les-homm + 229 rows | total= 50,886 | ETA=37min
+  [215/925] Darrieussecq-Marie_Tom-est-mort.txt                + 361 rows | total= 51,247 | ETA=37min
+  [216/925] Darrieussecq-Marie_White.txt                       + 298 rows | total= 51,545 | ETA=37min
+  [217/925] De-Montaigu-Thibault_Coeur.txt                     + 164 rows | total= 51,709 | ETA=37min
+  [218/925] Debre-Constance_Love-me-tender.txt                 + 171 rows | total= 51,880 | ETA=37min
+  [219/925] Debre-Constance_Nom.txt                            + 138 rows | total= 52,018 | ETA=37min
+  [220/925] Deck-Julia_Ann-dAngleterre.txt                     + 205 rows | total= 52,223 | ETA=37min
+  [221/925] Deck-Julia_Monument-national.txt                   + 442 rows | total= 52,665 | ETA=37min
+  [222/925] Deck-Julia_Propriete-privee.txt                    + 235 rows | total= 52,900 | ETA=37min
+  [223/925] Deck-Julia_Viviane-Elisabeth-Fauville.txt          + 160 rows | total= 53,060 | ETA=37min
+  [224/925] Defraiteur-Anne_Palace-Cafe.txt                    + 230 rows | total= 53,290 | ETA=37min
+  [225/925] Del-Amo-Jean-Baptiste_Le-fils-de-lhomme.txt        +  25 rows | total= 53,315 | ETA=36min
+  [226/925] Del-Amo-Jean-Baptiste_Regne-animal.txt             + 117 rows | total= 53,432 | ETA=36min
+  [227/925] Del-Amo-Jean-Baptiste_Une-education-libertine.txt  + 320 rows | total= 53,752 | ETA=36min
+  [228/925] Delabroy-Allard-Pauline_Ca-raconte-Sarah.txt       + 109 rows | total= 53,861 | ETA=36min
+  [229/925] Delacourt-Gregoire_On-ne-voyait-que-le-bonheur.txt + 120 rows | total= 53,981 | ETA=36min
+  [230/925] Delaume-Chloe_Le-coeur-synthetique.txt             + 475 rows | total= 54,456 | ETA=36min
+  [231/925] Delecroix-Vincent_Ce-qui-est-perdu.txt             + 183 rows | total= 54,639 | ETA=36min
+  [232/925] Delecroix-Vincent_La-chaussure-sur-le-toit.txt     +  78 rows | total= 54,717 | ETA=36min
+  [233/925] Delecroix-Vincent_Naufrage.txt                     +  33 rows | total= 54,750 | ETA=36min
+  [234/925] Delis-Dominique_Ainsi-pleurent-nos-hommes.txt      + 476 rows | total= 55,226 | ETA=36min
+  [235/925] Denis-Stephane_Capitaine-Troy.txt                  + 291 rows | total= 55,517 | ETA=36min
+  [236/925] Desbiolles-Maryline_Le-Beau-Temps.txt              + 510 rows | total= 56,027 | ETA=36min
+  [237/925] Deserable-Francois_Evariste.txt                    + 344 rows | total= 56,371 | ETA=36min
+  [238/925] Deserable-Francois_Un-certain-M.txt                + 198 rows | total= 56,569 | ETA=36min
+  [239/925] Desir-Marie-Jeanne_L-amourette.txt                 + 512 rows | total= 57,081 | ETA=36min
+  [240/925] Desjardins-Antoine_Indice-des-feux.txt             + 106 rows | total= 57,187 | ETA=36min
+  [241/925] Desjardins-Martine_Maleficium.txt                  +  99 rows | total= 57,286 | ETA=35min
+  [242/925] Despentes-Virginie_Apocalypse-bebe.txt             + 133 rows | total= 57,419 | ETA=35min
+  [243/925] Despentes-Virginie_Cher-connard.txt                +  95 rows | total= 57,514 | ETA=35min
+  [244/925] Despentes-Virginie_Vernon-Subutex-1.txt            + 242 rows | total= 57,756 | ETA=35min
+  [245/925] Desy-Proulx-Monique_Enleve-la-nuit.txt             + 134 rows | total= 57,890 | ETA=35min
+  [246/925] Devers-Nathan_Les-liens-artificiels.txt            + 284 rows | total= 58,174 | ETA=35min
+  [247/925] Devi-Ananda_Le-jour-des-cameleons.txt              + 139 rows | total= 58,313 | ETA=35min
+  [248/925] Deville-Patrick_Equatoria.txt                      + 311 rows | total= 58,624 | ETA=35min
+  [249/925] Deville-Patrick_Kampuchea.txt                      + 278 rows | total= 58,902 | ETA=35min
+  [250/925] Deville-Patrick_La-Tentation-des-armes-a-feu.txt   + 236 rows | total= 59,138 | ETA=35min
+  [251/925] Deville-Patrick_Peste_choléra.txt                  + 420 rows | total= 59,558 | ETA=35min
+  [252/925] Diallo-Diaty_Deux-secondes-dair-qui-brule.txt      + 285 rows | total= 59,843 | ETA=35min
+  [253/925] Dicker-Joël_La-verite-sur-l'affaire-Harry-Quebert. + 264 rows | total= 60,107 | ETA=35min
+  [254/925] Dieudonne-Adeline_la-vraie-vie.txt                 + 135 rows | total= 60,242 | ETA=35min
+  [255/925] Dimitrova-Albena_Nous-dinerons-en-francais.txt     +  99 rows | total= 60,341 | ETA=35min
+  [256/925] Diome-Fatou_Celles-qui-attendent.txt               + 198 rows | total= 60,539 | ETA=35min
+  [257/925] Diome-Fatou_Ketala.txt                             + 231 rows | total= 60,770 | ETA=35min
+  [258/925] Diop-Boubacar-Boris_Kaveena.txt                    + 245 rows | total= 61,015 | ETA=34min
+  [259/925] Diop-Boubacar-Boris_Les-petits-de-la-guenon.txt    + 312 rows | total= 61,327 | ETA=34min
+  [260/925] Diop-David_Frere-d'âme.txt                         + 264 rows | total= 61,591 | ETA=34min
+  [261/925] Divry-Sophie_Fantastique-Histoire-damour.txt       + 258 rows | total= 61,849 | ETA=34min
+  [262/925] Divry-Sophie_Quand-le-diable-sortit-de-la-salle-de + 168 rows | total= 62,017 | ETA=34min
+  [263/925] Djebel-Mourad_Les-sens-interdits.txt               + 145 rows | total= 62,162 | ETA=34min
+  [264/925] Djian-Philippe_Oh.txt                              + 181 rows | total= 62,343 | ETA=34min
+  [265/925] Dongala-Emmanuel_La-Sonate-a-Bridgetower.txt       + 371 rows | total= 62,714 | ETA=34min
+  [266/925] Dongala-Emmanuel_Photo-de-groupe-au-bord-du-fleuve + 109 rows | total= 62,823 | ETA=34min
+  [267/925] Donner-Christophe_Bang-Bang.txt                    + 371 rows | total= 63,194 | ETA=34min
+  [268/925] Donner-Christophe_L-empire-de-la-morale.txt        + 176 rows | total= 63,370 | ETA=34min
+  [269/925] Donner-Christophe_La-France-goy.txt                + 390 rows | total= 63,760 | ETA=34min
+  [270/925] Donner-Christophe_Un-roi-sans-lendemain.txt        + 428 rows | total= 64,188 | ETA=34min
+  [271/925] Dorion-Helene_Pas-meme-le-bruit-d-un-fleuve.txt    + 274 rows | total= 64,462 | ETA=34min
+  [272/925] Dorsan-Mary_Le-present-infini-s'arrête.txt         + 240 rows | total= 64,702 | ETA=34min
+  [273/925] Doude-van-Troostwijk-Emma_Ceux-qui-appartiennent-a + 445 rows | total= 65,147 | ETA=34min
+  [274/925] Dreyfus-Arthur_Journal-sexuel-dun-garçon-daujourdh + 188 rows | total= 65,335 | ETA=34min
+  [275/925] Dreyfus-Arthur_Sans-Veronique.txt                  + 120 rows | total= 65,455 | ETA=33min
+  [276/925] Dreyfus-Pauline_Ce-sont-des-choses-qui-arrivent.tx + 340 rows | total= 65,795 | ETA=33min
+  [277/925] Dubois-JeanPaul_Le-Cas-Sneijder.txt                + 157 rows | total= 65,952 | ETA=33min
+  [278/925] Dubois-Jean_Hommes-entre-eux.txt                   + 214 rows | total= 66,166 | ETA=33min
+  [279/925] Dubois-Jean_La-succession.txt                      + 155 rows | total= 66,321 | ETA=33min
+  [280/925] Dubois-Jean_Tous-les-hommes-n-habitent-pas-le-mond + 207 rows | total= 66,528 | ETA=33min
+  [281/925] Dubois-Jean_Une-vie-francaise.txt                  + 247 rows | total= 66,775 | ETA=33min
+  [282/925] Ducrozet-Pierre_Le-Grand-Vertige.txt               + 254 rows | total= 67,029 | ETA=33min
+  [283/925] Ducrozet-Pierre_Linvention-des-corps.txt           + 258 rows | total= 67,287 | ETA=33min
+  [284/925] Dugain-Marc_L'insomnie-des-etoiles.txt             + 152 rows | total= 67,439 | ETA=33min
+  [285/925] Dupont-Eric_La-fiancee-americaine.txt              + 414 rows | total= 67,853 | ETA=33min
+  [286/925] Dupont-Monod-Clara_La_passion-selon-jouette.txt    + 185 rows | total= 68,038 | ETA=33min
+  [287/925] Dupont-Monod-Clara_Le-roi-disait-que-jetais-diable + 229 rows | total= 68,267 | ETA=33min
+  [288/925] Dupont-Monod-Clara_Sadapter.txt                    +  23 rows | total= 68,290 | ETA=33min
+  [289/925] Durin-Marc_Chamelle.txt                            + 214 rows | total= 68,504 | ETA=33min
+  [290/925] Duroy-Lionel_Coleres.txt                           + 235 rows | total= 68,739 | ETA=33min
+  [291/925] Duroy-Lionel_Echapper.txt                          + 192 rows | total= 68,931 | ETA=33min
+  [292/925] Dusapin-Elisa-Shua_Le-vieil-incendie.txt           + 288 rows | total= 69,219 | ETA=33min
+  [293/925] Duteurtre-Benoit_Le_voyage_en_France.txt           + 283 rows | total= 69,502 | ETA=32min
+  [294/925] Duteurtre-Benoit_Lordinateur-du-paradis.txt        + 234 rows | total= 69,736 | ETA=32min
+  [295/925] Ebode-Eugene_La-transmission.txt                   + 218 rows | total= 69,954 | ETA=32min
+  [296/925] Echenoz-Jean_Au-piano.txt                          + 351 rows | total= 70,305 | ETA=32min
+  [297/925] Echenoz-Jean_Envoyee-speciale.txt                  + 304 rows | total= 70,609 | ETA=32min
+  [298/925] Echenoz-Jean_Vie-de-Gerard-Fulmard.txt             + 340 rows | total= 70,949 | ETA=32min
+  [299/925] Edde-Dominique_Kamal-Jann.txt                      + 318 rows | total= 71,267 | ETA=32min
+  [300/925] Effa-Gaston-Paul_les-enfants-de-la-tradition.txt   +  68 rows | total= 71,335 | ETA=32min
+  [301/925] Efoui-Kossi_Solo-dun-revenant.txt                  + 115 rows | total= 71,450 | ETA=32min
+  [302/925] Egloff-Joel_Letourdissement.txt                    +  84 rows | total= 71,534 | ETA=32min
+  [303/925] El-Moumni-Salma_Adieu-Tanger.txt                   + 117 rows | total= 71,651 | ETA=32min
+  [304/925] Elalamy-Youssouf-Amine_Cest-beau-la-guerre.txt     +  32 rows | total= 71,683 | ETA=32min
+  [305/925] Enard-Mathias_Boussole.txt                         + 210 rows | total= 71,893 | ETA=32min
+  [306/925] Enard-Mathias_La-Perfection-du-tir.txt             +  98 rows | total= 71,991 | ETA=32min
+  [307/925] Enard-Mathias_Zone.txt                             + 207 rows | total= 72,198 | ETA=32min
+  [308/925] Enard-Mathias_leur-de-batailles-de-rois-et-d-eleph + 430 rows | total= 72,628 | ETA=32min
+  [309/925] Enthoven-Jean-Paul_Ce-que-nous-avons-eu-de-meilleu + 319 rows | total= 72,947 | ETA=32min
+  [310/925] Ernaux-Annie_Les-annees.txt                        + 175 rows | total= 73,122 | ETA=32min
+  [311/925] Fabre-Dominique_Jaimerais-revoir-Callaghan.txt     + 233 rows | total= 73,355 | ETA=31min
+  [312/925] Falcy-Chloé_Balkis.txt                             + 177 rows | total= 73,532 | ETA=31min
+  [313/925] Fargues-Nicolas_Beau-role.txt                      + 283 rows | total= 73,815 | ETA=31min
+  [314/925] Fargues-Nicolas_j-etais-derriere-toi.txt           + 116 rows | total= 73,931 | ETA=31min
+  [315/925] Faye-Gael_Jacaranda.txt                            + 261 rows | total= 74,192 | ETA=31min
+  [316/925] Faye-Gaël_Petit-pays.txt                           + 328 rows | total= 74,520 | ETA=31min
+  [317/925] Fellous-Colette_Aujourdhui.txt                     + 132 rows | total= 74,652 | ETA=31min
+  [318/925] Fellous-Colette_Avenue-de-France.txt               + 186 rows | total= 74,838 | ETA=31min
+  [319/925] Fellous-Colette_Un-amour-de-frere.txt              + 222 rows | total= 75,060 | ETA=31min
+  [320/925] Feraga-Alexandre_Apres-la-mer.txt                  + 228 rows | total= 75,288 | ETA=31min
+  [321/925] Ferney-Alice_Dans-la-guerre.txt                    + 477 rows | total= 75,765 | ETA=31min
+  [322/925] Ferrari-Jerome_Le-Sermon-sur-la-Chute-de-Rome.txt  + 253 rows | total= 76,018 | ETA=31min
+  [323/925] Ferrier-Michael_Francois-portrait-dun-absent.txt   + 191 rows | total= 76,209 | ETA=31min
+  [324/925] Ferrier-Michael_Scrabble.txt                       +  99 rows | total= 76,308 | ETA=31min
+  [325/925] Filhol-Elisabeth_Sister-ship.txt                   + 104 rows | total= 76,412 | ETA=31min
+  [326/925] Filhol-Elizabeth_Doggerland.txt                    + 137 rows | total= 76,549 | ETA=31min
+  [327/925] Flahaut-Thomas_Ostwald.txt                         + 246 rows | total= 76,795 | ETA=31min
+  [328/925] Fleischer-Alain_L-amant-en-culottes-courtes.txt    + 173 rows | total= 76,968 | ETA=31min
+  [329/925] Fleischer-Alain_La-Hache-et-le-Violon.txt          +  69 rows | total= 77,037 | ETA=30min
+  [330/925] Fleischer-Alain_Les-ambitions-desavouees.txt       + 240 rows | total= 77,277 | ETA=30min
+  [331/925] Fleischer-Alain_Les-angles-morts.txt               + 176 rows | total= 77,453 | ETA=30min
+  [332/925] Fleischer-Alain_Les-trapezistes.txt                + 137 rows | total= 77,590 | ETA=30min
+  [333/925] Fleutiaux-Pierrette_Des-phrases-courtes,-ma-cherie +  49 rows | total= 77,639 | ETA=30min
+  [334/925] Foenkinos-David_Charlotte.txt                      + 495 rows | total= 78,134 | ETA=30min
+  [335/925] Foenkinos-David_La-delicatesse.txt                 + 239 rows | total= 78,373 | ETA=30min
+  [336/925] Foenkinos-David_Qui-se-souvient-de-David-Foenkinos + 171 rows | total= 78,544 | ETA=30min
+  [337/925] Foenkinos-David_les-souvenirs.txt                  +  89 rows | total= 78,633 | ETA=30min
+  [338/925] Fofana-Balla_La-prophetie-de-Dali-roman.txt        + 302 rows | total= 78,935 | ETA=30min
+  [339/925] Fontaine-Naomi_Kuessipan.txt                       +  72 rows | total= 79,007 | ETA=30min
+  [340/925] Forest-Philippe_Le-Siecle-des-nuages.txt           +  95 rows | total= 79,102 | ETA=30min
+  [341/925] Forest-Philippe_Sarinagara.txt                     + 174 rows | total= 79,276 | ETA=30min
+  [342/925] Fottorino-Eric_Baisers-de-cinema.txt               + 301 rows | total= 79,577 | ETA=30min
+  [343/925] Fottorino-Eric_Mohican.txt                         + 301 rows | total= 79,878 | ETA=30min
+  [344/925] Fournier-Jean-Louis_Où-on-va,-papa.txt             + 272 rows | total= 80,150 | ETA=30min
+  [345/925] Franceschi-Patrice_Sil-nen-reste-quune.txt         + 266 rows | total= 80,416 | ETA=30min
+  [346/925] Freche-Emilie_Les-amants-du-Lutetia.txt            + 245 rows | total= 80,661 | ETA=29min
+  [347/925] Frioux-Dalibor_Brut.txt                            + 234 rows | total= 80,895 | ETA=29min
+  [348/925] Gabriel-Fabrice_Fuire-les-forets.txt               + 272 rows | total= 81,167 | ETA=29min
+  [349/925] Gagne-Mireille_Le-lievre-dAmerique.txt             + 150 rows | total= 81,317 | ETA=29min
+  [350/925] Gailly-Christian_Un-soir-au-club.txt               + 495 rows | total= 81,812 | ETA=29min
+  [351/925] Garcia-Tristan_7-Romans.txt                        + 173 rows | total= 81,985 | ETA=29min
+  [352/925] Garcia-Tristan_Faber.txt                           + 317 rows | total= 82,302 | ETA=29min
+  [353/925] Garcia-Tristan_La-meilleure-part-des-hommes.txt    + 355 rows | total= 82,657 | ETA=29min
+  [354/925] Garcin-Christian-_Des-femmes-disparaissent.txt     + 363 rows | total= 83,020 | ETA=29min
+  [355/925] Garcin-Jerome_Bartabas.txt                         + 321 rows | total= 83,341 | ETA=29min
+  [356/925] Garde-Francois_Ce-qu-il-advint-du-sauvage-blanc.tx + 114 rows | total= 83,455 | ETA=29min
+  [357/925] Garreta-Anne_Pas-un-jour.txt                       +  62 rows | total= 83,517 | ETA=29min
+  [358/925] Gatore-Gilbert_Le-passe-devant-soi.txt             +  56 rows | total= 83,573 | ETA=29min
+  [359/925] Gaude-Laurent_Danser-les-ombres.txt                + 300 rows | total= 83,873 | ETA=29min
+  [360/925] Gaude-Laurent_La-mort-du-roi-Tsongor.txt           + 281 rows | total= 84,154 | ETA=29min
+  [361/925] Gaude-Laurent_Le-Soleil-des-Scorta.txt             + 331 rows | total= 84,485 | ETA=29min
+  [362/925] Gaudet-Jonathan_La-derive-des-jours.txt            +  77 rows | total= 84,562 | ETA=29min
+  [363/925] Gaudy-Helene_Archipels.txt                         +  32 rows | total= 84,594 | ETA=29min
+  [364/925] Gaudy-Helene_Vue-sur-la-mer.txt                    + 329 rows | total= 84,923 | ETA=29min
+  [365/925] Gauz_Camarade-papa.txt                             + 322 rows | total= 85,245 | ETA=29min
+  [366/925] Gazier-Michele_Le-fil-de-soie.txt                  + 242 rows | total= 85,487 | ETA=29min
+  [367/925] Germain-Sylvie_Magnus.txt                          + 282 rows | total= 85,769 | ETA=29min
+  [368/925] Gervais-Bertrand_Les-failles-de-l-Amerique.txt     + 206 rows | total= 85,975 | ETA=29min
+  [369/925] Ghoussoub-Sabyl_Beyrouth-sur-seine.txt             + 170 rows | total= 86,145 | ETA=28min
+  [370/925] Giraud-Brigitte_A-present.txt                      + 154 rows | total= 86,299 | ETA=28min
+  [371/925] Giraud-Brigitte_Jour-de-courage.txt                + 362 rows | total= 86,661 | ETA=28min
+  [372/925] Giraud-Brigitte_Nous-serons-des-heros.txt          + 264 rows | total= 86,925 | ETA=28min
+  [373/925] Giraud-Brigitte_Pas-dinquietude.txt                + 164 rows | total= 87,089 | ETA=28min
+  [374/925] Giraud-Brigitte_Un-loup-pour-l-homme.txt           + 300 rows | total= 87,389 | ETA=28min
+  [375/925] Giraud-Brigitte_Une-annee-etrangere.txt            + 178 rows | total= 87,567 | ETA=28min
+  [376/925] Giraud-Brigitte_Vivre-vite.txt                     + 146 rows | total= 87,713 | ETA=28min
+  [377/925] Giraud-Thomas_Le-bruit-des-tuiles.txt              + 104 rows | total= 87,817 | ETA=28min
+  [378/925] Girod-Ryad_Les-Yeux-de-Mansour.txt                 + 272 rows | total= 88,089 | ETA=28min
+  [379/925] Gisele-Pineau_La-vie-privee-doubli.txt             + 403 rows | total= 88,492 | ETA=28min
+  [380/925] Godard-Anne_Une-chance-folle.txt                   +  50 rows | total= 88,542 | ETA=28min
+  [381/925] Goffette-Guy__Un-ete-autour-du-cou.txt             + 265 rows | total= 88,807 | ETA=28min
+  [382/925] Gouraige-Laure_La-fille-du-pere.txt                +  43 rows | total= 88,850 | ETA=28min
+  [383/925] Gran-Iegor_Les-Services-competents.txt             + 348 rows | total= 89,198 | ETA=28min
+  [384/925] Gran-Iegor_Ong.txt                                 + 150 rows | total= 89,348 | ETA=28min
+  [385/925] Grayson-Catherine-Lune_Le-testament-de-nos-corps.t + 238 rows | total= 89,586 | ETA=28min
+  [386/925] Greggio-Simonetta_Dolce-Vita-1959-1979.txt         + 453 rows | total= 90,039 | ETA=28min
+  [387/925] Greveillac-Paul_Maitres-et-esclaves.txt            + 301 rows | total= 90,340 | ETA=27min
+  [388/925] Grimbert-Philippe_Un-secret.txt                    + 360 rows | total= 90,700 | ETA=27min
+  [389/925] Grimbert-Sibylle_Le-dernier-des-siens.txt          + 347 rows | total= 91,047 | ETA=27min
+  [390/925] Grumberg-JeanClaude_La-plus-precieuse-des-marchand +  67 rows | total= 91,114 | ETA=27min
+  [391/925] Guay-Poliquin-Christian_Les-ombres-filantes.txt    +  17 rows | total= 91,131 | ETA=27min
+  [392/925] Guenassia-Jean-Michel_Le-club-des-incorrigibles-op + 333 rows | total= 91,464 | ETA=27min
+  [393/925] Guenier-Fabrice_Ann-epub.txt                       + 186 rows | total= 91,650 | ETA=27min
+  [394/925] Guerra-Eve_Rapatriement.txt                        + 223 rows | total= 91,873 | ETA=27min
+  [395/925] Guerreschi-Jean_Belard-et-Loise.txt                + 253 rows | total= 92,126 | ETA=27min
+  [396/925] Guez-Olivier_La-disparition-de-Josef-Mengele.txt   + 621 rows | total= 92,747 | ETA=27min
+  [397/925] Guilbert-Cecile_Reanimation.txt                    + 188 rows | total= 92,935 | ETA=27min
+  [398/925] Guven-Mahir_Grand-frere.txt                        + 134 rows | total= 93,069 | ETA=27min
+  [399/925] Guyotat-Pierre_Idiotie.txt                         +  60 rows | total= 93,129 | ETA=27min
+  [400/925] Haddad-Hubert_Palestine.txt                        + 214 rows | total= 93,343 | ETA=27min
+  [401/925] Haddad-Shane_Aimez-Gil.txt                         + 216 rows | total= 93,559 | ETA=27min
+  [402/925] Hadengue-Philippe_Un-te-deum-en-ile-de-France.txt  +  78 rows | total= 93,637 | ETA=27min
+  [403/925] Hadjadj-Bachir_Le-voleur-de-reves.txt              + 225 rows | total= 93,862 | ETA=27min
+  [404/925] Hadjimarkos-Clarke-Phoebe_Aliene.txt               + 385 rows | total= 94,247 | ETA=26min
+  [405/925] Haenel-Yannick_Cercle.txt                          + 102 rows | total= 94,349 | ETA=26min
+  [406/925] Haenel-Yannick_Jan-Karski.txt                      + 345 rows | total= 94,694 | ETA=26min
+  [407/925] Haenel-Yannick_TIens-ferme-ta-couronne.txt         + 278 rows | total= 94,972 | ETA=26min
+  [408/925] Harang-Jean-Baptiste_La-chambre-de-la-Stella.txt   + 217 rows | total= 95,189 | ETA=26min
+  [409/925] Harton-Catherine_Traité-des-peaux-nouvelles.txt    + 317 rows | total= 95,506 | ETA=26min
+  [410/925] Hassaine-Lilia_Panorama.txt                        + 314 rows | total= 95,820 | ETA=26min
+  [411/925] Hassaine-Lilia_Soleil-amer.txt                     + 508 rows | total= 96,328 | ETA=26min
+  [412/925] Hatzfeld-Jean_La-strategie-des-antilopes.txt       + 157 rows | total= 96,485 | ETA=26min
+  [413/925] Henrot-Errol_Les-liens-du-sang.txt                 + 198 rows | total= 96,683 | ETA=26min
+  [414/925] Henry-François_Le-reve-de-Martin.txt               + 236 rows | total= 96,919 | ETA=26min
+  [415/925] Henry-Françoise_Juste-avant-lhiver.txt             + 140 rows | total= 97,059 | ETA=26min
+  [416/925] Hesse-Thierry_Demon.txt                            + 293 rows | total= 97,352 | ETA=26min
+  [417/925] Hoex-Corinne_Le-grand-menu.txt                     + 188 rows | total= 97,540 | ETA=26min
+  [418/925] Hoex-Corinne_Ma-robe-nest-pas-froissee.txt         +  61 rows | total= 97,601 | ETA=26min
+  [419/925] Holder-Eric_Hongroise.txt                          + 199 rows | total= 97,800 | ETA=26min
+  [420/925] Honore-Christophe_Ton-pere.txt                     + 202 rows | total= 98,002 | ETA=26min
+  [421/925] Houdart-Celia_Gil.txt                              + 520 rows | total= 98,522 | ETA=26min
+  [422/925] Houellebecq-Michel_La-carte-et-le-territoire.txt   + 277 rows | total= 98,799 | ETA=26min
+  [423/925] Houellebecq-Michel_Possibilite-dune-ile.txt        + 138 rows | total= 98,937 | ETA=25min
+  [424/925] Humbert-Fabrice_Le-monde-nexiste-pas.txt           + 274 rows | total= 99,211 | ETA=25min
+  [425/925] Humbert-Fabrice_Lorigine-de-la-violence.txt        + 332 rows | total= 99,543 | ETA=25min
+  [426/925] Hunzinger-Claudie_Elles-vivaient-d-espoir.txt      + 581 rows | total=100,124 | ETA=25min
+  [427/925] Hunzinger-Claudie_La-langue-des-oiseaux.txt        + 174 rows | total=100,298 | ETA=25min
+  [428/925] Hunzinger-Claudie_Les-grands-cerfs.txt             + 168 rows | total=100,466 | ETA=25min
+  [429/925] Hunzinger-Claudie_Un-chien-a-ma-table.txt          + 151 rows | total=100,617 | ETA=25min
+  [430/925] Huston-Nancy_Dolce-agonia.txt                      + 419 rows | total=101,036 | ETA=25min
+  [431/925] Huston-Nancy_Lignes-de-faille.txt                  + 158 rows | total=101,194 | ETA=25min
+  [432/925] Idier-Nicolas_Nouvelle-jeunesse.txt                + 323 rows | total=101,517 | ETA=25min
+  [433/925] Ilf-Eddine_La-derniere-ronde.txt                   + 187 rows | total=101,704 | ETA=25min
+  [434/925] Jablonka-Ivan_Laetitia-ou-la-fin-des-hommes.txt    + 313 rows | total=102,017 | ETA=25min
+  [435/925] Jaenada-Philippe_Au-printemps-des-monstres.txt     + 349 rows | total=102,366 | ETA=25min
+  [436/925] Jaenada-Philippe_La-petite-femelle.txt             + 309 rows | total=102,675 | ETA=25min
+  [437/925] Jaenada-Philippe_Sulak.txt                         + 270 rows | total=102,945 | ETA=25min
+  [438/925] Jaenada-Philippe_la-Serpe.txt                      + 396 rows | total=103,341 | ETA=25min
+  [439/925] Janicot-Stephanie_Le-privilege-des-reveurs.txt     + 324 rows | total=103,665 | ETA=25min
+  [440/925] Jarry-Isabel_Jai-nom-sans-bruit_phrases.txt        +  51 rows | total=103,716 | ETA=25min
+  [441/925] Jaubert-Alain_Val-Paradis.txt                      + 139 rows | total=103,855 | ETA=24min
+  [442/925] Jauffret-Regis_Asile-de-fous.txt                   +  88 rows | total=103,943 | ETA=24min
+  [443/925] Jauffret-Regis_Cannibales.txt                      + 135 rows | total=104,078 | ETA=24min
+  [444/925] Jauffret-Regis_Claustria.txt                       + 164 rows | total=104,242 | ETA=24min
+  [445/925] Jauffret-Regis_Lacrimosa.txt                       + 110 rows | total=104,352 | ETA=24min
+  [446/925] Jauffret-Regis_Papa.txt                            + 241 rows | total=104,593 | ETA=24min
+  [447/925] Jauffret-Regis_Promenade.txt                       +   5 rows | total=104,598 | ETA=24min
+  [448/925] Jauffret-Regis_Univers-Univers.txt                 + 105 rows | total=104,703 | ETA=24min
+  [449/925] Jaydane-Driss_Moise-de-Casa.txt                    + 269 rows | total=104,972 | ETA=24min
+  [450/925] Jeancourt-Galignani-Oriane_Quand-larbre-tombe.txt  + 383 rows | total=105,355 | ETA=24min
+  [451/925] Jeanmart-Hedwige_Blanes.txt                        + 231 rows | total=105,586 | ETA=24min
+  [452/925] Jenni-Alexis_Lart-français-de-la-guerre.txt        +  40 rows | total=105,626 | ETA=24min
+  [453/925] Jestin-Victor_La-Chaleur.txt                       + 229 rows | total=105,855 | ETA=24min
+  [454/925] Jestin-Victor_Lhomme-qui-danse.txt                 + 201 rows | total=106,056 | ETA=24min
+  [455/925] Jobidon-Gilles_La_Route-des-petits-mains.txt       + 153 rows | total=106,209 | ETA=24min
+  [456/925] Jobidon-Gilles_Lame-frere.txt                      + 324 rows | total=106,533 | ETA=24min
+  [457/925] Jobidon-Gilles_Le-tranquille-affligé.txt           + 364 rows | total=106,897 | ETA=24min
+  [458/925] Johannin-CapucineetSimon_Nino-dans-la-nuit.txt     + 114 rows | total=107,011 | ETA=24min
+  [459/925] Jollien-Fardel-Sarah_Sa-preferee.txt               + 124 rows | total=107,135 | ETA=24min
+  [460/925] Joncour-Serge_Chien-Loup.txt                       + 146 rows | total=107,281 | ETA=23min
+  [461/925] Joncour-Serge_Lecrivain-national.txt               +  66 rows | total=107,347 | ETA=23min
+  [462/925] Joncour-Serge_Nature-humaine.txt                   + 257 rows | total=107,604 | ETA=23min
+  [463/925] Kaddour-Hedi_Les-preponderants.txt                 + 401 rows | total=108,005 | ETA=23min
+  [464/925] Kaddour-Hedi_Waltenberg.txt                        + 329 rows | total=108,334 | ETA=23min
+  [465/925] Kaddour-Hedi_vivre.txt                             + 297 rows | total=108,631 | ETA=23min
+  [466/925] Kali-Skander_Abreuvons-nos-sillons.txt             + 322 rows | total=108,953 | ETA=23min
+  [467/925] Kaplan-Leslie_Fever.txt                            + 455 rows | total=109,408 | ETA=23min
+  [468/925] Kaplan-Leslie_Millefeuille.txt                     + 346 rows | total=109,754 | ETA=23min
+  [469/925] Kattan-Karim_Le-palais-des-deux-collines.txt       + 229 rows | total=109,983 | ETA=23min
+  [470/925] Kawczak-Paul_Tenebre.txt                           + 399 rows | total=110,382 | ETA=23min
+  [471/925] Kebabdjian-Aram_Les-Desoeuvres.txt                 + 350 rows | total=110,732 | ETA=23min
+  [472/925] Kerangal-Maylisde_Corniche-Kennedy.txt             + 169 rows | total=110,901 | ETA=23min
+  [473/925] Kerangal-Maylisde_Naissance-dun-pont.txt           + 112 rows | total=111,013 | ETA=23min
+  [474/925] Kerangal-Maylisde_Un-monde-a-portee-de-main.txt    + 234 rows | total=111,247 | ETA=23min
+  [475/925] Khadra-Yasmina_LAttentat.txt                       + 153 rows | total=111,400 | ETA=23min
+  [476/925] Khiari-Wahiba_Nos_silences.txt                     +  34 rows | total=111,434 | ETA=23min
+  [477/925] Khlat-Yasmine__Le-Desespoir-est-un-peche.txt       + 222 rows | total=111,656 | ETA=23min
+  [478/925] Khoury-Ghata-Venus_La-maison-aux-orties.txt        + 138 rows | total=111,794 | ETA=23min
+  [479/925] Khoury-Ghata-Venus_Sept-pierres-pour-la-femme-adul + 228 rows | total=112,022 | ETA=22min
+  [480/925] Kiner-Salome__Grande-Couronne.txt                  + 371 rows | total=112,393 | ETA=22min
+  [481/925] Koenig-Gaspard_Humus.txt                           + 299 rows | total=112,692 | ETA=22min
+  [482/925] Korman-Cloe_Les-Hommes-couleur.txt                 + 202 rows | total=112,894 | ETA=22min
+  [483/925] Korman-Cloe_Les-presque-soeurs.txt                 + 359 rows | total=113,253 | ETA=22min
+  [484/925] Kramer-Pascale_Retour-dUruguay.txt                 + 530 rows | total=113,783 | ETA=22min
+  [485/925] Kuperman-Nathalie_Jai-renvoyé-Marta.txt            + 172 rows | total=113,955 | ETA=22min
+  [486/925] Laberge-Andree_La-riviere-du-loup.txt              +  34 rows | total=113,989 | ETA=22min
+  [487/925] Laclavetine-Jean-Marie_Matins-bleus.txt            + 252 rows | total=114,241 | ETA=22min
+  [488/925] Ladjali-Cecile_Benedict.txt                        + 442 rows | total=114,683 | ETA=22min
+  [489/925] Laferriere-Dany_Lenigme-du-retour.txt              + 105 rows | total=114,788 | ETA=22min
+  [490/925] Lafon-Lola_Chavirer.txt                            + 522 rows | total=115,310 | ETA=22min
+  [491/925] Lafon-Lola_La-petite-communiste-qui-ne-souriait-ja + 226 rows | total=115,536 | ETA=22min
+  [492/925] Lafon-Lola_Quand-tu-ecouteras-cette-chanson.txt    + 391 rows | total=115,927 | ETA=22min
+  [493/925] Lafon-Marie-Helene_Les-sources.txt                 + 251 rows | total=116,178 | ETA=22min
+  [494/925] Lafon-Marie_Histoire-du-fils.txt                   + 341 rows | total=116,519 | ETA=22min
+  [495/925] Lafon-Marie_Joseph.txt                             + 270 rows | total=116,789 | ETA=22min
+  [496/925] Lafon-Marie_Lannonce.txt                           + 320 rows | total=117,109 | ETA=22min
+  [497/925] Lafon-Marie_Le-Soir-du-chien.txt                   + 210 rows | total=117,319 | ETA=22min
+  [498/925] Lahens-Yanick_Bain-de-lune.txt                     + 352 rows | total=117,671 | ETA=21min
+  [499/925] Lahens-Yanick_La-couleur-de-laube.txt              + 378 rows | total=118,049 | ETA=21min
+  [500/925] Lalancette-Guy_La-conscience-d_Eliah.txt           + 531 rows | total=118,580 | ETA=21min
+  [501/925] Lambert-Emmanuelle_Aucun-respect.txt               + 326 rows | total=118,906 | ETA=21min
+  [502/925] Lambert-Kevin_Que-notre-joie-demeure.txt           + 217 rows | total=119,123 | ETA=21min
+  [503/925] Lambert-Kevin_Tu-aimeras-ce-que-tu-as-tue.txt      + 311 rows | total=119,434 | ETA=21min
+  [504/925] Lambron-Marc_Etrangers-dans-la-nuit.txt            + 485 rows | total=119,919 | ETA=21min
+  [505/925] Lambron-Marc_Les-Menteurs.txt                      + 302 rows | total=120,221 | ETA=21min
+  [506/925] Lang-Luc_Au-commencement-du-septieme-jour.txt      + 231 rows | total=120,452 | ETA=21min
+  [507/925] Lang-Luc_La-tentation.txt                          + 268 rows | total=120,720 | ETA=21min
+  [508/925] Lang-Luc_Les-indiens.txt                           + 324 rows | total=121,044 | ETA=21min
+  [509/925] Lançon-Philippe_Le-lambeau.txt                     + 248 rows | total=121,292 | ETA=21min
+  [510/925] Lapeyre-Patrick_LHomme-sœur.txt                    + 333 rows | total=121,625 | ETA=21min
+  [511/925] Lapeyre-Patrick_La-vie-est-breve-et-le-desir-sans- + 213 rows | total=121,838 | ETA=21min
+  [512/925] Lapouge_Gilles_Le-bois-des-amoureux.txt            + 308 rows | total=122,146 | ETA=21min
+  [513/925] Laroui-Fouad_Une-Annee-Chez-Les-Français.txt       + 401 rows | total=122,547 | ETA=21min
+  [514/925] Laurain-Hélène_Partout-le-feu.txt                  + 138 rows | total=122,685 | ETA=21min
+  [515/925] Laurens-Camille_Celle-que-vous-croyez.txt          + 191 rows | total=122,876 | ETA=21min
+  [516/925] Laurent-Caroline_Rivage-de-la-colere.txt           + 520 rows | total=123,396 | ETA=21min
+  [517/925] Laurrent-Eric_Renaissance-italienne.txt            +  94 rows | total=123,490 | ETA=20min
+  [518/925] Laurrent-Eric_Un-beau-debut.txt                    + 180 rows | total=123,670 | ETA=20min
+  [519/925] Lavenant-Guillaume_Protocole-gouvernante.txt       + 264 rows | total=123,934 | ETA=20min
+  [520/925] Lavoie-Marie-Renee_la-petite-et-le-vieux.txt       + 233 rows | total=124,167 | ETA=20min
+  [521/925] Layaz-Michel_Sans-Silke.txt                        + 208 rows | total=124,375 | ETA=20min
+  [522/925] Lazar_Liliana_Terre_des_affranchis.txt             + 433 rows | total=124,808 | ETA=20min
+  [523/925] Lazlo-Viktor_Les-passagers-du-siecle.txt           + 138 rows | total=124,946 | ETA=20min
+  [524/925] Le-Bris-Michel_La-beauté-du-monde.txt             + 348 rows | total=125,294 | ETA=20min
+  [525/925] Le-Linda_Lame-de-fond.txt                          + 265 rows | total=125,559 | ETA=20min
+  [526/925] Le-Linda_in-memoriam.txt                           + 156 rows | total=125,715 | ETA=20min
+  [527/925] Le-Maire-Bruno_Musique-absolue.txt                 + 306 rows | total=126,021 | ETA=20min
+  [528/925] LeTellier-Herve_Lanomalie.txt                      + 385 rows | total=126,406 | ETA=20min
+  [529/925] Le_Coz-Martine_Celeste.txt                         + 308 rows | total=126,714 | ETA=20min
+  [530/925] Lebey-Marie_Oublier-Modiano.txt                    + 360 rows | total=127,074 | ETA=20min
+  [531/925] Leblanc-Perrine_Gens-du-Nord.txt                   + 386 rows | total=127,460 | ETA=20min
+  [532/925] Leger-Nathalie_Supplement-a-la-vie-de-Barbara-Lode + 290 rows | total=127,750 | ETA=20min
+  [533/925] Lelièvre-Marie-Dominique_Je-vais-de-mieux-en-mieux + 349 rows | total=128,099 | ETA=20min
+  [534/925] Lemaitre-Pierre_Au-revoir-la-haut.txt              + 342 rows | total=128,441 | ETA=20min
+  [535/925] Leprince-Pierre_Les-enquetes-de-M.txt              + 240 rows | total=128,681 | ETA=20min
+  [536/925] Lepront-Catherine_Des-gens-du-monde.txt            + 259 rows | total=128,940 | ETA=19min
+  [537/925] Lepront-Catherine_Disparition-dun-chien.txt        + 169 rows | total=129,109 | ETA=19min
+  [538/925] Leroy-Gilles_Alabama-Song.txt                      + 213 rows | total=129,322 | ETA=19min
+  [539/925] Leroy-Gilles_Grandir.txt                           + 212 rows | total=129,534 | ETA=19min
+  [540/925] Lesbre-Michele_Le-canape-rouge.txt                 + 234 rows | total=129,768 | ETA=19min
+  [541/925] Levi-Celia_La-Tannerie.txt                         + 272 rows | total=130,040 | ETA=19min
+  [542/925] Levy-Justine_Mauvaise-fille.txt                    + 144 rows | total=130,184 | ETA=19min
+  [543/925] Lewat-Osvalde_Les-aquatiques.txt                   + 364 rows | total=130,548 | ETA=19min
+  [544/925] Liberati-Simon_California-girls.txt                + 467 rows | total=131,015 | ETA=19min
+  [545/925] Liberati-Simon_Eva.txt                             + 257 rows | total=131,272 | ETA=19min
+  [546/925] Liberati-Simon_Jayne-Mansfield-1967.txt            + 395 rows | total=131,667 | ETA=19min
+  [547/925] Liberati-Simon_Performance.txt                     + 405 rows | total=132,072 | ETA=19min
+  [548/925] Lighieri-Rebecca_Le-club-des-enfants-perdus.txt    + 228 rows | total=132,300 | ETA=19min
+  [549/925] Limongi-Laure_Anomalies-des-zones-profondes-du-cer + 331 rows | total=132,631 | ETA=19min
+  [550/925] Lindenberg-Hugo_Un-jour-ce-sera-vide.txt           + 134 rows | total=132,765 | ETA=19min
+  [551/925] Lindon-Mathieu_Ce-quaimer-veut-dire.txt            + 317 rows | total=133,082 | ETA=19min
+  [552/925] Littell-Jonathan_Les-Bienveillantes.txt            + 291 rows | total=133,373 | ETA=19min
+  [553/925] Lobe-Max_39-rue-de-Berne.txt                       + 302 rows | total=133,675 | ETA=19min
+  [554/925] Lobe-Max_Confidences.txt                           + 294 rows | total=133,969 | ETA=19min
+  [555/925] Lobe-Max_la-trinite-bantoue.txt                    + 212 rows | total=134,181 | ETA=18min
+  [556/925] Loi-Fabrice_Pirates.txt                            + 201 rows | total=134,382 | ETA=18min
+  [557/925] Lombe-Lisette_Eunice.txt                           + 213 rows | total=134,595 | ETA=18min
+  [558/925] Lopez-David_Fief.txt                               + 346 rows | total=134,941 | ETA=18min
+  [559/925] Lotoko-Benedicte_Ca-brille-encore.txt              + 125 rows | total=135,066 | ETA=18min
+  [560/925] Louis-Edouard_En-finir-avec-Eddy-Bellegueule.txt   +  77 rows | total=135,143 | ETA=18min
+  [561/925] Louis-Edouard_Histoire-de-la-violence.txt          + 121 rows | total=135,264 | ETA=18min
+  [562/925] Loup-Douna_Les-printemps-sauvages.txt              +  70 rows | total=135,334 | ETA=18min
+  [563/925] Lulu-Annie_Peine-des-faunes.txt                    + 284 rows | total=135,618 | ETA=18min
+  [564/925] Luterbacher-Thierry_Un-cerisier-dans-lescalier.txt + 248 rows | total=135,866 | ETA=18min
+  [565/925] Lyamlahy-Khalid_Evocation-d-un-memorial.txt        +  66 rows | total=135,932 | ETA=18min
+  [566/925] Mabanckou-Alain_Memoires-du-porc-epic.txt          +  72 rows | total=136,004 | ETA=18min
+  [567/925] Mabanckou-Alain_Petit-Piment.txt                   + 271 rows | total=136,275 | ETA=18min
+  [568/925] Mabanckou-Alain_Verre-casse.txt                    + 111 rows | total=136,386 | ETA=18min
+  [569/925] Mainard-Dominique-Le_ciel_des_chevaux.txt          + 172 rows | total=136,558 | ETA=18min
+  [570/925] Mainard-Dominique_Pour-vous.txt                    + 176 rows | total=136,734 | ETA=18min
+  [571/925] Mairesse-Beata_Tous-tes-enfants-disperses.txt      + 156 rows | total=136,890 | ETA=18min
+  [572/925] Majdalani-Charif_Caravanserail.txt                 + 299 rows | total=137,189 | ETA=18min
+  [573/925] Majdalani-Charif_Le-dernier-seigneur-de-Marsad.txt + 289 rows | total=137,478 | ETA=18min
+  [574/925] Majdalani-Charif_Villa-des-femmes.txt              + 303 rows | total=137,781 | ETA=17min
+  [575/925] Malte-Marcus_Le-garçon.txt                         + 101 rows | total=137,882 | ETA=17min
+  [576/925] Manai-Yamen_Amas-arden.txt                         + 192 rows | total=138,074 | ETA=17min
+  [577/925] Manai-Yamen_La-Serenade-dIbrahim-Santos.txt        + 436 rows | total=138,510 | ETA=17min
+  [578/925] Manga-Samy_Chocolate-le-gout-amer-de-la-culture-du + 128 rows | total=138,638 | ETA=17min
+  [579/925] Mann-Esther-Levon-Minasian_Le-fil-des-anges.txt    + 343 rows | total=138,981 | ETA=17min
+  [580/925] Marsan-Hugo_La-gare-des-faux-departs.txt           + 519 rows | total=139,500 | ETA=17min
+  [581/925] Martin-Chauffier-Gilles_Lere-des-suspects.txt      + 252 rows | total=139,752 | ETA=17min
+  [582/925] Martin-Jean-Pierre_Mes-Fous.txt                    + 305 rows | total=140,057 | ETA=17min
+  [583/925] Martin_Chauffier-Gilles_Silence-on-ment.txt        + 314 rows | total=140,371 | ETA=17min
+  [584/925] Martinez-Carole_Dors-ton-sommeil-de-brute.txt      +  82 rows | total=140,453 | ETA=17min
+  [585/925] Martinez-Carole_Du-domaine-des-Murmures.txt        + 147 rows | total=140,600 | ETA=17min
+  [586/925] Martinoir-Francine_Laime-de-juillet.txt            + 230 rows | total=140,830 | ETA=17min
+  [587/925] Mas-Victoria_Le-bal-des-folles.txt                 + 250 rows | total=141,080 | ETA=17min
+  [588/925] Mathieu-Daude-Agnes_Marchands-de-sable.txt         + 454 rows | total=141,534 | ETA=17min
+  [589/925] Mathieu-Nicolas_Connemara.txt                      + 261 rows | total=141,795 | ETA=17min
+  [590/925] Mathieu-Nicolas_Leurs-enfants-apres-eux.txt        + 377 rows | total=142,172 | ETA=17min
+  [591/925] Matzneff-Gabriel_Voici-venir-le-fiance.txt         + 463 rows | total=142,635 | ETA=17min
+  [592/925] Maubert-Franck_Leau-qui-passe.txt                  + 203 rows | total=142,838 | ETA=17min
+  [593/925] Maubert-Franck_Visible-la-nuit.txt                 + 373 rows | total=143,211 | ETA=17min
+  [594/925] Mauvignier-Laurent_Autour-du-monde.txt             + 236 rows | total=143,447 | ETA=16min
+  [595/925] Mauvignier-Laurent_Continuer.txt                   + 272 rows | total=143,719 | ETA=16min
+  [596/925] Mauvignier-Laurent_Dans-la-foule.txt               + 160 rows | total=143,879 | ETA=16min
+  [597/925] Mauvignier-Laurent_Des-hommes.txt                  + 223 rows | total=144,102 | ETA=16min
+  [598/925] Mauvignier-Laurent_Histoires-de-la-nuit.txt        + 151 rows | total=144,253 | ETA=16min
+  [599/925] Mavrikakis-Catherine_Le-ciel-de-Bay-City.txt       + 188 rows | total=144,441 | ETA=16min
+  [600/925] Mazloum-Diane_Lagedor.txt                          + 330 rows | total=144,771 | ETA=16min
+  [601/925] Mazloum-Diane_Une-piscine-dans-le-desert.txt       + 304 rows | total=145,075 | ETA=16min
+  [602/925] Mazzieri-Julie_La-Bosco.txt                        + 238 rows | total=145,313 | ETA=16min
+  [603/925] Mbougar-Sarr-Mohamed_Silence-du-choeur.txt         + 275 rows | total=145,588 | ETA=16min
+  [604/925] Mbougar-Sarr-Mohamed_Terre-Ceinte.txt              + 269 rows | total=145,857 | ETA=16min
+  [605/925] Mbougar_La-plus-secrete-memoire-des-hommes.txt     + 204 rows | total=146,061 | ETA=16min
+  [606/925] Meddi-Adlene_1994.txt                              + 264 rows | total=146,325 | ETA=16min
+  [607/925] Message-Vincent_Cora-dans-la-spirale.txt           + 176 rows | total=146,501 | ETA=16min
+  [608/925] Message-Vincent_Les-veilleurs.txt                  + 198 rows | total=146,699 | ETA=16min
+  [609/925] Meur-Diane_Les-villes-de-la-plaine.txt             + 218 rows | total=146,917 | ETA=16min
+  [610/925] Miano-Leonora_La-saison-de-lombre-Roman.txt        + 125 rows | total=147,042 | ETA=16min
+  [611/925] Miano-Leonora_Les-aubes-ecarlates.txt              + 152 rows | total=147,194 | ETA=16min
+  [612/925] Miano-Leonora_Linterieur-de-la-nuit.txt            + 173 rows | total=147,367 | ETA=16min
+  [613/925] Miano-Leonora_Rouge-imperatrice.txt                + 183 rows | total=147,550 | ETA=16min
+  [614/925] Miano-Leonora_contours-du-jour-qui-vient.txt       +  93 rows | total=147,643 | ETA=15min
+  [615/925] Michelis-Denis_Le-bon-fils.txt                     + 253 rows | total=147,896 | ETA=15min
+  [616/925] Millet-Richard_Devorations.txt                     +  49 rows | total=147,945 | ETA=15min
+  [617/925] Millet-Richard_La-voix-d-alto.txt                  + 188 rows | total=148,133 | ETA=15min
+  [618/925] Millet-Richard_Le-gout-des-femmes-laides.txt       + 136 rows | total=148,269 | ETA=15min
+  [619/925] Millet-Richard_Ma-vie-parmi-les-ombres.txt         + 196 rows | total=148,465 | ETA=15min
+  [620/925] Minard-Celine_Faillir-etre-flingue.txt             + 140 rows | total=148,605 | ETA=15min
+  [621/925] Minard-Celine_Le-Grand-Jeu.txt                     +  17 rows | total=148,622 | ETA=15min
+  [622/925] Minard-Celine_Le-dernier-monde.txt                 + 143 rows | total=148,765 | ETA=15min
+  [623/925] Minard-Celine_Plasmas.txt                          + 183 rows | total=148,948 | ETA=15min
+  [624/925] Mingarelli-Hubert_Quatre-Soldats.txt               + 487 rows | total=149,435 | ETA=15min
+  [625/925] Mingarelli-Hubert_lhomme-qui-avait-soif.txt        + 427 rows | total=149,862 | ETA=15min
+  [626/925] Minor-Nata_La-partie-des-dames.txt                 + 191 rows | total=150,053 | ETA=15min
+  [627/925] Mizubayashi-Akira_Suite-inoubliable.txt            + 397 rows | total=150,450 | ETA=15min
+  [628/925] Modiano-Patrick_LHorizon.txt                       + 379 rows | total=150,829 | ETA=15min
+  [629/925] Moi-Anna_Le-venin-du-papillon.txt                  + 202 rows | total=151,031 | ETA=15min
+  [630/925] Moix-Yann_Naissance.txt                            + 269 rows | total=151,300 | ETA=15min
+  [631/925] Moix-Yann_Podium.txt                               + 705 rows | total=152,005 | ETA=15min
+  [632/925] Mokeddem-Mohamed_Paris-lautre-desert.txt           + 310 rows | total=152,315 | ETA=15min
+  [633/925] Monenembo-Tierno_Bled.txt                          + 299 rows | total=152,614 | ETA=15min
+  [634/925] Monenembo-Tierno_Le-Terroriste-Noir.txt            + 187 rows | total=152,801 | ETA=14min
+  [635/925] Monenembo-Tierno_Le-roi-de-kahel.txt               + 205 rows | total=153,006 | ETA=14min
+  [636/925] Monenembo-Tierno_Saharienne-indigo.txt             + 240 rows | total=153,246 | ETA=14min
+  [637/925] Montalbetti-Christine_Ce-que-c-est-qu-une-existenc + 171 rows | total=153,417 | ETA=14min
+  [638/925] Montalbetti-Christine_Mon-ancetre-poisson.txt      +  87 rows | total=153,504 | ETA=14min
+  [639/925] Montety-Etiennede_La-grande-epreuve.txt            + 430 rows | total=153,934 | ETA=14min
+  [640/925] Montety-Etiennede_La-route-du-salut.txt            + 510 rows | total=154,444 | ETA=14min
+  [641/925] Mordillat-Gerard_Les-vivants-et-les-morts.txt      + 552 rows | total=154,996 | ETA=14min
+  [642/925] Morgieve-Richard_La-fete-des-meres.txt             + 276 rows | total=155,272 | ETA=14min
+  [643/925] Mouawad-Wajdi_Anima.txt                            + 106 rows | total=155,378 | ETA=14min
+  [644/925] Moura-Jean-Marc_La-Musique-des-illusions.txt       + 164 rows | total=155,542 | ETA=14min
+  [645/925] Mouton-Antoine_Le-metteur-en-scène-polonaise.txt   +  38 rows | total=155,580 | ETA=14min
+  [646/925] Mukasonga-Scholastique_Dame-Du-Nil.txt             + 206 rows | total=155,786 | ETA=14min
+  [647/925] NDiaye-Marie_Autoportrait-en-vert.txt              + 189 rows | total=155,975 | ETA=14min
+  [648/925] NDiaye-Marie_Ladivine.txt                          + 198 rows | total=156,173 | ETA=14min
+  [649/925] NDiaye-Marie_Mon-coeur-a-letroit.txt               + 192 rows | total=156,365 | ETA=14min
+  [650/925] NDiaye-Marie_Trois-femmes-puissantes.txt           +  90 rows | total=156,455 | ETA=14min
+  [651/925] NSonde-Wilfried_Le-Coeur-des-enfants-leopards.txt  + 192 rows | total=156,647 | ETA=14min
+  [652/925] Nabe-Marc-Edouard_L-homme-qui-arreta-d-ecrire.txt  + 263 rows | total=156,910 | ETA=14min
+  [653/925] Narine-Vidya_Orchideiste.txt                       + 191 rows | total=157,101 | ETA=14min
+  [654/925] Nathan-Tobie_Ce-pays-qui-te-ressemble.txt          + 168 rows | total=157,269 | ETA=13min
+  [655/925] Ndala-Blaise_Dans-le-ventre-du-Congo.txt           + 231 rows | total=157,500 | ETA=13min
+  [656/925] Ndiaye-Marie_La-vengeance-m-appartient.txt         + 402 rows | total=157,902 | ETA=13min
+  [657/925] Ndiaye-Marie_Rosie-Carpe.txt                       + 391 rows | total=158,293 | ETA=13min
+  [658/925] Ndwaniye-Joseph_La-promesse-faite-a-ma-soeur.txt   + 111 rows | total=158,404 | ETA=13min
+  [659/925] Nguyen_Soie-et-metal.txt                           + 256 rows | total=158,660 | ETA=13min
+  [660/925] Nicole-Eugene_Loeuvre-des-mers.txt                 + 230 rows | total=158,890 | ETA=13min
+  [661/925] Niel-Colin_Entre-fauves.txt                        + 138 rows | total=159,028 | ETA=13min
+  [662/925] Nimier-Marie_La-reine-du-silence.txt               + 183 rows | total=159,211 | ETA=13min
+  [663/925] Nirsimloo-Anenden-Ananda_Eve-de-ses-decombres.txt  + 134 rows | total=159,345 | ETA=13min
+  [664/925] Nizard-Simon_Les-mains-de-Fatma.txt                + 271 rows | total=159,616 | ETA=13min
+  [665/925] Nonn-Eric_Butterfly-II.txt                         + 160 rows | total=159,776 | ETA=13min
+  [666/925] Norek-Olivier_Les-guerriers-de-lhiver.txt          + 362 rows | total=160,138 | ETA=13min
+  [667/925] Nothomb-Amelie_Biographie-de-la-faim.txt           + 120 rows | total=160,258 | ETA=13min
+  [668/925] Nothomb-Amelie_Ni-dEve-ni-dAdam.txt                + 222 rows | total=160,480 | ETA=13min
+  [669/925] Nothomb-Amelie_Petronille.txt                      + 247 rows | total=160,727 | ETA=13min
+  [670/925] Nothomb-Amelie_Premier-sang.txt                    + 356 rows | total=161,083 | ETA=13min
+  [671/925] Nothomb-Amelie_Soif.txt                            + 137 rows | total=161,220 | ETA=13min
+  [672/925] Notte-Pierre_Quitter-le-rang-des-assassins.txt     +  81 rows | total=161,301 | ETA=13min
+  [673/925] Oho-Bambe-Marc-Alexandre_Les-lumieres-dOujda.txt   + 329 rows | total=161,630 | ETA=13min
+  [674/925] Olmi-Veronique_Bakhita.txt                         +  25 rows | total=161,655 | ETA=12min
+  [675/925] Olmi-Veronique_Le-gosse.txt                        + 270 rows | total=161,925 | ETA=12min
+  [676/925] Ono-dit-Biot-Christophe_Birmane.txt                + 194 rows | total=162,119 | ETA=12min
+  [677/925] Ono-dit-Biot-Christophe_Trouver-refuge.txt         + 373 rows | total=162,492 | ETA=12min
+  [678/925] Orcel-Makenzy_Maitre-minuit.txt                    + 352 rows | total=162,844 | ETA=12min
+  [679/925] Orcel-Makenzy_Une-somme-humaine.txt                +  31 rows | total=162,875 | ETA=12min
+  [680/925] Orengo-Jean_Les-jungles-rouges.txt                 + 259 rows | total=163,134 | ETA=12min
+  [681/925] Oster-Christian_En-ville.txt                       + 252 rows | total=163,386 | ETA=12min
+  [682/925] Oster-Christian_Trois-hommes-seuls.txt             + 423 rows | total=163,809 | ETA=12min
+  [683/925] Oster-Christian_Une-femme-de-menage.txt            + 188 rows | total=163,997 | ETA=12min
+  [684/925] Ouaknine-Serge_le-tao-du-tagueur.txt               + 139 rows | total=164,136 | ETA=12min
+  [685/925] Ovalde-Veronique_Ce-que-je-sais-de-Vera-Candida.tx + 274 rows | total=164,410 | ETA=12min
+  [686/925] Pagano-Emmanuelle_Saufs-riverains.txt              + 144 rows | total=164,554 | ETA=12min
+  [687/925] Palou-Anthony_La-faucille-dor.txt                  + 385 rows | total=164,939 | ETA=12min
+  [688/925] Panassenko-Polina_Tenir-sa-langue.txt              + 203 rows | total=165,142 | ETA=12min
+  [689/925] Parisis-Jean_Les-aimants.txt                       + 253 rows | total=165,395 | ETA=12min
+  [690/925] Pasquet-Jean-Marc_Libre-toujours.txt               + 220 rows | total=165,615 | ETA=12min
+  [691/925] Passeron-Antony_Les-enfants-endormis.txt           + 250 rows | total=165,865 | ETA=12min
+  [692/925] Pauly-Anne_Avant-que-joublie.txt                   + 132 rows | total=165,997 | ETA=12min
+  [693/925] Paventi-Eza_Les-Souliers-de-Mandela.txt            + 185 rows | total=166,182 | ETA=11min
+  [694/925] Pawlowicz-Julia_Retour-d-outre-mer.txt             + 316 rows | total=166,498 | ETA=11min
+  [695/925] Peeters-Edouard_Nephros.txt                        + 209 rows | total=166,707 | ETA=11min
+  [696/925] Peju-Pierre_La-petite-Chartreuse.txt               + 234 rows | total=166,941 | ETA=11min
+  [697/925] Peju-Pierre_Le-rire-de-l-ogre.txt                  + 226 rows | total=167,167 | ETA=11min
+  [698/925] Peretti-Camille-de_LInconnue-du-portrait.txt       + 360 rows | total=167,527 | ETA=11min
+  [699/925] Perrignon-Judith_La-ou-nous-dansions.txt           + 267 rows | total=167,794 | ETA=11min
+  [700/925] Perrignon-Judith_Victor-Hugo-vient-de-mourir.txt   + 328 rows | total=168,122 | ETA=11min
+  [701/925] Petersen-Pia_Un-ecrivain-un-vrai.txt               + 320 rows | total=168,442 | ETA=11min
+  [702/925] Pierre-Dahomey-Nehemy_Rapatries.txt                + 487 rows | total=168,929 | ETA=11min
+  [703/925] Pireyre-Emmanuelle_Chimere.txt                     + 269 rows | total=169,198 | ETA=11min
+  [704/925] Pireyre-Emmanuelle_Feerie-generale.txt             + 222 rows | total=169,420 | ETA=11min
+  [705/925] Pirotte-Jean-Claude_Absent-de-Bagdad.txt           +  70 rows | total=169,490 | ETA=11min
+  [706/925] Pirotte-Jean-Claude_Une-adolescence-en-Gueldre.txt + 212 rows | total=169,702 | ETA=11min
+  [707/925] Plamondon-Eric_Taqawan.txt                         + 182 rows | total=169,884 | ETA=11min
+  [708/925] Plazenet-Laurence_La-blessure-et-la-soif.txt       + 398 rows | total=170,282 | ETA=11min
+  [709/925] Pluyette-Patrice_La-traversee-du-Mozambique-par-te + 102 rows | total=170,384 | ETA=11min
+  [710/925] Poivre-d-Arvor-Olivier_Disparaitre.txt             + 256 rows | total=170,640 | ETA=11min
+  [711/925] Poivre-dArvor-Olivier_Le-voyage-du-fils.txt        + 227 rows | total=170,867 | ETA=11min
+  [712/925] Polack-Stephanie_Comme-un-frere.txt                + 254 rows | total=171,121 | ETA=11min
+  [713/925] Poulain-Catherine_Le-grand-marin.txt               + 301 rows | total=171,422 | ETA=10min
+  [714/925] Poulin-Jacques_La-traduction-est-une-histoire-damo + 141 rows | total=171,563 | ETA=10min
+  [715/925] Pourchet-Maria_Feu.txt                             + 283 rows | total=171,846 | ETA=10min
+  [716/925] Pourchet-Maria_Western.txt                         + 317 rows | total=172,163 | ETA=10min
+  [717/925] Pradeau-Christophe_La-grande-sauvagerie.txt        +  94 rows | total=172,257 | ETA=10min
+  [718/925] Prophete-Emmelie_Le-bout-du-monde-est-une-fenetre. + 367 rows | total=172,624 | ETA=10min
+  [719/925] Prophete-Emmelie_Les-villages-de-dieu.txt          + 397 rows | total=173,021 | ETA=10min
+  [720/925] Provost-Martin_Leger,-humain,-pardonnable.txt      + 232 rows | total=173,253 | ETA=10min
+  [721/925] Prudhomme-Sylvain_Lenfant-dans-le-taxi.txt         + 173 rows | total=173,426 | ETA=10min
+  [722/925] Prudhomme-Sylvain_Par-les-routes.txt               + 208 rows | total=173,634 | ETA=10min
+  [723/925] Puertolas-Romain_L'extraordinaire-voyage-du-fakir. + 200 rows | total=173,834 | ETA=10min
+  [724/925] Pujade-Renaud-Claude_Dans-l-ombre-de-la-lumiere.tx + 352 rows | total=174,186 | ETA=10min
+  [725/925] Quadruppani-Serge_Venenome.txt                     + 218 rows | total=174,404 | ETA=10min
+  [726/925] Quentin-Abel_Cabane.txt                            + 246 rows | total=174,650 | ETA=10min
+  [727/925] Quentin-Abel_Le-voyant-d-Etampes.txt               + 233 rows | total=174,883 | ETA=10min
+  [728/925] Quentin-Abel_Soeur.txt                             + 261 rows | total=175,144 | ETA=10min
+  [729/925] Quignard-Pascal_Les-ombres-errantes.txt            + 230 rows | total=175,374 | ETA=10min
+  [730/925] RIchard-Jennifer_Il-est-a-toi-ce-beau-pays.txt     + 245 rows | total=175,619 | ETA=10min
+  [731/925] Racine-Bruno_Le-tombeau-de-la-chretienne.txt       + 224 rows | total=175,843 | ETA=10min
+  [732/925] Ragougneau-Alexis_Opus-77.txt                      + 195 rows | total=176,038 | ETA=10min
+  [733/925] Raharimanana_Nour-1947.txt                         + 175 rows | total=176,213 | ETA=9min
+  [734/925] Raharimanana_Revenir.txt                           + 150 rows | total=176,363 | ETA=9min
+  [735/925] Rahimi-Atiq_Maudit-soit-Dostoievski.txt            + 234 rows | total=176,597 | ETA=9min
+  [736/925] Rahimi-Atiq_Syngue-Sabour-Pierre-de-Patience.txt   +  83 rows | total=176,680 | ETA=9min
+  [737/925] Rahmani-Zahia_Moze.txt                             + 186 rows | total=176,866 | ETA=9min
+  [738/925] Rahmani-Zahia_Musulman.txt                         + 132 rows | total=176,998 | ETA=9min
+  [739/925] Ravaloson-Johry_Vol-a-vif.txt                      + 278 rows | total=177,276 | ETA=9min
+  [740/925] Ravey-Yves_Enlevement-avec-rancon.txt              + 175 rows | total=177,451 | ETA=9min
+  [741/925] Ravey-Yves_La-fille-de-mon-meilleur-ami.txt        + 363 rows | total=177,814 | ETA=9min
+  [742/925] Ravey-Yves_Pris-au-piege.txt                       + 243 rows | total=178,057 | ETA=9min
+  [743/925] Ravey-Yves_Trois-jours-chez-ma-tante.txt           + 340 rows | total=178,397 | ETA=9min
+  [744/925] Ravey-Yves_Un-notaire-peu-ordinaire.txt            + 433 rows | total=178,830 | ETA=9min
+  [745/925] Razon-Boris_Palladium.txt                          +  81 rows | total=178,911 | ETA=9min
+  [746/925] Recondo-Leonor_Le-grand-feu.txt                    + 357 rows | total=179,268 | ETA=9min
+  [747/925] Recondo-Leonor_Manifesto.txt                       + 199 rows | total=179,467 | ETA=9min
+  [748/925] Red-Raphaelle_Adikou.txt                           +  60 rows | total=179,527 | ETA=9min
+  [749/925] Reinhardt-Eric_Cendrillon.txt                      + 222 rows | total=179,749 | ETA=9min
+  [750/925] Reinhardt-Eric_Comedies-francaises.txt             + 343 rows | total=180,092 | ETA=9min
+  [751/925] Reinhardt-Eric_L-amour-et-les-forets.txt           + 163 rows | total=180,255 | ETA=9min
+  [752/925] Reinhardt-Eric_Le-systeme-Victoria.txt             +  74 rows | total=180,329 | ETA=9min
+  [753/925] Reinhardt-Eric_Sarah-Susanne-et-lecrivain.txt      + 180 rows | total=180,509 | ETA=9min
+  [754/925] Renouard-Mael_L-historiographe-du-royaume.txt      + 128 rows | total=180,637 | ETA=8min
+  [755/925] Revaz-Noelle_Efina.txt                             + 154 rows | total=180,791 | ETA=8min
+  [756/925] Revaz-Noelle_Rapport-aux-betes.txt                 + 159 rows | total=180,950 | ETA=8min
+  [757/925] Reverdy-ThomasB_Climax.txt                         + 173 rows | total=181,123 | ETA=8min
+  [758/925] Reverdy-ThomasB_Il-etait-une-ville.txt             + 143 rows | total=181,266 | ETA=8min
+  [759/925] Reverdy-ThomasB_L'hiver-du-mecontentement.txt      + 208 rows | total=181,474 | ETA=8min
+  [760/925] Reza-Yasmina_Babylone.txt                          + 298 rows | total=181,772 | ETA=8min
+  [761/925] Reza-Yasmina_Heureux-les-heureux.txt               + 345 rows | total=182,117 | ETA=8min
+  [762/925] Reznikov-Patricia_Le-songe-du-photographe.txt      + 350 rows | total=182,467 | ETA=8min
+  [763/925] Rico-Lucie_GPS.txt                                 + 275 rows | total=182,742 | ETA=8min
+  [764/925] Rico-Lucie_Le-chant-du-poulet-sous-vide.txt        + 334 rows | total=183,076 | ETA=8min
+  [765/925] Ringelheim-Foulek_La-seconde-vie-dAbram-Potz.txt   + 196 rows | total=183,272 | ETA=8min
+  [766/925] Rinkel-Blandine_Vers-la-violence.txt               + 235 rows | total=183,507 | ETA=8min
+  [767/925] Robbe-Grillet-Alain_La-Reprise.txt                 + 133 rows | total=183,640 | ETA=8min
+  [768/925] Robert-Diard-Pascale_La-petite-menteuse.txt        + 402 rows | total=184,042 | ETA=8min
+  [769/925] Robles-Jean_Là-où-les-tigres-sont-chez-eux.txt     + 309 rows | total=184,351 | ETA=8min
+  [770/925] Rodier-Jean_En-remontant-les-ruisseaux.txt         +  61 rows | total=184,412 | ETA=8min
+  [771/925] Roegiers-Patrick_Le-bonheur-des-belges.txt         + 328 rows | total=184,740 | ETA=8min
+  [772/925] Roger-Marie-Sabine_la-tete-en-friche.txt           + 226 rows | total=184,966 | ETA=8min
+  [773/925] Rolin-Jean_La-Traversee-de-Bondoufle.txt           +  48 rows | total=185,014 | ETA=8min
+  [774/925] Rolin-Jean_La-cloture.txt                          + 238 rows | total=185,252 | ETA=7min
+  [775/925] Rolin-Jean_Le-Ravissement-de-Britney-Spears.txt    + 215 rows | total=185,467 | ETA=7min
+  [776/925] Rolin-Jean_Le-Traquet-kurde.txt                    + 278 rows | total=185,745 | ETA=7min
+  [777/925] Rolin-Jean_Le-pont-de-bezons.txt                   +  98 rows | total=185,843 | ETA=7min
+  [778/925] Rolin-Jean_Les-evenements.txt                      + 102 rows | total=185,945 | ETA=7min
+  [779/925] Rolin-Jean_Lexplosion-de-la-durite.txt             + 154 rows | total=186,099 | ETA=7min
+  [780/925] Rolin-Jean_Un-chien-mort-apres-lui.txt             + 182 rows | total=186,281 | ETA=7min
+  [781/925] Rolin-Olivier_Bakou-derniers-jours.txt             + 358 rows | total=186,639 | ETA=7min
+  [782/925] Rolin-Olivier_Exterieur-monde.txt                  + 255 rows | total=186,894 | ETA=7min
+  [783/925] Rolin-Olivier_Le-metereologue.txt                  + 277 rows | total=187,171 | ETA=7min
+  [784/925] Rolin-Olivier_Tigre-en-papier.txt                  + 232 rows | total=187,403 | ETA=7min
+  [785/925] Rolin-Olivier_Un-chasseur-de-lions.txt             + 321 rows | total=187,724 | ETA=7min
+  [786/925] Rondeau-Daniel_Dans-la-marche-du-temps.txt         + 180 rows | total=187,904 | ETA=7min
+  [787/925] Rosenthal-Olivia_On-nest-pas-la-pour-disparaitre.t + 252 rows | total=188,156 | ETA=7min
+  [788/925] Rosenthal-Olivia_Que-font-les-rennes-apres-Nol.txt +  31 rows | total=188,187 | ETA=7min
+  [789/925] Rosenthal-Olivia_Un-singe-a-ma-fenetre.txt         +  91 rows | total=188,278 | ETA=7min
+  [790/925] Royer-Corinne_Ceux-du-lac.txt                      + 285 rows | total=188,563 | ETA=7min
+  [791/925] Royer-Corinne_Pleine-terre.txt                     + 123 rows | total=188,686 | ETA=7min
+  [792/925] Rozier-Gilles_Dun-pays-sans-amour.txt              + 286 rows | total=188,972 | ETA=7min
+  [793/925] Rozier-Gilles_Un-amour-sans-resistance.txt         + 315 rows | total=189,287 | ETA=7min
+  [794/925] Ruben-Emmanuel_Malville.txt                        + 111 rows | total=189,398 | ETA=6min
+  [795/925] Rufin-Jean-Christophe_Rouge-Bresil.txt             + 229 rows | total=189,627 | ETA=6min
+  [796/925] Sabolo-Monica_Eden.txt                             + 185 rows | total=189,812 | ETA=6min
+  [797/925] Sabolo-Monica_La-vie-clandestine.txt               + 192 rows | total=190,004 | ETA=6min
+  [798/925] Sabolo-Monica_Summer.txt                           + 128 rows | total=190,132 | ETA=6min
+  [799/925] Sagnard-Arnaud_Bronson.txt                         + 279 rows | total=190,411 | ETA=6min
+  [800/925] Salatko-Alexis_Jules-et-Joe.txt                    + 621 rows | total=191,032 | ETA=6min
+  [801/925] Salvayre-Lydie_La-Methode-Mila.txt                 + 241 rows | total=191,273 | ETA=6min
+  [802/925] Salvayre-Lydie_Pas-Pleurer.txt                     + 329 rows | total=191,602 | ETA=6min
+  [803/925] Salvayre-Lydie_Portrait-de-lecrivain-en-animal-dom + 374 rows | total=191,976 | ETA=6min
+  [804/925] Sansal-Boualem_2084-la-fin-du-monde.txt            +  97 rows | total=192,073 | ETA=6min
+  [805/925] Saucier-Jocelyne_Il-pleuvait-des-oiseaux.txt       + 214 rows | total=192,287 | ETA=6min
+  [806/925] Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa- +  34 rows | total=192,321 | ETA=6min
+  [807/925] Scali-Dominique_Les-marins-ne-savent-pas-nager.txt + 127 rows | total=192,448 | ETA=6min
+  [808/925] Schneider-Michel_Comme-une-ombre.txt               + 227 rows | total=192,675 | ETA=6min
+  [809/925] Schneider-Michel_Marilyn,-dernieres-seances.txt    + 478 rows | total=193,153 | ETA=6min
+  [810/925] Schwartz-Violaine_La-tete-en-arriere.txt           +  83 rows | total=193,236 | ETA=6min
+  [811/925] Scott-Ann_Les-Insolents.txt                        + 190 rows | total=193,426 | ETA=6min
+  [812/925] Sebban-Olivier_Le-jour-de-ton-nom.txt              + 286 rows | total=193,712 | ETA=6min
+  [813/925] Segur-Philippe_Poetique-de-l-egorgeur.txt          + 141 rows | total=193,853 | ETA=6min
+  [814/925] Seksik-Laurent_Le-cas-Eduard-Einstein.txt          + 362 rows | total=194,215 | ETA=5min
+  [815/925] Senges-Pierre_Ruines-de-Rome.txt                   +  69 rows | total=194,284 | ETA=5min
+  [816/925] Serrano-Jean-Louis_La-beauté-du-poulpe.txt         + 194 rows | total=194,478 | ETA=5min
+  [817/925] Serre-Anne_Notre-si-chere-vieille-dame.txt         + 193 rows | total=194,671 | ETA=5min
+  [818/925] Serre-Anne_Petite-Table-Sois-Mise.txt              + 158 rows | total=194,829 | ETA=5min
+  [819/925] Serre-Anne_Un-chapeau-leopard.txt                  + 246 rows | total=195,075 | ETA=5min
+  [820/925] Servant-Stephane_Sirius.txt                        + 447 rows | total=195,522 | ETA=5min
+  [821/925] Sewtohul-Amal_Histoire-dAshok.txt                  + 672 rows | total=196,194 | ETA=5min
+  [822/925] Sewtohul-Amal_Made-in-Mauritius.txt                + 180 rows | total=196,374 | ETA=5min
+  [823/925] Simonnot-Maud_LEnfant-celeste.txt                  + 319 rows | total=196,693 | ETA=5min
+  [824/925] Sinha-Shumona_Assommons-les-pauvres.txt            + 106 rows | total=196,799 | ETA=5min
+  [825/925] Sinha-Shumuna_Apatride.txt                         + 250 rows | total=197,049 | ETA=5min
+  [826/925] Sinno-Neige_Triste-tigre.txt                       +  56 rows | total=197,105 | ETA=5min
+  [827/925] Slimani-Leila_Chanson-douce.txt                    + 584 rows | total=197,689 | ETA=5min
+  [828/925] Slocombe-Romain_Monsieur-le-commandant.txt         + 387 rows | total=198,076 | ETA=5min
+  [829/925] Sole-Robert_Une-soiree-ay-Caire.txt                + 370 rows | total=198,446 | ETA=5min
+  [830/925] Sorman-Joy_Comme-une-bete.txt                      + 196 rows | total=198,642 | ETA=5min
+  [831/925] Sorman-Joy_La-peau-de-lours.txt                    +  67 rows | total=198,709 | ETA=5min
+  [832/925] Spitzer-Sebastien_Le-coeur-battant-du-monde.txt    + 273 rows | total=198,982 | ETA=5min
+  [833/925] Sportes-Morgan_L-Insense.txt                       + 715 rows | total=199,697 | ETA=5min
+  [834/925] Sportes-Morgan_Tout-tout-de-suite.txt              + 289 rows | total=199,986 | ETA=4min
+  [835/925] Stefanini-Anne_Nos-annees-rouges.txt               + 254 rows | total=200,240 | ETA=4min
+  [836/925] Stoltz-Anton_Le-Jardin-du-Lagerkommandant.txt      + 378 rows | total=200,618 | ETA=4min
+  [837/925] Sylvain-Prudhomme_Coyote.txt                       + 264 rows | total=200,882 | ETA=4min
+  [838/925] Taia-Abdellah_Infideles.txt                        + 201 rows | total=201,083 | ETA=4min
+  [839/925] Taia-Abdellah_Le-bastion-des-larmes.txt            + 538 rows | total=201,621 | ETA=4min
+  [840/925] Taillander-Fanny-Par-les-ecrans-du-monde.txt       + 176 rows | total=201,797 | ETA=4min
+  [841/925] Tavernier-Tiffany_L-ami.txt                        + 363 rows | total=202,160 | ETA=4min
+  [842/925] Tavernier-Tiffany_Roissy-(1).txt                   + 149 rows | total=202,309 | ETA=4min
+  [843/925] Thomas-Chantal_L-echange-des-princesses.txt        + 448 rows | total=202,757 | ETA=4min
+  [844/925] Thomas-Chantal_Le-testament-dOlympe.txt            + 269 rows | total=203,026 | ETA=4min
+  [845/925] Thomas-Chantal_Les-adieux-a-La-Reine.txt           + 320 rows | total=203,346 | ETA=4min
+  [846/925] Thomas-Chantal_Souvenirs-de-la-maree-basse.txt     + 120 rows | total=203,466 | ETA=4min
+  [847/925] Thuy-Kim_Man.txt                                   + 130 rows | total=203,596 | ETA=4min
+  [848/925] Thuy-Kim_Ru.txt                                    +  80 rows | total=203,676 | ETA=4min
+  [849/925] Thuy-Kim_Vi.txt                                    + 158 rows | total=203,834 | ETA=4min
+  [850/925] Toledo-Camillede_Thesee-sa-vie-nouvelle.txt        + 173 rows | total=204,007 | ETA=4min
+  [851/925] Toussaint-Jean-Philippe_Nue.txt                    + 192 rows | total=204,199 | ETA=4min
+  [852/925] Toussaint-Philippe-La-Verite-sur-Marie.txt         + 208 rows | total=204,407 | ETA=4min
+  [853/925] Toussaint_Jean-Philippe-Faire_l_amour.txt          + 105 rows | total=204,512 | ETA=4min
+  [854/925] Toussaint_Jean-Philippe-_Fuir.txt                  + 167 rows | total=204,679 | ETA=4min
+  [855/925] TranHuy-Minh_La-princesse-et-le-pecheur.txt        +  89 rows | total=204,768 | ETA=3min
+  [856/925] Trassard-Jean_lhomme-des-haies.txt                 + 156 rows | total=204,924 | ETA=3min
+  [857/925] Tremblay-Larry_L-Orangeraie.txt                    + 366 rows | total=205,290 | ETA=3min
+  [858/925] Tremblay-Michel_Le-peintre-d-aquarelles.txt        + 164 rows | total=205,454 | ETA=3min
+  [859/925] Trillard-Marc_Campagne-derniere.txt                + 150 rows | total=205,604 | ETA=3min
+  [860/925] Trouillot-Lyonel_Bicentenaire.txt                  + 146 rows | total=205,750 | ETA=3min
+  [861/925] Trouillot-Lyonel_La-belle-amour-humaine.txt        +  93 rows | total=205,843 | ETA=3min
+  [862/925] Truong-Jeanne_Ceux-qui-sont-restes-la-bas.txt      + 121 rows | total=205,964 | ETA=3min
+  [863/925] Tuil-Karine_L-insouciance.txt                      + 181 rows | total=206,145 | ETA=3min
+  [864/925] Tuil-Karine_L-invention-de-nos-vies.txt            + 278 rows | total=206,423 | ETA=3min
+  [865/925] Tuil-Karine_Les-choses-humaines.txt                + 225 rows | total=206,648 | ETA=3min
+  [866/925] Tuil-Karine_Six-mois-six-jours.txt                 + 289 rows | total=206,937 | ETA=3min
+  [867/925] Turine-Jean-Marc_Le-Theo-des-fleuves.txt           + 357 rows | total=207,294 | ETA=3min
+  [868/925] Umubyeyi-Mairesse-Beata_Le-convoi.txt              + 143 rows | total=207,437 | ETA=3min
+  [869/925] Vallejo-François_Madame-Angeloso.txt               + 174 rows | total=207,611 | ETA=3min
+  [870/925] Vallejo-François_Ouest.txt                         + 285 rows | total=207,896 | ETA=3min
+  [871/925] Vandeveugle-Sophie_Feu-le-vieux-monde.txt          + 183 rows | total=208,079 | ETA=3min
+  [872/925] Vasset-Philippe_La-conjuration.txt                 +  85 rows | total=208,164 | ETA=3min
+  [873/925] Vasset-Philippe_Une-vie-en-lair.txt                +  77 rows | total=208,241 | ETA=3min
+  [874/925] Veinstein-Alain_L-intervieweur.txt                 +  23 rows | total=208,264 | ETA=3min
+  [875/925] Veinstein-Alain_La-partition.txt                   +  25 rows | total=208,289 | ETA=2min
+  [876/925] Ventura-Maud_Mon-mari.txt                          +  69 rows | total=208,358 | ETA=2min
+  [877/925] Verger-Frederic_Arden.txt                          + 193 rows | total=208,551 | ETA=2min
+  [878/925] Victor-Gary_Je-sais-quand-Dieu-vient-se-promener-d + 105 rows | total=208,656 | ETA=2min
+  [879/925] Victor-Gary_La_piste-des-sortileges.txt            + 243 rows | total=208,899 | ETA=2min
+  [880/925] Victor-Gary_Les-temps-de-la-cruauté.txt            + 167 rows | total=209,066 | ETA=2min
+  [881/925] Victor-Marvin_Corps-meles.txt                      + 107 rows | total=209,173 | ETA=2min
+  [882/925] Viel-Tanguy_Brest.txt                              + 125 rows | total=209,298 | ETA=2min
+  [883/925] Viel-Tanguy_Insoupconnable.txt                     + 204 rows | total=209,502 | ETA=2min
+  [884/925] Viel-Tanguy_La-Disparition-de-Jim-Sullivan.txt     + 306 rows | total=209,808 | ETA=2min
+  [885/925] Viel-Tanguy_La-Fille-qu-on-appelle.txt             + 162 rows | total=209,970 | ETA=2min
+  [886/925] Viel-Tanguy_Labsolue-perfection-du-crime.txt       + 221 rows | total=210,191 | ETA=2min
+  [887/925] Vigan-Delphinede_Dapres-une-histoire-vraie.txt     + 199 rows | total=210,390 | ETA=2min
+  [888/925] Vigan-Delphinede_Les-heures-souterraines.txt       + 227 rows | total=210,617 | ETA=2min
+  [889/925] Vigan-Delphinede_Rien-ne-soppose-a-la-nuit.txt     + 489 rows | total=211,106 | ETA=2min
+  [890/925] Vila-Thierry_Le-cri.txt                            + 244 rows | total=211,350 | ETA=2min
+  [891/925] Vilain-Philippe_Le-renoncement.txt                 + 120 rows | total=211,470 | ETA=2min
+  [892/925] Vilaine-Laurence_Le-silence-ne-sera-quun-souvenir. +  49 rows | total=211,519 | ETA=2min
+  [893/925] Villeminot-Vincent_Nous-sommes-letincelle.txt      + 183 rows | total=211,702 | ETA=2min
+  [894/925] Viti-Felicia_La-fille-verticale.txt                + 114 rows | total=211,816 | ETA=2min
+  [895/925] Volodine-Antoine_Dondog.txt                        + 179 rows | total=211,995 | ETA=1min
+  [896/925] Volodine-Antoine_Ecrivains.txt                     + 202 rows | total=212,197 | ETA=1min
+  [897/925] Volodine-Antoine_Songes-de-Mevlido.txt             + 177 rows | total=212,374 | ETA=1min
+  [898/925] Volodine-Antoine_Terminus-radieux.txt              + 137 rows | total=212,511 | ETA=1min
+  [899/925] Vuillard-Eric_14-Juillet.txt                       + 413 rows | total=212,924 | ETA=1min
+  [900/925] Vuillard-Eric_Lordre-du-jour.txt                   + 439 rows | total=213,363 | ETA=1min
+  [901/925] Vuillard-Eric_Tristesse-de-la-terre-Une-histoire-d + 257 rows | total=213,620 | ETA=1min
+  [902/925] Waberi-Abdourahman_Pourquoi-tu-danses-quand-tu-mar + 313 rows | total=213,933 | ETA=1min
+  [903/925] Wauters-Antoine_Mahmoud-ou-la-montee-des-eaux.txt  + 168 rows | total=214,101 | ETA=1min
+  [904/925] Wauters_Antoine_Nos_mères.txt                     + 234 rows | total=214,335 | ETA=1min
+  [905/925] Werewere-Liking_La-memoire-amputee.txt             + 172 rows | total=214,507 | ETA=1min
+  [906/925] Weyergans,-François_Trois-jours-chez-ma-mere.txt   + 269 rows | total=214,776 | ETA=1min
+  [907/925] Wiazemsky-Anne_Jeune-fille.txt                     + 204 rows | total=214,980 | ETA=1min
+  [908/925] Wiesel-Elie_Le_cas-Sonderberg.txt                  + 279 rows | total=215,259 | ETA=1min
+  [909/925] Wilhelmy-Audree_Peau-de-Sang.txt                   + 136 rows | total=215,395 | ETA=1min
+  [910/925] Wilhelmy-Audrée_Le-corps-des-bêtes.txt             + 170 rows | total=215,565 | ETA=1min
+  [911/925] Willems-Sandrine_Lextreme.txt                      +  69 rows | total=215,634 | ETA=1min
+  [912/925] Wolkenstein-Julie_Colloque-sentimental.txt         + 310 rows | total=215,944 | ETA=1min
+  [913/925] Yared-Hyam_Sous-la-tonnelle.txt                    + 165 rows | total=216,109 | ETA=1min
+  [914/925] Zalapi-Gabriella_Ilaria-ou-la-conquete-de-la-desob + 333 rows | total=216,442 | ETA=1min
+  [915/925] Zalberg-Carole_Feu-pour-feu.txt                    +  40 rows | total=216,482 | ETA=0min
+  [916/925] Zamir-Ali_Anguille-sous-roche.txt                  +  52 rows | total=216,534 | ETA=0min
+  [917/925] Zein-Ramy_Partage-de-l'infini.txt                  + 319 rows | total=216,853 | ETA=0min
+  [918/925] Zein-Ramy_Ruines_du_ciel.txt                       + 396 rows | total=217,249 | ETA=0min
+  [919/925] Zenatti-Valerie_Jacob-Jacob.txt                    + 347 rows | total=217,596 | ETA=0min
+  [920/925] Zeniter-Alice_Lart-de-perdre.txt                   + 324 rows | total=217,920 | ETA=0min
+  [921/925] Zeniter-Alice_Sombre-dimanche.txt                  + 480 rows | total=218,400 | ETA=0min
+  [922/925] Zimmer-Helene_Dans-la-reserve.txt                  + 424 rows | total=218,824 | ETA=0min
+  [923/925] Zouari-Fawzia_La-retournee.txt                     + 304 rows | total=219,128 | ETA=0min
+  [924/925] Zouari-Fawzia_Le-corps-de-ma-mere.txt              + 250 rows | total=219,378 | ETA=0min
+  [925/925] Zukerman-David_San-Perdido.txt                     + 273 rows | total=219,651 | ETA=0min
+
+✅ Done in 45.5 minutes
+   Total rows: 219,651
+   Saved to:   /home/lfarooq/ecopoetique/morphosyntaxe/dépendants_HUMAINS.csv

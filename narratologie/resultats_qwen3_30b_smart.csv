@@ -1,0 +1,28 @@
+Model,File,TYPE NARRATEUR,FOCALISATION,VOTES_NAR,VOTES_FOC,GOLD_NAR,GOLD_FOC,NAR_correct,FOC_correct
+qwen3:30b_smart,Angot-Christine_Le-Voyage-dans-l'Est.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 4},{'FOC_INT': 4},NAR_AUTOD,FOC_INT,1,1
+qwen3:30b_smart,Autissier-Isabelle_Soudain-seuls.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 2},{'FOC_INT': 2},NAR_EXT,FOC_ZERO,1,0
+qwen3:30b_smart,Bienne-Gisele_La-malchimie.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 1},{'FOC_INT': 1},NAR_AUTOD,FOC_INT,1,1
+qwen3:30b_smart,Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bismarck.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 2},{'FOC_INT': 2},NAR_EXT,FOC_ZERO,1,0
+qwen3:30b_smart,Brunel-Camille_La-guerrilla-des-animaux.txt,NAR_EXT,FOC_INT,"{'NAR_EXT': 2, 'NAR_AUTOD': 1}","{'FOC_INT': 2, 'FOC_EXT': 1}",NAR_EXT,FOC_INT,1,1
+qwen3:30b_smart,Chevillard-Eric_Oreille-rouge.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 1},{'FOC_INT': 1},NAR_EXT,FOC_ZERO,1,0
+qwen3:30b_smart,Carrere-Emmanuel_Limonov.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 2},{'FOC_INT': 2},NAR_TEM,FOC_INT,0,1
+qwen3:30b_smart,Deck-Julia_Ann-dAngleterre.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 3},{'FOC_INT': 3},NAR_AUTOD,FOC_INT,1,1
+qwen3:30b_smart,Despentes-Virginie_Vernon-Subutex-1.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 3},"{'FOC_EXT': 1, 'FOC_INT': 2}",NAR_EXT,FOC_ZERO,1,0
+qwen3:30b_smart,Ducrozet-Pierre_Le-Grand-Vertige.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 1},{'FOC_INT': 1},NAR_EXT,FOC_ZERO,1,0
+qwen3:30b_smart,Echenoz-Jean_Envoyee-speciale.txt,NAR_EXT,FOC_EXT,{'NAR_EXT': 2},{'FOC_EXT': 2},NAR_EXT,FOC_ZERO,1,0
+qwen3:30b_smart,Flahaut-Thomas_Ostwald.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 2},{'FOC_INT': 2},NAR_AUTOD,FOC_INT,1,1
+qwen3:30b_smart,Garcia-Tristan_La-meilleure-part-des-hommes.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 1},{'FOC_INT': 1},NAR_EXT,FOC_ZERO,0,0
+qwen3:30b_smart,Hunzinger-Claudie_Les-grands-cerfs.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 4},{'FOC_INT': 4},NAR_AUTOD,FOC_INT,1,1
+qwen3:30b_smart,Hunzinger-Claudie_Un-chien-a-ma-table.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 3},{'FOC_INT': 3},NAR_AUTOD,FOC_INT,1,1
+qwen3:30b_smart,Joncour-Serge_Nature-humaine.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 2},{'FOC_INT': 2},NAR_EXT,FOC_ZERO,1,0
+qwen3:30b_smart,Joncour-Serge_Chien-Loup.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 1},{'FOC_INT': 1},NAR_EXT,FOC_ZERO,1,0
+qwen3:30b_smart,Lafon-Marie_Joseph.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 2},{'FOC_INT': 2},NAR_EXT,FOC_INT,1,1
+qwen3:30b_smart,Lançon-Philippe_Le-lambeau.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 4},{'FOC_INT': 4},NAR_AUTOD,FOC_INT,1,1
+qwen3:30b_smart,LeTellier-Herve_Lanomalie.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 1},{'FOC_INT': 1},NAR_EXT,FOC_ZERO,1,0
+qwen3:30b_smart,Loup-Douna_Les-printemps-sauvages.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 4},{'FOC_INT': 4},NAR_AUTOD,FOC_INT,1,1
+qwen3:30b_smart,Louis-Edouard_En-finir-avec-Eddy-Bellegueule.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 5},{'FOC_INT': 5},NAR_AUTOD,FOC_INT,1,1
+qwen3:30b_smart,Mathieu-Nicolas_Connemara.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 1},{'FOC_INT': 1},NAR_EXT,FOC_ZERO,1,0
+qwen3:30b_smart,Mauvignier-Laurent_Histoires-de-la-nuit.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 1},{'FOC_INT': 1},NAR_EXT,FOC_VAR,1,0
+qwen3:30b_smart,Mauvignier-Laurent_Autour-du-monde.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 3},{'FOC_INT': 3},NAR_EXT,FOC_VAR,1,0
+qwen3:30b_smart,Mauvignier-Laurent_Continuer.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 1},{'FOC_INT': 1},NAR_EXT,FOC_VAR,1,0
+qwen3:30b_smart,Mbougar_La-plus-secrete-memoire-des-hommes.txt,NAR_AUTOD,FOC_INT,{'NAR_AUTOD': 2},{'FOC_INT': 2},NAR_EXT,FOC_VAR,0,0

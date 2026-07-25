@@ -1,0 +1,590 @@
+
+==============================================================
+  TASK 0 — FOCALISATION NEW SCHEME (v7 base, FOC replaced only)
+  Model: qwen3:30b   Chunks: 9   Max lines/chunk: 350   Reduce votes: 3
+  Gold: /home/lfarooq/ecopoetique/narratologie/GOLD_narratologie_0807.csv
+  Started: 2026-07-10 12:46:35
+==============================================================
+
+Gold: 79 novels
+Novels in CORPUS_TOTAL: 76  in CORPUS_Bestsellers: 3  missing entirely: 0
+Resuming: 40 done, 39 remaining
+
+
+[1/39] Mauvignier-Laurent_Continuer.txt
+    2339 lines -> 9 chunks of ~259 lines
+    chunk 1/9: voice=third_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=same_as_characters chmark=no
+    chunk 4/9: voice=third_person know=same_as_characters chmark=no
+    chunk 5/9: voice=third_person know=same_as_characters chmark=no
+    chunk 6/9: voice=third_person know=same_as_characters chmark=no
+    chunk 7/9: voice=third_person know=same_as_characters chmark=no
+    chunk 8/9: voice=third_person know=same_as_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 99s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_LINx
+
+[2/39] Mbougar_La-plus-secrete-memoire-des-hommes.txt
+    8812 lines -> 9 chunks of ~979 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=more_than_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=third_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=first_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=more_than_characters chmark=no
+    chunk 8/9: voice=first_person know=same_as_characters chmark=no
+    chunk 9/9: voice=first_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 86s | FOC=FOC_ELARGx REG=REG_AUTOx TEM=TEMP_DISx
+
+[3/39] Miano-Leonora_Rouge-imperatrice.txt
+    10968 lines -> 9 chunks of ~1218 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=third_person know=same_as_characters chmark=no
+    chunk 3/9: voice=third_person know=same_as_characters chmark=no
+    chunk 4/9: voice=third_person know=same_as_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=same_as_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 90s | FOC=FOC_ELARGx REG=REG_SPECv TEM=TEMP_LINv
+  [checkpoint saved, 3 done]
+
+[4/39] Minard-Celine_Le-Grand-Jeu.txt
+    2818 lines -> 9 chunks of ~313 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=same_as_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=first_person know=same_as_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 80s | FOC=FOC_RFOCv REG=REG_REALx TEM=TEMP_LINv
+
+[5/39] Montalbetti-Christine_Mon-ancetre-poisson.txt
+    2156 lines -> 9 chunks of ~239 lines
+    chunk 1/9: voice=first_person know=more_than_characters chmark=no
+    chunk 2/9: voice=first_person know=more_than_characters chmark=no
+    chunk 3/9: voice=first_person know=more_than_characters chmark=no
+    chunk 4/9: voice=first_person know=more_than_characters chmark=no
+    chunk 5/9: voice=first_person know=more_than_characters chmark=no
+    chunk 6/9: voice=first_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=more_than_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 96s | FOC=FOC_ELARGx REG=REG_AUTOv TEM=TEMP_DISv
+
+[6/39] Mouawad-Wajdi_Anima.txt
+    9216 lines -> 9 chunks of ~1024 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=first_person know=more_than_characters chmark=no
+    chunk 4/9: voice=first_person know=more_than_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 85s | FOC=FOC_ELARGx REG=REG_REALx TEM=TEMP_DISx
+  [checkpoint saved, 6 done]
+
+[7/39] Nirsimloo-Anenden-Ananda_Eve-de-ses-decombres.txt
+    2884 lines -> 9 chunks of ~320 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=more_than_characters chmark=no
+    chunk 6/9: voice=first_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=more_than_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 60s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_DISv
+
+[8/39] NDiaye-Marie_Trois-femmes-puissantes.txt
+    3039 lines -> 9 chunks of ~337 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=more_than_characters chmark=no
+    chunk 4/9: voice=third_person know=same_as_characters chmark=no
+    chunk 5/9: voice=third_person know=same_as_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=more_than_characters chmark=no
+    chunk 9/9: voice=third_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 88s | FOC=FOC_ELARGv REG=REG_REALv TEM=TEMP_DISv
+
+[9/39] Pagano-Emmanuelle_Saufs-riverains.txt
+    2998 lines -> 9 chunks of ~333 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=more_than_characters chmark=no
+    chunk 3/9: voice=first_person know=more_than_characters chmark=no
+    chunk 4/9: voice=first_person know=more_than_characters chmark=no
+    chunk 5/9: voice=first_person know=more_than_characters chmark=no
+    chunk 6/9: voice=first_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 91s | FOC=FOC_ELARGx REG=REG_AUTOv TEM=TEMP_DISv
+  [checkpoint saved, 9 done]
+
+[10/39] Panassenko-Polina_Tenir-sa-langue.txt
+    2166 lines -> 9 chunks of ~240 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=more_than_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=same_as_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 67s | FOC=FOC_ELARGx REG=REG_AUTOv TEM=TEMP_DISv
+
+[11/39] Plamondon-Eric_Taqawan.txt
+    3096 lines -> 9 chunks of ~344 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=same_as_characters chmark=no
+    chunk 4/9: voice=third_person know=same_as_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=same_as_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 101s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_DISv
+
+[12/39] Poulain-Catherine_Le-grand-marin.txt
+    10184 lines -> 9 chunks of ~1131 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=same_as_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=first_person know=same_as_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 178s | FOC=FOC_RFOCv REG=REG_REALv TEM=TEMP_DISv
+  [checkpoint saved, 12 done]
+
+[13/39] Pourchet-Maria_Feu.txt
+    4142 lines -> 9 chunks of ~460 lines
+    chunk 1/9: voice=first_person know=more_than_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=more_than_characters chmark=no
+    chunk 5/9: voice=first_person know=more_than_characters chmark=no
+    chunk 6/9: voice=first_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 195s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_DISx
+
+[14/39] Reverdy-ThomasB_Climax.txt
+    3972 lines -> 9 chunks of ~441 lines
+    chunk 1/9: voice=third_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=more_than_characters chmark=no
+    chunk 4/9: voice=third_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 273s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_DISv
+
+[15/39] Rico-Lucie_Le-chant-du-poulet-sous-vide.txt
+    3894 lines -> 9 chunks of ~432 lines
+    chunk 1/9: voice=third_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=same_as_characters chmark=no
+    chunk 3/9: voice=third_person know=more_than_characters chmark=no
+    chunk 4/9: voice=third_person know=same_as_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=same_as_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 579s | FOC=FOC_ELARGx REG=REG_SPECx TEM=TEMP_LINv
+  [checkpoint saved, 15 done]
+
+[16/39] Rico-Lucie_GPS.txt
+    2926 lines -> 9 chunks of ~325 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=more_than_characters chmark=no
+    chunk 3/9: voice=first_person know=more_than_characters chmark=no
+    chunk 4/9: voice=first_person know=more_than_characters chmark=no
+    chunk 5/9: voice=first_person know=more_than_characters chmark=no
+    chunk 6/9: voice=first_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=more_than_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 332s | FOC=FOC_ELARGx REG=REG_REALx TEM=TEMP_DISv
+
+[17/39] Rodier-Jean_En-remontant-les-ruisseaux.txt
+    1130 lines -> 9 chunks of ~125 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=same_as_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=first_person know=same_as_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 200s | FOC=FOC_RFOCv REG=REG_REALv TEM=TEMP_DISv
+
+[18/39] Rolin-Jean_Le-Traquet-kurde.txt
+    593 lines -> 9 chunks of ~65 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=first_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=more_than_characters chmark=no
+    chunk 4/9: voice=third_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 315s | FOC=FOC_ELARGx REG=REG_AUTOv TEM=TEMP_DISv
+  [checkpoint saved, 18 done]
+
+[19/39] Rolin-Jean_Un-chien-mort-apres-lui.txt
+    1603 lines -> 9 chunks of ~178 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=more_than_characters chmark=no
+    chunk 3/9: voice=first_person know=more_than_characters chmark=no
+    chunk 4/9: voice=first_person know=more_than_characters chmark=no
+    chunk 5/9: voice=first_person know=more_than_characters chmark=no
+    chunk 6/9: voice=first_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=more_than_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 431s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_DISv
+
+[20/39] Rosenthal-Olivia_Que-font-les-rennes-apres-Nol.txt
+    1696 lines -> 9 chunks of ~188 lines
+    chunk 1/9: voice=first_person know=more_than_characters chmark=no
+    chunk 2/9: voice=first_person know=more_than_characters chmark=no
+    chunk 3/9: voice=first_person know=more_than_characters chmark=no
+    chunk 4/9: voice=first_person know=more_than_characters chmark=no
+    chunk 5/9: voice=first_person know=more_than_characters chmark=no
+    chunk 6/9: voice=first_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=more_than_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 436s | FOC=FOC_ELARGx REG=REG_SPECx TEM=TEMP_DISx
+
+[21/39] Royer-Corinne_Pleine-terre.txt
+    3520 lines -> 9 chunks of ~391 lines
+    chunk 1/9: voice=third_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=same_as_characters chmark=no
+    chunk 4/9: voice=third_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=third_person know=more_than_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 458s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_DISx
+  [checkpoint saved, 21 done]
+
+[22/39] Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-mere.txt
+    1547 lines -> 9 chunks of ~171 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=same_as_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 497s | FOC=FOC_ELARGx REG=REG_AUTOv TEM=TEMP_DISx
+
+[23/39] Senges-Pierre_Ruines-de-Rome.txt
+    1204 lines -> 9 chunks of ~133 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=more_than_characters chmark=no
+    chunk 4/9: voice=first_person know=more_than_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=more_than_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 482s | FOC=FOC_ELARGx REG=REG_REALx TEM=TEMP_LINv
+
+[24/39] Simonnot-Maud_LEnfant-celeste.txt
+    1329 lines -> 9 chunks of ~147 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=same_as_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=first_person know=same_as_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 524s | FOC=FOC_RFOCv REG=REG_REALx TEM=TEMP_DISv
+  [checkpoint saved, 24 done]
+
+[25/39] Sinno-Neige_Triste-tigre.txt
+    3311 lines -> 9 chunks of ~367 lines
+    chunk 1/9: voice=first_person know=more_than_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=same_as_characters chmark=no
+    x chunk 7/9 failed: No valid JSON object found. Response was:
+{"chunk": 7, "position": "MILIEU section 7/9", "narrator_voice": "first_person", "pov_chapter_marker": "no", "reader_vs_character_knowledge": "same_as_characters", "world_type": "autobiographical_explicit", "narrator_entity": "human", "autobiographical_signal": "explicit_author_reference", "time_position_marker": "2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 
+    chunk 8/9: voice=first_person know=same_as_characters chmark=no
+    chunk 9/9: voice=first_person know=more_than_characters chmark=no
+    -> reduce step x3 (8/9 good observations)
+  -> 542s | FOC=FOC_ELARGx REG=REG_AUTOv TEM=TEMP_DISx
+
+[26/39] Slimani-Leila_Chanson-douce.txt
+    3744 lines -> 9 chunks of ~416 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=same_as_characters chmark=no
+    chunk 4/9: voice=third_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=more_than_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 237s | FOC=FOC_ELARGv REG=REG_REALv TEM=TEMP_DISv
+
+[27/39] Sorman-Joy_La-peau-de-lours.txt
+    858 lines -> 9 chunks of ~95 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=same_as_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=first_person know=same_as_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 218s | FOC=FOC_ELARGx REG=REG_REALx TEM=TEMP_LINv
+  [checkpoint saved, 27 done]
+
+[28/39] Sorman-Joy_Comme-une-bete.txt
+    1347 lines -> 9 chunks of ~149 lines
+    chunk 1/9: voice=third_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=same_as_characters chmark=no
+    chunk 3/9: voice=third_person know=more_than_characters chmark=no
+    chunk 4/9: voice=third_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=same_as_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=same_as_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 178s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_LINv
+
+[29/39] Tesson-Sylvain_La-panthere-des-neiges.txt
+    2301 lines -> 9 chunks of ~255 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=more_than_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=same_as_characters chmark=no
+    chunk 7/9: voice=first_person know=more_than_characters chmark=no
+    chunk 8/9: voice=first_person know=same_as_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 2/3 failed: No valid JSON object found. Response was:
+
+  -> 243s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_LINv
+
+[30/39] Toussaint_Jean-Philippe-Faire_l_amour.txt
+    885 lines -> 9 chunks of ~98 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=same_as_characters chmark=no
+    chunk 7/9: voice=first_person know=same_as_characters chmark=no
+    chunk 8/9: voice=first_person know=same_as_characters chmark=no
+    chunk 9/9: voice=first_person know=same_as_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 660s | FOC=FOC_RFOCv REG=REG_REALx TEM=TEMP_DISv
+  [checkpoint saved, 30 done]
+
+[31/39] Ventura-Maud_Mon-mari.txt
+    3315 lines -> 9 chunks of ~368 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=same_as_characters chmark=no
+    chunk 3/9: voice=first_person know=same_as_characters chmark=no
+    chunk 4/9: voice=first_person know=same_as_characters chmark=no
+    chunk 5/9: voice=first_person know=same_as_characters chmark=no
+    chunk 6/9: voice=first_person know=more_than_characters chmark=no
+    chunk 7/9: voice=first_person know=more_than_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 878s | FOC=FOC_ELARGx REG=REG_REALx TEM=TEMP_DISx
+
+[32/39] Volodine-Antoine_Songes-de-Mevlido.txt
+    8809 lines -> 9 chunks of ~978 lines
+    chunk 1/9: voice=third_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=same_as_characters chmark=no
+    chunk 4/9: voice=third_person know=same_as_characters chmark=no
+    chunk 5/9: voice=third_person know=same_as_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=same_as_characters chmark=no
+    chunk 8/9: voice=third_person know=more_than_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+    x reduce vote 3/3 failed: No valid JSON object found. Response was:
+
+  -> 884s | FOC=FOC_ELARGx REG=REG_SPECv TEM=TEMP_LINx
+
+[33/39] Volodine-Antoine_Terminus-radieux.txt
+    8864 lines -> 9 chunks of ~984 lines
+    chunk 1/9: voice=third_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=more_than_characters chmark=no
+    chunk 4/9: voice=third_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=same_as_characters chmark=no
+    chunk 8/9: voice=third_person know=more_than_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 806s | FOC=FOC_ELARGx REG=REG_SPECv TEM=TEMP_DISx
+  [checkpoint saved, 33 done]
+
+[34/39] Vuillard-Eric_14-Juillet.txt
+    2325 lines -> 9 chunks of ~258 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=more_than_characters chmark=no
+    chunk 4/9: voice=first_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=more_than_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 880s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_DISv
+
+[35/39] Werber-Bernard_Nous-les-dieux.txt
+    8789 lines -> 9 chunks of ~976 lines
+    chunk 1/9: voice=first_person know=same_as_characters chmark=no
+    chunk 2/9: voice=first_person know=more_than_characters chmark=no
+    chunk 3/9: voice=first_person know=more_than_characters chmark=no
+    chunk 4/9: voice=first_person know=more_than_characters chmark=no
+    chunk 5/9: voice=first_person know=more_than_characters chmark=no
+    chunk 6/9: voice=first_person know=same_as_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=first_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 1085s | FOC=FOC_ELARGx REG=REG_SPECv TEM=TEMP_DISx
+
+[36/39] Wilhelmy-Audrée_Le-corps-des-bêtes.txt
+    1912 lines -> 9 chunks of ~212 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=same_as_characters chmark=no
+    chunk 4/9: voice=third_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=same_as_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=same_as_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 1020s | FOC=FOC_ELARGx REG=REG_FANTv TEM=TEMP_DISv
+  [checkpoint saved, 36 done]
+
+[37/39] Vuillard-Eric_Lordre-du-jour.txt
+    1290 lines -> 9 chunks of ~143 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=more_than_characters chmark=no
+    chunk 4/9: voice=third_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=first_person know=more_than_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 512s | FOC=FOC_ELARGx REG=REG_SPECx TEM=TEMP_DISv
+
+[38/39] Vuillard-Eric_Tristesse-de-la-terre-Une-histoire-de-Buffalo-Bill-Cody.txt
+    1491 lines -> 9 chunks of ~165 lines
+    chunk 1/9: voice=third_person know=more_than_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=more_than_characters chmark=no
+    chunk 4/9: voice=third_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=more_than_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=more_than_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 269s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_DISv
+
+[39/39] Zeniter-Alice_Lart-de-perdre.txt
+    8181 lines -> 9 chunks of ~909 lines
+    chunk 1/9: voice=third_person know=same_as_characters chmark=no
+    chunk 2/9: voice=third_person know=more_than_characters chmark=no
+    chunk 3/9: voice=third_person know=more_than_characters chmark=no
+    chunk 4/9: voice=third_person know=more_than_characters chmark=no
+    chunk 5/9: voice=third_person know=more_than_characters chmark=no
+    chunk 6/9: voice=third_person know=same_as_characters chmark=no
+    chunk 7/9: voice=third_person know=more_than_characters chmark=no
+    chunk 8/9: voice=third_person know=more_than_characters chmark=no
+    chunk 9/9: voice=third_person know=more_than_characters chmark=no
+    -> reduce step x3 (9/9 good observations)
+  -> 208s | FOC=FOC_ELARGx REG=REG_REALv TEM=TEMP_DISv
+  [checkpoint saved, 39 done]
+
+Done — 39 novels processed
+Saved to: /home/lfarooq/ecopoetique/narratologie/resultats_task0_v10c_reduce_think.csv
+
+==============================================================
+  FOCALISATION-NEW-SCHEME RESULTS  —  qwen3:30b  (3x reduce vote)
+==============================================================
+  FOCALISATION            7/39  ( 17.9%)  ███  <-- NEW SCHEME
+  REGIME NARRATIF        27/39  ( 69.2%)  █████████████
+  TEMPORALITÉ            27/39  ( 69.2%)  █████████████
+--------------------------------------------------------------
+  OVERALL                 61/117  ( 52.1%)
+==============================================================
+

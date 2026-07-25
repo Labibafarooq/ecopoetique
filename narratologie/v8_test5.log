@@ -1,0 +1,100 @@
+
+==============================================================
+  TASK 0 MAP-REDUCE v7  (v6 rules + evidence-based INT/TEM/REG fixes)
+  Model: qwen3:30b   Chunks: 9   Max lines/chunk: 350   Reduce votes: 3
+  Started: 2026-07-05 18:31:52
+==============================================================
+
+Gold: 60 novels
+Novels in CORPUS_TOTAL: 60  missing: 0
+TEST MODE: 5 novels
+
+
+[1/5] Angot-Christine_Le-Voyage-dans-l'Est.txt
+    5372 lines -> 9 chunks of ~596 lines
+    chunk 1/9: voice=first_person thread=Christine's internal time=during a lunch meeti
+    chunk 2/9: voice=first_person thread=la jeune fille et so time=le lendemain matin
+    chunk 3/9: voice=first_person thread=adolescente et son p time=âge 15 ans
+    chunk 4/9: voice=first_person thread=Christine's trauma a time=16-17 years old
+    chunk 5/9: voice=first_person thread=Christine's mental s time=23 years old
+    chunk 6/9: voice=first_person thread=protagonist's intern time=Samedi 13 avril
+    chunk 7/9: voice=first_person thread=conversation avec Cl time=26 ans, avril, Tende
+    chunk 8/9: voice=first_person thread=protagonist's trauma time=after the police sta
+    chunk 9/9: voice=first_person thread=Claude's emotional c time=spring
+    -> reduce step x3 (9/9 good observations)
+  -> 392s | NAR=NAR_AUTODv FOC=FOC_INTv MOD=MOD_INTRv REG=REG_REALx ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINx
+
+[2/5] Autissier-Isabelle_Soudain-seuls.txt
+    3790 lines -> 9 chunks of ~421 lines
+    chunk 1/9: voice=third_person thread=Ludovic et Louise da time=14 heures, ciel obsc
+    chunk 2/9: voice=third_person thread=Ludovic et Louise su time=janvier
+    chunk 3/9: voice=third_person thread=conflit et adaptatio time=fin janvier
+    chunk 4/9: voice=third_person thread=Ludovic's despair an time=dusk to night
+    chunk 5/9: voice=third_person thread=Louise's internal co time=fin avril
+    chunk 6/9: voice=third_person thread=Louise's grief and d time=dix jours
+    chunk 7/9: voice=third_person thread=Louise's internal st time=after Falklands arri
+    chunk 8/9: voice=third_person thread=Louise's internal co time=three weeks after Or
+    chunk 9/9: voice=third_person thread=Louise's inner journ time=December
+    -> reduce step x3 (9/9 good observations)
+  -> 358s | NAR=NAR_EXTv FOC=FOC_VARx MOD=MOD_DESCx REG=REG_REALv ESP=ESP_UNITx INT=INTR_LINv TEM=TEMP_LINv
+
+[3/5] Bienne-Gisele_La-malchimie.txt
+    3185 lines -> 9 chunks of ~353 lines
+    chunk 1/9: voice=first_person thread=narratrice et son li time=présent
+    chunk 2/9: voice=first_person thread=Sylvain's illness an time=now
+    chunk 3/9: voice=first_person thread=Sylvain's illness an time=5 hours, 6 hours
+    chunk 4/9: voice=first_person thread=sœur et frère time=aujourd'hui
+    chunk 5/9: voice=first_person thread=Sylvain's illness an time=present
+    chunk 6/9: voice=first_person thread=Gabrielle's thoughts time=present
+    chunk 7/9: voice=first_person thread=Sylvain et Gabrielle time=été
+    chunk 8/9: voice=first_person thread=Sylvain's illness an time=automne
+    chunk 9/9: voice=first_person thread=Sylvain's death and  time=31 décembre (anniver
+    -> reduce step x3 (9/9 good observations)
+  -> 386s | NAR=NAR_AUTODv FOC=FOC_VARx MOD=MOD_INTRv REG=REG_REALv ESP=ESP_UNITv INT=INTR_LINv TEM=TEMP_LINx
+  [checkpoint saved, 3 done]
+
+[4/5] Binet-Laurent_La-septieme-fonction-du-langage.txt
+    7575 lines -> 9 chunks of ~841 lines
+    chunk 1/9: voice=third_person thread=Bayard et Foucault time=none
+    chunk 2/9: voice=third_person thread=Barthes' death and t time=1980-03-26
+    chunk 3/9: voice=third_person thread=fugitif et Bayard time=during chase
+    chunk 4/9: voice=third_person thread=Logos Club, joute ve time=none
+    chunk 5/9: voice=third_person thread=Logos Club meeting time=minuit passé
+    chunk 6/9: voice=third_person thread=Sollers et Kristeva  time=none
+    chunk 7/9: voice=third_person thread=Simon Herzog time=night
+    chunk 8/9: voice=third_person thread=Simon et son duel in time=dans la soirée du Ca
+    chunk 9/9: voice=third_person thread=Simon et Anastasia d time=1981
+    -> reduce step x3 (9/9 good observations)
+  -> 388s | NAR=NAR_EXTv FOC=FOC_ZEROx MOD=MOD_MIXv REG=REG_REALx ESP=ESP_UNITx INT=INTR_LINx TEM=TEMP_LINx
+
+[5/5] Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bismarck.txt
+    5803 lines -> 9 chunks of ~644 lines
+    chunk 1/9: voice=third_person thread=Isookanga et son dés time=none
+    chunk 2/9: voice=third_person thread=fuite des enfants ap time=le soir
+    chunk 3/9: voice=third_person thread=Modogo's backstory a time=none
+    chunk 4/9: voice=third_person thread=Isookanga et la négo time=avant/après l'assass
+    chunk 5/9: voice=third_person thread=révérend Monk et ses time=during the service
+    chunk 6/9: voice=third_person thread=Mirnas et Bizimungu time=now
+    chunk 7/9: voice=third_person thread=Chiara Argento's str time=afternoon
+    chunk 8/9: voice=third_person thread=Isookanga et son onc time=none
+    chunk 9/9: voice=third_person thread=Kiro Bizimungu's exe time=none
+    -> reduce step x3 (9/9 good observations)
+  -> 313s | NAR=NAR_EXTv FOC=FOC_VARx MOD=MOD_DESCx REG=REG_REALv ESP=ESP_FRAGv INT=INTR_FRAGv TEM=TEMP_LINv
+
+Done — 5 novels processed
+Saved to: /home/lfarooq/ecopoetique/narratologie/resultats_task0_mapreduce_v8.csv
+
+==============================================================
+  MAP-REDUCE v7 RESULTS  —  qwen3:30b  (3x reduce vote)
+==============================================================
+  TYPE NARRATEUR          5/5   (100.0%)  ████████████████████
+  FOCALISATION            1/5   ( 20.0%)  ████
+  MODE NARRATIF           3/5   ( 60.0%)  ████████████
+  REGIME NARRATIF         3/5   ( 60.0%)  ████████████
+  ESPACE                  2/5   ( 40.0%)  ████████
+  INTRIGUE                4/5   ( 80.0%)  ████████████████
+  TEMPORALITÉ             2/5   ( 40.0%)  ████████
+--------------------------------------------------------------
+  OVERALL                 20/35   ( 57.1%)
+==============================================================
+

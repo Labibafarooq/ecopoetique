@@ -1,0 +1,207 @@
+fichier,token,contexte,gold_label,qwen_pred,qwen_correct,gpt_pred,gpt_correct
+Kramer-Pascale_Retour-dUruguay.txt,chiens,"Des bourgeons tombés des arbres déroulaient leur souplesse de chenilles sur les trottoirs et les capots des voitures, et",référentiel,référentiel,1,,0
+Rosenthal-Olivia_Que-font-les-rennes-apres-Nol.txt,souris,"Après les avoir affamées, on fait marcher deux populations de souris, les anxieuses et les autres, sur des barres qui to",référentiel,référentiel,1,,0
+Dai-Sijie_Le-complexe-de-Di.txt,souris,La souris glisse alors vers un coin de mur.,référentiel,référentiel,1,,0
+Belezi-Mathieu_Cetait-notre-terre.txt,chèvres,"je fixais la barbe de mon grand-père en cherchant à savoir où était sa bouche dans cette masse de poils, il me semble ne",référentiel,référentiel,1,,0
+Djebel-Mourad_Les-sens-interdits.txt,mouches,"les lusophones, même les magnétophones, les oiseaux qui gazouillent, les abeilles qui bourdonnent, les rats d’égout, les",figuré,figuré,1,,0
+Dreyfus-Arthur_Journal-sexuel-dun-garçon-daujourdhui.txt,chien,"Il y a dix jours, je suis devenu papa : d’un petit chien (un Jack Russell), nommé Cacao, appartenant à Kent, mon ami d’a",référentiel,référentiel,1,,0
+Poulain-Catherine_Le-grand-marin.txt,mouettes,Un vol de mouettes se déploie au-dessus de nous.,référentiel,référentiel,1,,0
+Alikavazovic-Jakuta_L-avancee-de-la-nuit.txt,chiens,"Il savait que son père n’avait guère de loisirs, qu’il jouait un peu aux cartes, un peu aux dés ; qu’il pariait parfois ",référentiel,référentiel,1,,0
+Minard-Celine_Le-dernier-monde.txt,caïmans,Il n’était pas rare de voir une troupe de caïmans étalés sur une grève au soleil en plein milieu d’une bande de poules b,référentiel,référentiel,1,,0
+Bessora_Les-orphelins.txt,oie,"Cette couleur n’est pas très jolie.
+On dirait du caca d’oie.
+Sous la veste, une chemise blanche, et une cravate.",figuré,figuré,1,,0
+Lafon-Lola_Chavirer.txt,huître,"Mais la langue de Jean-Christophe était comme une huître dans sa bouche, morte et vivante, mouillée et visqueuse, qui bo",figuré,figuré,1,,0
+Niel-Colin_Entre-fauves.txt,lion,"Plusieurs fois il m’a raconté son unique chasse au lion, en Tanzanie.",référentiel,référentiel,1,,0
+RIchard-Jennifer_Il-est-a-toi-ce-beau-pays.txt,singes,"Ils détestaient les Pygmées, chasseurs hors pair qui se cachaient dans la forêt aussi sournoisement que les singes.",figuré,figuré,1,,0
+Chiche-Sarah_Saturne.txt,mouches,La fièvre des marais faisait tomber les hommes comme des mouches.,figuré,figuré,1,,0
+Garde-Francois_Ce-qu-il-advint-du-sauvage-blanc.txt,moules,"Il reprit des forces en mangeant des moules et des petits poissons, puis alla se délasser dans la mer.",référentiel,référentiel,1,,0
+Clemencon-Frederique_Colonie.txt,cochon,"Vous n’êtes tout de même pas de ces pleutres que la plus infime marque d’audace plonge dans les affres de l’angoisse, fa",figuré,figuré,1,,0
+"Weyergans,-François_Trois-jours-chez-ma-mere.txt",autruches,"À la gare, en achetant les journaux, il avait ramassé un tas de prospectus publiés par le département de l’Isère, où, ap",référentiel,référentiel,1,,0
+Pagano-Emmanuelle_Saufs-riverains.txt,gardons,"On n’aurait jamais pu penser que sur l’eau assagie il viendrait des pêcheurs de toute l’Europe, attirés par la retenue s",référentiel,référentiel,1,,0
+Nabe-Marc-Edouard_L-homme-qui-arreta-d-ecrire.txt,tigre,"Je préférerais des histoires de maharadjah du Rajasthan, de princesses en saris de soie rose convoitées par des rois à t",référentiel,référentiel,1,,0
+Clemençon-Frederique_Traques.txt,tigre,"Tu vois ce nuage, papa, ce nuage, là-bas, qui ressemble à un tigre ?",figuré,figuré,1,,0
+Belezi-Mathieu_Cetait-notre-terre.txt,mouton,"avec le couscous au mouton nous buvions du vin d’Algérie, nous parlions de la Mitidja, de l’Aurès, du Dahra, du djebel A",référentiel,référentiel,1,,0
+Littell-Jonathan_Les-Bienveillantes.txt,poux,Ma peau me grattait ; j’espérais que je n’allais pas attraper des poux.,référentiel,référentiel,1,,0
+Spitzer-Sebastien_Le-coeur-battant-du-monde.txt,sanglier,– Une tête comme celle d’un sanglier.,figuré,figuré,1,,0
+Joncour-Serge_Chien-Loup.txt,sanglier,"Cette bête, il l’avait rêvée, il se convainquit de cela, ou alors c’était un chevreuil effarouché, un sanglier, ce maqui",référentiel,référentiel,1,,0
+Waberi-Abdourahman_Pourquoi-tu-danses-quand-tu-marches.txt,agneau,"Je me voyais tantôt en bouc boudeur, tantôt en agneau bêlant, indifférent aux regards des adultes.",figuré,figuré,1,,0
+Werewere-Liking_La-memoire-amputee.txt,panthère,"Dès que quelqu’un s’approchait de moi, je montrais mes dents comme si j’allais mordre ; et finalement, je me demandais m",figuré,figuré,1,,0
+Quentin-Abel_Le-voyant-d-Etampes.txt,bulot,Agnès s’acharne sur un bulot avec une agressivité suspecte.,référentiel,référentiel,1,,0
+Del-Amo-Jean-Baptiste_Une-education-libertine.txt,chevaux,"Le galop des chevaux projetait aux visages des hommes l’aridité du sol, pulvérisait les hautes herbes calcinées.",référentiel,référentiel,1,,0
+Diop-Boubacar-Boris_Les-petits-de-la-guenon.txt,singes,Les deux petits singes se mettent ensuite à frapper l’écran comme pour rouer de coups le soldat d’opérette.,référentiel,référentiel,1,,0
+Bouillier-Gregoire_Rapport-sur-moi.txt,lapin,Sa spécialité est le lapin chasseur.,référentiel,référentiel,1,,0
+Moix-Yann_Naissance.txt,sauterelles,"notre dégoût. L’écœurante volaille, résumée à deux cuissues entités en délire de vitesse et de vengeance, propose le cau",figuré,figuré,1,,0
+Del-Amo-Jean-Baptiste_Regne-animal.txt,porcs,"Cette viande de porc qu’ils ingèrent eux aussi depuis toujours, plus par économie que par goût, et dont leurs congélateu",référentiel,référentiel,1,,0
+Servant-Stephane_Sirius.txt,chien,Elle expliqua au gamin qu’un cochon et un chien ne se ressemblaient pas du tout mais pour lui il n’y avait pas de différ,référentiel,référentiel,1,,0
+Dreyfus-Arthur_Sans-Veronique.txt,chiens,"Comme ta mère elle est pas là ça m’a bien aidé, pour les chiens et...",référentiel,référentiel,1,,0
+Sorman-Joy_La-peau-de-lours.txt,taureau,"Surgissent alors, comme tirés par des canons, un lion et un taureau, et j’assiste paralysé au premier combat : sans hési",référentiel,référentiel,1,,0
+Dupont-Eric_La-fiancee-americaine.txt,lapin,"Le lapin orange fermait et ouvrait lentement les yeux, heureux.",référentiel,référentiel,1,,0
+Bachi-Salim_Le-chien-d-Ulysse.txt,bœuf,"Epuisé par le saccage, il soufflait comme un bœuf châtré.",figuré,figuré,1,,0
+Aubry-Gwenaelle_Lisolee_suivie_de_Lisolement.txt,baleines,Julien y passait des heures à contempler les insectes et à s’imaginer chasseur de baleines.,référentiel,figuré,0,,0
+Spitzer-Sebastien_Le-coeur-battant-du-monde.txt,chien,"C’est le chien sans nom, dit Mary, si heureuse de lui faire ce cadeau.",référentiel,référentiel,1,,0
+Cusset-Catherine_L-autre-qu-on-adorait.txt,chèvre,"Nicolas descend comme une chèvre de montagne, toi plus lentement, en calant tes baskets dans la poussière rouge.",figuré,figuré,1,,0
+Desjardins-Antoine_Indice-des-feux.txt,loup,"Il avait d’abord pris l’animal pour un chien-loup domestique, avant de réaliser que son enfant était en danger.",référentiel,référentiel,1,,0
+Rolin-Jean_Le-pont-de-bezons.txt,poules d’eau,"Personnellement, plus j’observe leur comportement, comme je le faisais encore ce matin-là depuis une plateforme aménagée",référentiel,référentiel,1,,0
+Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-mere.txt,luciole,"Son infinitésimale présence, restée après qu’on ne l’a plus vue, comme une luciole sur cette plage, lorsque, revenant un",figuré,figuré,1,,0
+Lançon-Philippe_Le-lambeau.txt,canard,Il est vrai qu’on ignorait encore que la gauche continuait de courir comme un canard sans tête.,figuré,figuré,1,,0
+Jauffret-Regis_Claustria.txt,dindons,"Tous ces milliards d’hommes qui se sont prosternés, ont rempli des années de livres pour chanter ses louanges, démontrer",figuré,figuré,1,,0
+Rolin-Jean_Le-Ravissement-de-Britney-Spears.txt,oiseau-moqueur,"Ainsi de l’oiseau-moqueur, car il est vraisemblable qu’il y en avait.",référentiel,référentiel,1,,0
+Greveillac-Paul_Maitres-et-esclaves.txt,poulet,"Il diluait de la cendre, et même — Xi Yan lui tapa sur les doigts —, il préleva dans la courette des excréments de poule",référentiel,référentiel,1,,0
+Del-Amo-Jean-Baptiste_Le-fils-de-lhomme.txt,salamandre,"Ils s’en approchent et la lampe sonde le fond de l’eau translucide, met en fuite des larves de salamandre qui disparaiss",référentiel,référentiel,1,,0
+Bouysse-Franck_Buveurs-de-vent.txt,cerf,"Sur la rive droite, un grand cerf dévalait le chemin de halage.",référentiel,référentiel,1,,0
+Joncour-Serge_Nature-humaine.txt,hirondelles,"Après le repas il y eut une langueur dans l’air, un parfum d’été qui durait, pourtant demain il y aurait école, mais au ",référentiel,référentiel,1,,0
+Laurent-Caroline_Rivage-de-la-colere.txt,mouches,"Les hommes buvaient en silence, les femmes éventaient le corps pour chasser les mouches.",référentiel,référentiel,1,,0
+Moix-Yann_Naissance.txt,loup,"vérifia mon père.
+— Oui, mon gros loup.
+Je ne me vois pas mère.",figuré,figuré,1,,0
+Amadou-Amal-Djaili_Les-impatientes.txt,mouton,Un Peul meurt comme un mouton en se taisant et non en bêlant comme une chèvre.,figuré,figuré,1,,0
+Del-Amo-Jean-Baptiste_Regne-animal.txt,noctule,"Une rafale de vent soulève le voile de crêpe qui endeuille le visage du Christ, puis l’emporte en un claquement et la pr",figuré,figuré,1,,0
+Giraud-Brigitte_Nous-serons-des-heros.txt,hareng,"Il aurait dû avoir des épaules larges mais il était resté sec comme un hareng, selon l’expression de ma mère.",figuré,figuré,1,,0
+Minard-Celine_Faillir-etre-flingue.txt,chevaux,Ce n’était que le voleur de chevaux qui avait eu son attaque.,référentiel,référentiel,1,,0
+Ravey-Yves_Un-notaire-peu-ordinaire.txt,chien,"Interdit de passer cette ligne.
+Ni toi ni ton chien.
+Il a répondu oui.",référentiel,référentiel,1,,0
+Servant-Stephane_Sirius.txt,renard,Pas question de faire du mal à ce renard.,référentiel,référentiel,1,,0
+Reverdy-ThomasB_Climax.txt,musaraignes,"Vous vous souvenez de l’été et vous croassez, descendant vers l’eau de nouveau tranquille, volant vers les champs et leu",référentiel,référentiel,1,,0
+Haenel-Yannick_Jan-Karski.txt,agneaux,"Lorsqu’il est mort, Staline n’a pas cessé, durant son agonie, de montrer du doigt l’image d’un agneau fixée contre le mu",référentiel,figuré,0,,0
+Pasquet-Jean-Marc_Libre-toujours.txt,faucon,"L’ayant lesté, il le faisait tournoyer au bout d’une longue corde, la laissant filer entre ses doigts à chaque circonvol",figuré,figuré,1,,0
+Vallejo-François_Ouest.txt,chiens,"C’est par là… la voix de ses chiens, c’est autre chose, tout devant.",référentiel,référentiel,1,,0
+Guez-Olivier_La-disparition-de-Josef-Mengele.txt,chiens,Terminus : des chiens sautent au passage du véhicule en aboyant et un couple de quadragénaires avec leurs deux garçons a,référentiel,référentiel,1,,0
+Beaulieu-Alain_Le-Joueur-de-quilles.txt,saumon,Ted frayait dans le milieu des grosses gommes avec l’aisance d’un saumon du Pacifique.,figuré,figuré,1,,0
+Rolin-Jean_Un-chien-mort-apres-lui.txt,chiens,Andreï Gontcharov estime qu’aujourd’hui le nombre de chiens errants à Moscou se situerait de nouveau aux alentours de 30,référentiel,référentiel,1,,0
+Ouaknine-Serge_le-tao-du-tagueur.txt,thon,"C’est ensuite une demi-heure active: sandwichs au thon ou poulet, salades, œufs durs, eau et café.",référentiel,référentiel,1,,0
+Spitzer-Sebastien_Le-coeur-battant-du-monde.txt,chevaux,Il est devenu aussi fou que les chevaux.,figuré,figuré,1,,0
+Rico-Lucie_Le-chant-du-poulet-sous-vide.txt,chats,"- Comment avez-vous appelé vos chiens et chats, petit ?",référentiel,référentiel,1,,0
+Malte-Marcus_Le-garçon.txt,cheval,"Et les hommes sont toujours là, plus tard, auprès du garçon, lorsque les flammes s’emparent de la dépouille du hongre, e",référentiel,référentiel,1,,0
+Rolin-Olivier_Exterieur-monde.txt,grenouilles,"Dans l’ignorance où on est (où je suis) des cultures indiennes de la Colombie-Britannique, les cartels plongent dans une",référentiel,figuré,0,,0
+Chapuis-Bernard_Onze-ans-avec-Lou.txt,serpents,"Ils racontaient que, chez eux, les serpents vivaient en liberté dans la maison au milieu des enfants et des bébés et on ",référentiel,référentiel,1,,0
+Schwartz-Violaine_La-tete-en-arriere.txt,serpent,"Noir sur le blanc du lavabo, un cheveu-serpent s’enroule sur lui-même.",figuré,figuré,1,,0
+NDiaye-Marie_Mon-coeur-a-letroit.txt,chiens,"Je me penche tout contre mon fils, j’imprègne sa nuque de la tiède exhalaison de ma bouche puisque, me dis-je, il aime l",référentiel,référentiel,1,,0
+Lambron-Marc_Etrangers-dans-la-nuit.txt,margouillat,"Qui pourrait croire que le Bouddha immobile, les perruches muettes, le margouillat immobile sur le mur sont des émissair",référentiel,référentiel,1,,0
+Majdalani-Charif_Caravanserail.txt,mouette,"Il lui montre de l’autre côté du Nil, vers l’ouest, la gare où il a débarqué la veille, puis des felouques aux mâts obli",référentiel,référentiel,1,,0
+Fottorino-Eric_Mohican.txt,poussins,"Le coq pareil.
+Et les oies, les poussins.
+Aucun survivant.",référentiel,référentiel,1,,0
+Foenkinos-David_Charlotte.txt,rat,"Son existence est celle d’un rat, pense-t-il.",figuré,figuré,1,,0
+Becheur-Ali_Le-paradis-des-femmes.txt,mouches,"Ses champs d’oliviers, sa poussière qui brûlait les yeux, ses nuées de mouches et ses escadrons de moustiques attaquant ",référentiel,référentiel,1,,0
+Joncour-Serge_Chien-Loup.txt,chien,En fin d’après-midi le chien les avait aidés à revenir de leur balade.,référentiel,référentiel,1,,0
+Buti-Roland_Le_milieu-de-lhorizon.txt,musaraignes,"Tous les petits mammifères, musaraignes, mulots, hérissons et belettes étaient morts de soif depuis longtemps.",référentiel,référentiel,1,,0
+Hesse-Thierry_Demon.txt,bisons,"Au commencement, l’Islandais Ericsson, fils du proscrit Erik le Rouge, avait foulé les tout premiers arpents de l’Amé ri",référentiel,référentiel,1,,0
+Robles-Jean_Là-où-les-tigres-sont-chez-eux.txt,lapins,Quel érotisme pervers devrait-il nous astreindre à les dépiauter comme des lapins ?,figuré,figuré,1,,0
+Joncour-Serge_Chien-Loup.txt,cheval,"Elle ressentit le lent frisson qui passait de la main de l’homme au cheval, et du cheval à ses reins.",référentiel,référentiel,1,,0
+NDiaye-Marie_Ladivine.txt,agneau,Elle voulait faire un gigot d’agneau avec des haricots de Soissons et des fagots de haricots verts liés d’une tranche de,référentiel,référentiel,1,,0
+Kaddour-Hedi_Les-preponderants.txt,chèvres,"Et la ruine était venue sans qu’on la voie, ruine au long cours, on le savait aujourd’hui, dans l’amertume, mais cette f",référentiel,référentiel,1,,0
+Volodine-Antoine_Dondog.txt,blattes,"Dis à tes blattes de cesser de ronfler, c’est toi le responsable, non ?",figuré,référentiel,0,,0
+Miano-Leonora_La-saison-de-lombre-Roman.txt,poule,Ses questions concernant les étrangers aux pieds de poule ont fait parler le chasseur.,figuré,figuré,1,,0
+Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bismarck.txt,porcs,"Comme leurs congénères les porcs et les sangliers, lorsqu’ils mordaient, ils mettaient la pression nécessaire pour que l",référentiel,référentiel,1,,0
+Jenni-Alexis_Lart-français-de-la-guerre.txt,chiens,"Et il a ses chiens autour de lui, comme là-bas.",référentiel,référentiel,1,,0
+Dupont-Monod-Clara_Le-roi-disait-que-jetais-diable.txt,âne,"Les nonnes allaitent des singes, Dieu a une tête d’oiseau, et l’autel supporte un âne : ton monde a gagné, Aliénor.",figuré,figuré,1,,0
+Joncour-Serge_Chien-Loup.txt,loup,"C’est de la peur, alors, que ressentit Franck, une peur qui ne s’épanouissait pas uniquement dans sa tête, mais semblait",référentiel,référentiel,1,,0
+Serre-Anne_Un-chapeau-leopard.txt,chamois,"Il lui décrit les fleurs et les chamois qu’elle verra là-haut, il lui décrit la beauté de la vallée très profonde.",référentiel,référentiel,1,,0
+Victor-Marvin_Corps-meles.txt,chèvre,"J’étais au courant qu’il avait forniqué avec sa chèvre un soir d’ivresse, quelques années plus tôt, et les bougres du vi",référentiel,référentiel,1,,0
+Ndwaniye-Joseph_La-promesse-faite-a-ma-soeur.txt,vaches,"Je contemplais ce coin de paradis encore sauvage où, sans les quelques pêcheurs et les vaches qui broutaient autour de n",référentiel,référentiel,1,,0
+RIchard-Jennifer_Il-est-a-toi-ce-beau-pays.txt,jument,"Selon l’éclairage, les proportions sculpturales de la jeune femme, avec ses larges épaules, ses hanches rondes et sa tai",figuré,figuré,1,,0
+Royer-Corinne_Pleine-terre.txt,milans,"Les milans, les buses, les crécerelles brassaient le ciel.",référentiel,référentiel,1,,0
+Reinhardt-Eric_Comedies-francaises.txt,chiens,"À partir de là j’ai compris que la peur des chiens-loups, bon, tu vois, tu as compris.",référentiel,référentiel,1,,0
+Moix-Yann_Naissance.txt,muge,"— De crypto-soufisme aléatoire ?
+— Non mon muge.
+— De salafisme computationnel ?",figuré,figuré,1,,0
+Le-Bris-Michel_La-beauté-du-monde.txt,albatros,"Et puis tous les autres, perdus en ce tumulte, albatros aux ailes trop grandes pour ce poulailler caquetant, dont les no",figuré,figuré,1,,0
+Goffette-Guy__Un-ete-autour-du-cou.txt,baleine,"l’air, tandis qu’elle rajustait sur son ventre de baleine le panier gonflé de linges, qui glissait.",figuré,figuré,1,,0
+Joncour-Serge_Chien-Loup.txt,chiens,"— Si les chiens ne tournent pas d’ici un kilomètre, à mon avis c’est que tes gars sont allés vers Crégols, déclara Julie",référentiel,référentiel,1,,0
+Del-Amo-Jean-Baptiste_Regne-animal.txt,musaraignes,"Devancée par les bêtes, elle entre par le porche en ogive, les portes de bois putréfié dont un pan tombé de ses gongs re",référentiel,référentiel,1,,0
+Loup-Douna_Les-printemps-sauvages.txt,lapins,"Mais à Tendre porte la sueur ourlait mes aisselles, je fixais sa masse longuement et à force de devenir immobile les lap",référentiel,référentiel,1,,0
+Kuperman-Nathalie_Jai-renvoyé-Marta.txt,chien,"de le plier et de le ranger, d’ailleurs,j’allais m’en débarrasser au plus vite, c’est ça, je le jetterai dans le canivea",référentiel,référentiel,1,,0
+Villeminot-Vincent_Nous-sommes-letincelle.txt,moineaux,"Parfois, les gardiens les laissaient faire, d’autres fois, ils les chassaient comme une volée de moineaux.",figuré,figuré,1,,0
+Diop-David_Frere-d'âme.txt,rats,"La mort, c’est l’odeur décomposée du dedans du corps, et même les rats prennent peur quand ils me sentent arriver rampan",référentiel,référentiel,1,,0
+Joncour-Serge_Chien-Loup.txt,cheval,"Par endroits la pente semblait quasi verticale, le sol caillouteux lui vrillait les boulets, le pauvre cheval souffrait ",référentiel,référentiel,1,,0
+Fleischer-Alain_Les-angles-morts.txt,sanglier,"Lorsque, en préparant des viandes de cerf et de sanglier à mettre sur les braises, je suis traversé par un de ces regard",référentiel,référentiel,1,,0
+Belezi-Mathieu_Cetait-notre-terre.txt,poulet,"vingt bras apportaient les plats et les bouteilles, vingt jambes tricotaient à gauche et à droite de la table pour que c",référentiel,référentiel,1,,0
+Minard-Celine_Le-dernier-monde.txt,baleines,"En saison, les baleines à bosse pêchent en groupe.",référentiel,référentiel,1,,0
+Bayamack-Emmanuelle_Arcadie.txt,paon,"Mais n’est-ce pas le propre du paon que de se parer et de se pavaner, animal inutile par excellence, si l’on compte pour",référentiel,référentiel,1,,0
+Donner-Christophe_L-empire-de-la-morale.txt,paon,"C’est silencieux, il y a un paon qui fait la roue, aux alentours de midi.",référentiel,référentiel,1,,0
+Khoury-Ghata-Venus_Sept-pierres-pour-la-femme-adultere.txt,chameau,Dis-leur que l’Occident les regarde et la fatwa du kadi et du cheikh de Khouf sera effacée comme crotte de chameau.,figuré,figuré,1,,0
+Coulin-Delphine_Une-fille-dans-la-jungle.txt,mouettes,Les mouettes poussaient des cris glaçants.,référentiel,référentiel,1,,0
+Moix-Yann_Naissance.txt,rat,"À la perspective de frôler un vit, je puis instantanément m’évanouir de dégoût. La seule idée d’un gland distinct du mie",figuré,figuré,1,,0
+Mingarelli-Hubert_lhomme-qui-avait-soif.txt,dorade,"Il cria, roula sur le côté, et vit alors la silhouette grise et reconnut le pêcheur de la dorade qui se mit à le frapper",référentiel,référentiel,1,,0
+Mingarelli-Hubert_Quatre-Soldats.txt,cheval,"Je me suis hissé, mais le cheval est parti tout d’un coup en avant.",référentiel,référentiel,1,,0
+Henrot-Errol_Les-liens-du-sang.txt,sanglier,"L’animal prit le livre dans sa mâchoire et repartit, vers l’autre sanglier.",référentiel,référentiel,1,,0
+Rodier-Jean_En-remontant-les-ruisseaux.txt,lion,"L’homme, après avoir imposé aux animaux la guerre, la détention, le martyre, va-t-il leur imposer maintenant sa paix, in",référentiel,référentiel,1,,0
+Hesse-Thierry_Demon.txt,brebis,Ce n’était pas faute d’aptitudes - il était aussi diplômé que Franz — mais il se trouve qu’au lieu de travailler dans le,figuré,figuré,1,,0
+Puertolas-Romain_L'extraordinaire-voyage-du-fakir.txt,canard,Il décida donc d’avancer en canard vers l’endroit d’où venaient les gémissements.,figuré,figuré,1,,0
+Amigorena-Santiago_Le-Premier-Amour.txt,oie,"Car si tu sais plus que tout autre, ô oie grasse du Sud-Ouest profond, que ce Dernier Texte est, au-delà de moi-même, un",figuré,figuré,1,,0
+Kaddour-Hedi_Les-preponderants.txt,sauterelles,"Et il y a encore plus moderne que le feu, une machine arrivée par train de la capitale, elle est faite d’une dizaine d’é",référentiel,référentiel,1,,0
+Bichet-Yves_Trois-enfants-du-tumulte.txt,bouquetins,"J’ai connu les animaux d’altitude, tous plus farouches les uns que les autres, chamois, bouquetins, marmottes, harfangs ",référentiel,référentiel,1,,0
+Le-Bris-Michel_La-beauté-du-monde.txt,paon,"Le martélement des tambours, les rauquements des con- ques, le déferlement tout a coup d’une masse énorme, multicolore d",référentiel,référentiel,1,,0
+Trassard-Jean_lhomme-des-haies.txt,juments,"Il y a un autre robinet à l’étable et un à l’écurie, je dis l’écurie mais, à c’t’heure, puisqu’il n’y a plus de juments,",référentiel,référentiel,1,,0
+Jauffret-Regis_Claustria.txt,rats,"Restaient parfois une vieille paire de bottes en caoutchouc en partie rongée, un petit tas de blé empoisonné, une sacoch",référentiel,référentiel,1,,0
+Trouillot-Lyonel_La-belle-amour-humaine.txt,chiens,"Les combats de chiens, les petits d’un côté, les gros de l’autre, comme chez les humains, les petits qui s’enfuient en p",référentiel,référentiel,1,,0
+Brunel-Camille_La-guerrilla-des-animaux.txt,moutons,Le peuple vivait de la chair des moutons.,référentiel,référentiel,1,,0
+Fleischer-Alain_Les-trapezistes.txt,hérons,parties d’échecs et la pochette en plastique contenait l’échiquier : j’imaginais que tout cela était en prévision d’un p,référentiel,référentiel,1,,0
+RIchard-Jennifer_Il-est-a-toi-ce-beau-pays.txt,bulbuls,"Le chant des bulbuls – ces petits oiseaux verts qui picoraient volontiers dans sa main –, qui d’habitude l’entraînait da",référentiel,référentiel,1,,0
+Kaddour-Hedi_Waltenberg.txt,chiens,"Mais n’empêche, vous êtes prêt à lâcher, et moi aussi je suis prêt à lâcher, nous sommes en train de rater notre belle a",référentiel,référentiel,1,,0
+Rondeau-Daniel_Dans-la-marche-du-temps.txt,mouton,"La gelée blanchissait les prés. Pierre Perrignon ne pensait plus à partir. Il portait un béret, une vieille peau de mout",référentiel,référentiel,1,,0
+Vilaine-Laurence_Le-silence-ne-sera-quun-souvenir.txt,chèvre,"Par précaution, je m’appliquais à la plus grande discrétion, allant jusqu’à museler la chèvre avec les manches de mon ch",référentiel,référentiel,1,,0
+Enard-Mathias_Zone.txt,corbeaux,"socialisme a beaucoup fait pour l’hygiène intime, diable merci, il avait tout de même réussi à attraper des morpions, ma",référentiel,référentiel,1,,0
+Nicole-Eugene_Loeuvre-des-mers.txt,perdrix,"« Crème fraîche et beurre salé de la ferme à Grand-Louis, truites de la Belle-Rivière, perdrix des Mornes, salade du jar",référentiel,référentiel,1,,0
+Desjardins-Antoine_Indice-des-feux.txt,chiens,"Selon lui, après vérification auprès d’habitants, de vétérinaires et d’intervenants du domaine environnemental de l’arro",référentiel,référentiel,1,,0
+Carrere-Emmanuel_Un-roman-russe.txt,faucon,"Tu n’as toujours pas compris, petit faucon ?",figuré,figuré,1,,0
+Dantzig-Charles_Un-film-damour.txt,mouette,Une mouette posée sur une poubelle y resta le plus longtemps possible pour tester son insolence puis s’envola en m’injur,référentiel,référentiel,1,,0
+Chapuis-Bernard_La-vie-parlée.txt,crotales,"— Ah, merci, cela me touche beaucoup, j’adore les crotales !",référentiel,référentiel,1,,0
+Gauz_Camarade-papa.txt,pythons,Les canards sont chétifs mais les tourterelles ont l’air de rapaces ; les biches sont naines quand les lièvres ressemble,référentiel,référentiel,1,,0
+Mauvignier-Laurent_Continuer.txt,chevaux,Les chevaux hennissent et s’enfoncent jusqu’au bas de l’encolure – les chaussures et les bas de pantalons saisis par cet,référentiel,référentiel,1,,0
+Hunzinger-Claudie_Elles-vivaient-d-espoir.txt,cheval,"Et encore l’homme à cheval, l’œil hostile, chapeauté de noir, royal dans sa blouse, qui attendait sa fille poussant deva",référentiel,référentiel,1,,0
+Darrieussecq-Marie_Tom-est-mort.txt,dingo,"Dans les faits, c’était un dingo, ces grands chiens rouges d’Australie.",référentiel,référentiel,1,,0
+Stoltz-Anton_Le-Jardin-du-Lagerkommandant.txt,poux,— Ne peux-tu faire valoir au Lagerkommandant que les enfants pourraient être un jour infestés par les puces et les poux ,référentiel,référentiel,1,,0
+Lafon-Lola_Chavirer.txt,chiot,"Cléo tentait de tout retenir, les bouquinistes sur les quais, la truffe vieux rose du chiot dans l’animalerie du quai de",référentiel,référentiel,1,,0
+Minard-Celine_Le-dernier-monde.txt,porc,Le porc attendait devant les trois marches en tôle grise du salon.,figuré,référentiel,0,,0
+Millet-Richard_La-voix-d-alto.txt,cerfs,"On aurait aussi bien pu la croire morte, là, dans son fauteuil Bauer, la tête rejetée en arrière, le chignon aussi défai",référentiel,référentiel,1,,0
+Falcy-Chloé_Balkis.txt,vache,Une des filles de Leila me demande de lui dessiner une vache sur sa serviette.,figuré,référentiel,0,,0
+Victor-Gary_Je-sais-quand-Dieu-vient-se-promener-dans-mon-jardin.txt,aigles,Une statue qui ferait frémir de peur les aigles des hautes cimes.,référentiel,référentiel,1,,0
+Rico-Lucie_Le-chant-du-poulet-sous-vide.txt,poulets,"Elle pourrait construire elle-même un bac à sable, une cabane avec une grande échelle, un parcours du combattant pour po",référentiel,référentiel,1,,0
+Garcin-Jerome_Bartabas.txt,chien,"Infatigable, refusant d’être mis à la retraite, il ratisse aujourd’hui le sable de Versailles en compagnie du minuscule ",figuré,référentiel,0,,0
+Bayamack-Emmanuelle_Arcadie.txt,autruche,"Sans compter que l’oie est un animal horrible, avec ses yeux cernés de jaune, ses pattes squameuses et le cou qu’elle ét",référentiel,référentiel,1,,0
+Feraga-Alexandre_Apres-la-mer.txt,bœuf,Le nerf de bœuf n’avait été qu’un préambule.,référentiel,figuré,0,,0
+Jauffret-Regis_Claustria.txt,chien,Il se dandinait et s’en allait quand le sperme avait giclé sur le mur comme pisse de chien levant la patte.,figuré,figuré,1,,0
+Plamondon-Eric_Taqawan.txt,chimpanzés,"Il ne faut jamais perdre de vue qu’à un pour cent près, nous sommes tous des chimpanzés.",figuré,figuré,1,,0
+Manai-Yamen_Amas-arden.txt,cigales,"Le temps n’était pas encore aux cigales et, hormis les chants des chacals dorés qui s’élevaient au loin, rien ne venait ",référentiel,référentiel,1,,0
+Fleischer-Alain_Les-ambitions-desavouees.txt,tortues,"Pour la première fois, j’ai clairement distingué les trompettes soprano des singes hurleurs, les traits de flûte de l’oi",figuré,figuré,1,,0
+Bonnefoy-Miguel_Sucre-noir.txt,serpents,"Sans grand savoir-faire, Severo Bracamonte planta des milliers de cannes à sucre qui poussèrent jusqu’à créer une forêt ",référentiel,référentiel,1,,0
+Ravaloson-Johry_Vol-a-vif.txt,sanglier,Il demande si on ne veut pas d’un sanglier.,référentiel,référentiel,1,,0
+Roger-Marie-Sabine_la-tete-en-friche.txt,bécasse,"Ce qui est une autre jolie façon de dire « une bécasse », n’est-ce pas ?",figuré,figuré,1,,0
+Slimani-Leila_Chanson-douce.txt,poulet,"Elle a essayé de dormir puis, n’y tenant plus, elle a appelé Paul et, en larmes, elle lui a raconté cette histoire de po",référentiel,référentiel,1,,0
+Robles-Jean_Là-où-les-tigres-sont-chez-eux.txt,goéland,"« Ses ailes de géant l’empêchent de marcher », songea-t-elle sans émotion, comme si pareille métaphore – tirée, lui avai",figuré,référentiel,0,,0
+Monenembo-Tierno_Le-roi-de-kahel.txt,chat,"… Alors, prends l’énigme, couds-la dans la peau du chat, donne-la au boa puis donne le boa au crocodile.",figuré,référentiel,0,,0
+Roegiers-Patrick_Le-bonheur-des-belges.txt,baleine,"Valsant dans le ciel, les yeux dessillés, élargis d’étonnement comme lorsqu’on débarque en terre inconnue, nous survolon",figuré,figuré,1,,0
+Deville-Patrick_Peste_choléra.txt,baleine,"Lorsque enfin il descend en gare de Nha Trang, en ce printemps quarante, et retrouve la Pointe des Pêcheurs, Xóm Cồn, pa",figuré,figuré,1,,0
+Razon-Boris_Palladium.txt,chiens,Les chiens ont pris ce geste pour une forme d’acquiescement.,figuré,référentiel,0,,0
+Alaoui-Meryem_La-verite-sort-de-la-bouche-du-cheval.txt,cheval,Bouche de cheval est arrivée comme l’éclair à la barrière.,figuré,référentiel,0,,0
+Edde-Dominique_Kamal-Jann.txt,âne,"Il a envie d’être à dos d’âne.
+D’être un âne.
+Il n’a envie que de ça.
+D’être un âne.
+De recommencer à partir de rien.",figuré,figuré,1,,0
+Razon-Boris_Palladium.txt,fourmis,"La chaleur m’accablait et sur chaque pore de mes reins, une armée de fourmis fêtait la victoire.",figuré,figuré,1,,0
+Rufin-Jean-Christophe_Rouge-Bresil.txt,lion,Martin mettait trois Indiennes à ses pieds qu’il choisissait parmi les plus belles et il s’asseyait dans un grand fauteu,figuré,référentiel,0,,0
+Chapuis-Bernard_La-vie-parlée.txt,lion,"Son installation consistait en une penderie de bois sur roues recouverte d’une toile cirée kaki, d’une mince et élégante",figuré,référentiel,0,,0
+Amigorena-Santiago-H_Ghetto-Interieir.txt,abeille,"Il n’y a pas d’autre philosophie dans la vie d’un homme, ou d’une abeille.",référentiel,figuré,0,,0
+Malte-Marcus_Le-garçon.txt,taupes,"Entre les taches d’un rouge éclatant on peut voir, comme d’énormes mottes de taupes, une série de tombes fraîchement cre",figuré,figuré,1,,0
+Effa-Gaston-Paul_les-enfants-de-la-tradition.txt,âne,Un âne ne passe pas son temps à se vanter.,figuré,référentiel,0,,0
+Vallejo-François_Ouest.txt,chiens,Il ne rompt pas les chiens.,référentiel,référentiel,1,,0
+Frioux-Dalibor_Brut.txt,mouche,"– Une mouche très riche, dit Sigrid en riant.",figuré,figuré,1,,0
+Puertolas-Romain_L'extraordinaire-voyage-du-fakir.txt,vache,"Il se revit transformé en vache (sacrée), rôtir au bout d’une pique avec son cousin changé en tomate cerise, et tourner ",figuré,figuré,1,,0
+Garcia-Tristan_Faber.txt,chimpanzé,"Les gamins lançaient des boulettes de papier ; certains ont imité le chimpanzé, d’autres ont entonné des chants de suppo",référentiel,référentiel,1,,0
+Volodine-Antoine_Dondog.txt,chauve-souris,"Au plafond et sur les murs s’épanouissaient d’immenses taches velues, à dominante charbonneuse mais avec des nuances : a",figuré,figuré,1,,0
+Houdart-Celia_Gil.txt,scarabées,Moins une armée qu’un essaim d’abeilles charpentières ou de scarabées.,figuré,référentiel,0,,0
+Minard-Celine_Le-dernier-monde.txt,tigre,"Ô Durga porteuse de la roue, du croissant tranchant, du trident de Siva, ô Durga le front ceint de rouge, ô Kali, Durga ",figuré,figuré,1,,0
+Deville-Patrick_Equatoria.txt,chiens,"Assis sur ce balcon face au vent doux, on suit à l’horizon des brumes roses et violacées qui glissent sur la colline du ",référentiel,référentiel,1,,0
+Nizard-Simon_Les-mains-de-Fatma.txt,papillon,"Un événement infime, le battement d’ailes d’un papillon du chaos.",figuré,figuré,1,,0
+Rolin-Olivier_Un-chasseur-de-lions.txt,bousiers,"Ce gommeux péruvien, songes-tu (cependant que Rafael, tenant le volant étroitement serré contre sa maigre poitrine, comm",figuré,référentiel,0,,0
+RIchard-Jennifer_Il-est-a-toi-ce-beau-pays.txt,singe,"Les hommes jetaient les peaux de singe et venaient vers eux, et plus ils approchaient, moins ils avaient de doigts.",référentiel,référentiel,1,,0
+Del-Amo-Jean-Baptiste_Regne-animal.txt,chats,Éléonore ramasse au sol les pelotes de réjection des chats-huants qu’elle trempera plus tard dans de l’eau tiède pour en,référentiel,référentiel,1,,0
+Bessora_Les-orphelins.txt,âne,"Quand nous les quittons, Frances s’amuse d’une statue qui s’érige non loin de là, et qui figure un âne surmonté d’un chi",figuré,référentiel,0,,0
+Fleischer-Alain_L-amant-en-culottes-courtes.txt,ours,"Mon insistance obtuse a dû rendre explicite ma demande indiscrète : Barbara se laisse faire enfin, elle ramène une jambe",figuré,figuré,1,,0
+Villeminot-Vincent_Nous-sommes-letincelle.txt,coqs,"Provocants.
+Combat de coqs.
+Personne ne baisse les yeux ni ne se dégonfle.",figuré,référentiel,0,,0

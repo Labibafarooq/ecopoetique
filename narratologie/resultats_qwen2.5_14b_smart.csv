@@ -1,0 +1,61 @@
+Model,File,TYPE NARRATEUR,FOCALISATION,VOTES_NAR,VOTES_FOC,GOLD_NAR,GOLD_FOC,NAR_correct,FOC_correct
+qwen2.5:14b_smart,Angot-Christine_Le-Voyage-dans-l'Est.txt,NAR_TEM,FOC_INT,{'NAR_TEM': 6},"{'FOC_INT': 5, 'FOC_VAR': 1}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Autissier-Isabelle_Soudain-seuls.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 5, 'NAR_TEM': 1}","{'FOC_VAR': 5, 'FOC_INT': 1}",NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Bienne-Gisele_La-malchimie.txt,NAR_TEM,FOC_INT,"{'NAR_TEM': 5, 'NAR_EXT': 1}","{'FOC_INT': 3, 'FOC_VAR': 3}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Binet-Laurent_La-septieme-fonction-du-langage.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},{'FOC_VAR': 6},NAR_EXT,FOC_VAR,1,1
+qwen2.5:14b_smart,Bofane-In-Koli-Jean_Congo_inc._le_testament_de_Bismarck.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 4, 'NAR_TEM': 2}","{'FOC_VAR': 4, 'FOC_INT': 2}",NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Brunel-Camille_La-guerrilla-des-animaux.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},"{'FOC_INT': 1, 'FOC_VAR': 5}",NAR_EXT,FOC_INT,1,0
+qwen2.5:14b_smart,Chevillard-Eric_Oreille-rouge.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 5, 'NAR_TEM': 1}","{'FOC_INT': 2, 'FOC_VAR': 4}",NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Carrere-Emmanuel_Limonov.txt,NAR_TEM,FOC_VAR,"{'NAR_TEM': 3, 'NAR_EXT': 3}","{'FOC_VAR': 4, 'FOC_INT': 2}",NAR_TEM,FOC_INT,1,0
+qwen2.5:14b_smart,Deck-Julia_Ann-dAngleterre.txt,NAR_TEM,FOC_INT,"{'NAR_TEM': 4, 'NAR_EXT': 2}","{'FOC_INT': 4, 'FOC_VAR': 2}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Despentes-Virginie_Vernon-Subutex-1.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},"{'FOC_EXT': 1, 'FOC_INT': 2, 'FOC_VAR': 3}",NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Ducrozet-Pierre_Le-Grand-Vertige.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 4, 'NAR_TEM': 2}","{'FOC_VAR': 4, 'FOC_INT': 2}",NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Echenoz-Jean_Envoyee-speciale.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},{'FOC_VAR': 6},NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Filhol-Elizabeth_Doggerland.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},{'FOC_VAR': 6},NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Flahaut-Thomas_Ostwald.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 3, 'NAR_TEM': 3}","{'FOC_VAR': 4, 'FOC_INT': 2}",NAR_AUTOD,FOC_INT,0,0
+qwen2.5:14b_smart,Garcia-Tristan_La-meilleure-part-des-hommes.txt,NAR_TEM,FOC_EXT,"{'NAR_TEM': 3, 'NAR_EXT': 3}","{'FOC_EXT': 2, 'FOC_INT': 2, 'FOC_VAR': 2}",NAR_EXT,FOC_ZERO,0,0
+qwen2.5:14b_smart,Hunzinger-Claudie_Les-grands-cerfs.txt,NAR_TEM,FOC_INT,"{'NAR_TEM': 4, 'NAR_EXT': 1, 'NAR_AUTOD': 1}","{'FOC_INT': 5, 'FOC_VAR': 1}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Hunzinger-Claudie_Un-chien-a-ma-table.txt,NAR_AUTOD,FOC_INT,"{'NAR_AUTOD': 3, 'NAR_TEM': 2, 'NAR_EXT': 1}","{'FOC_INT': 5, 'FOC_VAR': 1}",NAR_AUTOD,FOC_INT,1,1
+qwen2.5:14b_smart,Joncour-Serge_Nature-humaine.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 4, 'NAR_TEM': 2}","{'FOC_EXT': 1, 'FOC_INT': 2, 'FOC_VAR': 3}",NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Joncour-Serge_Chien-Loup.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},"{'FOC_VAR': 5, 'FOC_INT': 1}",NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Kerangal-Maylisde_Naissance-dun-pont.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},"{'FOC_INT': 1, 'FOC_VAR': 5}",NAR_EXT,FOC_VAR,1,1
+qwen2.5:14b_smart,Lafon-Marie_Joseph.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},"{'FOC_EXT': 1, 'FOC_INT': 2, 'FOC_VAR': 3}",NAR_EXT,FOC_INT,1,0
+qwen2.5:14b_smart,Lançon-Philippe_Le-lambeau.txt,NAR_TEM,FOC_INT,"{'NAR_TEM': 3, 'NAR_EXT': 2, 'NAR_AUTOD': 1}","{'FOC_INT': 5, 'FOC_EXT': 1}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,LeTellier-Herve_Lanomalie.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},"{'FOC_VAR': 5, 'FOC_ZERO': 1}",NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Loup-Douna_Les-printemps-sauvages.txt,NAR_TEM,FOC_INT,"{'NAR_EXT': 2, 'NAR_AUTOD': 1, 'NAR_TEM': 3}","{'FOC_INT': 5, 'FOC_EXT': 1}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Louis-Edouard_En-finir-avec-Eddy-Bellegueule.txt,NAR_TEM,FOC_INT,"{'NAR_TEM': 5, 'NAR_AUTOD': 1}",{'FOC_INT': 6},NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Mathieu-Nicolas_Connemara.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 5, 'NAR_TEM': 1}","{'FOC_INT': 2, 'FOC_VAR': 4}",NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Mauvignier-Laurent_Histoires-de-la-nuit.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 5, 'NAR_TEM': 1}","{'FOC_INT': 1, 'FOC_VAR': 4, 'FOC_EXT': 1}",NAR_EXT,FOC_VAR,1,1
+qwen2.5:14b_smart,Mauvignier-Laurent_Autour-du-monde.txt,NAR_EXT,FOC_INT,"{'NAR_EXT': 5, 'NAR_TEM': 1}","{'FOC_INT': 4, 'FOC_VAR': 1, 'FOC_EXT': 1}",NAR_EXT,FOC_VAR,1,0
+qwen2.5:14b_smart,Mauvignier-Laurent_Continuer.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 5, 'NAR_TEM': 1}","{'FOC_VAR': 4, 'FOC_INT': 2}",NAR_EXT,FOC_VAR,1,1
+qwen2.5:14b_smart,Mbougar_La-plus-secrete-memoire-des-hommes.txt,NAR_TEM,FOC_INT,"{'NAR_TEM': 4, 'NAR_EXT': 2}","{'FOC_INT': 4, 'FOC_VAR': 2}",NAR_EXT,FOC_VAR,0,0
+qwen2.5:14b_smart,Miano-Leonora_Rouge-imperatrice.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 5, 'NAR_TEM': 1}","{'FOC_VAR': 5, 'FOC_EXT': 1}",NAR_EXT,FOC_VAR,1,1
+qwen2.5:14b_smart,Minard-Celine_Le-Grand-Jeu.txt,NAR_TEM,FOC_INT,"{'NAR_TEM': 5, 'NAR_EXT': 1}","{'FOC_EXT': 1, 'FOC_INT': 4, 'FOC_VAR': 1}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Montalbetti-Christine_Mon-ancetre-poisson.txt,NAR_TEM,FOC_VAR,"{'NAR_EXT': 2, 'NAR_TEM': 3, 'NAR_AUTOD': 1}","{'FOC_VAR': 4, 'FOC_INT': 2}",NAR_TEM,FOC_INT,1,0
+qwen2.5:14b_smart,Mouawad-Wajdi_Anima.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 4, 'NAR_TEM': 2}","{'FOC_INT': 1, 'FOC_VAR': 4, 'FOC_EXT': 1}",NAR_AUTOD,FOC_INT,0,0
+qwen2.5:14b_smart,Nirsimloo-Anenden-Ananda_Eve-de-ses-decombres.txt,NAR_TEM,FOC_INT,"{'NAR_TEM': 5, 'NAR_AUTOD': 1}","{'FOC_INT': 5, 'FOC_VAR': 1}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Pagano-Emmanuelle_Saufs-riverains.txt,NAR_EXT,FOC_VAR,"{'NAR_AUTOD': 1, 'NAR_EXT': 5}","{'FOC_INT': 1, 'FOC_VAR': 4, 'FOC_EXT': 1}",NAR_AUTOD,NAR_AUTOD,0,0
+qwen2.5:14b_smart,Plamondon-Eric_Taqawan.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},"{'FOC_INT': 1, 'FOC_VAR': 5}",NAR_EXT,FOC_VAR,1,1
+qwen2.5:14b_smart,Poulain-Catherine_Le-grand-marin.txt,NAR_TEM,FOC_INT,"{'NAR_TEM': 2, 'NAR_AUTOD': 2, 'NAR_EXT': 2}","{'FOC_INT': 3, 'FOC_VAR': 2, 'FOC_EXT': 1}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Reverdy-ThomasB_Climax.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},"{'FOC_VAR': 5, 'FOC_INT': 1}",NAR_EXT,FOC_VAR,1,1
+qwen2.5:14b_smart,Rico-Lucie_Le-chant-du-poulet-sous-vide.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},{'FOC_VAR': 6},NAR_EXT,FOC_INT,1,0
+qwen2.5:14b_smart,Rico-Lucie_GPS.txt,NAR_TEM,FOC_INT,"{'NAR_EXT': 1, 'NAR_TEM': 5}","{'FOC_INT': 5, 'FOC_VAR': 1}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Rodier-Jean_En-remontant-les-ruisseaux.txt,NAR_TEM,FOC_INT,"{'NAR_TEM': 3, 'NAR_AUTOD': 1, 'NAR_EXT': 2}","{'FOC_INT': 4, 'FOC_VAR': 2}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Rolin-Jean_Le-Traquet-kurde.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 5, 'NAR_TEM': 1}","{'FOC_ZERO': 1, 'FOC_INT': 1, 'FOC_VAR': 4}",NAR_AUTOD,FOC_INT,0,0
+qwen2.5:14b_smart,Rolin-Jean_Un-chien-mort-apres-lui.txt,NAR_EXT,FOC_VAR,"{'NAR_TEM': 1, 'NAR_EXT': 4, 'NAR_AUTOD': 1}","{'FOC_INT': 1, 'FOC_VAR': 4, 'FOC_EXT': 1}",NAR_AUTOD,FOC_INT,0,0
+qwen2.5:14b_smart,Royer-Corinne_Pleine-terre.txt,NAR_EXT,FOC_INT,"{'NAR_EXT': 4, 'NAR_TEM': 2}","{'FOC_INT': 5, 'FOC_VAR': 1}",NAR_EXT,FOC_INT,1,1
+qwen2.5:14b_smart,Sautiere-Jane_Mort-dun-cheval-dans-les-bras-de-sa-mere.txt,NAR_AUTOD,FOC_INT,"{'NAR_AUTOD': 3, 'NAR_TEM': 3}",{'FOC_INT': 6},NAR_AUTOD,FOC_INT,1,1
+qwen2.5:14b_smart,Senges-Pierre_Ruines-de-Rome.txt,NAR_EXT,FOC_INT,"{'NAR_EXT': 3, 'NAR_AUTOD': 1, 'NAR_TEM': 2}","{'FOC_INT': 5, 'FOC_VAR': 1}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Simonnot-Maud_LEnfant-celeste.txt,NAR_TEM,FOC_VAR,"{'NAR_EXT': 2, 'NAR_TEM': 4}","{'FOC_VAR': 3, 'FOC_INT': 3}",NAR_AUTOD,FOC_INT,0,0
+qwen2.5:14b_smart,Slimani-Leila_Chanson-douce.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},"{'FOC_EXT': 1, 'FOC_VAR': 5}",NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Sorman-Joy_La-peau-de-lours.txt,NAR_AUTOD,FOC_INT,"{'NAR_EXT': 2, 'NAR_AUTOD': 4}","{'FOC_VAR': 2, 'FOC_INT': 4}",NAR_AUTOD,FOC_INT,1,1
+qwen2.5:14b_smart,Sorman-Joy_Comme-une-bete.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 5, 'NAR_TEM': 1}","{'FOC_VAR': 3, 'FOC_INT': 3}",NAR_EXT,FOC_INT,1,0
+qwen2.5:14b_smart,Toussaint_Jean-Philippe-Faire_l_amour.txt,NAR_AUTOD,FOC_INT,"{'NAR_AUTOD': 3, 'NAR_TEM': 3}",{'FOC_INT': 6},NAR_AUTOD,FOC_INT,1,1
+qwen2.5:14b_smart,Ventura-Maud_Mon-mari.txt,NAR_TEM,FOC_INT,"{'NAR_TEM': 4, 'NAR_AUTOD': 1, 'NAR_EXT': 1}","{'FOC_INT': 5, 'FOC_VAR': 1}",NAR_AUTOD,FOC_INT,0,1
+qwen2.5:14b_smart,Volodine-Antoine_Songes-de-Mevlido.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 4, 'NAR_TEM': 2}","{'FOC_VAR': 5, 'FOC_INT': 1}",NAR_EXT,FOC_INT,1,0
+qwen2.5:14b_smart,Volodine-Antoine_Terminus-radieux.txt,NAR_EXT,FOC_VAR,"{'NAR_EXT': 5, 'NAR_TEM': 1}","{'FOC_VAR': 5, 'FOC_INT': 1}",NAR_EXT,FOC_INT,1,0
+qwen2.5:14b_smart,Vuillard-Eric_14-Juillet.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},"{'FOC_VAR': 5, 'FOC_EXT': 1}",NAR_EXT,FOC_EXT,1,0
+qwen2.5:14b_smart,Wilhelmy-Audrée_Le-corps-des-bêtes.txt,NAR_EXT,FOC_INT,{'NAR_EXT': 6},"{'FOC_INT': 3, 'FOC_VAR': 3}",NAR_EXT,FOC_VAR,1,0
+qwen2.5:14b_smart,Vuillard-Eric_Lordre-du-jour.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},{'FOC_VAR': 6},NAR_EXT,FOC_EXT,1,0
+qwen2.5:14b_smart,Vuillard-Eric_Tristesse-de-la-terre-Une-histoire-de-Buffalo-Bill-Cody.txt,NAR_EXT,FOC_VAR,{'NAR_EXT': 6},{'FOC_VAR': 6},NAR_EXT,FOC_ZERO,1,0
+qwen2.5:14b_smart,Zeniter-Alice_Lart-de-perdre.txt,NAR_EXT,FOC_INT,"{'NAR_EXT': 5, 'NAR_TEM': 1}","{'FOC_INT': 4, 'FOC_VAR': 2}",NAR_EXT,FOC_ZERO,1,0
