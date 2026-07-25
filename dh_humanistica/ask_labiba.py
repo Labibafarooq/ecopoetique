@@ -1,4 +1,8 @@
 """
+>>> USE THIS VERSION — this is the newest/current version of the app <<<
+(pulled from the live server on port 8505, 2026-07-25. The other .py
+files in this folder are older snapshots kept for reference only.)
+
 Ask Labiba — Humanistica RAG
 ==============================
 Unified RAG interface for digital humanities researchers.
