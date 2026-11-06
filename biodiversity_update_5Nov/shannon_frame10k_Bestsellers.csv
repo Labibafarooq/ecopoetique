@@ -1,0 +1,125 @@
+File	Year	Author	Title	nb_tokens	EcoRichness_frame10k	EcoAbundance_frame10k	Shannon_frame10k
+Barbery-Muriel_Lelegance-du-herisson.txt	2006	Barbery, Muriel	L’élégance du hérisson	83455	28.22	52.58	2.9124687003502396
+Bourdeaut-Olivier_En-attendant-Bojangles.txt	2016	Bourdeaut, Olivier	En attendant Bojangles	37021	28.79	48.27	3.114742146309905
+Carolis-Patrick-de_Les-demoiselles-de-provence.txt	2005	Carolis, Patrick de	Les demoiselles de Provence	176582	26.33	37.79	3.075333807059926
+Carrere-Emmanuel_Le_royaume.txt	2014	Carrère, Emmanuel	Le royaume	168957	15.78	21.34	2.584342725838706
+Colombani-Laetitia_La-tresse.txt	2017	Colombani, Laetitia	La tresse	46551	20.74	32.31	2.8171906873391817
+d-Ormesson-Jean_Un-jour-je-men-irai.txt	2013	Ormesson, Jean d'	Un jour je m'en irai sans en avoir tout dit	46741	41.94	59.36	3.524300245257635
+Defour-Cedric-Sapin_Son-Odeur-Apres-la-pluie.txt	2023	Sapin-Defour, Cédric	Son odeur après la pluie	64636	41.13	90.51	2.777042517798325
+Delacourt-Gregoire_La-Liste-de-Mes-Envies.txt	2012	Delacourt, Grégoire	La liste de mes envies	29298	23.43	32.6	2.9475702708463274
+Delerm-Philippe_Sieste-assassinee.txt	2001	Delerm, Philippe	La sieste assassinée	13285	48.23	66.68	3.7418878273405984
+Dicker-Joel_La-Disparition-de-Stephanie-Mailer.txt	2018	Dicker, Joël	La disparition de Stephanie Mailer	195725	12.88	20.65	2.337536730072698
+Dicker-Joel_LAffaire-Alaska-Sanders.txt	2022	Dicker, Joël	L’affaire Alaska Sanders	170591	13.23	21.66	2.37162666709567
+Dicker-Joel_LEnigme-de-la-Chambre-622.txt	2020	Dicker, Joël	L’énigme de la chambre 622	177723	11.32	15.85	2.2559951249795067
+Dicker-Joel_Un-Animal-Sauvage.txt	2024	Dicker, Joël	Un animal sauvage	95490	13.85	28.93	2.30223461206933
+Duperey-Anny_Allons-voir-plus-loin-veux-tu.txt	2002	Duperey, Anny	Allons voir plus loin, veux-tu?	140054	22.57	29.92	2.994472304221589
+Gavalda-Anna_Ensemble-cest-tout.txt	2004	Gavalda, Anna	Ensemble, c'est tout	135692	28.35	37.47	3.171418035572048
+Gavalda-Anna_Je-laimais.txt	2002	Gavalda, Anna	Je l'aimais	22269	13.03	16.78	2.454767537615442
+Gavalda-Anna_La-consolante.txt	2008	Gavalda, Anna	La consolante	148405	33.77	46.18	3.3444446598515922
+Gavalda-Anna_Lechappee-belle.txt	2009	Gavalda, Anna	L'échappée belle	23664	33.27	46.42	3.285468626185168
+Giordano-Raphaelle_Ta-deuxième-vie-commence-quand-tu-comprends-que-tu-nen-as-quune.txt	2016	Giordano, Raphaëlle	Ta deuxième vie commence quand tu comprends que tu n'en as qu'une	53199	17.99	24.04	2.7154085531675287
+Grange-Jean-Christophe_La-Ligne-noire.txt	2004	Grangé, Jean-Christophe	La ligne noire	76953	24.74	37.43	2.9781459465580014
+Grange-Jean-Christophe_Lempire-des-loups.txt	2003	Grangé, Jean-Christophe	L’empire des loups	120413	23.51	30.27	3.0353135989901663
+Grimaldi-Virginie_Il-nous-restera-ça.txt	2022	Grimaldi, Virginie	Il nous restera ça	67306	16.69	21.69	2.7112741338064255
+Groult-Benoite_La-touche-etoile.txt	2006	Groult, Benoîte	La touche étoile	56814	40.89	58.01	3.497722502865853
+Houellebecq-Michel_Plateforme.txt	2001	Houellebecq, Michel	Plateforme	98346	26.9	39.05	3.1067150938664465
+Houellebecq-Michel_Serotonine.txt	2019	Houellebecq, Michel	Sérotonine	83974	28.53	38.15	3.179242107998829
+Houellebecq-Michel_Soumission.txt	2015	Houellebecq, Michel	Soumission	69250	18.62	21.44	2.820230452115871
+Lemaitre-Pierre_Couleurs-de-lincendie.txt	2018	Lemaitre, Pierre	Couleurs de l'incendie	133098	11.14	12.38	2.3213346894579026
+Lemaitre-Pierre_Le-grand-monde.txt	2022	Lemaitre, Pierre	Le grand monde	166001	13.54	17.13	2.4645647825116384
+Lemaitre-Pierre_Le-Silence-et-la-Colere.txt	2023	Lemaitre, Pierre	Le silence et la colère	146810	9.51	11.64	2.1284770881062403
+Lemaitre-Pierre_Miroir-de-nos-peines.txt	2020	Lemaître, Pierre	Miroir de nos peines	130754	16.23	23.9	2.5776149630292906
+Levy-Marc_Elle-Et-Lui.txt	2015	Levy, Marc	Elle et lui	74652	8.85	10.19	2.010693520287588
+Levy-Marc_La-prochaine-fois.txt	2004	Levy, Marc	La prochaine fois	66585	12.96	16.32	2.436003451057653
+Levy-Marc_Le-Premier-jour.txt	2009	Levy, Marc	Le premier jour	124389	24.71	39.72	3.0009022161904393
+Levy-Marc_Le-voleur-dombres.txt	2010	Levy, Marc	Le voleur d'ombres	63224	16.21	32.63	2.493500986626926
+Levy-Marc_Les-enfants-de-la-liberte.txt	2007	Levy, Marc	Les enfants de la liberté	88928	12.6	16.47	2.3777747477914195
+Levy-Marc_Mes-amis-mes-amours.txt	2006	Levy, Marc	Mes amis, mes amours	79227	14.81	19.14	2.578466804819718
+Levy-Marc_Sept-jours-pour-une-eternite.txt	2003	Levy, Marc	Sept jours pour une éternité	64586	18.76	24.75	2.819656928814786
+Levy-Marc_Si-cetait-a-refaire.txt	2012	Levy, Marc	Si c'était à refaire	89286	9.81	12.34	2.1446006588581463
+Levy-Marc_Toutes-Ces-Choses-Quon-Ne-Sest-Pas-Dites.txt	2008	Levy, Marc	Toutes ces choses qu'on ne s'est pas dites	89650	14.45	19.78	2.5058147730186993
+Levy-Marc_Un-sentiment-plus-fort-que-la-peur.txt	2013	Levy, Marc	Un sentiment plus fort que la peur	87593	14.21	22.72	2.3977946057281456
+Levy-Marc_Vous-revoir.txt	2005	Levy, Marc	Vous revoir	73851	20.65	33.22	2.8199576969595377
+Millet-Catherine_La-vie-sexuelle-de-Catherine-M.txt	2001	Millet, Catherine	La vie sexuelle de Catherine M.	73084	13.85	18.05	2.4816296635346897
+Modiano-Patrick_Pour-que-tu-ne-perdes-pas-dans-le-quartier.txt	2014	Modiano, Patrick	Pour que tu ne te perdes pas dans le quartier roman	34675	7.95	12.01	1.8517321616510996
+Musso-Guillaume_Angelique.txt	2022	Musso, Guillaume	Angélique	57242	21.7	25.75	2.9729700428600405
+Musso-Guillaume_Central-Park.txt	2014	Musso, Guillaume	Central Park	76992	25.8	32.26	3.119773989734037
+Musso-Guillaume_Demain.txt	2013	Musso, Guillaume	Demain	95462	19.14	26.4	2.725972558182917
+Musso-Guillaume_Je-reviens-te-chercher.txt	2008	Musso, Guillaume	Je reviens te chercher	84424	17.34	20.6	2.743435720296189
+Musso-Guillaume_La-fille-de-Brooklyn.txt	2016	Musso, Guillaume	La fille de Brooklyn	101253	21.46	26.46	2.9411840021980202
+Musso-Guillaume_La-fille-de-papier.txt	2010	Musso, Guillaume	La fille de papier	105110	23.76	28.91	3.052574802174307
+Musso-Guillaume_La-Jeune-Fille-et-la-nuit.txt	2018	Musso, Guillaume	La jeune fille et la nuit	14257	31.94	40.36	3.363154167463532
+Musso-Guillaume_La-vie-est-un-roman.txt	2020	Musso, Guillaume	La vie est un roman	54978	23.33	27.57	3.037778078531428
+Musso-Guillaume_La-vie-secrete-des-ecrivains.txt	2019	Musso, Guillaume	La vie secrète des écrivains	62204	22.25	34.75	2.840415714685778
+Musso-Guillaume_Lappel-de-lange.txt	2011	Musso, Guillaume	L'appel de l'ange	98500	32.58	37.47	3.355283291802054
+Musso-Guillaume_LInconnue-de-la-Seine.txt	2021	Musso, Guillaume	L'inconnue de la Seine	73196	32.31	41.29	3.360152642224392
+Musso-Guillaume_Linstant-present.txt	2015	Musso, Guillaume	L'instant présent	73742	24.07	29.23	3.080467869124987
+Musso-Guillaume_Parce-que-je-taime.txt	2007	Musso, Guillaume	Parce que je t'aime	67560	14.42	16.03	2.571987390310251
+Musso-Guillaume_Que-serais-je-sans-toi.txt	2009	Musso, Guillaume	Que serais-je sans toi ?	80591	26.99	33.95	3.1630129931345654
+Musso-Guillaume_Quelquun-dautre.txt	2024	Musso, Guillaume	Quelqu'un d'autre	65015	26.33	33.23	3.1453548817146197
+Musso-Guillaume_Sept-ans-apres.txt	2012	Musso, Guillaume	Sept ans après	82835	22.03	27.47	2.9606824348541902
+Musso-Guillaume_Seras-tu-là.txt	2006	Musso, Guillaume	Seras-tu là ?	77113	27.96	42.94	3.0950296299451794
+Musso-Guillaume_Un-appartement-a-Paris.txt	2017	Musso, Guillaume	Un appartement à Paris	95627	31.0	39.66	3.273402145638022
+Nothomb-Amelie_Acide-sulfurique.txt	2005	Nothomb, Amélie	Acide sulfurique	27622	7.4	7.62	1.9321868145522796
+Nothomb-Amelie_Antechrista.txt	2003	Nothomb, Amélie	Antéchrista	26614	12.74	15.85	2.4072553619407766
+Nothomb-Amelie_Robert-des-noms-propres.txt	2002	Nothomb, Amélie	Robert des noms propres	27521	14.4	24.29	2.2916901688354545
+Pancol-Katherine_La-valse-lente-des-tortues.txt	2008	Pancol, Katherine	La valse lente des tortues	231891	24.75	34.94	3.0083310042569855
+Pancol-Katherine_Les-ecureuils-de-Central-Park-sont-tristes-le-lundi.txt	2010	Pancol, Katherine	Les écureuils de Central Park sont tristes le lundi	286113	23.98	31.84	3.002079408805739
+Pancol-Katherine_Muchachas3.txt	2014	Pancol, Katherine	Muchachas	146414	18.29	24.46	2.7719447032464144
+Pennac-Daniel_Chagrin-decole.txt	2007	Pennac, Daniel	Chagrin d'école	59414	17.61	22.75	2.7401723998225096
+Perrin-Valerie_Trois.txt	2021	Perrin, Valérie	Trois	178965	20.13	37.26	2.694354367321458
+Puertolas-Romain_Lextraordinaire-voyage-du-fakir.txt	2013	Puértolas, Romain	L'extraordinaire voyage du fakir qui était resté coincé dans une armoire Ikea	56396	18.49	29.93	2.725394385226189
+Schlesser-Thomas_Les-yeux-de-Mona.txt	2024	Schlesser, Thomas	Les yeux de Mona	148275	19.79	30.19	2.7854081939840647
+Schmitt-Eric-Emmanuel_Oscar-et-la-dame-rose.txt	2002	Schmitt, Éric-Emmanuel	Oscar et la dame rose	14523	13.51	21.48	2.4281997152872434
+Slimani-Leila_Le-pays-des-autres.txt	2020	Slimani, Leïla	Le pays des autres	93313	35.84	46.78	3.4431712562332333
+Vargas-Fred_Dans-les-bois-eternels.txt	2006	Vargas, Fred	Dans les bois éternels	108087	26.49	56.09	2.842746175160075
+Vargas-Fred_LArmee-furieuse.txt	2011	Vargas, Fred	L'Armée furieuse	115372	24.92	45.17	2.9457059866306747
+Vargas-Fred_Pars-vite-et-reviens-tard.txt	2001	Vargas, Fred	Pars vite et reviens tard	98083	21.4	38.04	2.70888233769138
+Vargas-Fred_Quand-sort-la-recluse.txt	2017	Vargas, Fred	Quand sort la recluse	110882	27.46	50.94	2.9647553289354946
+Vargas-Fred_Sous-les-vents-de-neptune.txt	2004	Vargas, Fred	Sous les vents de Neptune	115363	27.52	49.74	3.0478349158526097
+Vargas-Fred_Sur-la-dalle.txt	2023	Vargas, Fred	Sur la dalle	131662	17.79	35.27	2.5493501018407825
+Vargas-Fred_Temps-glaciaires.txt	2015	Vargas, Fred	Temps glaciaires	119597	24.78	42.28	2.965598618904666
+Vargas-Fred_Un-lieu-incertain.txt	2008	Vargas, Fred	Un lieu incertain	103166	19.72	44.0	2.5801852521684845
+Vigan-Delphine-de_Les-enfants-sont-rois.txt	2021	Vigan, Delphine de	Les enfants sont rois	79990	8.76	10.18	2.0663146704601636
+Werber-Bernard_Larbre-Des-Possibles.txt	2002	Werber, Bernard	L'arbre des possibles: et autres histoires	55054	42.01	69.1	3.3971441315872797
+Werber-Bernard_Le-Miroir-de-Cassandre.txt	2009	Werber, Bernard	Le miroir de Cassandre	196131	35.33	60.75	3.236037042469386
+Werber-Bernard_Le-Mystere-des-Dieux.txt	2007	Werber, Bernard	Le mystère des dieux	145499	34.22	70.07	3.0977053801110004
+Werber-Bernard_LUltime-secret.txt	2001	Werber, Bernard	L'ultime secret	112505	29.74	48.43	3.1176555243571857
+Werber-Bernard_Nous-les-dieux.txt	2004	Werber, Bernard	Nous, les dieux	121939	59.66	130.41	3.6292172405769083
+Andrea-Jean-Baptiste_Veiller-sur-elle.txt	2023	Andrea, Jean-Baptiste	Veiller sur elle	126058	20.99	30.57	2.837182804004791
+Carrere-Emmanuel_Limonov.txt	2011	Carrère, Emmanuel	Limonov	129822	16.47	19.79	2.6913286269975596
+Claudel-Philippe_Les-ames-grises.txt	2003	Claudel, Philippe	Les âmes grises	98318	40.63	47.81	3.6199755540239362
+Da-Empoli-Giuliano_Le-mage-du-Kremlin.txt	2022	Da Empoli, Giuliano	Le mage du Kremlin	74415	18.42	24.74	2.7743823955947664
+Daoud-Kamel_Houris.txt	2024	Daoud, Kamel	Houris	41955	27.73	57.8	2.9951799341764023
+Despentes-Virginie_Cher-connard.txt	2022	Despentes, Virginie	Cher connard	105751	9.15	10.81	2.058257139024412
+Dicker-Joël_La-verite-sur-l'affaire-Harry-Quebert.txt	2012	Dicker, Joël	La vérité sur l’affaire Harry Quebert	221468	13.76	28.94	2.2889294379155896
+Dubois-Jean_Tous-les-hommes-n-habitent-pas-le-monde-de-la-meme-facon.txt	2019	Dubois, Jean-Paul	Tous les hommes n'habitent pas le monde de la même façon	70573	27.86	46.29	3.129831971872848
+Faye-Gael_Jacaranda.txt	2024	Faye, Gaël	Jacaranda	66518	27.78	38.48	3.170661451492465
+Faye-Gaël_Petit-pays.txt	2016	Faye, Gaël	Petit pays	66518	49.32	72.98	3.676113328026606
+Ferrari-Jerome_Le-Sermon-sur-la-Chute-de-Rome.txt	2012	Ferrari, Jérôme	Le sermon sur la chute de Rome	53337	16.28	24.96	2.60727472556756
+Foenkinos-David_Charlotte.txt	2014	Foenkinos, David	Charlotte	39106	12.07	15.99	2.354183353391118
+Foenkinos-David_La-delicatesse.txt	2009	Foenkinos, David	La délicatesse	39106	8.87	11.4	2.0148305448386217
+Gaude-Laurent_Le-Soleil-des-Scorta.txt	2004	Gaudé, Laurent	Le soleil des Scorta	61913	19.72	40.5	2.639575351511157
+Guez-Olivier_La-disparition-de-Josef-Mengele.txt	2017	Guez, Olivier	La disparition de Josef Mengele	56229	39.03	48.02	3.5629007902759997
+Houellebecq-Michel_La-carte-et-le-territoire.txt	2010	Houellebecq, Michel	La carte et le territoire	97668	23.97	32.94	2.9828049214698034
+Houellebecq-Michel_Possibilite-dune-ile.txt	2005	Houellebecq, Michel	La possibilité d'une île	97668	23.87	34.99	2.982692603245278
+Jenni-Alexis_Lart-français-de-la-guerre.txt	2011	Jenni, Alexis	L'art français de la guerre	235849	26.31	47.29	2.9838170187144795
+Lançon-Philippe_Le-lambeau.txt	2018	Lançon, Philippe	Le lambeau	170007	18.56	23.52	2.808433215068699
+Lemaitre-Pierre_Au-revoir-la-haut.txt	2013	Lemaitre, Pierre	Au revoir là-haut	153420	12.26	16.14	2.3208071192572732
+LeTellier-Herve_Lanomalie.txt	2020	Le Tellier, Hervé	L'anomalie	88209	20.47	26.19	2.8693517367362915
+Littell-Jonathan_Les-Bienveillantes.txt	2006	Littell, Jonathan	Les Bienveillantes	447523	22.45	31.54	2.906999308795408
+Mathieu-Nicolas_Leurs-enfants-apres-eux.txt	2018	Mathieu, Nicolas	Leurs enfants après eux	142873	22.16	29.47	2.9458488451848894
+Mbougar_La-plus-secrete-memoire-des-hommes.txt	2021	Sarr, Mohamed Mbougar	La plus secrète mémoire des hommes	132472	13.36	20.45	2.384623258023803
+NDiaye-Marie_Trois-femmes-puissantes.txt	2009	Ndiaye, Marie	Trois femmes puissantes	84642	15.23	23.84	2.511107279484301
+Nothomb-Amelie_Ni-dEve-ni-dAdam.txt	2007	Nothomb, Amélie	Ni d'Ève ni d'Adam	35570	23.9	47.26	2.8591123948606447
+Nothomb-Amelie_Premier-sang.txt	2021	Nothomb, Amélie	Premier sang	35570	16.43	32.65	2.4709158443732906
+Nothomb-Amelie_Soif.txt	2019	Nothomb, Amélie	Soif	35570	9.94	12.41	2.1712323975983976
+Rufin-Jean-Christophe_Rouge-Bresil.txt	2002	Rufin, Jean-Christophe	Rouge Brésil	158452	29.64	53.84	3.0328328503185613
+Sinno-Neige_Triste-tigre.txt	2023	Sinno, Neige	Triste tigre	65657	14.45	24.56	2.435274400700471
+Slimani-Leila_Chanson-douce.txt	2016	Slimani, Leïla	Chanson douce	54203	22.64	28.33	2.9820164990072247
+Tesson-Sylvain_La-panthere-des-neiges.txt	2019	Tesson, Sylvain	La panthère des neiges	31634	89.52	250.14	3.805996724987531
+Vigan-Delphinede_Dapres-une-histoire-vraie.txt	2015	Vigan, Delphine de	D'après une histoire vraie	95744	7.97	9.31	1.860849448474517
+Vigan-Delphinede_Rien-ne-soppose-a-la-nuit.txt	2011	Vigan, Delphine de	Rien ne s'oppose à la nuit	95744	11.16	13.79	2.2163101819468447
+Vuillard-Eric_Lordre-du-jour.txt	2017	Vuillard, Éric	L'ordre du jour	25554	19.94	21.29	2.951650029289975
+Weyergans,-François_Trois-jours-chez-ma-mere.txt	2005	Weyergans, François	Trois jours chez ma mère	53785	35.48	47.7	3.399688583671838
+Zeniter-Alice_Lart-de-perdre.txt	2017	Zeniter, Alice	L'art de perdre	158700	25.11	36.66	3.0316110633676407
